@@ -53,7 +53,9 @@ enableEmoji = true
 #        "blue sky",
 #        "learning-based",
 #        "model-based",
-#        "story time"
+#        "story time",
+#        "symbolic",
+#        "numeric"
 #    ]
 #    categories = [
 #        "Tutorial",

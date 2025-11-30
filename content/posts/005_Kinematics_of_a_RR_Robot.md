@@ -13,7 +13,7 @@ draft: false
 
 
 The kinematics of a planar serial kinematic robot with two revolute joints (also called planar RR robot) is quite simple.
-We will use two approaches" a simple geometric derivation and the concatenation of homogeneous transformation matrices.
+We will use two approaches: a simple geometric derivation and the concatenation of homogeneous transformation matrices.
 
 The planar RR robot is depicted in the image below, where $F_i$ denotes the frame of the $i^\text{th}$ coordinate system with $e_x$ and $e_y$ as its axes.
 I am a bit lazy here because those vectors should get three indexes.

@@ -52,8 +52,8 @@ enableEmoji = true
 #        "back-of-the-envelope calculation",
 #        "blue sky",
 #        "learning-based",
-##        "model-based",
-##        "story time"
+#        "model-based",
+#        "story time"
 #    ]
 #    categories = [
 #        "Tutorial",

@@ -4,14 +4,14 @@
 This README.md file is written in [Markdown](https://www.markdownguide.org/getting-started/).
 The purpose of this readme file is to have a brief recap in order to re-setup this project. 
 
-The current Status of the [FlatlandRobotics](https://reinhardgrassmann.github.io/FlatlandRobotics/) page is
+The current Status of the [Sami Haddadin et al.'s webpage](https://https://sami-haddadin-et-al.github.io/webpage/) page is
 
 [![pages-build-deployment](https://github.com/reinhardgrassmann/FlatlandRobotics/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/reinhardgrassmann/FlatlandRobotics/actions/workflows/pages/pages-build-deployment)
 [![Deploy Hugo site to Pages](https://github.com/reinhardgrassmann/FlatlandRobotics/actions/workflows/hugo.yml/badge.svg)](https://github.com/reinhardgrassmann/FlatlandRobotics/actions/workflows/hugo.yml)
 
 (See: Short tutorial on how to [add a workflow status badge](https://docs.github.com/en/actions/how-tos/monitor-workflows/add-a-status-badge))
 
-## Prerequisites
+## Prerequisites (Linux)
 
 I assume you use a Linux machine. 
 More specific, Ubuntu or [Pop!_OS](https://system76.com/pop/) is the distribution.
@@ -91,15 +91,93 @@ npm install --save-dev postcss postcss-cli
 (You might want to run this in the root folder after downloading this repro.)
 
 
-## Repro of Flatland Robotics
+## Prerequisites (MacOS)
+
+I assume you use a Mac. 
+Before you begin working on the website you must install several packages and libraries.
+
+### Packages
+You should have the following packages installed in your system
+
+- [npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
+- [brew](https://brew.sh/) 
+- [port](https://www.macports.org/install.php) 
+- [git](https://git-scm.com/downloads/linux)
+
+Check the version number to identify if you need to install above packages.
+
+````
+npm -v
+brew -v
+git -v
+````
+
+
+Before starting to install packages with `brew` let's update it.
+
+
+````
+brew update
+````
+
+Install any of the missing packages using `brew` and `npm`.
+
+
+````
+npm install -g npm
+````
+
+
+````
+brew install git
+````
+or as an alternative to `brew`, use `sudo port install git`.
+
+
+````
+brew install sass/sass/sass
+````
+
+
+### Hugo and dependencies 
+
+In this part, hugo specific stuff are mentioned.
+You need [Dart Sass](https://gohugo.io/functions/css/sass/#dart-sass) and [Hugo](https://gohugo.io/installation/linux/).
+
+Start wit Dart Sass and run the following command in the root folder.
+
+````
+brew install sass/sass/sass
+````
+
+Download and install Node.js using a macOS Installer (.pkg).
+Detail instruction are given on [their webpage](https://nodejs.org/en/download/).
+Afterward, run
+
+````
+npm i -D postcss postcss-cli autoprefixer
+````
+
+
+
+Finally, hugo...
+
+````
+install hugo
+````
+
+
+
+## Repro of Sami Haddadin et al.'s webpage
+
 Let's download this git repro.
 
 Choice a suitable folder and clone this repro.
 ````
-https://github.com/reinhardgrassmann/FlatlandRobotics.git
+https://github.com/sami-haddadin-et-al/webpage.git
 ````
 
-Since we are using the [TeXtify-3](https://themes.gohugo.io/themes/hugo-texify3/) as hugo theme and git submodule, we make sure it's properly initialized.
+Since we are using the [Hugo-Brewm](https://themes.gohugo.io/themes/hugo-brewm/) or [Ananke Gohugo](https://themes.gohugo.io/themes/gohugo-theme-ananke/) as hugo theme and git submodule, we make sure it's properly initialized.
 Execute the following code in the root folder.
 ````
 git submodule update --init --recursive

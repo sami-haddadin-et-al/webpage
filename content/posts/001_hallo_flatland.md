@@ -1,19 +1,16 @@
 +++
-date = '2025-07-19'
+date = '2026-02-16'
 draft = false
-title = 'Hello, Flatland Robotics'
+title = 'Hello, World'
 +++
 
 
 # Hello, World!
 
-This is my first post!
+This is the first post!
 
 
 
 
 
 ---
-**Edit:**
-
-Updated Sep. 12, 2025: Just reformating and refactoring. [Nothing to see here. Please disperse.](https://i.imgur.com/sUpua6W.gif)

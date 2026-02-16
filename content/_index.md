@@ -2,24 +2,15 @@ This is a blog about robotics.
 
 ---
 
-## Features
+## Intelligent Machines: New Frontiers for our Society
 
-- intuition pump:
-  - from 2D flat space to 3D spatial space
-- considered robotic fields:
-  - classical serial-kinematic robotics
-  - continuum robotics
-  - mobile and humanoid robotics 
-- fun with mathematics:
-  - from complex number to quaternion 
-  - from hyper-complex numbers to dual-quaternions
-  - matrix multiplication and trigonometric functions
-- topics in robotics:
-  - automatic modelling
-  - kinematics, statics, and dynamics
-  - algorithm for path planning
-  - trajectory generation
-  - control theory
-  - standard textbook and beyond
+Our goal is to advance the scientific foundations of intelligent machines capable of autonomous interaction and learning in the world of their human creators. 
+In the future, these machines will be part of global and heterogeneous cyber-physical societies that exploit the sheer unlimited possibilities arising from the massive increase in computing power and high-speed communications. 
+At RSI, we bridge the disciplines of distributed control, robotics, collective machine learning, and human motor intelligence. 
+Our exploratory urge at the frontiers of the known allows us to design the fundamental principles to engineer artificial intelligence and intelligent robots.
+
+
+
+
 
 ---

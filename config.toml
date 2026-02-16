@@ -1,6 +1,6 @@
-baseURL = "https://reinhardgrassmann.github.io/FlatlandRobotics/"
+baseURL = "https://sami-haddadin-et-al.github.io/webpage/"
 languageCode = "en-us"
-title = "Flatland Robotics"
+title = "Sami Haddadin et al."
 theme = "hugo-texify3"
 disqusShortname = ""
 enableGitInfo = true
@@ -10,14 +10,14 @@ rssLimit = 7
 enableEmoji = true
 
 [params]
-    subtitle = "Exploring Robotics in Flatland"
+    subtitle = "Sami Haddadin et al."
     dateFormat = "02 Jan 2006"
     showTableOfContents = true
     tocOpen = true
     tocDepth = 3
     math = true
     mermaid = true
-    title = "Flatland Robotics"
+    title = "Sami Haddadin et al."
     github = "https://github.com/reinhardgrassmann"
 
 [markup.goldmark.renderer]

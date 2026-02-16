@@ -1,60 +1,28 @@
 +++
 title = "About"
-date = 2025-08-17
+date = 2026-02-17
 +++
 
-## About this Blog
-
-_The stronger you build the foundation, the taller you can build the building._
-With that in mind, I will try build this foundation by starting with a simple setting and getting exposed to the core ideas.
-Most of my blog posts are tutorials and philosophical explorations by nature.
-By writing about robotics on my own blog, I hope to reflect on my understanding, gain mental clarity, and develop original thoughts at some point.
-I invite you to join me on this journey, a journey through Flatland Robotics.
-
-Read more about this:
-* [Intro to Flatland Robotics](../posts/002_flatland_robotics_into/)
-
-Think of this blog as an introduction to some subject of robotics.
-Obviously, it can only scratch the surface and, sometimes I go fancy on certain topics.
-But if you want to know more, I recommend going to the [reference page](../references/) and interesting reads of certain posts.
-Enjoy reading, learning, and digging deeper into the topics you love.
+## About this Webpage
 
 
-## About this Guy
-
-This part is to talk about myself and show that I'm credible in some sense.
-So, here we go.
-
-I hold a Ph.D. in CS with an emphasis in robotics from Toronto, Canada.
-For better or worse, robotics is often lumped together with Computer Science or Engineering$-$No robotics department yet.
-I also have an M.Sc. and a B.Sc. in Mechatronics from Hannover, Germany.
-I've worked with light-weight robots (now called Cobots) and continuum robots.
-The whole shebang: from designing, prototyping, algorithmic foundation, modeling, planning, and controlling, to unindented destruction of my robotic prototypes.
-This also includes learning-based approaches.
-
-As a teaching assistant, I taught and mentored the basis of robotics for undergrads and some advanced topics for grad students. 
-Mathematics for freshmen played a big role early on, too.
-Furthermore, I supervised and mentored several students, including volunteers, research opportunity students, summer students, and thesis candidates.
-
-Some links:
-* [academic webpage](https://reinhardgrassmann.github.io/)
-* [Google Scholar](https://scholar.google.com/citations?hl=en&user=6nbw0sgAAAAJ)
-* [Semantic Scholar](https://www.semanticscholar.org/author/R.-Grassmann/65752777)
-* [GitHub](https://github.com/reinhardgrassmann/)
-* [LinkedIn](https://linkedin.com/in/reinhardgrassmann)
+## Keywords
 
 
-## I Appreciate You
-
-This is a general acknowledgment to the wonderful people who engaged in interesting door-to-door conversations and wild whiteboard discussions on related topics.
-These exchanges have greatly inspired several of the blog posts shared here.
-
--   [Ameya Pore](https://ameyapores.github.io/)
--   [Jonathan Gustafsson Frennert](https://jonathanfrennert.github.io/)
--   [Radian Gondokaryono](https://radiang.github.io/)
-
-
-
-And, I greatly acknowledge funding and financial support of this project by wonderful and generous people.
-
--   Meinhard V. Grassmann
+- Use also the recent Pyramid at MBZUAI
+- Sense of Touch
+- Robot Safety
+- Inventing Franka, The first Tactile Robot (also known as Panda)
+- Robot Learning, Tactile Skills
+- VLTA (visuotactile, action language)
+- Collective Learning: from the discovery to robots, and beyond
+- Embodied Discovery Intelligence
+- Lab Robotic Scientists
+- Tree of Robots
+- RSI, History, Sami’s milestones
+- The first Self Collision Experiment in Robotics (opening the safety cages, let the machines out“)
+- The first collision reflex controllers
+- The first Self Experiment with sharp with edgy,…
+- The first unification of impedance and force control 
+- The first robot that feels pain
+- The first: from data to body self

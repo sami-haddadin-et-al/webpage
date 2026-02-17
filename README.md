@@ -163,7 +163,7 @@ npm i -D postcss postcss-cli autoprefixer
 Finally, hugo...
 
 ````
-install hugo
+brew install hugo
 ````
 
 

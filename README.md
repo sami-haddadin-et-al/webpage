@@ -172,7 +172,7 @@ brew install hugo
 
 Let's download this git repo.
 
-Choice a suitable folder and clone this repo.
+Choose a suitable folder and clone this repo.
 ````
 https://github.com/sami-haddadin-et-al/webpage.git
 ````

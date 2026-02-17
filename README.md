@@ -88,7 +88,7 @@ To install PostCSS, you typically use a package manager like npm or yarn in a No
 npm install --save-dev postcss postcss-cli
 ````
 
-(You might want to run this in the root folder after downloading this repro.)
+(You might want to run this in the root folder after downloading this repo.)
 
 
 ## Prerequisites (MacOS)
@@ -168,11 +168,11 @@ brew install hugo
 
 
 
-## Repro of Sami Haddadin et al.'s webpage
+## Repo of Sami Haddadin et al.'s webpage
 
-Let's download this git repro.
+Let's download this git repo.
 
-Choice a suitable folder and clone this repro.
+Choice a suitable folder and clone this repo.
 ````
 https://github.com/sami-haddadin-et-al/webpage.git
 ````

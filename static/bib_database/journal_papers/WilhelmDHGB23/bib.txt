@@ -1,0 +1,19 @@
+@article{DBLP:journals/sensors/WilhelmDHGB23,
+  author       = {Nikolas J. Wilhelm and
+                  Constantin von Deimling and
+                  Sami Haddadin and
+                  Claudio Glowalla and
+                  Rainer Burgkart},
+  title        = {Validation of a Robotic Testbench for Evaluating Biomechanical Effects
+                  of Implant Rotation in Total Knee Arthroplasty on a Cadaveric Specimen},
+  journal      = {Sensors},
+  volume       = {23},
+  number       = {17},
+  pages        = {7459},
+  year         = {2023},
+  url          = {https://doi.org/10.3390/s23177459},
+  doi          = {10.3390/S23177459},
+  timestamp    = {Sat, 10 Feb 2024 00:00:00 +0100},
+  biburl       = {https://dblp.org/rec/journals/sensors/WilhelmDHGB23.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}

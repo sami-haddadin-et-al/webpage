@@ -1,0 +1,20 @@
+@article{DBLP:journals/corr/abs-2408-13044,
+  author       = {Junnan Li and
+                  Lingyun Chen and
+                  Johannes Ringwald and
+                  Edmundo Pozo Fortunic and
+                  Amartya Ganguly and
+                  Sami Haddadin},
+  title        = {Identification and validation of the dynamic model of a tendon-driven
+                  anthropomorphic finger},
+  journal      = {CoRR},
+  volume       = {abs/2408.13044},
+  year         = {2024},
+  url          = {https://doi.org/10.48550/arXiv.2408.13044},
+  doi          = {10.48550/ARXIV.2408.13044},
+  eprinttype    = {arXiv},
+  eprint       = {2408.13044},
+  timestamp    = {Mon, 03 Mar 2025 00:00:00 +0100},
+  biburl       = {https://dblp.org/rec/journals/corr/abs-2408-13044.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}

@@ -1,0 +1,21 @@
+@article{DBLP:journals/corr/abs-2307-10153,
+  author       = {Kejia Chen and
+                  Zhenshan Bing and
+                  Fan Wu and
+                  Yuan Meng and
+                  Andr{\'{e}} Kraft and
+                  Sami Haddadin and
+                  Alois Knoll},
+  title        = {Contact-aware Shaping and Maintenance of Deformable Linear Objects
+                  With Fixtures},
+  journal      = {CoRR},
+  volume       = {abs/2307.10153},
+  year         = {2023},
+  url          = {https://doi.org/10.48550/arXiv.2307.10153},
+  doi          = {10.48550/ARXIV.2307.10153},
+  eprinttype    = {arXiv},
+  eprint       = {2307.10153},
+  timestamp    = {Sat, 14 Dec 2024 00:00:00 +0100},
+  biburl       = {https://dblp.org/rec/journals/corr/abs-2307-10153.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}

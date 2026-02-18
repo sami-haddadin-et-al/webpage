@@ -1,0 +1,24 @@
+@inproceedings{DBLP:conf/icorr/JensenMPOWLMHBH23,
+  author       = {Elisabeth Rose Jensen and
+                  Reihaneh Mirjalili and
+                  Kim K. Peper and
+                  Dennis Ossadnik and
+                  Fan Wu and
+                  Jan Josef Lang and
+                  Matthias Martin and
+                  Florian Hetfleisch and
+                  Rainer Burgkart and
+                  Sami Haddadin},
+  title        = {Individualized Training of Back Muscles Using Iterative Learning Control
+                  of a Compliant Balance Board},
+  booktitle    = {International Conference on Rehabilitation Robotics, {ICORR} 2023,
+                  Singapore, September 24-28, 2023},
+  pages        = {1--6},
+  publisher    = {{IEEE}},
+  year         = {2023},
+  url          = {https://doi.org/10.1109/ICORR58425.2023.10304810},
+  doi          = {10.1109/ICORR58425.2023.10304810},
+  timestamp    = {Sat, 14 Dec 2024 00:00:00 +0100},
+  biburl       = {https://dblp.org/rec/conf/icorr/JensenMPOWLMHBH23.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}

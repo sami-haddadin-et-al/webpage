@@ -1,0 +1,18 @@
+@inproceedings{DBLP:conf/iros/WeitschatHHA13,
+  author       = {Roman Weitschat and
+                  Sami Haddadin and
+                  Felix Huber and
+                  Alin Albu{-}Sch{\"{a}}ffer},
+  title        = {Dynamic optimality in real-time: {A} learning framework for near-optimal
+                  robot motions},
+  booktitle    = {2013 {IEEE/RSJ} International Conference on Intelligent Robots and
+                  Systems, {IROS} 2013, Tokyo, Japan, November 3-7, 2013},
+  pages        = {5636--5643},
+  publisher    = {{IEEE}},
+  year         = {2013},
+  url          = {https://doi.org/10.1109/IROS.2013.6697173},
+  doi          = {10.1109/IROS.2013.6697173},
+  timestamp    = {Sat, 30 Sep 2023 01:00:00 +0200},
+  biburl       = {https://dblp.org/rec/conf/iros/WeitschatHHA13.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}

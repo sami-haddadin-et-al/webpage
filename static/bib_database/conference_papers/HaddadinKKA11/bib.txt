@@ -1,0 +1,18 @@
+@inproceedings{DBLP:conf/iros/HaddadinKKA11,
+  author       = {Sami Haddadin and
+                  Kai Krieger and
+                  Mirko Kunze and
+                  Alin Albu{-}Sch{\"{a}}ffer},
+  title        = {Exploiting potential energy storage for cyclic manipulation: An analysis
+                  for elastic dribbling with an anthropomorphic robot},
+  booktitle    = {2011 {IEEE/RSJ} International Conference on Intelligent Robots and
+                  Systems, {IROS} 2011, San Francisco, CA, USA, September 25-30, 2011},
+  pages        = {1789--1796},
+  publisher    = {{IEEE}},
+  year         = {2011},
+  url          = {https://doi.org/10.1109/IROS.2011.6094757},
+  doi          = {10.1109/IROS.2011.6094757},
+  timestamp    = {Wed, 16 Oct 2019 14:14:51 +0200},
+  biburl       = {https://dblp.org/rec/conf/iros/HaddadinKKA11.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}

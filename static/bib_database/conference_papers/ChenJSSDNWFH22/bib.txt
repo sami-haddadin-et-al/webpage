@@ -1,0 +1,23 @@
+@inproceedings{DBLP:conf/iros/ChenJSSDNWFH22,
+  author       = {Xiao Chen and
+                  Lars Johannsmeier and
+                  Hamid Sadeghian and
+                  Erfan Shahriari and
+                  Martin Danneberg and
+                  Anselm Nicklas and
+                  Fan Wu and
+                  Gerhard P. Fettweis and
+                  Sami Haddadin},
+  title        = {On the Communication Channel in Bilateral Teleoperation: An Experimental
+                  Study for Ethernet, WiFi, {LTE} and 5G},
+  booktitle    = {{IEEE/RSJ} International Conference on Intelligent Robots and Systems,
+                  {IROS} 2022, Kyoto, Japan, October 23-27, 2022},
+  pages        = {7712--7719},
+  publisher    = {{IEEE}},
+  year         = {2022},
+  url          = {https://doi.org/10.1109/IROS47612.2022.9981833},
+  doi          = {10.1109/IROS47612.2022.9981833},
+  timestamp    = {Mon, 03 Mar 2025 00:00:00 +0100},
+  biburl       = {https://dblp.org/rec/conf/iros/ChenJSSDNWFH22.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}

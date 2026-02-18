@@ -1,0 +1,20 @@
+@article{DBLP:journals/ral/FortunicYOSAH23,
+  author       = {Edmundo Pozo Fortunic and
+                  Mehmet Can Yildirim and
+                  Dennis Ossadnik and
+                  Abdalla Swikir and
+                  Saeed Abdolshah and
+                  Sami Haddadin},
+  title        = {Optimally Controlling the Timing of Energy Transfer in Elastic Joints:
+                  Experimental Validation of the Bi-Stiffness Actuation Concept},
+  journal      = {{IEEE} Robotics Autom. Lett.},
+  volume       = {8},
+  number       = {12},
+  pages        = {8106--8113},
+  year         = {2023},
+  url          = {https://doi.org/10.1109/LRA.2023.3325782},
+  doi          = {10.1109/LRA.2023.3325782},
+  timestamp    = {Sun, 10 Dec 2023 00:00:00 +0100},
+  biburl       = {https://dblp.org/rec/journals/ral/FortunicYOSAH23.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}

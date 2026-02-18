@@ -1,0 +1,20 @@
+@article{DBLP:journals/corr/abs-2502-18363,
+  author       = {Lukas Cha and
+                  Sonja Gro{\ss} and
+                  Shuai Mao and
+                  Tim Braun and
+                  Sami Haddadin and
+                  Liang He},
+  title        = {Stretchable Capacitive and Resistive Strain Sensors: Accessible Manufacturing
+                  Using Direct Ink Writing},
+  journal      = {CoRR},
+  volume       = {abs/2502.18363},
+  year         = {2025},
+  url          = {https://doi.org/10.48550/arXiv.2502.18363},
+  doi          = {10.48550/ARXIV.2502.18363},
+  eprinttype    = {arXiv},
+  eprint       = {2502.18363},
+  timestamp    = {Thu, 20 Mar 2025 00:00:00 +0100},
+  biburl       = {https://dblp.org/rec/journals/corr/abs-2502-18363.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}

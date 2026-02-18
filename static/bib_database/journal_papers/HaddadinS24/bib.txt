@@ -1,0 +1,15 @@
+@article{DBLP:journals/ijrr/HaddadinS24,
+  author       = {Sami Haddadin and
+                  Erfan Shahriari},
+  title        = {Unified force-impedance control},
+  journal      = {Int. J. Robotics Res.},
+  volume       = {43},
+  number       = {13},
+  pages        = {2112--2141},
+  year         = {2024},
+  url          = {https://doi.org/10.1177/02783649241249194},
+  doi          = {10.1177/02783649241249194},
+  timestamp    = {Sun, 15 Jun 2025 01:00:00 +0200},
+  biburl       = {https://dblp.org/rec/journals/ijrr/HaddadinS24.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}

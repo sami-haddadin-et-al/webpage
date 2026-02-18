@@ -1,0 +1,19 @@
+@article{DBLP:journals/trob/HamadKMAH23,
+  author       = {Mazin Hamad and
+                  Alexander Kurdas and
+                  Nico Mansfeld and
+                  Saeed Abdolshah and
+                  Sami Haddadin},
+  title        = {Modularize-and-Conquer: {A} Generalized Impact Dynamics and Safe Precollision
+                  Control Framework for Floating-Base Tree-Like Robots},
+  journal      = {{IEEE} Trans. Robotics},
+  volume       = {39},
+  number       = {4},
+  pages        = {3200--3221},
+  year         = {2023},
+  url          = {https://doi.org/10.1109/TRO.2023.3257515},
+  doi          = {10.1109/TRO.2023.3257515},
+  timestamp    = {Fri, 18 Aug 2023 01:00:00 +0200},
+  biburl       = {https://dblp.org/rec/journals/trob/HamadKMAH23.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}

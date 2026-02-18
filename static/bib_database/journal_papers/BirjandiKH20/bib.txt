@@ -1,0 +1,17 @@
+@article{DBLP:journals/ral/BirjandiKH20,
+  author       = {Seyed Ali Baradaran Birjandi and
+                  Johannes K{\"{u}}hn and
+                  Sami Haddadin},
+  title        = {Observer-Extended Direct Method for Collision Monitoring in Robot
+                  Manipulators Using Proprioception and {IMU} Sensing},
+  journal      = {{IEEE} Robotics Autom. Lett.},
+  volume       = {5},
+  number       = {2},
+  pages        = {954--961},
+  year         = {2020},
+  url          = {https://doi.org/10.1109/LRA.2020.2967287},
+  doi          = {10.1109/LRA.2020.2967287},
+  timestamp    = {Fri, 22 May 2020 01:00:00 +0200},
+  biburl       = {https://dblp.org/rec/journals/ral/BirjandiKH20.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}

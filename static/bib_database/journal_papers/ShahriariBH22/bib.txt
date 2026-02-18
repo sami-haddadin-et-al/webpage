@@ -1,0 +1,17 @@
+@article{DBLP:journals/ral/ShahriariBH22,
+  author       = {Erfan Shahriari and
+                  Seyed Ali Baradaran Birjandi and
+                  Sami Haddadin},
+  title        = {Passivity-Based Adaptive Force-Impedance Control for Modular Multi-Manual
+                  Object Manipulation},
+  journal      = {{IEEE} Robotics Autom. Lett.},
+  volume       = {7},
+  number       = {2},
+  pages        = {2194--2201},
+  year         = {2022},
+  url          = {https://doi.org/10.1109/LRA.2022.3142903},
+  doi          = {10.1109/LRA.2022.3142903},
+  timestamp    = {Fri, 01 Apr 2022 01:00:00 +0200},
+  biburl       = {https://dblp.org/rec/journals/ral/ShahriariBH22.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}

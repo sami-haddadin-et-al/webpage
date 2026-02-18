@@ -1,0 +1,19 @@
+@inproceedings{DBLP:conf/icra/Moortgat-PickSA24,
+  author       = {Alexander Moortgat{-}Pick and
+                  Marie Schwahn and
+                  Anna Adamczyk and
+                  Daniel A Duecker and
+                  Sami Haddadin},
+  title        = {Autonomous {UAV} Mission Cycling: {A} Mobile Hub Approach for Precise
+                  Landings and Continuous Operations in Challenging Environments},
+  booktitle    = {{IEEE} International Conference on Robotics and Automation, {ICRA}
+                  2024, Yokohama, Japan, May 13-17, 2024},
+  pages        = {8450--8456},
+  publisher    = {{IEEE}},
+  year         = {2024},
+  url          = {https://doi.org/10.1109/ICRA57147.2024.10611292},
+  doi          = {10.1109/ICRA57147.2024.10611292},
+  timestamp    = {Mon, 19 Aug 2024 01:00:00 +0200},
+  biburl       = {https://dblp.org/rec/conf/icra/Moortgat-PickSA24.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}

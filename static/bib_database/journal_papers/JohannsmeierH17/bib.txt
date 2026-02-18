@@ -1,0 +1,16 @@
+@article{DBLP:journals/ral/JohannsmeierH17,
+  author       = {Lars Johannsmeier and
+                  Sami Haddadin},
+  title        = {A Hierarchical Human-Robot Interaction-Planning Framework for Task
+                  Allocation in Collaborative Industrial Assembly Processes},
+  journal      = {{IEEE} Robotics Autom. Lett.},
+  volume       = {2},
+  number       = {1},
+  pages        = {41--48},
+  year         = {2017},
+  url          = {https://doi.org/10.1109/LRA.2016.2535907},
+  doi          = {10.1109/LRA.2016.2535907},
+  timestamp    = {Sat, 30 Sep 2023 01:00:00 +0200},
+  biburl       = {https://dblp.org/rec/journals/ral/JohannsmeierH17.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}

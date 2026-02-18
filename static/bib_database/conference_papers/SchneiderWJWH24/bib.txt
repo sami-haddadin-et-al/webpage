@@ -1,0 +1,18 @@
+@inproceedings{DBLP:conf/iros/SchneiderWJWH24,
+  author       = {Samuel Schneider and
+                  Yansong Wu and
+                  Lars Johannsmeier and
+                  Fan Wu and
+                  Sami Haddadin},
+  title        = {A Scalable Platform for Robot Learning and Physical Skill Data Collection},
+  booktitle    = {{IEEE/RSJ} International Conference on Intelligent Robots and Systems,
+                  {IROS} 2024, Abu Dhabi, United Arab Emirates, October 14-18, 2024},
+  pages        = {5925--5932},
+  publisher    = {{IEEE}},
+  year         = {2024},
+  url          = {https://doi.org/10.1109/IROS58592.2024.10801516},
+  doi          = {10.1109/IROS58592.2024.10801516},
+  timestamp    = {Mon, 03 Mar 2025 00:00:00 +0100},
+  biburl       = {https://dblp.org/rec/conf/iros/SchneiderWJWH24.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}

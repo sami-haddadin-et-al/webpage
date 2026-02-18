@@ -1,0 +1,21 @@
+@article{DBLP:journals/corr/abs-2403-08178,
+  author       = {Martin Schonger and
+                  Hugo T. M. Kussaba and
+                  Lingyun Chen and
+                  Luis F. C. Figueredo and
+                  Abdalla Swikir and
+                  Aude Billard and
+                  Sami Haddadin},
+  title        = {Learning Barrier-Certified Polynomial Dynamical Systems for Obstacle
+                  Avoidance with Robots},
+  journal      = {CoRR},
+  volume       = {abs/2403.08178},
+  year         = {2024},
+  url          = {https://doi.org/10.48550/arXiv.2403.08178},
+  doi          = {10.48550/ARXIV.2403.08178},
+  eprinttype    = {arXiv},
+  eprint       = {2403.08178},
+  timestamp    = {Thu, 01 May 2025 01:00:00 +0200},
+  biburl       = {https://dblp.org/rec/journals/corr/abs-2403-08178.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}

@@ -1,0 +1,36 @@
+@inproceedings{DBLP:conf/iros/VanderborghtABBCCCGGGGHJLLPSTDHVW12,
+  author       = {Bram Vanderborght and
+                  Alin Albu{-}Sch{\"{a}}ffer and
+                  Antonio Bicchi and
+                  Etienne Burdet and
+                  Darwin G. Caldwell and
+                  Raffaella Carloni and
+                  Manuel G. Catalano and
+                  Ganesh Gowrishankar and
+                  Manolo Garabini and
+                  Markus Grebenstein and
+                  Giorgio Grioli and
+                  Sami Haddadin and
+                  Amir Jafari and
+                  Matteo Laffranchi and
+                  Dirk Lefeber and
+                  Florian Petit and
+                  Stefano Stramigioli and
+                  Nikolaos G. Tsagarakis and
+                  Micha{\"{e}}l Van Damme and
+                  Ronald Van Ham and
+                  Ludo C. Visser and
+                  Sebastian Wolf},
+  title        = {Variable impedance actuators: Moving the robots of tomorrow},
+  booktitle    = {2012 {IEEE/RSJ} International Conference on Intelligent Robots and
+                  Systems, {IROS} 2012, Vilamoura, Algarve, Portugal, October 7-12,
+                  2012},
+  pages        = {5454--5455},
+  publisher    = {{IEEE}},
+  year         = {2012},
+  url          = {https://doi.org/10.1109/IROS.2012.6385433},
+  doi          = {10.1109/IROS.2012.6385433},
+  timestamp    = {Sat, 30 Sep 2023 01:00:00 +0200},
+  biburl       = {https://dblp.org/rec/conf/iros/VanderborghtABBCCCGGGGHJLLPSTDHVW12.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}

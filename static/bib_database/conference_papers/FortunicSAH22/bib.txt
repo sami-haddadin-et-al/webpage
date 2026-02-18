@@ -1,0 +1,18 @@
+@inproceedings{DBLP:conf/amcc/FortunicSAH22,
+  author       = {Edmundo Pozo Fortunic and
+                  Abdalla Swikir and
+                  Saeed Abdolsah and
+                  Sami Haddadin},
+  title        = {Comparing Digital Implementations of Torque Control for {BLDC} Motors
+                  with Trapezoidal Back-Emf},
+  booktitle    = {American Control Conference, {ACC} 2022, Atlanta, GA, USA, June 8-10,
+                  2022},
+  pages        = {2546--2552},
+  publisher    = {{IEEE}},
+  year         = {2022},
+  url          = {https://doi.org/10.23919/ACC53348.2022.9867705},
+  doi          = {10.23919/ACC53348.2022.9867705},
+  timestamp    = {Mon, 06 Nov 2023 12:57:51 +0100},
+  biburl       = {https://dblp.org/rec/conf/amcc/FortunicSAH22.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}

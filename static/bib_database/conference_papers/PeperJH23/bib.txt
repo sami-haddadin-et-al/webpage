@@ -1,0 +1,17 @@
+@inproceedings{DBLP:conf/icorr/PeperJH23,
+  author       = {Kim K. Peper and
+                  Elisabeth Rose Jensen and
+                  Sami Haddadin},
+  title        = {Estimating Joint Kinematics and Muscles Forces During Robotic Rehabilitation
+                  to Detect and Counteract Reduced Ankle Mobility},
+  booktitle    = {International Conference on Rehabilitation Robotics, {ICORR} 2023,
+                  Singapore, September 24-28, 2023},
+  pages        = {1--6},
+  publisher    = {{IEEE}},
+  year         = {2023},
+  url          = {https://doi.org/10.1109/ICORR58425.2023.10304782},
+  doi          = {10.1109/ICORR58425.2023.10304782},
+  timestamp    = {Fri, 17 Nov 2023 00:00:00 +0100},
+  biburl       = {https://dblp.org/rec/conf/icorr/PeperJH23.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}

@@ -1,0 +1,22 @@
+@inproceedings{DBLP:conf/corl/ChenNKSH24,
+  author       = {Xiao Chen and
+                  Tianle Ni and
+                  K{\"{u}}bra Karacan and
+                  Hamid Sadeghian and
+                  Sami Haddadin},
+  editor       = {Pulkit Agrawal and
+                  Oliver Kroemer and
+                  Wolfram Burgard},
+  title        = {Online Transfer and Adaptation of Tactile Skill: {A} Teleoperation
+                  Framework},
+  booktitle    = {Conference on Robot Learning, 6-9 November 2024, Munich, Germany},
+  series       = {Proceedings of Machine Learning Research},
+  volume       = {270},
+  pages        = {4981--4995},
+  publisher    = {{PMLR}},
+  year         = {2024},
+  url          = {https://proceedings.mlr.press/v270/chen25i.html},
+  timestamp    = {Fri, 14 Mar 2025 09:14:43 +0100},
+  biburl       = {https://dblp.org/rec/conf/corl/ChenNKSH24.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}

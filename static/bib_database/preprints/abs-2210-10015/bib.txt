@@ -1,0 +1,21 @@
+@article{DBLP:journals/corr/abs-2210-10015,
+  author       = {Johannes Ringwald and
+                  Samuel Schneider and
+                  Lingyun Chen and
+                  Dennis Knobbe and
+                  Lars Johannsmeier and
+                  Abdalla Swikir and
+                  Sami Haddadin},
+  title        = {Towards Task-Specific Modular Gripper Fingers: Automatic Production
+                  of Fingertip Mechanics},
+  journal      = {CoRR},
+  volume       = {abs/2210.10015},
+  year         = {2022},
+  url          = {https://doi.org/10.48550/arXiv.2210.10015},
+  doi          = {10.48550/ARXIV.2210.10015},
+  eprinttype    = {arXiv},
+  eprint       = {2210.10015},
+  timestamp    = {Sat, 30 Sep 2023 01:00:00 +0200},
+  biburl       = {https://dblp.org/rec/journals/corr/abs-2210-10015.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}

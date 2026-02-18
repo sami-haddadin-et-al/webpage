@@ -1,0 +1,19 @@
+@inproceedings{DBLP:conf/iros/TomicSLMH16,
+  author       = {Teodor Tomic and
+                  Korbinian Schmid and
+                  Philipp Lutz and
+                  Andrew Mathers and
+                  Sami Haddadin},
+  title        = {The flying anemometer: Unified estimation of wind velocity from aerodynamic
+                  power and wrenches},
+  booktitle    = {2016 {IEEE/RSJ} International Conference on Intelligent Robots and
+                  Systems, {IROS} 2016, Daejeon, South Korea, October 9-14, 2016},
+  pages        = {1637--1644},
+  publisher    = {{IEEE}},
+  year         = {2016},
+  url          = {https://doi.org/10.1109/IROS.2016.7759264},
+  doi          = {10.1109/IROS.2016.7759264},
+  timestamp    = {Sat, 30 Sep 2023 01:00:00 +0200},
+  biburl       = {https://dblp.org/rec/conf/iros/TomicSLMH16.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}

@@ -205,9 +205,9 @@ Built in 1320 ms
 Environment: "development"
 Serving pages from disk
 Running in Fast Render Mode. For full rebuilds on change: hugo server --disableFastRender
-Web Server is available at http://localhost:1313/FlatlandRobotics/ (bind address 127.0.0.1) 
+Web Server is available at http://localhost:1313/webpage/ (bind address 127.0.0.1) 
 Press Ctrl+C to stop
 ````
 
-You might get a link like http://localhost:1313/FlatlandRobotics/ or a similar one with a different number combination.
+You might get a link like http://localhost:1313/webpage/ or a similar one with a different number combination.
 Now you can click on the link or copy it and paste it in your favourite browser.

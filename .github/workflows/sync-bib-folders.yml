@@ -23,7 +23,7 @@ jobs:
 
       - name: Create missing content folders
         run: |
-          python3 scripts/sync_bib_database.py --bib bibliography.bib --out static/bib_database
+          python3 scripts/sync_bib_folders.py --bib bibliography.bib --out static/bib_database
 
 
       - name: Commit changes (if any)

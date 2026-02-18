@@ -202,7 +202,8 @@ def ensure_entry_scaffold(
     write_if_missing(entry_dir / "index.md", index_md)
 
     # Raw bib entry stored alongside
-    write_if_missing(entry_dir / "bib.txt", entry.raw.strip() + "\n")
+    bib_filename = safe_key + ".bib"
+    write_if_missing(entry_dir / bib_filename, entry.raw.strip() + "\n")
 
     # Files inside info/
     write_if_missing(entry_dir / "info" / "tags.csv", "tag\n")

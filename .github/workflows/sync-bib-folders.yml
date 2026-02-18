@@ -7,6 +7,9 @@ on:
       - "scripts/sync_bib_folders.py"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   sync:
     runs-on: ubuntu-latest

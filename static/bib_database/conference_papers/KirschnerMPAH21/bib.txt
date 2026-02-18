@@ -1,0 +1,19 @@
+@inproceedings{DBLP:conf/isr2/KirschnerMPAH21,
+  author       = {Robin Jeanne Kirschner and
+                  Nico Mansfeld and
+                  Guillermo G{\'{o}}mez Pe{\~{n}}a and
+                  Saeed Abdolshah and
+                  Sami Haddadin},
+  title        = {Notion on the Correct Use of the Robot Effective Mass in the Safety
+                  Context and Comments on {ISO/TS} 15066},
+  booktitle    = {{IEEE} International Conference on Intelligence and Safety for Robotics,
+                  {ISR} 2021, Tokoname, Japan, March 4-6, 2021},
+  pages        = {6--9},
+  publisher    = {{IEEE}},
+  year         = {2021},
+  url          = {https://doi.org/10.1109/ISR50024.2021.9419495},
+  doi          = {10.1109/ISR50024.2021.9419495},
+  timestamp    = {Sun, 06 Oct 2024 01:00:00 +0200},
+  biburl       = {https://dblp.org/rec/conf/isr2/KirschnerMPAH21.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}

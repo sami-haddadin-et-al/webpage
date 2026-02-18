@@ -1,0 +1,17 @@
+@article{DBLP:journals/robotica/ParkSH15,
+  author       = {Jung{-}Jun Park and
+                  Jae{-}Bok Song and
+                  Sami Haddadin},
+  title        = {Collision analysis and safety evaluation using a collision model for
+                  the frontal robot-human impact},
+  journal      = {Robotica},
+  volume       = {33},
+  number       = {7},
+  pages        = {1536--1550},
+  year         = {2015},
+  url          = {https://doi.org/10.1017/S0263574714000137},
+  doi          = {10.1017/S0263574714000137},
+  timestamp    = {Sat, 30 Sep 2023 01:00:00 +0200},
+  biburl       = {https://dblp.org/rec/journals/robotica/ParkSH15.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}

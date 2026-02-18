@@ -1,0 +1,20 @@
+@article{DBLP:journals/trob/LahaBVVFMH24,
+  author       = {Riddhiman Laha and
+                  Marvin Becker and
+                  Jonathan Vorndamme and
+                  Juraj Vrabel and
+                  Luis F. C. Figueredo and
+                  Matthias Albrecht M{\"{u}}ller and
+                  Sami Haddadin},
+  title        = {Predictive Multi-Agent-Based Planning and Landing Controller for Reactive
+                  Dual-Arm Manipulation},
+  journal      = {{IEEE} Trans. Robotics},
+  volume       = {40},
+  pages        = {864--885},
+  year         = {2024},
+  url          = {https://doi.org/10.1109/TRO.2023.3341689},
+  doi          = {10.1109/TRO.2023.3341689},
+  timestamp    = {Fri, 26 Jan 2024 00:00:00 +0100},
+  biburl       = {https://dblp.org/rec/journals/trob/LahaBVVFMH24.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}

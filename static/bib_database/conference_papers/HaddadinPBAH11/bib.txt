@@ -1,0 +1,19 @@
+@inproceedings{DBLP:conf/arso/HaddadinPBAH11,
+  author       = {Sami Haddadin and
+                  Sven Parusel and
+                  Rico Belder and
+                  Alin Albu{-}Sch{\"{a}}ffer and
+                  Gerd Hirzinger},
+  title        = {Safe acting and manipulation in human environments: {A} key concept
+                  for robots in our society},
+  booktitle    = {Advanced Robotics and its Social Impacts, {ARSO} 2011, Menlo Park,
+                  CA, USA, October 2-4, 2011},
+  pages        = {72--75},
+  publisher    = {{IEEE}},
+  year         = {2011},
+  url          = {https://doi.org/10.1109/ARSO.2011.6301962},
+  doi          = {10.1109/ARSO.2011.6301962},
+  timestamp    = {Sat, 30 Sep 2023 01:00:00 +0200},
+  biburl       = {https://dblp.org/rec/conf/arso/HaddadinPBAH11.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}

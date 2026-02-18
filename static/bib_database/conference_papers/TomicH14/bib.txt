@@ -1,0 +1,16 @@
+@inproceedings{DBLP:conf/iros/TomicH14,
+  author       = {Teodor Tomic and
+                  Sami Haddadin},
+  title        = {A unified framework for external wrench estimation, interaction control
+                  and collision reflexes for flying robots},
+  booktitle    = {2014 {IEEE/RSJ} International Conference on Intelligent Robots and
+                  Systems, {IROS} 2014, Chicago, IL, USA, September 14-18, 2014},
+  pages        = {4197--4204},
+  publisher    = {{IEEE}},
+  year         = {2014},
+  url          = {https://doi.org/10.1109/IROS.2014.6943154},
+  doi          = {10.1109/IROS.2014.6943154},
+  timestamp    = {Sat, 30 Sep 2023 01:00:00 +0200},
+  biburl       = {https://dblp.org/rec/conf/iros/TomicH14.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}

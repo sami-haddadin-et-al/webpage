@@ -1,0 +1,22 @@
+@article{DBLP:journals/corr/abs-2409-11863,
+  author       = {Kejia Chen and
+                  Zheng Shen and
+                  Yue Zhang and
+                  Lingyun Chen and
+                  Fan Wu and
+                  Zhenshan Bing and
+                  Sami Haddadin and
+                  Alois Knoll},
+  title        = {Learning Task Planning from Multi-Modal Demonstration for Multi-Stage
+                  Contact-Rich Manipulation},
+  journal      = {CoRR},
+  volume       = {abs/2409.11863},
+  year         = {2024},
+  url          = {https://doi.org/10.48550/arXiv.2409.11863},
+  doi          = {10.48550/ARXIV.2409.11863},
+  eprinttype    = {arXiv},
+  eprint       = {2409.11863},
+  timestamp    = {Fri, 04 Jul 2025 01:00:00 +0200},
+  biburl       = {https://dblp.org/rec/journals/corr/abs-2409-11863.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}

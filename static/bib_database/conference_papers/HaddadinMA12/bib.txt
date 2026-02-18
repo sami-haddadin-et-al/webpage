@@ -1,0 +1,17 @@
+@inproceedings{DBLP:conf/iros/HaddadinMA12,
+  author       = {Sami Haddadin and
+                  Nico Mansfeld and
+                  Alin Albu{-}Sch{\"{a}}ffer},
+  title        = {Rigid vs. elastic actuation: Requirements {\&} performance},
+  booktitle    = {2012 {IEEE/RSJ} International Conference on Intelligent Robots and
+                  Systems, {IROS} 2012, Vilamoura, Algarve, Portugal, October 7-12,
+                  2012},
+  pages        = {5097--5104},
+  publisher    = {{IEEE}},
+  year         = {2012},
+  url          = {https://doi.org/10.1109/IROS.2012.6386227},
+  doi          = {10.1109/IROS.2012.6386227},
+  timestamp    = {Sat, 30 Sep 2023 01:00:00 +0200},
+  biburl       = {https://dblp.org/rec/conf/iros/HaddadinMA12.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}

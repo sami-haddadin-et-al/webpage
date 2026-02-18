@@ -1,0 +1,17 @@
+@inproceedings{DBLP:conf/icra/TomicMH14,
+  author       = {Teodor Tomic and
+                  Moritz Maier and
+                  Sami Haddadin},
+  title        = {Learning quadrotor maneuvers from optimal control and generalizing
+                  in real-time},
+  booktitle    = {2014 {IEEE} International Conference on Robotics and Automation, {ICRA}
+                  2014, Hong Kong, China, May 31 - June 7, 2014},
+  pages        = {1747--1754},
+  publisher    = {{IEEE}},
+  year         = {2014},
+  url          = {https://doi.org/10.1109/ICRA.2014.6907087},
+  doi          = {10.1109/ICRA.2014.6907087},
+  timestamp    = {Sat, 30 Sep 2023 01:00:00 +0200},
+  biburl       = {https://dblp.org/rec/conf/icra/TomicMH14.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}

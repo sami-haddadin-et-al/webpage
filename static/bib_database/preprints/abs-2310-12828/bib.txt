@@ -1,0 +1,23 @@
+@article{DBLP:journals/corr/abs-2310-12828,
+  author       = {Liding Zhang and
+                  Zhenshan Bing and
+                  Kejia Chen and
+                  Lingyun Chen and
+                  Fan Wu and
+                  Peter Krumbholz and
+                  Zhilin Yuan and
+                  Sami Haddadin and
+                  Alois Knoll},
+  title        = {Flexible Informed Trees (FIT*): Adaptive Batch-Size Approach for Informed
+                  Sampling-Based Planner},
+  journal      = {CoRR},
+  volume       = {abs/2310.12828},
+  year         = {2023},
+  url          = {https://doi.org/10.48550/arXiv.2310.12828},
+  doi          = {10.48550/ARXIV.2310.12828},
+  eprinttype    = {arXiv},
+  eprint       = {2310.12828},
+  timestamp    = {Sat, 14 Dec 2024 00:00:00 +0100},
+  biburl       = {https://dblp.org/rec/journals/corr/abs-2310-12828.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}

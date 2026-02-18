@@ -1,0 +1,21 @@
+@article{DBLP:journals/natmi/McLennanFCMHRHB20,
+  author       = {Stuart McLennan and
+                  Amelia Fiske and
+                  Leo Anthony Celi and
+                  Ruth M{\"{u}}ller and
+                  Jan Harder and
+                  Konstantin Ritt and
+                  Sami Haddadin and
+                  Alena Buyx},
+  title        = {An embedded ethics approach for {AI} development},
+  journal      = {Nat. Mach. Intell.},
+  volume       = {2},
+  number       = {9},
+  pages        = {488--490},
+  year         = {2020},
+  url          = {https://doi.org/10.1038/s42256-020-0214-1},
+  doi          = {10.1038/S42256-020-0214-1},
+  timestamp    = {Sun, 02 Nov 2025 00:00:00 +0100},
+  biburl       = {https://dblp.org/rec/journals/natmi/McLennanFCMHRHB20.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}

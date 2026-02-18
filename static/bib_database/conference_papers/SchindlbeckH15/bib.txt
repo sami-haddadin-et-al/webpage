@@ -1,0 +1,16 @@
+@inproceedings{DBLP:conf/icra/SchindlbeckH15,
+  author       = {Christopher Schindlbeck and
+                  Sami Haddadin},
+  title        = {Unified passivity-based Cartesian force/impedance control for rigid
+                  and flexible joint robots via task-energy tanks},
+  booktitle    = {{IEEE} International Conference on Robotics and Automation, {ICRA}
+                  2015, Seattle, WA, USA, 26-30 May, 2015},
+  pages        = {440--447},
+  publisher    = {{IEEE}},
+  year         = {2015},
+  url          = {https://doi.org/10.1109/ICRA.2015.7139036},
+  doi          = {10.1109/ICRA.2015.7139036},
+  timestamp    = {Sat, 30 Sep 2023 01:00:00 +0200},
+  biburl       = {https://dblp.org/rec/conf/icra/SchindlbeckH15.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}

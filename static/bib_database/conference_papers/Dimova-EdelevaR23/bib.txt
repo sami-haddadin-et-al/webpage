@@ -1,0 +1,21 @@
+@inproceedings{DBLP:conf/embc/Dimova-EdelevaR23,
+  author       = {Viktorija Dimova{-}Edeleva and
+                  Oscar Soto Rivera and
+                  Riddhiman Laha and
+                  Luis F. C. Figueredo and
+                  Melissa Zavaglia and
+                  Sami Haddadin},
+  title        = {Error-related Potentials in a Virtual Pick-and-Place Experiment: Toward
+                  Real-world Shared-control},
+  booktitle    = {45th Annual International Conference of the {IEEE} Engineering in
+                  Medicine {\&} Biology Society, {EMBC} 2023, Sydney, Australia, July
+                  24-27, 2023},
+  pages        = {1--7},
+  publisher    = {{IEEE}},
+  year         = {2023},
+  url          = {https://doi.org/10.1109/EMBC40787.2023.10340244},
+  doi          = {10.1109/EMBC40787.2023.10340244},
+  timestamp    = {Thu, 11 Jan 2024 15:01:18 +0100},
+  biburl       = {https://dblp.org/rec/conf/embc/Dimova-EdelevaR23.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}

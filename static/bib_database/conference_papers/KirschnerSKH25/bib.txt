@@ -1,0 +1,18 @@
+@inproceedings{DBLP:conf/iros/KirschnerSKH25,
+  author       = {Robin Jeanne Kirschner and
+                  Sebastian Siegner and
+                  K{\"{u}}bra Karacan and
+                  Sami Haddadin},
+  title        = {The Foundation for Tactile Robots: Approaching the Holistic Analysis
+                  of a Robot's Force Sensing Capabilities},
+  booktitle    = {{IEEE/RSJ} International Conference on Intelligent Robots and Systems,
+                  {IROS} 2025, Hangzhou, China, October 19-25, 2025},
+  pages        = {8902--8909},
+  publisher    = {{IEEE}},
+  year         = {2025},
+  url          = {https://doi.org/10.1109/IROS60139.2025.11246184},
+  doi          = {10.1109/IROS60139.2025.11246184},
+  timestamp    = {Wed, 07 Jan 2026 00:00:00 +0100},
+  biburl       = {https://dblp.org/rec/conf/iros/KirschnerSKH25.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}

@@ -1,0 +1,23 @@
+@article{DBLP:journals/corr/abs-2408-02293,
+  author       = {Sonja Gro{\ss} and
+                  Michael Ratzel and
+                  Edgar Welte and
+                  Diego Hidalgo{-}Carvajal and
+                  Lingyun Chen and
+                  Edmundo Pozo Fortunic and
+                  Amartya Ganguly and
+                  Abdalla Swikir and
+                  Sami Haddadin},
+  title        = {{OPENGRASP-LITE} Version 1.0: {A} Tactile Artificial Hand with a Compliant
+                  Linkage Mechanism},
+  journal      = {CoRR},
+  volume       = {abs/2408.02293},
+  year         = {2024},
+  url          = {https://doi.org/10.48550/arXiv.2408.02293},
+  doi          = {10.48550/ARXIV.2408.02293},
+  eprinttype    = {arXiv},
+  eprint       = {2408.02293},
+  timestamp    = {Mon, 03 Mar 2025 00:00:00 +0100},
+  biburl       = {https://dblp.org/rec/journals/corr/abs-2408-02293.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}

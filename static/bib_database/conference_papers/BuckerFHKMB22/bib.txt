@@ -1,0 +1,20 @@
+@inproceedings{DBLP:conf/iros/BuckerFHKMB22,
+  author       = {Arthur Bucker and
+                  Luis F. C. Figueredo and
+                  Sami Haddadin and
+                  Ashish Kapoor and
+                  Shuang Ma and
+                  Rogerio Bonatti},
+  title        = {Reshaping Robot Trajectories Using Natural Language Commands: {A}
+                  Study of Multi-Modal Data Alignment Using Transformers},
+  booktitle    = {{IEEE/RSJ} International Conference on Intelligent Robots and Systems,
+                  {IROS} 2022, Kyoto, Japan, October 23-27, 2022},
+  pages        = {978--984},
+  publisher    = {{IEEE}},
+  year         = {2022},
+  url          = {https://doi.org/10.1109/IROS47612.2022.9981810},
+  doi          = {10.1109/IROS47612.2022.9981810},
+  timestamp    = {Tue, 09 Jan 2024 00:00:00 +0100},
+  biburl       = {https://dblp.org/rec/conf/iros/BuckerFHKMB22.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}

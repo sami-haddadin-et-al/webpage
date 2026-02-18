@@ -1,0 +1,21 @@
+@inproceedings{DBLP:conf/icra/ChenSCTSNH23,
+  author       = {Xiao Chen and
+                  Hamid Sadeghian and
+                  Lingyun Chen and
+                  Mario Tr{\"{o}}binger and
+                  Abadalla Swirkir and
+                  Abdeldjallil Naceri and
+                  Sami Haddadin},
+  title        = {A Passivity-based Approach on Relocating High-Frequency Robot Controller
+                  to the Edge Cloud},
+  booktitle    = {{IEEE} International Conference on Robotics and Automation, {ICRA}
+                  2023, London, UK, May 29 - June 2, 2023},
+  pages        = {5242--5248},
+  publisher    = {{IEEE}},
+  year         = {2023},
+  url          = {https://doi.org/10.1109/ICRA48891.2023.10160366},
+  doi          = {10.1109/ICRA48891.2023.10160366},
+  timestamp    = {Fri, 04 Jul 2025 01:00:00 +0200},
+  biburl       = {https://dblp.org/rec/conf/icra/ChenSCTSNH23.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}

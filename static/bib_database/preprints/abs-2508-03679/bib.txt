@@ -1,0 +1,22 @@
+@article{DBLP:journals/corr/abs-2508-03679,
+  author       = {Zewen Yang and
+                  Dongfa Zhang and
+                  Xiaobing Dai and
+                  Fengyi Yu and
+                  Chi Zhang and
+                  Bingkun Huang and
+                  Hamid Sadeghian and
+                  Sami Haddadin},
+  title        = {Streaming Generated Gaussian Process Experts for Online Learning and
+                  Control},
+  journal      = {CoRR},
+  volume       = {abs/2508.03679},
+  year         = {2025},
+  url          = {https://doi.org/10.48550/arXiv.2508.03679},
+  doi          = {10.48550/ARXIV.2508.03679},
+  eprinttype    = {arXiv},
+  eprint       = {2508.03679},
+  timestamp    = {Wed, 10 Sep 2025 01:00:00 +0200},
+  biburl       = {https://dblp.org/rec/journals/corr/abs-2508-03679.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}

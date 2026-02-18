@@ -207,6 +207,8 @@ def ensure_entry_scaffold(
     # Files inside info/
     write_if_missing(entry_dir / "info" / "tags.csv", "tag\n")
     write_if_missing(entry_dir / "info" / "abstract.txt", "")
+    write_if_missing(entry_dir / "images" / ".gitkeep", "")
+    write_if_missing(entry_dir / "videos" / ".gitkeep", "")
 
     # Extra file for preprints only
     if category == "preprints":

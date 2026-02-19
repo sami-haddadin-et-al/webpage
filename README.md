@@ -6,9 +6,8 @@ The purpose of this readme file is to have a brief recap in order to re-setup th
 
 The current Status of the [Sami Haddadin et al.'s webpage](https://https://sami-haddadin-et-al.github.io/webpage/) page is
 
-[![pages-build-deployment](https://github.com/sami-haddadin-et-al/wepbage/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/sami-haddadin-et-al/wepbage/actions/workflows/pages/pages-build-deployment)
-[![Deploy Hugo site to Pages](https://github.com/sami-haddadin-et-al/wepbage/actions/workflows/hugo.yml/badge.svg)](https://github.com/sami-haddadin-et-al/wepbage/actions/workflows/hugo.yml)
-[![Sync Bib Folders](https://github.com/sami-haddadin-et-al/wepbage/actions/workflows/hugo.yml/badge.svg)](https://github.com/sami-haddadin-et-al/wepbage/actions/workflows/hugo.yml)
+[![pages-build-deployment](https://github.com/reinhardgrassmann/FlatlandRobotics/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/reinhardgrassmann/FlatlandRobotics/actions/workflows/pages/pages-build-deployment)
+[![Deploy Hugo site to Pages](https://github.com/reinhardgrassmann/FlatlandRobotics/actions/workflows/hugo.yml/badge.svg)](https://github.com/reinhardgrassmann/FlatlandRobotics/actions/workflows/hugo.yml)
 
 
 (See: Short tutorial on how to [add a workflow status badge](https://docs.github.com/en/actions/how-tos/monitor-workflows/add-a-status-badge))

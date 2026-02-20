@@ -118,7 +118,7 @@ def make_safe_folder_name(key: str) -> str:
     return key
 
 
-def category_for_entry(entry: BibEntry, fallback: str = "preprints") -> str:
+def category_for_entry(entry: BibEntry, fallback: str = "misc") -> str:
     """
     Map BibTeX entry types to your folder categories.
     Adjust mapping rules here to match your bib conventions.
@@ -186,7 +186,7 @@ def ensure_entry_scaffold(
 
     # Create outer + required subfolders
     (entry_dir / "images").mkdir(parents=True, exist_ok=False)
-    (entry_dir / "videos").mkdir(parents=True, exist_ok=False)
+    (entry_dir / "misc").mkdir(parents=True, exist_ok=False)
     (entry_dir / "info").mkdir(parents=True, exist_ok=False)
 
     # Files in entry folder
@@ -208,8 +208,10 @@ def ensure_entry_scaffold(
     # Files inside info/
     write_if_missing(entry_dir / "info" / "tags.csv", "tag\n")
     write_if_missing(entry_dir / "info" / "abstract.txt", "")
+    write_if_missing(entry_dir / "info" / "video_links.csv", "url\n")
+    write_if_missing(entry_dir / "info" / "github_link.txt", "")
     write_if_missing(entry_dir / "images" / ".gitkeep", "")
-    write_if_missing(entry_dir / "videos" / ".gitkeep", "")
+    write_if_missing(entry_dir / "misc" / ".gitkeep", "")
 
     # Extra file for preprints only
     if category == "preprints":
@@ -244,7 +246,7 @@ def main() -> int:
         return 0
 
     # Ensure category folders exist
-    categories = ["journal_papers", "conference_papers", "books", "book_chapters", "theses", "preprints"]
+    categories = ["journal_papers", "conference_papers", "books", "book_chapters", "theses", "preprints", "misc"]
     for cat in categories:
         (out_dir / cat).mkdir(parents=True, exist_ok=True)
 

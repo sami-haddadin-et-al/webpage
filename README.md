@@ -134,11 +134,6 @@ brew install git
 or as an alternative to `brew`, use `sudo port install git`.
 
 
-````
-brew install sass/sass/sass
-````
-
-
 ### Hugo and dependencies 
 
 In this part, hugo specific stuff are mentioned.
@@ -178,9 +173,33 @@ https://github.com/sami-haddadin-et-al/webpage.git
 ````
 
 Since we are using the [Hugo-Brewm](https://themes.gohugo.io/themes/hugo-brewm/) or [Ananke Gohugo](https://themes.gohugo.io/themes/gohugo-theme-ananke/) as hugo theme and git submodule, we make sure it's properly initialized.
-Execute the following code in the root folder.
+Execute the following code in the root folder to update the submodules.
 ````
 git submodule update --init --recursive
+````
+In the case you want to install one or all submodules, execute the following git commands.
+````
+git submodule add https://github.com/michaelneuper/hugo-texify3.git themes/hugo-texify3
+git submodule add https://github.com/theNewDynamic/gohugo-theme-ananke.git themes/ananke
+git submodule add https://github.com/foxihd/hugo-brewm.git themes/hugo-brewm
+````
+Other themes can be found on [hugo's gallery for themes](https://themes.gohugo.io/themes/).
+
+In order to delete or refresh a git submodule, you should delete the path from the git index, the folder, and git metadata.
+Afterward, re-install the submodule if you want to refresh the git submodule.
+The following example considers *themes/ananke*.
+````
+git rm -r --cached themes/ananke
+rm -rf themes/ananke
+rm -rf .git/modules/themes/ananke
+git submodule add https://github.com/theNewDynamic/gohugo-theme-ananke.git themes/ananke
+````
+
+
+The theme Ananke uses Tachyons.
+Therefore, install it using the following command.
+````
+npm install tachyons@4.12.0
 ````
 
 We are ready to run hugo on the machine.

@@ -1,0 +1,11 @@
+import requests
+from bs4 import BeautifulSoup
+
+url = "https://doi.org/10.1177/0278364909343970"
+headers = {"User-Agent": "Mozilla/5.0"}  # helps avoid basic bot blocking
+
+response = requests.get(url, headers=headers)
+soup = BeautifulSoup(response.text, "html.parser")
+
+abstract = soup.find("div", class_="abstract")
+print(abstract.get_text(strip=True))

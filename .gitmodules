@@ -10,3 +10,6 @@
 [submodule "themes/reimu"]
 	path = themes/reimu
 	url = https://github.com/D-Sketon/hugo-theme-reimu.git
+[submodule "themes/blowfish"]
+	path = themes/blowfish
+	url = https://github.com/nunocoracao/blowfish.git

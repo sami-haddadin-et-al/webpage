@@ -1,10 +1,10 @@
 +++
-title = "References"
+title = "Bibliography"
 date = 2025-08-17
 +++
 
 
-# References
+# Bibliography
 
 ---
 

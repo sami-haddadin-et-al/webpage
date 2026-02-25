@@ -1,5 +1,5 @@
 +++
-title = "About"
+title = "Mission"
 date = 2026-02-16
 +++
 

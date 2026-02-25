@@ -233,3 +233,40 @@ Press Ctrl+C to stop
 
 You might get a link like http://localhost:1313/webpage/ or a similar one with a different number combination.
 Now you can click on the link or copy it and paste it in your favourite browser.
+
+## Run scripts w/o GitHub Actions
+
+Check the Python version
+````
+python3 --version
+````
+It should be 3.11 or higher.
+If not, use ``brew update`` and ``brew upgrade python`` for MacOS.
+
+Create a virtual environment and name the folder with a dot.
+````
+python3 -m venv .venv
+````
+The dot keeps it less visible (hidden folder) and avoids commiting it to the repo.
+
+Using macOS or Linus, activate it via
+````
+source venv/bin/activate
+````
+After activation, the terminal prompt will show ``(venv)``.
+
+To run the python3 script locally, the following package(s) have to be installed.
+````
+python3 -m pip install bibtexparser
+````
+
+In the case you want to reset the folder structure for ``bib_database``, you should remove the subfolder using 
+````
+rm -r static/bib_database/*
+````
+
+The following scripts are found in scripts/
+````
+python3 scripts/sync_bib_folders.py
+python3 scripts/generate_publication_project_pages.py
+````

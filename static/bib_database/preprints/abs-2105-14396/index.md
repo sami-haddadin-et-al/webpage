@@ -1,8 +1,49 @@
----
-title: "DBLP:journals/corr/abs-2105-14396"
-bibkey: DBLP:journals/corr/abs-2105-14396
-category: preprints
-draft: true
----
++++
+title = "SyReNets: Symbolic Residual Neural Networks"
+date = "2021-01-01"
+categories = ["publication", "article"]
+tags = ["publication", "article"]
+author = ["Carlos Magno C. O. Valle", "Sami Haddadin"]
+keywords = []
+draft = false
+gen_lock = false
++++
 
-Auto-generated entry scaffold.
+# SyReNets: Symbolic Residual Neural Networks
+
+**Authors:** Carlos Magno C. O. Valle, Sami Haddadin
+
+- <!-- **Code:** -->
+- **DOI:** <!-- TODO: DOI missing in BibTeX -->
+
+_No images available._
+
+## Abstract
+_No abstract available._
+
+## Tags
+_No tag(s) or keyword(s) available._
+
+## Videos
+_No video(s) available._
+
+## Downloads
+_No additional files._
+
+## BibTeX
+```bibtex
+@article{DBLP:journals/corr/abs-2105-14396,
+  author       = {Carlos Magno C. O. Valle and
+                  Sami Haddadin},
+  title        = {SyReNets: Symbolic Residual Neural Networks},
+  journal      = {CoRR},
+  volume       = {abs/2105.14396},
+  year         = {2021},
+  url          = {https://arxiv.org/abs/2105.14396},
+  eprinttype    = {arXiv},
+  eprint       = {2105.14396},
+  timestamp    = {Wed, 02 Jun 2021 01:00:00 +0200},
+  biburl       = {https://dblp.org/rec/journals/corr/abs-2105-14396.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
+```

@@ -1,8 +1,73 @@
----
-title: "DBLP:journals/ras/VanderborghtABBCCCEFGGGGHHJLLPSTDHVa13"
-bibkey: DBLP:journals/ras/VanderborghtABBCCCEFGGGGHHJLLPSTDHVa13
-category: journal_papers
-draft: true
----
++++
+title = "Variable impedance actuators: A review"
+date = "2013-01-01"
+categories = ["publication", "article"]
+tags = ["publication", "article"]
+author = ["Bram Vanderborght", "Alin Albu{-}Sch{\\\"{a}}ffer", "Antonio Bicchi", "Etienne Burdet", "Darwin G. Caldwell", "Raffaella Carloni", "Manuel G. Catalano", "Oliver Eiberger", "Werner Friedl", "Ganesh Ganesh", "Manolo Garabini", "Markus Grebenstein", "Giorgio Grioli", "Sami Haddadin", "Hannes H{\\\"{o}}ppner", "Amir Jafari", "Matteo Laffranchi", "Dirk Lefeber", "Florian Petit", "Stefano Stramigioli", "Nikolaos G. Tsagarakis", "Micha{\\\"{e}}l Van Damme", "Ronald Van Ham", "Ludo C. Visser", "Sebastian Wolf"]
+keywords = []
+draft = false
+gen_lock = false
++++
 
-Auto-generated entry scaffold.
+# Variable impedance actuators: A review
+
+**Authors:** Bram Vanderborght, Alin Albu{-}Sch{\"{a}}ffer, Antonio Bicchi, Etienne Burdet, Darwin G. Caldwell, Raffaella Carloni, Manuel G. Catalano, Oliver Eiberger, Werner Friedl, Ganesh Ganesh, Manolo Garabini, Markus Grebenstein, Giorgio Grioli, Sami Haddadin, Hannes H{\"{o}}ppner, Amir Jafari, Matteo Laffranchi, Dirk Lefeber, Florian Petit, Stefano Stramigioli, Nikolaos G. Tsagarakis, Micha{\"{e}}l Van Damme, Ronald Van Ham, Ludo C. Visser, Sebastian Wolf
+
+- <!-- **Code:** -->
+- **DOI:** [10.1016/J.ROBOT.2013.06.009](https://doi.org/10.1016/J.ROBOT.2013.06.009)
+
+_No images available._
+
+## Abstract
+_No abstract available._
+
+## Tags
+_No tag(s) or keyword(s) available._
+
+## Videos
+_No video(s) available._
+
+## Downloads
+_No additional files._
+
+## BibTeX
+```bibtex
+@article{DBLP:journals/ras/VanderborghtABBCCCEFGGGGHHJLLPSTDHVa13,
+  author       = {Bram Vanderborght and
+                  Alin Albu{-}Sch{\"{a}}ffer and
+                  Antonio Bicchi and
+                  Etienne Burdet and
+                  Darwin G. Caldwell and
+                  Raffaella Carloni and
+                  Manuel G. Catalano and
+                  Oliver Eiberger and
+                  Werner Friedl and
+                  Ganesh Ganesh and
+                  Manolo Garabini and
+                  Markus Grebenstein and
+                  Giorgio Grioli and
+                  Sami Haddadin and
+                  Hannes H{\"{o}}ppner and
+                  Amir Jafari and
+                  Matteo Laffranchi and
+                  Dirk Lefeber and
+                  Florian Petit and
+                  Stefano Stramigioli and
+                  Nikolaos G. Tsagarakis and
+                  Micha{\"{e}}l Van Damme and
+                  Ronald Van Ham and
+                  Ludo C. Visser and
+                  Sebastian Wolf},
+  title        = {Variable impedance actuators: {A} review},
+  journal      = {Robotics Auton. Syst.},
+  volume       = {61},
+  number       = {12},
+  pages        = {1601--1614},
+  year         = {2013},
+  url          = {https://doi.org/10.1016/j.robot.2013.06.009},
+  doi          = {10.1016/J.ROBOT.2013.06.009},
+  timestamp    = {Sat, 30 Sep 2023 01:00:00 +0200},
+  biburl       = {https://dblp.org/rec/journals/ras/VanderborghtABBCCCEFGGGGHHJLLPSTDHVa13.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
+```

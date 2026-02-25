@@ -3,7 +3,7 @@ title = "Visuo-Tactile Exploration of Unknown Rigid 3D Curvatures by Vision-Augm
 date = "2024-01-01"
 categories = ["publication", "article"]
 tags = ["publication", "article"]
-author = ["K{\\\"{u}}bra Karacan", "Anran Zhang", "Hamid Sadeghian", "Fan Wu", "Sami Haddadin"]
+author = ["Kübra Karacan", "Anran Zhang", "Hamid Sadeghian", "Fan Wu", "Sami Haddadin"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # Visuo-Tactile Exploration of Unknown Rigid 3D Curvatures by Vision-Augmented Unified Force-Impedance Control
 
-**Authors:** K{\"{u}}bra Karacan, Anran Zhang, Hamid Sadeghian, Fan Wu, Sami Haddadin
+**Authors:** Kübra Karacan, Anran Zhang, Hamid Sadeghian, Fan Wu, Sami Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** [10.48550/ARXIV.2408.14219](https://doi.org/10.48550/ARXIV.2408.14219)
+**DOI:** [10.48550/ARXIV.2408.14219](https://doi.org/10.48550/ARXIV.2408.14219)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @article{DBLP:journals/corr/abs-2408-14219,
   author       = {K{\"{u}}bra Karacan and

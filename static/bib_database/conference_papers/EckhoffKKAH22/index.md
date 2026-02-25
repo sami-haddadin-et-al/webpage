@@ -13,8 +13,8 @@ gen_lock = false
 
 **Authors:** Moritz Eckhoff, Robin Jeanne Kirschner, Elena Kern, Saeed Abdolshah, Sami Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/ICRA46639.2022.9812160](https://doi.org/10.1109/ICRA46639.2022.9812160)
+**DOI:** [10.1109/ICRA46639.2022.9812160](https://doi.org/10.1109/ICRA46639.2022.9812160)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/icra/EckhoffKKAH22,
   author       = {Moritz Eckhoff and

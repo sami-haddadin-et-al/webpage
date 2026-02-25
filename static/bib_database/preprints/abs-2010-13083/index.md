@@ -13,8 +13,8 @@ gen_lock = false
 
 **Authors:** Nirnai Rao, Elie Aljalbout, Axel Sauer, Sami Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** <!-- TODO: DOI missing in BibTeX -->
+<!-- **DOI:** DOI missing in BibTeX -->
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @article{DBLP:journals/corr/abs-2010-13083,
   author       = {Nirnai Rao and

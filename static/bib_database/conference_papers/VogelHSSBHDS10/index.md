@@ -13,8 +13,8 @@ gen_lock = false
 
 **Authors:** Joern Vogel, Sami Haddadin, John D. Simeral, Sergey D. Stavisky, Daniel Bacher, Leigh R. Hochberg, John P. Donoghue, Patrick van der Smagt
 
-- <!-- **Code:** -->
-- **DOI:** [10.1007/978-3-642-28572-1\_9](https://doi.org/10.1007/978-3-642-28572-1\_9)
+**DOI:** [10.1007/978-3-642-28572-1\_9](https://doi.org/10.1007/978-3-642-28572-1\_9)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/iser/VogelHSSBHDS10,
   author       = {Joern Vogel and

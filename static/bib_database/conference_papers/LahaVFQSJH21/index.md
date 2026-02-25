@@ -3,7 +3,7 @@ title = "Coordinated Motion Generation and Object Placement: A Reactive Planning
 date = "2021-01-01"
 categories = ["publication", "inproceedings"]
 tags = ["publication", "inproceedings"]
-author = ["Riddhiman Laha", "Jonathan Vorndamme", "Luis F. C. Figueredo", "Zheng Qu", "Abdalla Swikir", "Christoph J{\\\"{a}}hne", "Sami Haddadin"]
+author = ["Riddhiman Laha", "Jonathan Vorndamme", "Luis F. C. Figueredo", "Zheng Qu", "Abdalla Swikir", "Christoph Jähne", "Sami Haddadin"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # Coordinated Motion Generation and Object Placement: A Reactive Planning and Landing Approach
 
-**Authors:** Riddhiman Laha, Jonathan Vorndamme, Luis F. C. Figueredo, Zheng Qu, Abdalla Swikir, Christoph J{\"{a}}hne, Sami Haddadin
+**Authors:** Riddhiman Laha, Jonathan Vorndamme, Luis F. C. Figueredo, Zheng Qu, Abdalla Swikir, Christoph Jähne, Sami Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/IROS51168.2021.9636652](https://doi.org/10.1109/IROS51168.2021.9636652)
+**DOI:** [10.1109/IROS51168.2021.9636652](https://doi.org/10.1109/IROS51168.2021.9636652)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/iros/LahaVFQSJH21,
   author       = {Riddhiman Laha and

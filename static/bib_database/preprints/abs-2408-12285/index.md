@@ -3,7 +3,7 @@ title = "Tactile-Morph Skills: Energy-Based Control Meets Data-Driven Learning"
 date = "2024-01-01"
 categories = ["publication", "article"]
 tags = ["publication", "article"]
-author = ["Anran Zhang", "K{\\\"{u}}bra Karacan", "Hamid Sadeghian", "Yansong Wu", "Fan Wu", "Sami Haddadin"]
+author = ["Anran Zhang", "Kübra Karacan", "Hamid Sadeghian", "Yansong Wu", "Fan Wu", "Sami Haddadin"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # Tactile-Morph Skills: Energy-Based Control Meets Data-Driven Learning
 
-**Authors:** Anran Zhang, K{\"{u}}bra Karacan, Hamid Sadeghian, Yansong Wu, Fan Wu, Sami Haddadin
+**Authors:** Anran Zhang, Kübra Karacan, Hamid Sadeghian, Yansong Wu, Fan Wu, Sami Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** [10.48550/ARXIV.2408.12285](https://doi.org/10.48550/ARXIV.2408.12285)
+**DOI:** [10.48550/ARXIV.2408.12285](https://doi.org/10.48550/ARXIV.2408.12285)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @article{DBLP:journals/corr/abs-2408-12285,
   author       = {Anran Zhang and

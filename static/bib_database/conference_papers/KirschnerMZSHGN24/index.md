@@ -13,8 +13,8 @@ gen_lock = false
 
 **Authors:** Robin Jeanne Kirschner, Carina M. Micheler, Yangcan Zhou, Sebastian Siegner, Mazin Hamad, Claudio Glowalla, Jan Neumann, Nader Rajaei, Rainer Burgkart, Sami Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/ICRA57147.2024.10610422](https://doi.org/10.1109/ICRA57147.2024.10610422)
+**DOI:** [10.1109/ICRA57147.2024.10610422](https://doi.org/10.1109/ICRA57147.2024.10610422)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/icra/KirschnerMZSHGN24,
   author       = {Robin Jeanne Kirschner and

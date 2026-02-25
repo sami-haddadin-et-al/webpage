@@ -13,8 +13,8 @@ gen_lock = false
 
 **Authors:** Celal Umut Kenanoglu, Valentin Le Mesle, Gjergji Luarasi, Hamid Sadeghian, Sami Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/BIOROB60516.2024.10719745](https://doi.org/10.1109/BIOROB60516.2024.10719745)
+**DOI:** [10.1109/BIOROB60516.2024.10719745](https://doi.org/10.1109/BIOROB60516.2024.10719745)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/biorob/KenanogluMLSH24,
   author       = {Celal Umut Kenanoglu and

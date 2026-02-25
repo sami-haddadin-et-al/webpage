@@ -3,7 +3,7 @@ title = "Force, Impedance, and Trajectory Learning for Contact Tooling and Hapti
 date = "2018-01-01"
 categories = ["publication", "article"]
 tags = ["publication", "article"]
-author = ["Yanan Li", "Ganesh Gowrishankar", "Nathana{\\\"{e}}l Jarrass{\\'{e}}", "Sami Haddadin", "Alin Albu{-}Sch{\\\"{a}}ffer", "Etienne Burdet"]
+author = ["Yanan Li", "Ganesh Gowrishankar", "Nathanaël Jarrassé", "Sami Haddadin", "Alin Albu-Schäffer", "Etienne Burdet"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # Force, Impedance, and Trajectory Learning for Contact Tooling and Haptic Identification
 
-**Authors:** Yanan Li, Ganesh Gowrishankar, Nathana{\"{e}}l Jarrass{\'{e}}, Sami Haddadin, Alin Albu{-}Sch{\"{a}}ffer, Etienne Burdet
+**Authors:** Yanan Li, Ganesh Gowrishankar, Nathanaël Jarrassé, Sami Haddadin, Alin Albu-Schäffer, Etienne Burdet
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/TRO.2018.2830405](https://doi.org/10.1109/TRO.2018.2830405)
+**DOI:** [10.1109/TRO.2018.2830405](https://doi.org/10.1109/TRO.2018.2830405)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @article{DBLP:journals/trob/LiGJHAB18,
   author       = {Yanan Li and

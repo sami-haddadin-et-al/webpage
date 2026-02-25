@@ -13,8 +13,8 @@ gen_lock = false
 
 **Authors:** Erfan Shahriari, Lars Johannsmeier, Sami Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** [10.23919/ACC.2018.8431718](https://doi.org/10.23919/ACC.2018.8431718)
+**DOI:** [10.23919/ACC.2018.8431718](https://doi.org/10.23919/ACC.2018.8431718)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/amcc/ShahriariJH18,
   author       = {Erfan Shahriari and

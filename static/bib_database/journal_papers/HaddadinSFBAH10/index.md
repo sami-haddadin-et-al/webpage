@@ -3,7 +3,7 @@ title = "Konzepte f\\\"ur den Roboterassistenten der Zukunft (Towards the Roboti
 date = "2010-01-01"
 categories = ["publication", "article"]
 tags = ["publication", "article"]
-author = ["Sami Haddadin", "Michael Suppa", "Stefan Fuchs", "Tim Bodenm{\\\"{u}}ller", "Alin Albu{-}Sch{\\\"{a}}ffer", "Gerd Hirzinger"]
+author = ["Sami Haddadin", "Michael Suppa", "Stefan Fuchs", "Tim Bodenmüller", "Alin Albu-Schäffer", "Gerd Hirzinger"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # Konzepte f\"ur den Roboterassistenten der Zukunft (Towards the Robotic Co-Worker)
 
-**Authors:** Sami Haddadin, Michael Suppa, Stefan Fuchs, Tim Bodenm{\"{u}}ller, Alin Albu{-}Sch{\"{a}}ffer, Gerd Hirzinger
+**Authors:** Sami Haddadin, Michael Suppa, Stefan Fuchs, Tim Bodenmüller, Alin Albu-Schäffer, Gerd Hirzinger
 
-- <!-- **Code:** -->
-- **DOI:** [10.1524/AUTO.2010.0888](https://doi.org/10.1524/AUTO.2010.0888)
+**DOI:** [10.1524/AUTO.2010.0888](https://doi.org/10.1524/AUTO.2010.0888)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @article{DBLP:journals/at/HaddadinSFBAH10,
   author       = {Sami Haddadin and

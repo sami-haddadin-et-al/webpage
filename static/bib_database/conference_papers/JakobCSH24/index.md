@@ -13,8 +13,8 @@ gen_lock = false
 
 **Authors:** Fabian Jakob, Xiao Chen, Hamid Sadeghian, Sami Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/ICRA57147.2024.10610616](https://doi.org/10.1109/ICRA57147.2024.10610616)
+**DOI:** [10.1109/ICRA57147.2024.10610616](https://doi.org/10.1109/ICRA57147.2024.10610616)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/icra/JakobCSH24,
   author       = {Fabian Jakob and

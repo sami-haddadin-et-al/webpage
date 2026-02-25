@@ -3,7 +3,7 @@ title = "ECDP: Energy Consumption Disaggregation Pipeline for Energy Optimizatio
 date = "2023-01-01"
 categories = ["publication", "article"]
 tags = ["publication", "article"]
-author = ["Juan Heredia", "Robin Jeanne Kirschner", "Christian Schlette", "Saeed Abdolshah", "Sami Haddadin", "Mikkel Baun Kj{\\ae}rgaard"]
+author = ["Juan Heredia", "Robin Jeanne Kirschner", "Christian Schlette", "Saeed Abdolshah", "Sami Haddadin", "Mikkel Baun Kjærgaard"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # ECDP: Energy Consumption Disaggregation Pipeline for Energy Optimization in Lightweight Robots
 
-**Authors:** Juan Heredia, Robin Jeanne Kirschner, Christian Schlette, Saeed Abdolshah, Sami Haddadin, Mikkel Baun Kj{\ae}rgaard
+**Authors:** Juan Heredia, Robin Jeanne Kirschner, Christian Schlette, Saeed Abdolshah, Sami Haddadin, Mikkel Baun Kjærgaard
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/LRA.2023.3301311](https://doi.org/10.1109/LRA.2023.3301311)
+**DOI:** [10.1109/LRA.2023.3301311](https://doi.org/10.1109/LRA.2023.3301311)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @article{DBLP:journals/ral/HerediaKSAHK23,
   author       = {Juan Heredia and

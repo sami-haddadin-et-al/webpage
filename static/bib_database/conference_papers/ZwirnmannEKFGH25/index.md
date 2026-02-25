@@ -3,7 +3,7 @@ title = "The qPCRBot: Combining Automated Data Handling, Standardization, and Ro
 date = "2025-05-19"
 categories = ["publication", "inproceedings"]
 tags = ["publication", "inproceedings"]
-author = ["Henning Zwirnmann", "Moritz Eckhoff", "Dennis Knobbe", "Dorian F{\\\"{u}}l{\\\"{o}}p", "Andrea Gabrielli", "Sami Haddadin"]
+author = ["Henning Zwirnmann", "Moritz Eckhoff", "Dennis Knobbe", "Dorian Fülöp", "Andrea Gabrielli", "Sami Haddadin"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # The qPCRBot: Combining Automated Data Handling, Standardization, and Robotic Labware Transport for Better qPCR Measurements
 
-**Authors:** Henning Zwirnmann, Moritz Eckhoff, Dennis Knobbe, Dorian F{\"{u}}l{\"{o}}p, Andrea Gabrielli, Sami Haddadin
+**Authors:** Henning Zwirnmann, Moritz Eckhoff, Dennis Knobbe, Dorian Fülöp, Andrea Gabrielli, Sami Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/ICRA55743.2025.11128567](https://doi.org/10.1109/ICRA55743.2025.11128567)
+**DOI:** [10.1109/ICRA55743.2025.11128567](https://doi.org/10.1109/ICRA55743.2025.11128567)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/icra/ZwirnmannEKFGH25,
   author       = {Henning Zwirnmann and

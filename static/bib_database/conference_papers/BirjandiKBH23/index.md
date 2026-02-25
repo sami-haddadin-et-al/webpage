@@ -13,8 +13,8 @@ gen_lock = false
 
 **Authors:** Seyed Ali Baradaran Birjandi, Harshit Khurana, Aude Billard, Sami Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/IROS55552.2023.10342476](https://doi.org/10.1109/IROS55552.2023.10342476)
+**DOI:** [10.1109/IROS55552.2023.10342476](https://doi.org/10.1109/IROS55552.2023.10342476)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/iros/BirjandiKBH23,
   author       = {Seyed Ali Baradaran Birjandi and

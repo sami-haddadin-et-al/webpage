@@ -3,7 +3,7 @@ title = "Designing optimally safe robot surface properties for minimizing the st
 date = "2011-05-01"
 categories = ["publication", "inproceedings"]
 tags = ["publication", "inproceedings"]
-author = ["Jung{-}Jun Park", "Sami Haddadin", "Jae{-}Bok Song", "Alin Albu{-}Sch{\\\"{a}}ffer"]
+author = ["Jung-Jun Park", "Sami Haddadin", "Jae-Bok Song", "Alin Albu-Schäffer"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # Designing optimally safe robot surface properties for minimizing the stress characteristics of human-robot collisions
 
-**Authors:** Jung{-}Jun Park, Sami Haddadin, Jae{-}Bok Song, Alin Albu{-}Sch{\"{a}}ffer
+**Authors:** Jung-Jun Park, Sami Haddadin, Jae-Bok Song, Alin Albu-Schäffer
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/ICRA.2011.5980282](https://doi.org/10.1109/ICRA.2011.5980282)
+**DOI:** [10.1109/ICRA.2011.5980282](https://doi.org/10.1109/ICRA.2011.5980282)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/icra/ParkHSA11,
   author       = {Jung{-}Jun Park and

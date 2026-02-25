@@ -3,7 +3,7 @@ title = "Autonomous UAV Mission Cycling: A Mobile Hub Approach for Precise Landi
 date = "2024-05-13"
 categories = ["publication", "inproceedings"]
 tags = ["publication", "inproceedings"]
-author = ["Alexander Moortgat{-}Pick", "Marie Schwahn", "Anna Adamczyk", "Daniel A Duecker", "Sami Haddadin"]
+author = ["Alexander Moortgat-Pick", "Marie Schwahn", "Anna Adamczyk", "Daniel A Duecker", "Sami Haddadin"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # Autonomous UAV Mission Cycling: A Mobile Hub Approach for Precise Landings and Continuous Operations in Challenging Environments
 
-**Authors:** Alexander Moortgat{-}Pick, Marie Schwahn, Anna Adamczyk, Daniel A Duecker, Sami Haddadin
+**Authors:** Alexander Moortgat-Pick, Marie Schwahn, Anna Adamczyk, Daniel A Duecker, Sami Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/ICRA57147.2024.10611292](https://doi.org/10.1109/ICRA57147.2024.10611292)
+**DOI:** [10.1109/ICRA57147.2024.10611292](https://doi.org/10.1109/ICRA57147.2024.10611292)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/icra/Moortgat-PickSA24,
   author       = {Alexander Moortgat{-}Pick and

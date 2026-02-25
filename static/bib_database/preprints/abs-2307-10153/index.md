@@ -3,7 +3,7 @@ title = "Contact-aware Shaping and Maintenance of Deformable Linear Objects With
 date = "2023-01-01"
 categories = ["publication", "article"]
 tags = ["publication", "article"]
-author = ["Kejia Chen", "Zhenshan Bing", "Fan Wu", "Yuan Meng", "Andr{\\'{e}} Kraft", "Sami Haddadin", "Alois Knoll"]
+author = ["Kejia Chen", "Zhenshan Bing", "Fan Wu", "Yuan Meng", "André Kraft", "Sami Haddadin", "Alois Knoll"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # Contact-aware Shaping and Maintenance of Deformable Linear Objects With Fixtures
 
-**Authors:** Kejia Chen, Zhenshan Bing, Fan Wu, Yuan Meng, Andr{\'{e}} Kraft, Sami Haddadin, Alois Knoll
+**Authors:** Kejia Chen, Zhenshan Bing, Fan Wu, Yuan Meng, André Kraft, Sami Haddadin, Alois Knoll
 
-- <!-- **Code:** -->
-- **DOI:** [10.48550/ARXIV.2307.10153](https://doi.org/10.48550/ARXIV.2307.10153)
+**DOI:** [10.48550/ARXIV.2307.10153](https://doi.org/10.48550/ARXIV.2307.10153)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @article{DBLP:journals/corr/abs-2307-10153,
   author       = {Kejia Chen and

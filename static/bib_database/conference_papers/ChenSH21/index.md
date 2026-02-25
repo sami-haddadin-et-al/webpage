@@ -13,8 +13,8 @@ gen_lock = false
 
 **Authors:** Lingyun Chen, Abdalla Swikir, Sami Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/IROS51168.2021.9635879](https://doi.org/10.1109/IROS51168.2021.9635879)
+**DOI:** [10.1109/IROS51168.2021.9635879](https://doi.org/10.1109/IROS51168.2021.9635879)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/iros/ChenSH21,
   author       = {Lingyun Chen and

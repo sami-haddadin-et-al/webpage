@@ -13,8 +13,8 @@ gen_lock = false
 
 **Authors:** Jonathan Bohren, Chavdar Papazov, Darius Burschka, Kai Krieger, Sven Parusel, Sami Haddadin, William L. Shepherdson, Gregory D. Hager, Louis L. Whitcomb
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/ICRA.2013.6631087](https://doi.org/10.1109/ICRA.2013.6631087)
+**DOI:** [10.1109/ICRA.2013.6631087](https://doi.org/10.1109/ICRA.2013.6631087)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/icra/BohrenPBKPHSHW13,
   author       = {Jonathan Bohren and

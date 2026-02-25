@@ -3,7 +3,7 @@ title = "Object-Centric Grasping Transferability: Linking Meshes to Postures"
 date = "2022-11-28"
 categories = ["publication", "inproceedings"]
 tags = ["publication", "inproceedings"]
-author = ["Diego Hidalgo{-}Carvajal", "Carlos Magno C. O. Valle", "Abdeldjallil Naceri", "Sami Haddadin"]
+author = ["Diego Hidalgo-Carvajal", "Carlos Magno C. O. Valle", "Abdeldjallil Naceri", "Sami Haddadin"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # Object-Centric Grasping Transferability: Linking Meshes to Postures
 
-**Authors:** Diego Hidalgo{-}Carvajal, Carlos Magno C. O. Valle, Abdeldjallil Naceri, Sami Haddadin
+**Authors:** Diego Hidalgo-Carvajal, Carlos Magno C. O. Valle, Abdeldjallil Naceri, Sami Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/HUMANOIDS53995.2022.10000192](https://doi.org/10.1109/HUMANOIDS53995.2022.10000192)
+**DOI:** [10.1109/HUMANOIDS53995.2022.10000192](https://doi.org/10.1109/HUMANOIDS53995.2022.10000192)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/humanoids/Hidalgo-Carvajal22,
   author       = {Diego Hidalgo{-}Carvajal and

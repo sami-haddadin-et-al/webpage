@@ -3,7 +3,7 @@ title = "Labelling Lightweight Robot Energy Consumption: A Mechatronics-Based Be
 date = "2023-01-01"
 categories = ["publication", "inproceedings"]
 tags = ["publication", "inproceedings"]
-author = ["Juan Heredia", "Robin Jeanne Kirschner", "Christian Schlette", "Saeed Abdolshah", "Sami Haddadin", "Mikkel Baun Kj{\\ae}rgaard"]
+author = ["Juan Heredia", "Robin Jeanne Kirschner", "Christian Schlette", "Saeed Abdolshah", "Sami Haddadin", "Mikkel Baun Kjærgaard"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # Labelling Lightweight Robot Energy Consumption: A Mechatronics-Based Benchmarking Metric Set
 
-**Authors:** Juan Heredia, Robin Jeanne Kirschner, Christian Schlette, Saeed Abdolshah, Sami Haddadin, Mikkel Baun Kj{\ae}rgaard
+**Authors:** Juan Heredia, Robin Jeanne Kirschner, Christian Schlette, Saeed Abdolshah, Sami Haddadin, Mikkel Baun Kjærgaard
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/IROS55552.2023.10341484](https://doi.org/10.1109/IROS55552.2023.10341484)
+**DOI:** [10.1109/IROS55552.2023.10341484](https://doi.org/10.1109/IROS55552.2023.10341484)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/iros/HerediaKSAHK23,
   author       = {Juan Heredia and

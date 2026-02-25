@@ -3,7 +3,7 @@ title = "Global Safety Characteristics of Wheeled Mobile Manipulators"
 date = "2022-08-20"
 categories = ["publication", "inproceedings"]
 tags = ["publication", "inproceedings"]
-author = ["Nico Mansfeld", "Guillermo G{\\'{o}}mez Pe{\\~{n}}a", "Mazin Hamad", "Alexander Kurdas", "Saeed Abdolshah", "Sami Haddadin"]
+author = ["Nico Mansfeld", "Guillermo Gómez Peña", "Mazin Hamad", "Alexander Kurdas", "Saeed Abdolshah", "Sami Haddadin"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # Global Safety Characteristics of Wheeled Mobile Manipulators
 
-**Authors:** Nico Mansfeld, Guillermo G{\'{o}}mez Pe{\~{n}}a, Mazin Hamad, Alexander Kurdas, Saeed Abdolshah, Sami Haddadin
+**Authors:** Nico Mansfeld, Guillermo Gómez Peña, Mazin Hamad, Alexander Kurdas, Saeed Abdolshah, Sami Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/CASE49997.2022.9926607](https://doi.org/10.1109/CASE49997.2022.9926607)
+**DOI:** [10.1109/CASE49997.2022.9926607](https://doi.org/10.1109/CASE49997.2022.9926607)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/case/MansfeldPHKAH22,
   author       = {Nico Mansfeld and

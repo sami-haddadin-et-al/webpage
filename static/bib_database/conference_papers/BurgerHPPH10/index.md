@@ -13,8 +13,8 @@ gen_lock = false
 
 **Authors:** Robert Burger, Sami Haddadin, Georg Plank, Sven Parusel, Gerd Hirzinger
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/IROS.2010.5650299](https://doi.org/10.1109/IROS.2010.5650299)
+**DOI:** [10.1109/IROS.2010.5650299](https://doi.org/10.1109/IROS.2010.5650299)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/iros/BurgerHPPH10,
   author       = {Robert Burger and

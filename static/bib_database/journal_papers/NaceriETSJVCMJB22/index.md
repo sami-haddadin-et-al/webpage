@@ -3,7 +3,7 @@ title = "Tactile Robotic Telemedicine for Safe Remote Diagnostics in Times of Co
 date = "2022-01-01"
 categories = ["publication", "article"]
 tags = ["publication", "article"]
-author = ["Abdeldjallil Naceri", "Jean Elsner", "Mario Tr{\\\"{o}}binger", "Hamid Sadeghian", "Lars Johannsmeier", "Florian Voigt", "Xiao Chen", "Daniela Macari", "Christoph J{\\\"{a}}hne", "Maximilian Berlet", "Jonas Fuchtmann", "Luis F. C. Figueredo", "Hubertus Feu{\\ss}ner", "Dirk Wilhelm", "Sami Haddadin"]
+author = ["Abdeldjallil Naceri", "Jean Elsner", "Mario Tröbinger", "Hamid Sadeghian", "Lars Johannsmeier", "Florian Voigt", "Xiao Chen", "Daniela Macari", "Christoph Jähne", "Maximilian Berlet", "Jonas Fuchtmann", "Luis F. C. Figueredo", "Hubertus Feußner", "Dirk Wilhelm", "Sami Haddadin"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # Tactile Robotic Telemedicine for Safe Remote Diagnostics in Times of Corona: System Design, Feasibility and Usability Study
 
-**Authors:** Abdeldjallil Naceri, Jean Elsner, Mario Tr{\"{o}}binger, Hamid Sadeghian, Lars Johannsmeier, Florian Voigt, Xiao Chen, Daniela Macari, Christoph J{\"{a}}hne, Maximilian Berlet, Jonas Fuchtmann, Luis F. C. Figueredo, Hubertus Feu{\ss}ner, Dirk Wilhelm, Sami Haddadin
+**Authors:** Abdeldjallil Naceri, Jean Elsner, Mario Tröbinger, Hamid Sadeghian, Lars Johannsmeier, Florian Voigt, Xiao Chen, Daniela Macari, Christoph Jähne, Maximilian Berlet, Jonas Fuchtmann, Luis F. C. Figueredo, Hubertus Feußner, Dirk Wilhelm, Sami Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/LRA.2022.3191563](https://doi.org/10.1109/LRA.2022.3191563)
+**DOI:** [10.1109/LRA.2022.3191563](https://doi.org/10.1109/LRA.2022.3191563)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @article{DBLP:journals/ral/NaceriETSJVCMJB22,
   author       = {Abdeldjallil Naceri and

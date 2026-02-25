@@ -13,8 +13,8 @@ gen_lock = false
 
 **Authors:** Lingyun Chen, Abdeldjallil Naceri, Abdalla Swikir, Sandra Hirche, Sami Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/ICRA57147.2024.10610310](https://doi.org/10.1109/ICRA57147.2024.10610310)
+**DOI:** [10.1109/ICRA57147.2024.10610310](https://doi.org/10.1109/ICRA57147.2024.10610310)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/icra/ChenNSHH24,
   author       = {Lingyun Chen and

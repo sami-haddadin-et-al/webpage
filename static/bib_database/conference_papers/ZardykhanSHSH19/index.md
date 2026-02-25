@@ -3,7 +3,7 @@ title = "Collision Preventing Phase-Progress Control for Velocity Adaptation in 
 date = "2019-10-15"
 categories = ["publication", "inproceedings"]
 tags = ["publication", "inproceedings"]
-author = ["Dinmukhamed Zardykhan", "Petr Svarn{\\'{y}}", "Matej Hoffmann", "Erfan Shahriari", "Sami Haddadin"]
+author = ["Dinmukhamed Zardykhan", "Petr Svarný", "Matej Hoffmann", "Erfan Shahriari", "Sami Haddadin"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # Collision Preventing Phase-Progress Control for Velocity Adaptation in Human-Robot Collaboration
 
-**Authors:** Dinmukhamed Zardykhan, Petr Svarn{\'{y}}, Matej Hoffmann, Erfan Shahriari, Sami Haddadin
+**Authors:** Dinmukhamed Zardykhan, Petr Svarný, Matej Hoffmann, Erfan Shahriari, Sami Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/HUMANOIDS43949.2019.9035065](https://doi.org/10.1109/HUMANOIDS43949.2019.9035065)
+**DOI:** [10.1109/HUMANOIDS43949.2019.9035065](https://doi.org/10.1109/HUMANOIDS43949.2019.9035065)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/humanoids/ZardykhanSHSH19,
   author       = {Dinmukhamed Zardykhan and

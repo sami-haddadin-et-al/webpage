@@ -3,7 +3,7 @@ title = "A human-centered approach to robot gesture based communication within c
 date = "2011-09-25"
 categories = ["publication", "inproceedings"]
 tags = ["publication", "inproceedings"]
-author = ["Tobias Ende", "Sami Haddadin", "Sven Parusel", "Tilo W{\\\"{u}}sthoff", "Marc Hassenzahl", "Alin Albu{-}Sch{\\\"{a}}ffer"]
+author = ["Tobias Ende", "Sami Haddadin", "Sven Parusel", "Tilo Wüsthoff", "Marc Hassenzahl", "Alin Albu-Schäffer"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # A human-centered approach to robot gesture based communication within collaborative working processes
 
-**Authors:** Tobias Ende, Sami Haddadin, Sven Parusel, Tilo W{\"{u}}sthoff, Marc Hassenzahl, Alin Albu{-}Sch{\"{a}}ffer
+**Authors:** Tobias Ende, Sami Haddadin, Sven Parusel, Tilo Wüsthoff, Marc Hassenzahl, Alin Albu-Schäffer
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/IROS.2011.6094592](https://doi.org/10.1109/IROS.2011.6094592)
+**DOI:** [10.1109/IROS.2011.6094592](https://doi.org/10.1109/IROS.2011.6094592)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/iros/EndeHPWHA11,
   author       = {Tobias Ende and

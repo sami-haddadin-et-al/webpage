@@ -3,7 +3,7 @@ title = "Robot Collisions: A Survey on Detection, Isolation, and Identification"
 date = "2017-01-01"
 categories = ["publication", "article"]
 tags = ["publication", "article"]
-author = ["Sami Haddadin", "Alessandro De Luca", "Alin Albu{-}Sch{\\\"{a}}ffer"]
+author = ["Sami Haddadin", "Alessandro De Luca", "Alin Albu-Schäffer"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # Robot Collisions: A Survey on Detection, Isolation, and Identification
 
-**Authors:** Sami Haddadin, Alessandro De Luca, Alin Albu{-}Sch{\"{a}}ffer
+**Authors:** Sami Haddadin, Alessandro De Luca, Alin Albu-Schäffer
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/TRO.2017.2723903](https://doi.org/10.1109/TRO.2017.2723903)
+**DOI:** [10.1109/TRO.2017.2723903](https://doi.org/10.1109/TRO.2017.2723903)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @article{DBLP:journals/trob/HaddadinLA17,
   author       = {Sami Haddadin and

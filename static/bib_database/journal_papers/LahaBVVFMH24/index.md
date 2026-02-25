@@ -3,7 +3,7 @@ title = "Predictive Multi-Agent-Based Planning and Landing Controller for Reacti
 date = "2024-01-01"
 categories = ["publication", "article"]
 tags = ["publication", "article"]
-author = ["Riddhiman Laha", "Marvin Becker", "Jonathan Vorndamme", "Juraj Vrabel", "Luis F. C. Figueredo", "Matthias Albrecht M{\\\"{u}}ller", "Sami Haddadin"]
+author = ["Riddhiman Laha", "Marvin Becker", "Jonathan Vorndamme", "Juraj Vrabel", "Luis F. C. Figueredo", "Matthias Albrecht Müller", "Sami Haddadin"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # Predictive Multi-Agent-Based Planning and Landing Controller for Reactive Dual-Arm Manipulation
 
-**Authors:** Riddhiman Laha, Marvin Becker, Jonathan Vorndamme, Juraj Vrabel, Luis F. C. Figueredo, Matthias Albrecht M{\"{u}}ller, Sami Haddadin
+**Authors:** Riddhiman Laha, Marvin Becker, Jonathan Vorndamme, Juraj Vrabel, Luis F. C. Figueredo, Matthias Albrecht Müller, Sami Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/TRO.2023.3341689](https://doi.org/10.1109/TRO.2023.3341689)
+**DOI:** [10.1109/TRO.2023.3341689](https://doi.org/10.1109/TRO.2023.3341689)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @article{DBLP:journals/trob/LahaBVVFMH24,
   author       = {Riddhiman Laha and

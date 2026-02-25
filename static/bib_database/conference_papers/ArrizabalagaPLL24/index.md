@@ -13,8 +13,8 @@ gen_lock = false
 
 **Authors:** Jon Arrizabalaga, Lukas Pries, Riddhiman Laha, Runkang Li, Sami Haddadin, Markus Ryll
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/ICRA57147.2024.10610813](https://doi.org/10.1109/ICRA57147.2024.10610813)
+**DOI:** [10.1109/ICRA57147.2024.10610813](https://doi.org/10.1109/ICRA57147.2024.10610813)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/icra/ArrizabalagaPLL24,
   author       = {Jon Arrizabalaga and

@@ -3,7 +3,7 @@ title = "Biomechanisch sichere Geschwindigkeitsregelung f\\\"ur die Mensch-Robot
 date = "2014-01-01"
 categories = ["publication", "article"]
 tags = ["publication", "article"]
-author = ["Sami Haddadin", "Simon Haddadin", "Augusto Khoury", "Tim Rokahr", "Sven Parusel", "Rainer Burgkart", "Antonio Bicchi", "Alin Albu{-}Sch{\\\"{a}}ffer"]
+author = ["Sami Haddadin", "Simon Haddadin", "Augusto Khoury", "Tim Rokahr", "Sven Parusel", "Rainer Burgkart", "Antonio Bicchi", "Alin Albu-Schäffer"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # Biomechanisch sichere Geschwindigkeitsregelung f\"ur die Mensch-Roboter Interaktion
 
-**Authors:** Sami Haddadin, Simon Haddadin, Augusto Khoury, Tim Rokahr, Sven Parusel, Rainer Burgkart, Antonio Bicchi, Alin Albu{-}Sch{\"{a}}ffer
+**Authors:** Sami Haddadin, Simon Haddadin, Augusto Khoury, Tim Rokahr, Sven Parusel, Rainer Burgkart, Antonio Bicchi, Alin Albu-Schäffer
 
-- <!-- **Code:** -->
-- **DOI:** [10.1515/AUTO-2012-0236](https://doi.org/10.1515/AUTO-2012-0236)
+**DOI:** [10.1515/AUTO-2012-0236](https://doi.org/10.1515/AUTO-2012-0236)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @article{DBLP:journals/at/HaddadinHKRPBBA14,
   author       = {Sami Haddadin and

@@ -3,7 +3,7 @@ title = "Collision detection and reaction: A contribution to safe physical Human
 date = "2008-09-22"
 categories = ["publication", "inproceedings"]
 tags = ["publication", "inproceedings"]
-author = ["Sami Haddadin", "Alin Albu{-}Sch{\\\"{a}}ffer", "Alessandro De Luca", "Gerd Hirzinger"]
+author = ["Sami Haddadin", "Alin Albu-Schäffer", "Alessandro De Luca", "Gerd Hirzinger"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # Collision detection and reaction: A contribution to safe physical Human-Robot Interaction
 
-**Authors:** Sami Haddadin, Alin Albu{-}Sch{\"{a}}ffer, Alessandro De Luca, Gerd Hirzinger
+**Authors:** Sami Haddadin, Alin Albu-Schäffer, Alessandro De Luca, Gerd Hirzinger
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/IROS.2008.4650764](https://doi.org/10.1109/IROS.2008.4650764)
+**DOI:** [10.1109/IROS.2008.4650764](https://doi.org/10.1109/IROS.2008.4650764)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/iros/HaddadinALH08,
   author       = {Sami Haddadin and

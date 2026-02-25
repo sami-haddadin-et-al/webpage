@@ -3,7 +3,7 @@ title = "On joint design with intrinsic variable compliance: derivation of the D
 date = "2010-05-01"
 categories = ["publication", "inproceedings"]
 tags = ["publication", "inproceedings"]
-author = ["Oliver Eiberger", "Sami Haddadin", "Michael Weis", "Alin Albu{-}Sch{\\\"{a}}ffer", "Gerd Hirzinger"]
+author = ["Oliver Eiberger", "Sami Haddadin", "Michael Weis", "Alin Albu-Schäffer", "Gerd Hirzinger"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # On joint design with intrinsic variable compliance: derivation of the DLR QA-Joint
 
-**Authors:** Oliver Eiberger, Sami Haddadin, Michael Weis, Alin Albu{-}Sch{\"{a}}ffer, Gerd Hirzinger
+**Authors:** Oliver Eiberger, Sami Haddadin, Michael Weis, Alin Albu-Schäffer, Gerd Hirzinger
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/ROBOT.2010.5509662](https://doi.org/10.1109/ROBOT.2010.5509662)
+**DOI:** [10.1109/ROBOT.2010.5509662](https://doi.org/10.1109/ROBOT.2010.5509662)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/icra/EibergerHWAH10,
   author       = {Oliver Eiberger and

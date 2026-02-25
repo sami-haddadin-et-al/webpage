@@ -3,7 +3,7 @@ title = "Integrated Bi-Manual Motion Generation and Control shaped for Probabili
 date = "2022-11-28"
 categories = ["publication", "inproceedings"]
 tags = ["publication", "inproceedings"]
-author = ["Jonathan Vorndamme", "Jo{\\~{a}}o Carvalho", "Riddhiman Laha", "Dorothea Koert", "Luis F. C. Figueredo", "Jan Peters", "Sami Haddadin"]
+author = ["Jonathan Vorndamme", "João Carvalho", "Riddhiman Laha", "Dorothea Koert", "Luis F. C. Figueredo", "Jan Peters", "Sami Haddadin"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # Integrated Bi-Manual Motion Generation and Control shaped for Probabilistic Movement Primitives
 
-**Authors:** Jonathan Vorndamme, Jo{\~{a}}o Carvalho, Riddhiman Laha, Dorothea Koert, Luis F. C. Figueredo, Jan Peters, Sami Haddadin
+**Authors:** Jonathan Vorndamme, João Carvalho, Riddhiman Laha, Dorothea Koert, Luis F. C. Figueredo, Jan Peters, Sami Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/HUMANOIDS53995.2022.10000149](https://doi.org/10.1109/HUMANOIDS53995.2022.10000149)
+**DOI:** [10.1109/HUMANOIDS53995.2022.10000149](https://doi.org/10.1109/HUMANOIDS53995.2022.10000149)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/humanoids/VorndammeCLKFPH22,
   author       = {Jonathan Vorndamme and

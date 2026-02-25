@@ -3,7 +3,7 @@ title = "A truly safely moving robot has to know what injury it may cause"
 date = "2012-10-07"
 categories = ["publication", "inproceedings"]
 tags = ["publication", "inproceedings"]
-author = ["Sami Haddadin", "Simon Haddadin", "Augusto Khoury", "Tim Rokahr", "Sven Parusel", "Rainer Burgkart", "Antonio Bicchi", "Alin Albu{-}Sch{\\\"{a}}ffer"]
+author = ["Sami Haddadin", "Simon Haddadin", "Augusto Khoury", "Tim Rokahr", "Sven Parusel", "Rainer Burgkart", "Antonio Bicchi", "Alin Albu-Schäffer"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # A truly safely moving robot has to know what injury it may cause
 
-**Authors:** Sami Haddadin, Simon Haddadin, Augusto Khoury, Tim Rokahr, Sven Parusel, Rainer Burgkart, Antonio Bicchi, Alin Albu{-}Sch{\"{a}}ffer
+**Authors:** Sami Haddadin, Simon Haddadin, Augusto Khoury, Tim Rokahr, Sven Parusel, Rainer Burgkart, Antonio Bicchi, Alin Albu-Schäffer
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/IROS.2012.6386163](https://doi.org/10.1109/IROS.2012.6386163)
+**DOI:** [10.1109/IROS.2012.6386163](https://doi.org/10.1109/IROS.2012.6386163)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/iros/HaddadinHKRPBBA12,
   author       = {Sami Haddadin and

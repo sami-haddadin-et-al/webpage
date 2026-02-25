@@ -13,8 +13,8 @@ gen_lock = false
 
 **Authors:** Christopher Herneth, Junnan Li, Muhammad Hilman Fatoni, Amartya Ganguly, Sami Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/IROS58592.2024.10802350](https://doi.org/10.1109/IROS58592.2024.10802350)
+**DOI:** [10.1109/IROS58592.2024.10802350](https://doi.org/10.1109/IROS58592.2024.10802350)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/iros/Herneth0FGH24,
   author       = {Christopher Herneth and

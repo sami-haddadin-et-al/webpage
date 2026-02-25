@@ -13,8 +13,8 @@ gen_lock = false
 
 **Authors:** Alexander Toedtheide, Erfan Shahriari, Sami Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/ICRA.2017.7989149](https://doi.org/10.1109/ICRA.2017.7989149)
+**DOI:** [10.1109/ICRA.2017.7989149](https://doi.org/10.1109/ICRA.2017.7989149)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/icra/ToedtheideSH17,
   author       = {Alexander Toedtheide and

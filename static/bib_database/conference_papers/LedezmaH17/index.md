@@ -13,8 +13,8 @@ gen_lock = false
 
 **Authors:** Fernando Diaz Ledezma, Sami Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/HUMANOIDS.2017.8246910](https://doi.org/10.1109/HUMANOIDS.2017.8246910)
+**DOI:** [10.1109/HUMANOIDS.2017.8246910](https://doi.org/10.1109/HUMANOIDS.2017.8246910)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/humanoids/LedezmaH17,
   author       = {Fernando Diaz Ledezma and

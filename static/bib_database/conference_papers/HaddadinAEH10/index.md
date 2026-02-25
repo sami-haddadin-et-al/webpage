@@ -3,7 +3,7 @@ title = "New insights concerning intrinsic joint elasticity for safety"
 date = "2010-10-18"
 categories = ["publication", "inproceedings"]
 tags = ["publication", "inproceedings"]
-author = ["Sami Haddadin", "Alin Albu{-}Sch{\\\"{a}}ffer", "Oliver Eiberger", "Gerd Hirzinger"]
+author = ["Sami Haddadin", "Alin Albu-Schäffer", "Oliver Eiberger", "Gerd Hirzinger"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # New insights concerning intrinsic joint elasticity for safety
 
-**Authors:** Sami Haddadin, Alin Albu{-}Sch{\"{a}}ffer, Oliver Eiberger, Gerd Hirzinger
+**Authors:** Sami Haddadin, Alin Albu-Schäffer, Oliver Eiberger, Gerd Hirzinger
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/IROS.2010.5652037](https://doi.org/10.1109/IROS.2010.5652037)
+**DOI:** [10.1109/IROS.2010.5652037](https://doi.org/10.1109/IROS.2010.5652037)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/iros/HaddadinAEH10,
   author       = {Sami Haddadin and

@@ -3,7 +3,7 @@ title = "Collision Detection and Safe Reaction with the DLR-III Lightweight Mani
 date = "2006-10-09"
 categories = ["publication", "inproceedings"]
 tags = ["publication", "inproceedings"]
-author = ["Alessandro De Luca", "Alin Albu{-}Sch{\\\"{a}}ffer", "Sami Haddadin", "Gerd Hirzinger"]
+author = ["Alessandro De Luca", "Alin Albu-Schäffer", "Sami Haddadin", "Gerd Hirzinger"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # Collision Detection and Safe Reaction with the DLR-III Lightweight Manipulator Arm
 
-**Authors:** Alessandro De Luca, Alin Albu{-}Sch{\"{a}}ffer, Sami Haddadin, Gerd Hirzinger
+**Authors:** Alessandro De Luca, Alin Albu-Schäffer, Sami Haddadin, Gerd Hirzinger
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/IROS.2006.282053](https://doi.org/10.1109/IROS.2006.282053)
+**DOI:** [10.1109/IROS.2006.282053](https://doi.org/10.1109/IROS.2006.282053)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/iros/LucaAHH06,
   author       = {Alessandro De Luca and

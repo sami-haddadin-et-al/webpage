@@ -3,7 +3,7 @@ title = "End-to-End From Human Hand Synergies to Robot Hand Tendon Routing"
 date = "2022-01-01"
 categories = ["publication", "article"]
 tags = ["publication", "article"]
-author = ["Diego Hidalgo{-}Carvajal", "Christopher Herneth", "Abdeldjallil Naceri", "Sami Haddadin"]
+author = ["Diego Hidalgo-Carvajal", "Christopher Herneth", "Abdeldjallil Naceri", "Sami Haddadin"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # End-to-End From Human Hand Synergies to Robot Hand Tendon Routing
 
-**Authors:** Diego Hidalgo{-}Carvajal, Christopher Herneth, Abdeldjallil Naceri, Sami Haddadin
+**Authors:** Diego Hidalgo-Carvajal, Christopher Herneth, Abdeldjallil Naceri, Sami Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/LRA.2022.3192649](https://doi.org/10.1109/LRA.2022.3192649)
+**DOI:** [10.1109/LRA.2022.3192649](https://doi.org/10.1109/LRA.2022.3192649)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @article{DBLP:journals/ral/Hidalgo-Carvajal22,
   author       = {Diego Hidalgo{-}Carvajal and

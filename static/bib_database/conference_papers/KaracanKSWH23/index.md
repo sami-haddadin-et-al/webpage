@@ -3,7 +3,7 @@ title = "The Inherent Representation of Tactile Manipulation Using Unified Force
 date = "2023-12-13"
 categories = ["publication", "inproceedings"]
 tags = ["publication", "inproceedings"]
-author = ["K{\\\"{u}}bra Karacan", "Robin Jeanne Kirschner", "Hamid Sadeghian", "Fan Wu", "Sami Haddadin"]
+author = ["Kübra Karacan", "Robin Jeanne Kirschner", "Hamid Sadeghian", "Fan Wu", "Sami Haddadin"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # The Inherent Representation of Tactile Manipulation Using Unified Force-Impedance Control
 
-**Authors:** K{\"{u}}bra Karacan, Robin Jeanne Kirschner, Hamid Sadeghian, Fan Wu, Sami Haddadin
+**Authors:** Kübra Karacan, Robin Jeanne Kirschner, Hamid Sadeghian, Fan Wu, Sami Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/CDC49753.2023.10383326](https://doi.org/10.1109/CDC49753.2023.10383326)
+**DOI:** [10.1109/CDC49753.2023.10383326](https://doi.org/10.1109/CDC49753.2023.10383326)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/cdc/KaracanKSWH23,
   author       = {K{\"{u}}bra Karacan and

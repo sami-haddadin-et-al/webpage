@@ -13,8 +13,8 @@ gen_lock = false
 
 **Authors:** Ainoor Teimoorzadeh, Andrea Pupa, Mario Selvaggio, Sami Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/ICRA55743.2025.11127885](https://doi.org/10.1109/ICRA55743.2025.11127885)
+**DOI:** [10.1109/ICRA55743.2025.11127885](https://doi.org/10.1109/ICRA55743.2025.11127885)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/icra/TeimoorzadehPSH25,
   author       = {Ainoor Teimoorzadeh and

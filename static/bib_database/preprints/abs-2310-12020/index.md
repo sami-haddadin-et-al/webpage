@@ -3,7 +3,7 @@ title = "LoHoRavens: A Long-Horizon Language-Conditioned Benchmark for Robotic T
 date = "2023-01-01"
 categories = ["publication", "article"]
 tags = ["publication", "article"]
-author = ["Shengqiang Zhang", "Philipp Wicke", "L{\\\"{u}}tfi Kerem Senel", "Luis F. C. Figueredo", "Abdeldjallil Naceri", "Sami Haddadin", "Barbara Plank", "Hinrich Sch{\\\"{u}}tze"]
+author = ["Shengqiang Zhang", "Philipp Wicke", "Lütfi Kerem Senel", "Luis F. C. Figueredo", "Abdeldjallil Naceri", "Sami Haddadin", "Barbara Plank", "Hinrich Schütze"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # LoHoRavens: A Long-Horizon Language-Conditioned Benchmark for Robotic Tabletop Manipulation
 
-**Authors:** Shengqiang Zhang, Philipp Wicke, L{\"{u}}tfi Kerem Senel, Luis F. C. Figueredo, Abdeldjallil Naceri, Sami Haddadin, Barbara Plank, Hinrich Sch{\"{u}}tze
+**Authors:** Shengqiang Zhang, Philipp Wicke, Lütfi Kerem Senel, Luis F. C. Figueredo, Abdeldjallil Naceri, Sami Haddadin, Barbara Plank, Hinrich Schütze
 
-- <!-- **Code:** -->
-- **DOI:** [10.48550/ARXIV.2310.12020](https://doi.org/10.48550/ARXIV.2310.12020)
+**DOI:** [10.48550/ARXIV.2310.12020](https://doi.org/10.48550/ARXIV.2310.12020)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @article{DBLP:journals/corr/abs-2310-12020,
   author       = {Shengqiang Zhang and

@@ -13,8 +13,8 @@ gen_lock = false
 
 **Authors:** Simone Nertinger, Robin Jeanne Kirschner, Abdeldjallil Naceri, Sami Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** [10.1007/S12369-022-00931-9](https://doi.org/10.1007/S12369-022-00931-9)
+**DOI:** [10.1007/S12369-022-00931-9](https://doi.org/10.1007/S12369-022-00931-9)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @article{DBLP:journals/ijsr/NertingerKNH24,
   author       = {Simone Nertinger and

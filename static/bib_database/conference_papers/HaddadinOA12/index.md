@@ -3,7 +3,7 @@ title = "Optimal control for maximizing potential energy in a variable stiffness
 date = "2012-12-10"
 categories = ["publication", "inproceedings"]
 tags = ["publication", "inproceedings"]
-author = ["Sami Haddadin", "Mehmet Can Ozparpucu", "Alin Albu{-}Sch{\\\"{a}}ffer"]
+author = ["Sami Haddadin", "Mehmet Can Ozparpucu", "Alin Albu-Schäffer"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # Optimal control for maximizing potential energy in a variable stiffness joint
 
-**Authors:** Sami Haddadin, Mehmet Can Ozparpucu, Alin Albu{-}Sch{\"{a}}ffer
+**Authors:** Sami Haddadin, Mehmet Can Ozparpucu, Alin Albu-Schäffer
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/CDC.2012.6426032](https://doi.org/10.1109/CDC.2012.6426032)
+**DOI:** [10.1109/CDC.2012.6426032](https://doi.org/10.1109/CDC.2012.6426032)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/cdc/HaddadinOA12,
   author       = {Sami Haddadin and

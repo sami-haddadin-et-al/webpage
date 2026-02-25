@@ -3,7 +3,7 @@ title = "A Tactile Lightweight Exoskeleton for Teleoperation: Design and Control
 date = "2024-10-14"
 categories = ["publication", "inproceedings"]
 tags = ["publication", "inproceedings"]
-author = ["Moein Forouhar", "Hamid Sadeghian", "Daniel P{\\'{e}}rez{-}Suay", "Abdeldjallil Naceri", "Sami Haddadin"]
+author = ["Moein Forouhar", "Hamid Sadeghian", "Daniel Pérez-Suay", "Abdeldjallil Naceri", "Sami Haddadin"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # A Tactile Lightweight Exoskeleton for Teleoperation: Design and Control Performance
 
-**Authors:** Moein Forouhar, Hamid Sadeghian, Daniel P{\'{e}}rez{-}Suay, Abdeldjallil Naceri, Sami Haddadin
+**Authors:** Moein Forouhar, Hamid Sadeghian, Daniel Pérez-Suay, Abdeldjallil Naceri, Sami Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/IROS58592.2024.10802732](https://doi.org/10.1109/IROS58592.2024.10802732)
+**DOI:** [10.1109/IROS58592.2024.10802732](https://doi.org/10.1109/IROS58592.2024.10802732)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/iros/ForouharSPNH24,
   author       = {Moein Forouhar and

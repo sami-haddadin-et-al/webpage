@@ -3,7 +3,7 @@ title = "Testing robot-based assist-as-needed therapy for improving active parti
 date = "2022-07-25"
 categories = ["publication", "inproceedings"]
 tags = ["publication", "inproceedings"]
-author = ["Kim K. Peper", "Dinmukhamed Zardykhan", "Marion Egger", "Martina Steinb{\\\"{o}}ck", "Friedemann M{\\\"{u}}ller", "Xavier Hildenbrand", "Alexander Koenig", "Elisabeth Rose Jensen", "Sami Haddadin"]
+author = ["Kim K. Peper", "Dinmukhamed Zardykhan", "Marion Egger", "Martina Steinböck", "Friedemann Müller", "Xavier Hildenbrand", "Alexander Koenig", "Elisabeth Rose Jensen", "Sami Haddadin"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # Testing robot-based assist-as-needed therapy for improving active participation of a patient during early neurorehabilitation: a case study
 
-**Authors:** Kim K. Peper, Dinmukhamed Zardykhan, Marion Egger, Martina Steinb{\"{o}}ck, Friedemann M{\"{u}}ller, Xavier Hildenbrand, Alexander Koenig, Elisabeth Rose Jensen, Sami Haddadin
+**Authors:** Kim K. Peper, Dinmukhamed Zardykhan, Marion Egger, Martina Steinböck, Friedemann Müller, Xavier Hildenbrand, Alexander Koenig, Elisabeth Rose Jensen, Sami Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/ICORR55369.2022.9896495](https://doi.org/10.1109/ICORR55369.2022.9896495)
+**DOI:** [10.1109/ICORR55369.2022.9896495](https://doi.org/10.1109/ICORR55369.2022.9896495)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/icorr/PeperZESMHKJH22,
   author       = {Kim K. Peper and

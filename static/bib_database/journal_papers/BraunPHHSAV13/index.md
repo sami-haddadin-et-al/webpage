@@ -3,7 +3,7 @@ title = "Robots Driven by Compliant Actuators: Optimal Control Under Actuation C
 date = "2013-01-01"
 categories = ["publication", "article"]
 tags = ["publication", "article"]
-author = ["David J. Braun", "Florian Petit", "Felix Huber", "Sami Haddadin", "Patrick van der Smagt", "Alin Albu{-}Sch{\\\"{a}}ffer", "Sethu Vijayakumar"]
+author = ["David J. Braun", "Florian Petit", "Felix Huber", "Sami Haddadin", "Patrick van der Smagt", "Alin Albu-Schäffer", "Sethu Vijayakumar"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # Robots Driven by Compliant Actuators: Optimal Control Under Actuation Constraints
 
-**Authors:** David J. Braun, Florian Petit, Felix Huber, Sami Haddadin, Patrick van der Smagt, Alin Albu{-}Sch{\"{a}}ffer, Sethu Vijayakumar
+**Authors:** David J. Braun, Florian Petit, Felix Huber, Sami Haddadin, Patrick van der Smagt, Alin Albu-Schäffer, Sethu Vijayakumar
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/TRO.2013.2271099](https://doi.org/10.1109/TRO.2013.2271099)
+**DOI:** [10.1109/TRO.2013.2271099](https://doi.org/10.1109/TRO.2013.2271099)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @article{DBLP:journals/trob/BraunPHHSAV13,
   author       = {David J. Braun and

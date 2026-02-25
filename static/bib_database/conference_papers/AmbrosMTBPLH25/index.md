@@ -3,7 +3,7 @@ title = "Design Optimization of a Single-DoF Gait Rehabilitation Robot for a Dom
 date = "2025-10-19"
 categories = ["publication", "inproceedings"]
 tags = ["publication", "inproceedings"]
-author = ["Julius Ambros", "Valentin Le Mesle", "Laura Tissari", "Hendrik B{\\\"{o}}rner", "Helfried Peyrl", "Tim C. L{\\\"{u}}th", "Sami Haddadin"]
+author = ["Julius Ambros", "Valentin Le Mesle", "Laura Tissari", "Hendrik Börner", "Helfried Peyrl", "Tim C. Lüth", "Sami Haddadin"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # Design Optimization of a Single-DoF Gait Rehabilitation Robot for a Domestic Environment
 
-**Authors:** Julius Ambros, Valentin Le Mesle, Laura Tissari, Hendrik B{\"{o}}rner, Helfried Peyrl, Tim C. L{\"{u}}th, Sami Haddadin
+**Authors:** Julius Ambros, Valentin Le Mesle, Laura Tissari, Hendrik Börner, Helfried Peyrl, Tim C. Lüth, Sami Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/IROS60139.2025.11246005](https://doi.org/10.1109/IROS60139.2025.11246005)
+**DOI:** [10.1109/IROS60139.2025.11246005](https://doi.org/10.1109/IROS60139.2025.11246005)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/iros/AmbrosMTBPLH25,
   author       = {Julius Ambros and

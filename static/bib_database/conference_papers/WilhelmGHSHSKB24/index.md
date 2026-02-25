@@ -3,7 +3,7 @@ title = "Design and Implementation of a Robotic Testbench for Analyzing Pincer G
 date = "2024-05-13"
 categories = ["publication", "inproceedings"]
 tags = ["publication", "inproceedings"]
-author = ["Nikolas J. Wilhelm", "Claudio Glowalla", "Sami Haddadin", "Julian Schote", "Hannes H{\\\"{o}}ppner", "Patrick van der Smagt", "Maximilian Karl", "Rainer Burgkart"]
+author = ["Nikolas J. Wilhelm", "Claudio Glowalla", "Sami Haddadin", "Julian Schote", "Hannes Höppner", "Patrick van der Smagt", "Maximilian Karl", "Rainer Burgkart"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # Design and Implementation of a Robotic Testbench for Analyzing Pincer Grip Execution in Human Specimen Hands
 
-**Authors:** Nikolas J. Wilhelm, Claudio Glowalla, Sami Haddadin, Julian Schote, Hannes H{\"{o}}ppner, Patrick van der Smagt, Maximilian Karl, Rainer Burgkart
+**Authors:** Nikolas J. Wilhelm, Claudio Glowalla, Sami Haddadin, Julian Schote, Hannes Höppner, Patrick van der Smagt, Maximilian Karl, Rainer Burgkart
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/ICRA57147.2024.10610715](https://doi.org/10.1109/ICRA57147.2024.10610715)
+**DOI:** [10.1109/ICRA57147.2024.10610715](https://doi.org/10.1109/ICRA57147.2024.10610715)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/icra/WilhelmGHSHSKB24,
   author       = {Nikolas J. Wilhelm and

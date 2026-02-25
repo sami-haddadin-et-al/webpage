@@ -13,8 +13,8 @@ gen_lock = false
 
 **Authors:** Andreas Frotzscher, Xiao Chen, Duy Lam Tran, Thore Goll, Hamid Sadeghian, Fan Wu, Martin Dehmel, Tommy Wohlfahrt, Matthias Riedl, Sami Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/CASE56687.2023.10260499](https://doi.org/10.1109/CASE56687.2023.10260499)
+**DOI:** [10.1109/CASE56687.2023.10260499](https://doi.org/10.1109/CASE56687.2023.10260499)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/case/FrotzscherCTGSWDWRH23,
   author       = {Andreas Frotzscher and

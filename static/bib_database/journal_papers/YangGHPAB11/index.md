@@ -3,7 +3,7 @@ title = "Human-Like Adaptation of Force and Impedance in Stable and Unstable Int
 date = "2011-01-01"
 categories = ["publication", "article"]
 tags = ["publication", "article"]
-author = ["Chenguang Yang", "Ganesh Gowrishankar", "Sami Haddadin", "Sven Parusel", "Alin Albu{-}Sch{\\\"{a}}ffer", "Etienne Burdet"]
+author = ["Chenguang Yang", "Ganesh Gowrishankar", "Sami Haddadin", "Sven Parusel", "Alin Albu-Schäffer", "Etienne Burdet"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # Human-Like Adaptation of Force and Impedance in Stable and Unstable Interactions
 
-**Authors:** Chenguang Yang, Ganesh Gowrishankar, Sami Haddadin, Sven Parusel, Alin Albu{-}Sch{\"{a}}ffer, Etienne Burdet
+**Authors:** Chenguang Yang, Ganesh Gowrishankar, Sami Haddadin, Sven Parusel, Alin Albu-Schäffer, Etienne Burdet
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/TRO.2011.2158251](https://doi.org/10.1109/TRO.2011.2158251)
+**DOI:** [10.1109/TRO.2011.2158251](https://doi.org/10.1109/TRO.2011.2158251)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @article{DBLP:journals/trob/YangGHPAB11,
   author       = {Chenguang Yang and

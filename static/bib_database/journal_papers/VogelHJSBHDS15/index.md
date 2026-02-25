@@ -3,7 +3,7 @@ title = "An assistive decision-and-control architecture for force-sensitive hand
 date = "2015-01-01"
 categories = ["publication", "article"]
 tags = ["publication", "article"]
-author = ["J{\\\"{o}}rn Vogel", "Sami Haddadin", "Beata Jarosiewicz", "John D. Simeral", "Daniel Bacher", "Leigh R. Hochberg", "John P. Donoghue", "Patrick van der Smagt"]
+author = ["Jörn Vogel", "Sami Haddadin", "Beata Jarosiewicz", "John D. Simeral", "Daniel Bacher", "Leigh R. Hochberg", "John P. Donoghue", "Patrick van der Smagt"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # An assistive decision-and-control architecture for force-sensitive hand-arm systems driven by human-machine interfaces
 
-**Authors:** J{\"{o}}rn Vogel, Sami Haddadin, Beata Jarosiewicz, John D. Simeral, Daniel Bacher, Leigh R. Hochberg, John P. Donoghue, Patrick van der Smagt
+**Authors:** Jörn Vogel, Sami Haddadin, Beata Jarosiewicz, John D. Simeral, Daniel Bacher, Leigh R. Hochberg, John P. Donoghue, Patrick van der Smagt
 
-- <!-- **Code:** -->
-- **DOI:** [10.1177/0278364914561535](https://doi.org/10.1177/0278364914561535)
+**DOI:** [10.1177/0278364914561535](https://doi.org/10.1177/0278364914561535)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @article{DBLP:journals/ijrr/VogelHJSBHDS15,
   author       = {J{\"{o}}rn Vogel and

@@ -3,7 +3,7 @@ title = "MonLog: MONotonic-Constrained LOGistic Regressions for Automated Safety
 date = "2025-05-19"
 categories = ["publication", "inproceedings"]
 tags = ["publication", "inproceedings"]
-author = ["Alessandro Melone", "Robin Jeanne Kirschner", "Dirk M{\\\"{u}}ller", "Abdalla Swikir", "Sami Haddadin"]
+author = ["Alessandro Melone", "Robin Jeanne Kirschner", "Dirk Müller", "Abdalla Swikir", "Sami Haddadin"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # MonLog: MONotonic-Constrained LOGistic Regressions for Automated Safety Curve Design
 
-**Authors:** Alessandro Melone, Robin Jeanne Kirschner, Dirk M{\"{u}}ller, Abdalla Swikir, Sami Haddadin
+**Authors:** Alessandro Melone, Robin Jeanne Kirschner, Dirk Müller, Abdalla Swikir, Sami Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/ICRA55743.2025.11128207](https://doi.org/10.1109/ICRA55743.2025.11128207)
+**DOI:** [10.1109/ICRA55743.2025.11128207](https://doi.org/10.1109/ICRA55743.2025.11128207)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/icra/MeloneKMSH25,
   author       = {Alessandro Melone and

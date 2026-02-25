@@ -3,7 +3,7 @@ title = "A Whole-Body Unified Force-Impedance Control for Non-holonomic Service 
 date = "2025-10-19"
 categories = ["publication", "inproceedings"]
 tags = ["publication", "inproceedings"]
-author = ["Moein Forouhar", "Hamid Sadeghian", "Abdeldjallil Naceri", "Alexander K{\\\"{o}}nig", "Sami Haddadin"]
+author = ["Moein Forouhar", "Hamid Sadeghian", "Abdeldjallil Naceri", "Alexander König", "Sami Haddadin"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # A Whole-Body Unified Force-Impedance Control for Non-holonomic Service Robots
 
-**Authors:** Moein Forouhar, Hamid Sadeghian, Abdeldjallil Naceri, Alexander K{\"{o}}nig, Sami Haddadin
+**Authors:** Moein Forouhar, Hamid Sadeghian, Abdeldjallil Naceri, Alexander König, Sami Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/IROS60139.2025.11246161](https://doi.org/10.1109/IROS60139.2025.11246161)
+**DOI:** [10.1109/IROS60139.2025.11246161](https://doi.org/10.1109/IROS60139.2025.11246161)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/iros/ForouharSNKH25,
   author       = {Moein Forouhar and

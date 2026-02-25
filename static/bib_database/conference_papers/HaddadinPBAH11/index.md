@@ -3,7 +3,7 @@ title = "Safe acting and manipulation in human environments: A key concept for r
 date = "2011-10-02"
 categories = ["publication", "inproceedings"]
 tags = ["publication", "inproceedings"]
-author = ["Sami Haddadin", "Sven Parusel", "Rico Belder", "Alin Albu{-}Sch{\\\"{a}}ffer", "Gerd Hirzinger"]
+author = ["Sami Haddadin", "Sven Parusel", "Rico Belder", "Alin Albu-Schäffer", "Gerd Hirzinger"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # Safe acting and manipulation in human environments: A key concept for robots in our society
 
-**Authors:** Sami Haddadin, Sven Parusel, Rico Belder, Alin Albu{-}Sch{\"{a}}ffer, Gerd Hirzinger
+**Authors:** Sami Haddadin, Sven Parusel, Rico Belder, Alin Albu-Schäffer, Gerd Hirzinger
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/ARSO.2011.6301962](https://doi.org/10.1109/ARSO.2011.6301962)
+**DOI:** [10.1109/ARSO.2011.6301962](https://doi.org/10.1109/ARSO.2011.6301962)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/arso/HaddadinPBAH11,
   author       = {Sami Haddadin and

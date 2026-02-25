@@ -3,7 +3,7 @@ title = "Towards the Robotic Co-Worker"
 date = "2009-09-03"
 categories = ["publication", "inproceedings"]
 tags = ["publication", "inproceedings"]
-author = ["Sami Haddadin", "Michael Suppa", "Stefan Fuchs", "Tim Bodenm{\\\"{u}}ller", "Alin Albu{-}Sch{\\\"{a}}ffer", "Gerd Hirzinger"]
+author = ["Sami Haddadin", "Michael Suppa", "Stefan Fuchs", "Tim Bodenmüller", "Alin Albu-Schäffer", "Gerd Hirzinger"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # Towards the Robotic Co-Worker
 
-**Authors:** Sami Haddadin, Michael Suppa, Stefan Fuchs, Tim Bodenm{\"{u}}ller, Alin Albu{-}Sch{\"{a}}ffer, Gerd Hirzinger
+**Authors:** Sami Haddadin, Michael Suppa, Stefan Fuchs, Tim Bodenmüller, Alin Albu-Schäffer, Gerd Hirzinger
 
-- <!-- **Code:** -->
-- **DOI:** [10.1007/978-3-642-19457-3\_16](https://doi.org/10.1007/978-3-642-19457-3\_16)
+**DOI:** [10.1007/978-3-642-19457-3\_16](https://doi.org/10.1007/978-3-642-19457-3\_16)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/isrr/HaddadinSFBAH09,
   author       = {Sami Haddadin and

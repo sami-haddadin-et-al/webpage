@@ -3,7 +3,7 @@ title = "Accelerating Discovery in Natural Science Laboratories with AI and Robo
 date = "2025-01-01"
 categories = ["publication", "article"]
 tags = ["publication", "article"]
-author = ["Andrew I. Cooper", "Patrick Courtney", "Kourosh Darvish", "Moritz Eckhoff", "Hatem Fakhruldeen", "Andrea Gabrielli", "Animesh Garg", "Sami Haddadin", "Kanako Harada", "Jason Hein", "Maria H{\\\"{u}}bner", "Dennis Knobbe", "Gabriella Pizzuto", "Florian Shkurti", "Ruja Shrestha", "Kerstin Thurow", "Rafael Vescovi", "Birgit Vogel{-}Heuser", "{\\'{A}}d{\\'{a}}m Wolf", "Naruki Yoshikawa", "Yan Zeng", "Zhengxue Zhou", "Henning Zwirnmann"]
+author = ["Andrew I. Cooper", "Patrick Courtney", "Kourosh Darvish", "Moritz Eckhoff", "Hatem Fakhruldeen", "Andrea Gabrielli", "Animesh Garg", "Sami Haddadin", "Kanako Harada", "Jason Hein", "Maria Hübner", "Dennis Knobbe", "Gabriella Pizzuto", "Florian Shkurti", "Ruja Shrestha", "Kerstin Thurow", "Rafael Vescovi", "Birgit Vogel-Heuser", "Ádám Wolf", "Naruki Yoshikawa", "Yan Zeng", "Zhengxue Zhou", "Henning Zwirnmann"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # Accelerating Discovery in Natural Science Laboratories with AI and Robotics: Perspectives and Challenges from the 2024 IEEE ICRA Workshop, Yokohama, Japan
 
-**Authors:** Andrew I. Cooper, Patrick Courtney, Kourosh Darvish, Moritz Eckhoff, Hatem Fakhruldeen, Andrea Gabrielli, Animesh Garg, Sami Haddadin, Kanako Harada, Jason Hein, Maria H{\"{u}}bner, Dennis Knobbe, Gabriella Pizzuto, Florian Shkurti, Ruja Shrestha, Kerstin Thurow, Rafael Vescovi, Birgit Vogel{-}Heuser, {\'{A}}d{\'{a}}m Wolf, Naruki Yoshikawa, Yan Zeng, Zhengxue Zhou, Henning Zwirnmann
+**Authors:** Andrew I. Cooper, Patrick Courtney, Kourosh Darvish, Moritz Eckhoff, Hatem Fakhruldeen, Andrea Gabrielli, Animesh Garg, Sami Haddadin, Kanako Harada, Jason Hein, Maria Hübner, Dennis Knobbe, Gabriella Pizzuto, Florian Shkurti, Ruja Shrestha, Kerstin Thurow, Rafael Vescovi, Birgit Vogel-Heuser, Ádám Wolf, Naruki Yoshikawa, Yan Zeng, Zhengxue Zhou, Henning Zwirnmann
 
-- <!-- **Code:** -->
-- **DOI:** [10.48550/ARXIV.2501.06847](https://doi.org/10.48550/ARXIV.2501.06847)
+**DOI:** [10.48550/ARXIV.2501.06847](https://doi.org/10.48550/ARXIV.2501.06847)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @article{DBLP:journals/corr/abs-2501-06847,
   author       = {Andrew I. Cooper and

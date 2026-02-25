@@ -13,8 +13,8 @@ gen_lock = false
 
 **Authors:** Rafael I. Cabral Muchacho, Riddhiman Laha, Luis F. C. Figueredo, Sami Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/IROS47612.2022.9981173](https://doi.org/10.1109/IROS47612.2022.9981173)
+**DOI:** [10.1109/IROS47612.2022.9981173](https://doi.org/10.1109/IROS47612.2022.9981173)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/iros/MuchachoLFH22,
   author       = {Rafael I. Cabral Muchacho and

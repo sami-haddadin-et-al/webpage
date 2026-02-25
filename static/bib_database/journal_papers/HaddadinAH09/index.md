@@ -3,7 +3,7 @@ title = "Requirements for Safe Robots: Measurements, Analysis and New Insights"
 date = "2009-01-01"
 categories = ["publication", "article"]
 tags = ["publication", "article"]
-author = ["Sami Haddadin", "Alin Albu{-}Sch{\\\"{a}}ffer", "Gerd Hirzinger"]
+author = ["Sami Haddadin", "Alin Albu-Schäffer", "Gerd Hirzinger"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # Requirements for Safe Robots: Measurements, Analysis and New Insights
 
-**Authors:** Sami Haddadin, Alin Albu{-}Sch{\"{a}}ffer, Gerd Hirzinger
+**Authors:** Sami Haddadin, Alin Albu-Schäffer, Gerd Hirzinger
 
-- <!-- **Code:** -->
-- **DOI:** [10.1177/0278364909343970](https://doi.org/10.1177/0278364909343970)
+**DOI:** [10.1177/0278364909343970](https://doi.org/10.1177/0278364909343970)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @article{DBLP:journals/ijrr/HaddadinAH09,
   author       = {Sami Haddadin and

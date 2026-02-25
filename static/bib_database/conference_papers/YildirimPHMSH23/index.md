@@ -13,8 +13,8 @@ gen_lock = false
 
 **Authors:** Mehmet Can Yildirim, Edgar Alejandro Pisano, Mazin Hamad, Valentin Le Mesle, Abdalla Swikir, Sami Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/HUMANOIDS57100.2023.10375205](https://doi.org/10.1109/HUMANOIDS57100.2023.10375205)
+**DOI:** [10.1109/HUMANOIDS57100.2023.10375205](https://doi.org/10.1109/HUMANOIDS57100.2023.10375205)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/humanoids/YildirimPHMSH23,
   author       = {Mehmet Can Yildirim and

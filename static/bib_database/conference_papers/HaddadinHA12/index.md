@@ -3,7 +3,7 @@ title = "Optimal control for exploiting the natural dynamics of Variable Stiffne
 date = "2012-01-01"
 categories = ["publication", "inproceedings"]
 tags = ["publication", "inproceedings"]
-author = ["Sami Haddadin", "Felix Huber", "Alin Albu{-}Sch{\\\"{a}}ffer"]
+author = ["Sami Haddadin", "Felix Huber", "Alin Albu-Schäffer"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # Optimal control for exploiting the natural dynamics of Variable Stiffness robots
 
-**Authors:** Sami Haddadin, Felix Huber, Alin Albu{-}Sch{\"{a}}ffer
+**Authors:** Sami Haddadin, Felix Huber, Alin Albu-Schäffer
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/ICRA.2012.6225190](https://doi.org/10.1109/ICRA.2012.6225190)
+**DOI:** [10.1109/ICRA.2012.6225190](https://doi.org/10.1109/ICRA.2012.6225190)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/icra/HaddadinHA12,
   author       = {Sami Haddadin and

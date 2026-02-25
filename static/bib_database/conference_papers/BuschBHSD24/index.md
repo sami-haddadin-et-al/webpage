@@ -13,8 +13,8 @@ gen_lock = false
 
 **Authors:** Finn L. Busch, Nathalie Bauschmann, Sami Haddadin, Robert Seifried, Daniel A Duecker
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/ICRA57147.2024.10610144](https://doi.org/10.1109/ICRA57147.2024.10610144)
+**DOI:** [10.1109/ICRA57147.2024.10610144](https://doi.org/10.1109/ICRA57147.2024.10610144)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/icra/BuschBHSD24,
   author       = {Finn L. Busch and

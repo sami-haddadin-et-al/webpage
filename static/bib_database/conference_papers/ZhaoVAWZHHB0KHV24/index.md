@@ -3,7 +3,7 @@ title = "Ontology Based AI Planning and Scheduling for Robotic Assembly"
 date = "2024-10-14"
 categories = ["publication", "inproceedings"]
 tags = ["publication", "inproceedings"]
-author = ["Jingyun Zhao", "Birgit Vogel{-}Heuser", "Jicong Ao", "Yansong Wu", "Liding Zhang", "Fandi Hartl", "Dominik Hujo", "Zhenshan Bing", "Fan Wu", "Alois Knoll", "Sami Haddadin", "Bernd Vojanec", "Timo Markert", "Andr{\\'{e}} Kraft"]
+author = ["Jingyun Zhao", "Birgit Vogel-Heuser", "Jicong Ao", "Yansong Wu", "Liding Zhang", "Fandi Hartl", "Dominik Hujo", "Zhenshan Bing", "Fan Wu", "Alois Knoll", "Sami Haddadin", "Bernd Vojanec", "Timo Markert", "André Kraft"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # Ontology Based AI Planning and Scheduling for Robotic Assembly
 
-**Authors:** Jingyun Zhao, Birgit Vogel{-}Heuser, Jicong Ao, Yansong Wu, Liding Zhang, Fandi Hartl, Dominik Hujo, Zhenshan Bing, Fan Wu, Alois Knoll, Sami Haddadin, Bernd Vojanec, Timo Markert, Andr{\'{e}} Kraft
+**Authors:** Jingyun Zhao, Birgit Vogel-Heuser, Jicong Ao, Yansong Wu, Liding Zhang, Fandi Hartl, Dominik Hujo, Zhenshan Bing, Fan Wu, Alois Knoll, Sami Haddadin, Bernd Vojanec, Timo Markert, André Kraft
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/IROS58592.2024.10802295](https://doi.org/10.1109/IROS58592.2024.10802295)
+**DOI:** [10.1109/IROS58592.2024.10802295](https://doi.org/10.1109/IROS58592.2024.10802295)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/iros/ZhaoVAWZHHB0KHV24,
   author       = {Jingyun Zhao and

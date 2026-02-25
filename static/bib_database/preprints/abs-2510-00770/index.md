@@ -13,8 +13,8 @@ gen_lock = false
 
 **Authors:** Tianle Ni, Xiao Chen, Hamid Sadeghian, Sami Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** [10.48550/ARXIV.2510.00770](https://doi.org/10.48550/ARXIV.2510.00770)
+**DOI:** [10.48550/ARXIV.2510.00770](https://doi.org/10.48550/ARXIV.2510.00770)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @article{DBLP:journals/corr/abs-2510-00770,
   author       = {Tianle Ni and

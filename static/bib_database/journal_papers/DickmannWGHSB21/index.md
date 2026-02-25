@@ -13,8 +13,8 @@ gen_lock = false
 
 **Authors:** Thomas Dickmann, Nikolas J. Wilhelm, Claudio Glowalla, Sami Haddadin, Patrick van der Smagt, Rainer Burgkart
 
-- <!-- **Code:** -->
-- **DOI:** [10.3389/FROBT.2021.716451](https://doi.org/10.3389/FROBT.2021.716451)
+**DOI:** [10.3389/FROBT.2021.716451](https://doi.org/10.3389/FROBT.2021.716451)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @article{DBLP:journals/firai/DickmannWGHSB21,
   author       = {Thomas Dickmann and

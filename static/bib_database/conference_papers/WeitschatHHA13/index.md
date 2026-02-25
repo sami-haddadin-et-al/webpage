@@ -3,7 +3,7 @@ title = "Dynamic optimality in real-time: A learning framework for near-optimal 
 date = "2013-11-03"
 categories = ["publication", "inproceedings"]
 tags = ["publication", "inproceedings"]
-author = ["Roman Weitschat", "Sami Haddadin", "Felix Huber", "Alin Albu{-}Sch{\\\"{a}}ffer"]
+author = ["Roman Weitschat", "Sami Haddadin", "Felix Huber", "Alin Albu-Schäffer"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # Dynamic optimality in real-time: A learning framework for near-optimal robot motions
 
-**Authors:** Roman Weitschat, Sami Haddadin, Felix Huber, Alin Albu{-}Sch{\"{a}}ffer
+**Authors:** Roman Weitschat, Sami Haddadin, Felix Huber, Alin Albu-Schäffer
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/IROS.2013.6697173](https://doi.org/10.1109/IROS.2013.6697173)
+**DOI:** [10.1109/IROS.2013.6697173](https://doi.org/10.1109/IROS.2013.6697173)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/iros/WeitschatHHA13,
   author       = {Roman Weitschat and

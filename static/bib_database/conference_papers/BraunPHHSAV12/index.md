@@ -3,7 +3,7 @@ title = "Optimal torque and stiffness control in compliantly actuated robots"
 date = "2012-10-07"
 categories = ["publication", "inproceedings"]
 tags = ["publication", "inproceedings"]
-author = ["David J. Braun", "Florian Petit", "Felix Huber", "Sami Haddadin", "Patrick van der Smagt", "Alin Albu{-}Sch{\\\"{a}}ffer", "Sethu Vijayakumar"]
+author = ["David J. Braun", "Florian Petit", "Felix Huber", "Sami Haddadin", "Patrick van der Smagt", "Alin Albu-Schäffer", "Sethu Vijayakumar"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # Optimal torque and stiffness control in compliantly actuated robots
 
-**Authors:** David J. Braun, Florian Petit, Felix Huber, Sami Haddadin, Patrick van der Smagt, Alin Albu{-}Sch{\"{a}}ffer, Sethu Vijayakumar
+**Authors:** David J. Braun, Florian Petit, Felix Huber, Sami Haddadin, Patrick van der Smagt, Alin Albu-Schäffer, Sethu Vijayakumar
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/IROS.2012.6385991](https://doi.org/10.1109/IROS.2012.6385991)
+**DOI:** [10.1109/IROS.2012.6385991](https://doi.org/10.1109/IROS.2012.6385991)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/iros/BraunPHHSAV12,
   author       = {David J. Braun and

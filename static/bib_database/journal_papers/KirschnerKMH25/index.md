@@ -3,7 +3,7 @@ title = "Categorizing robots by performance fitness into the tree of robots"
 date = "2025-01-01"
 categories = ["publication", "article"]
 tags = ["publication", "article"]
-author = ["Robin Jeanne Kirschner", "K{\\\"{u}}bra Karacan", "Alessandro Melone", "Sami Haddadin"]
+author = ["Robin Jeanne Kirschner", "Kübra Karacan", "Alessandro Melone", "Sami Haddadin"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # Categorizing robots by performance fitness into the tree of robots
 
-**Authors:** Robin Jeanne Kirschner, K{\"{u}}bra Karacan, Alessandro Melone, Sami Haddadin
+**Authors:** Robin Jeanne Kirschner, Kübra Karacan, Alessandro Melone, Sami Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** [10.1038/S42256-025-00995-Y](https://doi.org/10.1038/S42256-025-00995-Y)
+**DOI:** [10.1038/S42256-025-00995-Y](https://doi.org/10.1038/S42256-025-00995-Y)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @article{DBLP:journals/natmi/KirschnerKMH25,
   author       = {Robin Jeanne Kirschner and

@@ -3,7 +3,7 @@ title = "Functional Mode Switching for Safe and Efficient Human-Robot Interactio
 date = "2022-11-28"
 categories = ["publication", "inproceedings"]
 tags = ["publication", "inproceedings"]
-author = ["Petr Svarn{\\'{y}}", "Mazin Hamad", "Alexander Kurdas", "Matej Hoffmann", "Saeed Abdolshah", "Sami Haddadin"]
+author = ["Petr Svarný", "Mazin Hamad", "Alexander Kurdas", "Matej Hoffmann", "Saeed Abdolshah", "Sami Haddadin"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # Functional Mode Switching for Safe and Efficient Human-Robot Interaction
 
-**Authors:** Petr Svarn{\'{y}}, Mazin Hamad, Alexander Kurdas, Matej Hoffmann, Saeed Abdolshah, Sami Haddadin
+**Authors:** Petr Svarný, Mazin Hamad, Alexander Kurdas, Matej Hoffmann, Saeed Abdolshah, Sami Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/HUMANOIDS53995.2022.10000070](https://doi.org/10.1109/HUMANOIDS53995.2022.10000070)
+**DOI:** [10.1109/HUMANOIDS53995.2022.10000070](https://doi.org/10.1109/HUMANOIDS53995.2022.10000070)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/humanoids/SvarnyHKHAH22,
   author       = {Petr Svarn{\'{y}} and

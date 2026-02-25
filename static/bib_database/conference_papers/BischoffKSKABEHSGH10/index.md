@@ -3,7 +3,7 @@ title = "The KUKA-DLR Lightweight Robot arm - a new reference platform for robot
 date = "2010-06-01"
 categories = ["publication", "inproceedings"]
 tags = ["publication", "inproceedings"]
-author = ["Rainer Bischoff", "Johannes Kurth", "G{\\\"{u}}nter Schreiber", "Ralf Koeppe", "Alin Albu{-}Sch{\\\"{a}}ffer", "Alexander Beyer", "Oliver Eiberger", "Sami Haddadin", "Andreas Stemmer", "Gerhard Grunwald", "Gerd Hirzinger"]
+author = ["Rainer Bischoff", "Johannes Kurth", "Günter Schreiber", "Ralf Koeppe", "Alin Albu-Schäffer", "Alexander Beyer", "Oliver Eiberger", "Sami Haddadin", "Andreas Stemmer", "Gerhard Grunwald", "Gerd Hirzinger"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # The KUKA-DLR Lightweight Robot arm - a new reference platform for robotics research and manufacturing
 
-**Authors:** Rainer Bischoff, Johannes Kurth, G{\"{u}}nter Schreiber, Ralf Koeppe, Alin Albu{-}Sch{\"{a}}ffer, Alexander Beyer, Oliver Eiberger, Sami Haddadin, Andreas Stemmer, Gerhard Grunwald, Gerd Hirzinger
+**Authors:** Rainer Bischoff, Johannes Kurth, Günter Schreiber, Ralf Koeppe, Alin Albu-Schäffer, Alexander Beyer, Oliver Eiberger, Sami Haddadin, Andreas Stemmer, Gerhard Grunwald, Gerd Hirzinger
 
-- <!-- **Code:** -->
-- **DOI:** <!-- TODO: DOI missing in BibTeX -->
+<!-- **DOI:** DOI missing in BibTeX -->
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/isr/BischoffKSKABEHSGH10,
   author       = {Rainer Bischoff and

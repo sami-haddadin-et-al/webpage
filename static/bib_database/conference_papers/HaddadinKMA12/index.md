@@ -3,7 +3,7 @@ title = "On impact decoupling properties of elastic robots and time optimal velo
 date = "2012-10-07"
 categories = ["publication", "inproceedings"]
 tags = ["publication", "inproceedings"]
-author = ["Sami Haddadin", "Kai Krieger", "Nico Mansfeld", "Alin Albu{-}Sch{\\\"{a}}ffer"]
+author = ["Sami Haddadin", "Kai Krieger", "Nico Mansfeld", "Alin Albu-Schäffer"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # On impact decoupling properties of elastic robots and time optimal velocity maximization on joint level
 
-**Authors:** Sami Haddadin, Kai Krieger, Nico Mansfeld, Alin Albu{-}Sch{\"{a}}ffer
+**Authors:** Sami Haddadin, Kai Krieger, Nico Mansfeld, Alin Albu-Schäffer
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/IROS.2012.6385913](https://doi.org/10.1109/IROS.2012.6385913)
+**DOI:** [10.1109/IROS.2012.6385913](https://doi.org/10.1109/IROS.2012.6385913)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/iros/HaddadinKMA12,
   author       = {Sami Haddadin and

@@ -3,7 +3,7 @@ title = "Path-Constrained Haptic Motion Guidance via Adaptive Phase-Based Admitt
 date = "2025-01-01"
 categories = ["publication", "article"]
 tags = ["publication", "article"]
-author = ["Erfan Shahriari", "Petr Svarn{\\'{y}}", "Seyed Ali Baradaran Birjandi", "Matej Hoffmann", "Sami Haddadin"]
+author = ["Erfan Shahriari", "Petr Svarný", "Seyed Ali Baradaran Birjandi", "Matej Hoffmann", "Sami Haddadin"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # Path-Constrained Haptic Motion Guidance via Adaptive Phase-Based Admittance Control
 
-**Authors:** Erfan Shahriari, Petr Svarn{\'{y}}, Seyed Ali Baradaran Birjandi, Matej Hoffmann, Sami Haddadin
+**Authors:** Erfan Shahriari, Petr Svarný, Seyed Ali Baradaran Birjandi, Matej Hoffmann, Sami Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/TRO.2024.3521861](https://doi.org/10.1109/TRO.2024.3521861)
+**DOI:** [10.1109/TRO.2024.3521861](https://doi.org/10.1109/TRO.2024.3521861)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @article{DBLP:journals/trob/ShahriariSBHH25,
   author       = {Erfan Shahriari and

@@ -3,7 +3,7 @@ title = "The \"DLR crash report\": Towards a standard crash-testing protocol for
 date = "2009-05-12"
 categories = ["publication", "inproceedings"]
 tags = ["publication", "inproceedings"]
-author = ["Sami Haddadin", "Alin Albu{-}Sch{\\\"{a}}ffer", "Mirko Frommberger", "J{\\\"{u}}rgen Rossmann", "Gerd Hirzinger"]
+author = ["Sami Haddadin", "Alin Albu-Schäffer", "Mirko Frommberger", "Jürgen Rossmann", "Gerd Hirzinger"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # The "DLR crash report": Towards a standard crash-testing protocol for robot safety - Part II: Discussions
 
-**Authors:** Sami Haddadin, Alin Albu{-}Sch{\"{a}}ffer, Mirko Frommberger, J{\"{u}}rgen Rossmann, Gerd Hirzinger
+**Authors:** Sami Haddadin, Alin Albu-Schäffer, Mirko Frommberger, Jürgen Rossmann, Gerd Hirzinger
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/ROBOT.2009.5152711](https://doi.org/10.1109/ROBOT.2009.5152711)
+**DOI:** [10.1109/ROBOT.2009.5152711](https://doi.org/10.1109/ROBOT.2009.5152711)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/icra/HaddadinAFRH09,
   author       = {Sami Haddadin and

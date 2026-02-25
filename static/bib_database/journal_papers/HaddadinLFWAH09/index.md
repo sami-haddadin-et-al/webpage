@@ -3,7 +3,7 @@ title = "Kick it with elasticity: Safety and performance in human-robot soccer"
 date = "2009-01-01"
 categories = ["publication", "article"]
 tags = ["publication", "article"]
-author = ["Sami Haddadin", "Tim Laue", "Udo Frese", "Sebastian Wolf", "Alin Albu{-}Sch{\\\"{a}}ffer", "Gerd Hirzinger"]
+author = ["Sami Haddadin", "Tim Laue", "Udo Frese", "Sebastian Wolf", "Alin Albu-Schäffer", "Gerd Hirzinger"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # Kick it with elasticity: Safety and performance in human-robot soccer
 
-**Authors:** Sami Haddadin, Tim Laue, Udo Frese, Sebastian Wolf, Alin Albu{-}Sch{\"{a}}ffer, Gerd Hirzinger
+**Authors:** Sami Haddadin, Tim Laue, Udo Frese, Sebastian Wolf, Alin Albu-Schäffer, Gerd Hirzinger
 
-- <!-- **Code:** -->
-- **DOI:** [10.1016/J.ROBOT.2009.03.004](https://doi.org/10.1016/J.ROBOT.2009.03.004)
+**DOI:** [10.1016/J.ROBOT.2009.03.004](https://doi.org/10.1016/J.ROBOT.2009.03.004)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @article{DBLP:journals/ras/HaddadinLFWAH09,
   author       = {Sami Haddadin and

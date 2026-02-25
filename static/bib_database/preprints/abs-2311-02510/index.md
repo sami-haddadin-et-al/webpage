@@ -3,7 +3,7 @@ title = "Anthropomorphic Grasping with Neural Object Shape Completion"
 date = "2023-01-01"
 categories = ["publication", "article"]
 tags = ["publication", "article"]
-author = ["Diego Hidalgo{-}Carvajal", "Hanzhi Chen", "Gemma Carolina Bettelani", "Jaesug Jung", "Melissa Zavaglia", "Laura Busse", "Abdeldjallil Naceri", "Stefan Leutenegger", "Sami Haddadin"]
+author = ["Diego Hidalgo-Carvajal", "Hanzhi Chen", "Gemma Carolina Bettelani", "Jaesug Jung", "Melissa Zavaglia", "Laura Busse", "Abdeldjallil Naceri", "Stefan Leutenegger", "Sami Haddadin"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # Anthropomorphic Grasping with Neural Object Shape Completion
 
-**Authors:** Diego Hidalgo{-}Carvajal, Hanzhi Chen, Gemma Carolina Bettelani, Jaesug Jung, Melissa Zavaglia, Laura Busse, Abdeldjallil Naceri, Stefan Leutenegger, Sami Haddadin
+**Authors:** Diego Hidalgo-Carvajal, Hanzhi Chen, Gemma Carolina Bettelani, Jaesug Jung, Melissa Zavaglia, Laura Busse, Abdeldjallil Naceri, Stefan Leutenegger, Sami Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** [10.48550/ARXIV.2311.02510](https://doi.org/10.48550/ARXIV.2311.02510)
+**DOI:** [10.48550/ARXIV.2311.02510](https://doi.org/10.48550/ARXIV.2311.02510)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @article{DBLP:journals/corr/abs-2311-02510,
   author       = {Diego Hidalgo{-}Carvajal and

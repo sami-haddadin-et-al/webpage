@@ -3,7 +3,7 @@ title = "Identification of a Generalized Base Inertial Parameter Set of Robotic 
 date = "2023-06-02"
 categories = ["publication", "inproceedings"]
 tags = ["publication", "inproceedings"]
-author = ["Mario Tr{\\\"{o}}binger", "Abdeldjallil Naceri", "Xiao Chen", "Hamid Sadeghian", "Sami Haddadin"]
+author = ["Mario Tröbinger", "Abdeldjallil Naceri", "Xiao Chen", "Hamid Sadeghian", "Sami Haddadin"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # Identification of a Generalized Base Inertial Parameter Set of Robotic Manipulators Considering Mounting Configurations
 
-**Authors:** Mario Tr{\"{o}}binger, Abdeldjallil Naceri, Xiao Chen, Hamid Sadeghian, Sami Haddadin
+**Authors:** Mario Tröbinger, Abdeldjallil Naceri, Xiao Chen, Hamid Sadeghian, Sami Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/ICRA48891.2023.10160248](https://doi.org/10.1109/ICRA48891.2023.10160248)
+**DOI:** [10.1109/ICRA48891.2023.10160248](https://doi.org/10.1109/ICRA48891.2023.10160248)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/icra/TrobingerNCSH23,
   author       = {Mario Tr{\"{o}}binger and

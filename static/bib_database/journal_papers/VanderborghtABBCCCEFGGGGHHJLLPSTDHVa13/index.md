@@ -3,7 +3,7 @@ title = "Variable impedance actuators: A review"
 date = "2013-01-01"
 categories = ["publication", "article"]
 tags = ["publication", "article"]
-author = ["Bram Vanderborght", "Alin Albu{-}Sch{\\\"{a}}ffer", "Antonio Bicchi", "Etienne Burdet", "Darwin G. Caldwell", "Raffaella Carloni", "Manuel G. Catalano", "Oliver Eiberger", "Werner Friedl", "Ganesh Ganesh", "Manolo Garabini", "Markus Grebenstein", "Giorgio Grioli", "Sami Haddadin", "Hannes H{\\\"{o}}ppner", "Amir Jafari", "Matteo Laffranchi", "Dirk Lefeber", "Florian Petit", "Stefano Stramigioli", "Nikolaos G. Tsagarakis", "Micha{\\\"{e}}l Van Damme", "Ronald Van Ham", "Ludo C. Visser", "Sebastian Wolf"]
+author = ["Bram Vanderborght", "Alin Albu-Schäffer", "Antonio Bicchi", "Etienne Burdet", "Darwin G. Caldwell", "Raffaella Carloni", "Manuel G. Catalano", "Oliver Eiberger", "Werner Friedl", "Ganesh Ganesh", "Manolo Garabini", "Markus Grebenstein", "Giorgio Grioli", "Sami Haddadin", "Hannes Höppner", "Amir Jafari", "Matteo Laffranchi", "Dirk Lefeber", "Florian Petit", "Stefano Stramigioli", "Nikolaos G. Tsagarakis", "Michaël Van Damme", "Ronald Van Ham", "Ludo C. Visser", "Sebastian Wolf"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # Variable impedance actuators: A review
 
-**Authors:** Bram Vanderborght, Alin Albu{-}Sch{\"{a}}ffer, Antonio Bicchi, Etienne Burdet, Darwin G. Caldwell, Raffaella Carloni, Manuel G. Catalano, Oliver Eiberger, Werner Friedl, Ganesh Ganesh, Manolo Garabini, Markus Grebenstein, Giorgio Grioli, Sami Haddadin, Hannes H{\"{o}}ppner, Amir Jafari, Matteo Laffranchi, Dirk Lefeber, Florian Petit, Stefano Stramigioli, Nikolaos G. Tsagarakis, Micha{\"{e}}l Van Damme, Ronald Van Ham, Ludo C. Visser, Sebastian Wolf
+**Authors:** Bram Vanderborght, Alin Albu-Schäffer, Antonio Bicchi, Etienne Burdet, Darwin G. Caldwell, Raffaella Carloni, Manuel G. Catalano, Oliver Eiberger, Werner Friedl, Ganesh Ganesh, Manolo Garabini, Markus Grebenstein, Giorgio Grioli, Sami Haddadin, Hannes Höppner, Amir Jafari, Matteo Laffranchi, Dirk Lefeber, Florian Petit, Stefano Stramigioli, Nikolaos G. Tsagarakis, Michaël Van Damme, Ronald Van Ham, Ludo C. Visser, Sebastian Wolf
 
-- <!-- **Code:** -->
-- **DOI:** [10.1016/J.ROBOT.2013.06.009](https://doi.org/10.1016/J.ROBOT.2013.06.009)
+**DOI:** [10.1016/J.ROBOT.2013.06.009](https://doi.org/10.1016/J.ROBOT.2013.06.009)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @article{DBLP:journals/ras/VanderborghtABBCCCEFGGGGHHJLLPSTDHVa13,
   author       = {Bram Vanderborght and

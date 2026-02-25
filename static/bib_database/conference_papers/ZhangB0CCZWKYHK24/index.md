@@ -13,8 +13,8 @@ gen_lock = false
 
 **Authors:** Liding Zhang, Zhenshan Bing, Kejia Chen, Lingyun Chen, Kuanqi Cai, Yu Zhang, Fan Wu, Peter Krumbholz, Zhilin Yuan, Sami Haddadin, Alois Knoll
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/IROS58592.2024.10802466](https://doi.org/10.1109/IROS58592.2024.10802466)
+**DOI:** [10.1109/IROS58592.2024.10802466](https://doi.org/10.1109/IROS58592.2024.10802466)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/iros/ZhangB0CCZWKYHK24,
   author       = {Liding Zhang and

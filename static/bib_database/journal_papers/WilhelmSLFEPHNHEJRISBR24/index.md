@@ -3,7 +3,7 @@ title = "Multicentric development and validation of a multi-scale and multi-task
 date = "2024-01-01"
 categories = ["publication", "article"]
 tags = ["publication", "article"]
-author = ["Nikolas J. Wilhelm", "Claudio E. von Schacky", "Felix J. Lindner", "Matthias J. Feucht", "Yannick Ehmann", "Jonas Pogorzelski", "Sami Haddadin", "Jan Neumann", "Florian Hinterwimmer", "R{\\\"{u}}diger von Eisenhart{-}Rothe", "Matthias Jung", "Maximilian F. Russe", "Kaywan Izadpanah", "Sebastian Siebenlist", "Rainer Burgkart", "Marco{-}Christopher Rupp"]
+author = ["Nikolas J. Wilhelm", "Claudio E. von Schacky", "Felix J. Lindner", "Matthias J. Feucht", "Yannick Ehmann", "Jonas Pogorzelski", "Sami Haddadin", "Jan Neumann", "Florian Hinterwimmer", "Rüdiger von Eisenhart-Rothe", "Matthias Jung", "Maximilian F. Russe", "Kaywan Izadpanah", "Sebastian Siebenlist", "Rainer Burgkart", "Marco-Christopher Rupp"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # Multicentric development and validation of a multi-scale and multi-task deep learning model for comprehensive lower extremity alignment analysis
 
-**Authors:** Nikolas J. Wilhelm, Claudio E. von Schacky, Felix J. Lindner, Matthias J. Feucht, Yannick Ehmann, Jonas Pogorzelski, Sami Haddadin, Jan Neumann, Florian Hinterwimmer, R{\"{u}}diger von Eisenhart{-}Rothe, Matthias Jung, Maximilian F. Russe, Kaywan Izadpanah, Sebastian Siebenlist, Rainer Burgkart, Marco{-}Christopher Rupp
+**Authors:** Nikolas J. Wilhelm, Claudio E. von Schacky, Felix J. Lindner, Matthias J. Feucht, Yannick Ehmann, Jonas Pogorzelski, Sami Haddadin, Jan Neumann, Florian Hinterwimmer, Rüdiger von Eisenhart-Rothe, Matthias Jung, Maximilian F. Russe, Kaywan Izadpanah, Sebastian Siebenlist, Rainer Burgkart, Marco-Christopher Rupp
 
-- <!-- **Code:** -->
-- **DOI:** [10.1016/J.ARTMED.2024.102843](https://doi.org/10.1016/J.ARTMED.2024.102843)
+**DOI:** [10.1016/J.ARTMED.2024.102843](https://doi.org/10.1016/J.ARTMED.2024.102843)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @article{DBLP:journals/artmed/WilhelmSLFEPHNHEJRISBR24,
   author       = {Nikolas J. Wilhelm and

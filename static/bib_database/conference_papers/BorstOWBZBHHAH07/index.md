@@ -3,7 +3,7 @@ title = "A humanoid upper body system for two-handed manipulation"
 date = "2007-04-01"
 categories = ["publication", "inproceedings"]
 tags = ["publication", "inproceedings"]
-author = ["Christoph Borst", "Christian Ott", "Thomas Wimb{\\\"{o}}ck", "Bernhard Brunner", "Franziska Zacharias", "Berthold B{\\\"{a}}uml", "Ulrich Hillenbrand", "Sami Haddadin", "Alin Albu{-}Sch{\\\"{a}}ffer", "Gerd Hirzinger"]
+author = ["Christoph Borst", "Christian Ott", "Thomas Wimböck", "Bernhard Brunner", "Franziska Zacharias", "Berthold Bäuml", "Ulrich Hillenbrand", "Sami Haddadin", "Alin Albu-Schäffer", "Gerd Hirzinger"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # A humanoid upper body system for two-handed manipulation
 
-**Authors:** Christoph Borst, Christian Ott, Thomas Wimb{\"{o}}ck, Bernhard Brunner, Franziska Zacharias, Berthold B{\"{a}}uml, Ulrich Hillenbrand, Sami Haddadin, Alin Albu{-}Sch{\"{a}}ffer, Gerd Hirzinger
+**Authors:** Christoph Borst, Christian Ott, Thomas Wimböck, Bernhard Brunner, Franziska Zacharias, Berthold Bäuml, Ulrich Hillenbrand, Sami Haddadin, Alin Albu-Schäffer, Gerd Hirzinger
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/ROBOT.2007.363886](https://doi.org/10.1109/ROBOT.2007.363886)
+**DOI:** [10.1109/ROBOT.2007.363886](https://doi.org/10.1109/ROBOT.2007.363886)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/icra/BorstOWBZBHHAH07,
   author       = {Christoph Borst and

@@ -3,7 +3,7 @@ title = "A versatile biomimetic controller for contact tooling and haptic explor
 date = "2012-01-01"
 categories = ["publication", "inproceedings"]
 tags = ["publication", "inproceedings"]
-author = ["Ganesh Gowrishankar", "Nathana{\\\"{e}}l Jarrass{\\'{e}}", "Sami Haddadin", "Alin Albu{-}Sch{\\\"{a}}ffer", "Etienne Burdet"]
+author = ["Ganesh Gowrishankar", "Nathanaël Jarrassé", "Sami Haddadin", "Alin Albu-Schäffer", "Etienne Burdet"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # A versatile biomimetic controller for contact tooling and haptic exploration
 
-**Authors:** Ganesh Gowrishankar, Nathana{\"{e}}l Jarrass{\'{e}}, Sami Haddadin, Alin Albu{-}Sch{\"{a}}ffer, Etienne Burdet
+**Authors:** Ganesh Gowrishankar, Nathanaël Jarrassé, Sami Haddadin, Alin Albu-Schäffer, Etienne Burdet
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/ICRA.2012.6225057](https://doi.org/10.1109/ICRA.2012.6225057)
+**DOI:** [10.1109/ICRA.2012.6225057](https://doi.org/10.1109/ICRA.2012.6225057)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/icra/GowrishankarJHAB12,
   author       = {Ganesh Gowrishankar and

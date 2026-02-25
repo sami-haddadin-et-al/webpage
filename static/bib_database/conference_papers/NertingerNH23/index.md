@@ -13,8 +13,8 @@ gen_lock = false
 
 **Authors:** Simone Nertinger, Abdeldjallil Naceri, Sami Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/RO-MAN57019.2023.10309570](https://doi.org/10.1109/RO-MAN57019.2023.10309570)
+**DOI:** [10.1109/RO-MAN57019.2023.10309570](https://doi.org/10.1109/RO-MAN57019.2023.10309570)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/ro-man/NertingerNH23,
   author       = {Simone Nertinger and

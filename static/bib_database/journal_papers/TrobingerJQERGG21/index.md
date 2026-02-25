@@ -3,7 +3,7 @@ title = "Introducing GARMI - A Service Robotics Platform to Support the Elderly 
 date = "2021-01-01"
 categories = ["publication", "article"]
 tags = ["publication", "article"]
-author = ["Mario Tr{\\\"{o}}binger", "Christoph J{\\\"{a}}hne", "Zheng Qu", "Jean Elsner", "Anton Reindl", "Sebastian Getz", "Thore Goll", "Benjamin Loinger", "Tamara Loibl", "Christoph Kugler", "Carles Calafell", "Mohamadreza Sabaghian", "Tobias Ende", "Daniel Wahrmann", "Sven Parusel", "Simon Haddadin", "Sami Haddadin"]
+author = ["Mario Tröbinger", "Christoph Jähne", "Zheng Qu", "Jean Elsner", "Anton Reindl", "Sebastian Getz", "Thore Goll", "Benjamin Loinger", "Tamara Loibl", "Christoph Kugler", "Carles Calafell", "Mohamadreza Sabaghian", "Tobias Ende", "Daniel Wahrmann", "Sven Parusel", "Simon Haddadin", "Sami Haddadin"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # Introducing GARMI - A Service Robotics Platform to Support the Elderly at Home: Design Philosophy, System Overview and First Results
 
-**Authors:** Mario Tr{\"{o}}binger, Christoph J{\"{a}}hne, Zheng Qu, Jean Elsner, Anton Reindl, Sebastian Getz, Thore Goll, Benjamin Loinger, Tamara Loibl, Christoph Kugler, Carles Calafell, Mohamadreza Sabaghian, Tobias Ende, Daniel Wahrmann, Sven Parusel, Simon Haddadin, Sami Haddadin
+**Authors:** Mario Tröbinger, Christoph Jähne, Zheng Qu, Jean Elsner, Anton Reindl, Sebastian Getz, Thore Goll, Benjamin Loinger, Tamara Loibl, Christoph Kugler, Carles Calafell, Mohamadreza Sabaghian, Tobias Ende, Daniel Wahrmann, Sven Parusel, Simon Haddadin, Sami Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/LRA.2021.3082012](https://doi.org/10.1109/LRA.2021.3082012)
+**DOI:** [10.1109/LRA.2021.3082012](https://doi.org/10.1109/LRA.2021.3082012)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @article{DBLP:journals/ral/TrobingerJQERGG21,
   author       = {Mario Tr{\"{o}}binger and

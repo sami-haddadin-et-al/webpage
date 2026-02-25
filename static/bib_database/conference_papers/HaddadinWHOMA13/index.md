@@ -3,7 +3,7 @@ title = "Optimal Control for Viscoelastic Robots and Its Generalization in Real-
 date = "2013-12-01"
 categories = ["publication", "inproceedings"]
 tags = ["publication", "inproceedings"]
-author = ["Sami Haddadin", "Roman Weitschat", "Felix Huber", "Mehmet Can {\\\"{O}}zparpucu", "Nico Mansfeld", "Alin Albu{-}Sch{\\\"{a}}ffer"]
+author = ["Sami Haddadin", "Roman Weitschat", "Felix Huber", "Mehmet Can Özparpucu", "Nico Mansfeld", "Alin Albu-Schäffer"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # Optimal Control for Viscoelastic Robots and Its Generalization in Real-Time
 
-**Authors:** Sami Haddadin, Roman Weitschat, Felix Huber, Mehmet Can {\"{O}}zparpucu, Nico Mansfeld, Alin Albu{-}Sch{\"{a}}ffer
+**Authors:** Sami Haddadin, Roman Weitschat, Felix Huber, Mehmet Can Özparpucu, Nico Mansfeld, Alin Albu-Schäffer
 
-- <!-- **Code:** -->
-- **DOI:** [10.1007/978-3-319-28872-7\_8](https://doi.org/10.1007/978-3-319-28872-7\_8)
+**DOI:** [10.1007/978-3-319-28872-7\_8](https://doi.org/10.1007/978-3-319-28872-7\_8)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/isrr/HaddadinWHOMA13,
   author       = {Sami Haddadin and

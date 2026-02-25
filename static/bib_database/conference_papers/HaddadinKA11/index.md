@@ -3,7 +3,7 @@ title = "Exploiting elastic energy storage for cyclic manipulation: Modeling, st
 date = "2011-12-12"
 categories = ["publication", "inproceedings"]
 tags = ["publication", "inproceedings"]
-author = ["Sami Haddadin", "Kai Krieger", "Alin Albu{-}Sch{\\\"{a}}ffer"]
+author = ["Sami Haddadin", "Kai Krieger", "Alin Albu-Schäffer"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # Exploiting elastic energy storage for cyclic manipulation: Modeling, stability, and observations for dribbling
 
-**Authors:** Sami Haddadin, Kai Krieger, Alin Albu{-}Sch{\"{a}}ffer
+**Authors:** Sami Haddadin, Kai Krieger, Alin Albu-Schäffer
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/CDC.2011.6161022](https://doi.org/10.1109/CDC.2011.6161022)
+**DOI:** [10.1109/CDC.2011.6161022](https://doi.org/10.1109/CDC.2011.6161022)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/cdc/HaddadinKA11,
   author       = {Sami Haddadin and

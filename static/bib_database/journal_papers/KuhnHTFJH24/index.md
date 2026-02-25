@@ -3,7 +3,7 @@ title = "The synergy complement control approach for seamless limb-driven prosth
 date = "2024-01-01"
 categories = ["publication", "article"]
 tags = ["publication", "article"]
-author = ["Johannes K{\\\"{u}}hn", "Tingli Hu", "Alexander Toedtheide", "Edmundo Pozo Fortunic", "Elisabeth Rose Jensen", "Sami Haddadin"]
+author = ["Johannes Kühn", "Tingli Hu", "Alexander Toedtheide", "Edmundo Pozo Fortunic", "Elisabeth Rose Jensen", "Sami Haddadin"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # The synergy complement control approach for seamless limb-driven prostheses
 
-**Authors:** Johannes K{\"{u}}hn, Tingli Hu, Alexander Toedtheide, Edmundo Pozo Fortunic, Elisabeth Rose Jensen, Sami Haddadin
+**Authors:** Johannes Kühn, Tingli Hu, Alexander Toedtheide, Edmundo Pozo Fortunic, Elisabeth Rose Jensen, Sami Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** [10.1038/S42256-024-00825-7](https://doi.org/10.1038/S42256-024-00825-7)
+**DOI:** [10.1038/S42256-024-00825-7](https://doi.org/10.1038/S42256-024-00825-7)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @article{DBLP:journals/natmi/KuhnHTFJH24,
   author       = {Johannes K{\"{u}}hn and

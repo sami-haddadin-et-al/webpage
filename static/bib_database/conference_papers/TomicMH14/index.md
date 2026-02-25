@@ -13,8 +13,8 @@ gen_lock = false
 
 **Authors:** Teodor Tomic, Moritz Maier, Sami Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/ICRA.2014.6907087](https://doi.org/10.1109/ICRA.2014.6907087)
+**DOI:** [10.1109/ICRA.2014.6907087](https://doi.org/10.1109/ICRA.2014.6907087)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/icra/TomicMH14,
   author       = {Teodor Tomic and

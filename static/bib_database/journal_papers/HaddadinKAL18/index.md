@@ -3,7 +3,7 @@ title = "Exploiting Elastic Energy Storage for \"Blind\" Cyclic Manipulation: Mo
 date = "2018-01-01"
 categories = ["publication", "article"]
 tags = ["publication", "article"]
-author = ["Sami Haddadin", "Kai Krieger", "Alin Albu{-}Sch{\\\"{a}}ffer", "Torsten Lilge"]
+author = ["Sami Haddadin", "Kai Krieger", "Alin Albu-Schäffer", "Torsten Lilge"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # Exploiting Elastic Energy Storage for "Blind" Cyclic Manipulation: Modeling, Stability Analysis, Control, and Experiments for Dribbling
 
-**Authors:** Sami Haddadin, Kai Krieger, Alin Albu{-}Sch{\"{a}}ffer, Torsten Lilge
+**Authors:** Sami Haddadin, Kai Krieger, Alin Albu-Schäffer, Torsten Lilge
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/TRO.2017.2765684](https://doi.org/10.1109/TRO.2017.2765684)
+**DOI:** [10.1109/TRO.2017.2765684](https://doi.org/10.1109/TRO.2017.2765684)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @article{DBLP:journals/trob/HaddadinKAL18,
   author       = {Sami Haddadin and

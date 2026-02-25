@@ -3,7 +3,7 @@ title = "On making robots understand safety: Embedding injury knowledge into con
 date = "2012-01-01"
 categories = ["publication", "article"]
 tags = ["publication", "article"]
-author = ["Sami Haddadin", "Simon Haddadin", "Augusto Khoury", "Tim Rokahr", "Sven Parusel", "Rainer Burgkart", "Antonio Bicchi", "Alin Albu{-}Sch{\\\"{a}}ffer"]
+author = ["Sami Haddadin", "Simon Haddadin", "Augusto Khoury", "Tim Rokahr", "Sven Parusel", "Rainer Burgkart", "Antonio Bicchi", "Alin Albu-Schäffer"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # On making robots understand safety: Embedding injury knowledge into control
 
-**Authors:** Sami Haddadin, Simon Haddadin, Augusto Khoury, Tim Rokahr, Sven Parusel, Rainer Burgkart, Antonio Bicchi, Alin Albu{-}Sch{\"{a}}ffer
+**Authors:** Sami Haddadin, Simon Haddadin, Augusto Khoury, Tim Rokahr, Sven Parusel, Rainer Burgkart, Antonio Bicchi, Alin Albu-Schäffer
 
-- <!-- **Code:** -->
-- **DOI:** [10.1177/0278364912462256](https://doi.org/10.1177/0278364912462256)
+**DOI:** [10.1177/0278364912462256](https://doi.org/10.1177/0278364912462256)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @article{DBLP:journals/ijrr/HaddadinHKRPBBA12,
   author       = {Sami Haddadin and

@@ -13,8 +13,8 @@ gen_lock = false
 
 **Authors:** Sami Haddadin, Lars Johannsmeier, Marvin Becker, Moritz Schappler, Torsten Lilge, Simon Haddadin, Johannes Schmid, Tobias Ende, Sven Parusel
 
-- <!-- **Code:** -->
-- **DOI:** [10.1145/3173386.3177534](https://doi.org/10.1145/3173386.3177534)
+**DOI:** [10.1145/3173386.3177534](https://doi.org/10.1145/3173386.3177534)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/hri/HaddadinJBSLHSE18,
   author       = {Sami Haddadin and

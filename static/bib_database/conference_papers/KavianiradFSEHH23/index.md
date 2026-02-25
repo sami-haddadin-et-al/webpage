@@ -13,8 +13,8 @@ gen_lock = false
 
 **Authors:** Hossein Kavianirad, Moein Forouhar, Hamid Sadeghian, Satoshi Endo, Sami Haddadin, Sandra Hirche
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/ICORR58425.2023.10304764](https://doi.org/10.1109/ICORR58425.2023.10304764)
+**DOI:** [10.1109/ICORR58425.2023.10304764](https://doi.org/10.1109/ICORR58425.2023.10304764)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/icorr/KavianiradFSEHH23,
   author       = {Hossein Kavianirad and

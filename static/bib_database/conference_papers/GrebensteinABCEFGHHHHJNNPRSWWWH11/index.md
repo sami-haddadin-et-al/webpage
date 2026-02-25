@@ -3,7 +3,7 @@ title = "The DLR hand arm system"
 date = "2011-05-01"
 categories = ["publication", "inproceedings"]
 tags = ["publication", "inproceedings"]
-author = ["Markus Grebenstein", "Alin Albu{-}Sch{\\\"{a}}ffer", "Thomas Bahls", "Maxime Chalon", "Oliver Eiberger", "Werner Friedl", "Robin Gruber", "Sami Haddadin", "Ulrich Hagn", "Robert Haslinger", "Hannes H{\\\"{o}}ppner", "Stefan J{\\\"{o}}rg", "Mathias Nickl", "Alexander Nothhelfer", "Florian Petit", "Josef Reill", "Nikolaus Seitz", "Thomas Wimb{\\\"{o}}ck", "Sebastian Wolf", "Tilo W{\\\"{u}}sthoff", "Gerd Hirzinger"]
+author = ["Markus Grebenstein", "Alin Albu-Schäffer", "Thomas Bahls", "Maxime Chalon", "Oliver Eiberger", "Werner Friedl", "Robin Gruber", "Sami Haddadin", "Ulrich Hagn", "Robert Haslinger", "Hannes Höppner", "Stefan Jörg", "Mathias Nickl", "Alexander Nothhelfer", "Florian Petit", "Josef Reill", "Nikolaus Seitz", "Thomas Wimböck", "Sebastian Wolf", "Tilo Wüsthoff", "Gerd Hirzinger"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # The DLR hand arm system
 
-**Authors:** Markus Grebenstein, Alin Albu{-}Sch{\"{a}}ffer, Thomas Bahls, Maxime Chalon, Oliver Eiberger, Werner Friedl, Robin Gruber, Sami Haddadin, Ulrich Hagn, Robert Haslinger, Hannes H{\"{o}}ppner, Stefan J{\"{o}}rg, Mathias Nickl, Alexander Nothhelfer, Florian Petit, Josef Reill, Nikolaus Seitz, Thomas Wimb{\"{o}}ck, Sebastian Wolf, Tilo W{\"{u}}sthoff, Gerd Hirzinger
+**Authors:** Markus Grebenstein, Alin Albu-Schäffer, Thomas Bahls, Maxime Chalon, Oliver Eiberger, Werner Friedl, Robin Gruber, Sami Haddadin, Ulrich Hagn, Robert Haslinger, Hannes Höppner, Stefan Jörg, Mathias Nickl, Alexander Nothhelfer, Florian Petit, Josef Reill, Nikolaus Seitz, Thomas Wimböck, Sebastian Wolf, Tilo Wüsthoff, Gerd Hirzinger
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/ICRA.2011.5980371](https://doi.org/10.1109/ICRA.2011.5980371)
+**DOI:** [10.1109/ICRA.2011.5980371](https://doi.org/10.1109/ICRA.2011.5980371)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/icra/GrebensteinABCEFGHHHHJNNPRSWWWH11,
   author       = {Markus Grebenstein and

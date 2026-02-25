@@ -3,7 +3,7 @@ title = "Towards Language-Based Modulation of Assistive Robots through Multimoda
 date = "2023-01-01"
 categories = ["publication", "article"]
 tags = ["publication", "article"]
-author = ["Philipp Wicke", "L{\\\"{u}}tfi Kerem Senel", "Shengqiang Zhang", "Luis F. C. Figueredo", "Abdeldjallil Naceri", "Sami Haddadin", "Hinrich Sch{\\\"{u}}tze"]
+author = ["Philipp Wicke", "Lütfi Kerem Senel", "Shengqiang Zhang", "Luis F. C. Figueredo", "Abdeldjallil Naceri", "Sami Haddadin", "Hinrich Schütze"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # Towards Language-Based Modulation of Assistive Robots through Multimodal Models
 
-**Authors:** Philipp Wicke, L{\"{u}}tfi Kerem Senel, Shengqiang Zhang, Luis F. C. Figueredo, Abdeldjallil Naceri, Sami Haddadin, Hinrich Sch{\"{u}}tze
+**Authors:** Philipp Wicke, Lütfi Kerem Senel, Shengqiang Zhang, Luis F. C. Figueredo, Abdeldjallil Naceri, Sami Haddadin, Hinrich Schütze
 
-- <!-- **Code:** -->
-- **DOI:** [10.48550/ARXIV.2306.14830](https://doi.org/10.48550/ARXIV.2306.14830)
+**DOI:** [10.48550/ARXIV.2306.14830](https://doi.org/10.48550/ARXIV.2306.14830)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @article{DBLP:journals/corr/abs-2306-14830,
   author       = {Philipp Wicke and

@@ -3,7 +3,7 @@ title = "Transcranial Magnetic Stimulation Robotic Assistant: towards a fully au
 date = "2024-09-01"
 categories = ["publication", "inproceedings"]
 tags = ["publication", "inproceedings"]
-author = ["Ioannis Xygonakis", "Riccardo Seganfreddo", "Mazin Hamad", "Samuel Schneider", "Axel Schr{\\\"{o}}der", "Sandro M. Krieg", "Bernhard Meyer", "Lorenzo Chiari", "Melissa Zavaglia", "Sami Haddadin"]
+author = ["Ioannis Xygonakis", "Riccardo Seganfreddo", "Mazin Hamad", "Samuel Schneider", "Axel Schröder", "Sandro M. Krieg", "Bernhard Meyer", "Lorenzo Chiari", "Melissa Zavaglia", "Sami Haddadin"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # Transcranial Magnetic Stimulation Robotic Assistant: towards a fully automated stimulation session
 
-**Authors:** Ioannis Xygonakis, Riccardo Seganfreddo, Mazin Hamad, Samuel Schneider, Axel Schr{\"{o}}der, Sandro M. Krieg, Bernhard Meyer, Lorenzo Chiari, Melissa Zavaglia, Sami Haddadin
+**Authors:** Ioannis Xygonakis, Riccardo Seganfreddo, Mazin Hamad, Samuel Schneider, Axel Schröder, Sandro M. Krieg, Bernhard Meyer, Lorenzo Chiari, Melissa Zavaglia, Sami Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/BIOROB60516.2024.10719901](https://doi.org/10.1109/BIOROB60516.2024.10719901)
+**DOI:** [10.1109/BIOROB60516.2024.10719901](https://doi.org/10.1109/BIOROB60516.2024.10719901)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/biorob/XygonakisSHSSKMCZH24,
   author       = {Ioannis Xygonakis and

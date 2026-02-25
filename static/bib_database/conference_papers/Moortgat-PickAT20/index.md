@@ -3,7 +3,7 @@ title = "Feeling the True Force in Haptic Telepresence for Flying Robots"
 date = "2020-10-24"
 categories = ["publication", "inproceedings"]
 tags = ["publication", "inproceedings"]
-author = ["Alexander Moortgat{-}Pick", "Anna Adamczyk", "Teodor Tomic", "Sami Haddadin"]
+author = ["Alexander Moortgat-Pick", "Anna Adamczyk", "Teodor Tomic", "Sami Haddadin"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # Feeling the True Force in Haptic Telepresence for Flying Robots
 
-**Authors:** Alexander Moortgat{-}Pick, Anna Adamczyk, Teodor Tomic, Sami Haddadin
+**Authors:** Alexander Moortgat-Pick, Anna Adamczyk, Teodor Tomic, Sami Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/IROS45743.2020.9341778](https://doi.org/10.1109/IROS45743.2020.9341778)
+**DOI:** [10.1109/IROS45743.2020.9341778](https://doi.org/10.1109/IROS45743.2020.9341778)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/iros/Moortgat-PickAT20,
   author       = {Alexander Moortgat{-}Pick and

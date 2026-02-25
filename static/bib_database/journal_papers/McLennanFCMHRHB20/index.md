@@ -3,7 +3,7 @@ title = "An embedded ethics approach for AI development"
 date = "2020-01-01"
 categories = ["publication", "article"]
 tags = ["publication", "article"]
-author = ["Stuart McLennan", "Amelia Fiske", "Leo Anthony Celi", "Ruth M{\\\"{u}}ller", "Jan Harder", "Konstantin Ritt", "Sami Haddadin", "Alena Buyx"]
+author = ["Stuart McLennan", "Amelia Fiske", "Leo Anthony Celi", "Ruth Müller", "Jan Harder", "Konstantin Ritt", "Sami Haddadin", "Alena Buyx"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # An embedded ethics approach for AI development
 
-**Authors:** Stuart McLennan, Amelia Fiske, Leo Anthony Celi, Ruth M{\"{u}}ller, Jan Harder, Konstantin Ritt, Sami Haddadin, Alena Buyx
+**Authors:** Stuart McLennan, Amelia Fiske, Leo Anthony Celi, Ruth Müller, Jan Harder, Konstantin Ritt, Sami Haddadin, Alena Buyx
 
-- <!-- **Code:** -->
-- **DOI:** [10.1038/S42256-020-0214-1](https://doi.org/10.1038/S42256-020-0214-1)
+**DOI:** [10.1038/S42256-020-0214-1](https://doi.org/10.1038/S42256-020-0214-1)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @article{DBLP:journals/natmi/McLennanFCMHRHB20,
   author       = {Stuart McLennan and

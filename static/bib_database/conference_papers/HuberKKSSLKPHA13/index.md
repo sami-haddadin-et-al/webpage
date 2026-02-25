@@ -3,7 +3,7 @@ title = "First analysis and experiments in aerial manipulation using fully actua
 date = "2013-11-03"
 categories = ["publication", "inproceedings"]
 tags = ["publication", "inproceedings"]
-author = ["Felix Huber", "Konstantin Kondak", "Kai Krieger", "Dominik Sommer", "Marc Schwarzbach", "Maximilian Laiacker", "Ingo Kossyk", "Sven Parusel", "Sami Haddadin", "Alin Albu{-}Sch{\\\"{a}}ffer"]
+author = ["Felix Huber", "Konstantin Kondak", "Kai Krieger", "Dominik Sommer", "Marc Schwarzbach", "Maximilian Laiacker", "Ingo Kossyk", "Sven Parusel", "Sami Haddadin", "Alin Albu-Schäffer"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # First analysis and experiments in aerial manipulation using fully actuated redundant robot arm
 
-**Authors:** Felix Huber, Konstantin Kondak, Kai Krieger, Dominik Sommer, Marc Schwarzbach, Maximilian Laiacker, Ingo Kossyk, Sven Parusel, Sami Haddadin, Alin Albu{-}Sch{\"{a}}ffer
+**Authors:** Felix Huber, Konstantin Kondak, Kai Krieger, Dominik Sommer, Marc Schwarzbach, Maximilian Laiacker, Ingo Kossyk, Sven Parusel, Sami Haddadin, Alin Albu-Schäffer
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/IROS.2013.6696848](https://doi.org/10.1109/IROS.2013.6696848)
+**DOI:** [10.1109/IROS.2013.6696848](https://doi.org/10.1109/IROS.2013.6696848)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/iros/HuberKKSSLKPHA13,
   author       = {Felix Huber and

@@ -13,8 +13,8 @@ gen_lock = false
 
 **Authors:** Yansong Wu, Zongxie Chen, Fan Wu, Lingyun Chen, Liding Zhang, Zhenshan Bing, Abdalla Swikir, Sami Haddadin, Alois Knoll
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/ICRA55743.2025.11127334](https://doi.org/10.1109/ICRA55743.2025.11127334)
+**DOI:** [10.1109/ICRA55743.2025.11127334](https://doi.org/10.1109/ICRA55743.2025.11127334)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/icra/WuCWCZBSHK25,
   author       = {Yansong Wu and

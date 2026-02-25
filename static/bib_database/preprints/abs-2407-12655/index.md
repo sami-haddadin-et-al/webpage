@@ -13,8 +13,8 @@ gen_lock = false
 
 **Authors:** Dennis Ossadnik, Vasilije Rakcevic, Mehmet Can Yildirim, Edmundo Pozo Fortunic, Hugo T. M. Kussaba, Abdalla Swikir, Sami Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** [10.48550/ARXIV.2407.12655](https://doi.org/10.48550/ARXIV.2407.12655)
+**DOI:** [10.48550/ARXIV.2407.12655](https://doi.org/10.48550/ARXIV.2407.12655)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @article{DBLP:journals/corr/abs-2407-12655,
   author       = {Dennis Ossadnik and

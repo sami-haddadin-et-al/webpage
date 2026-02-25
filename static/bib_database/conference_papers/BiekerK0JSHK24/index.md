@@ -13,8 +13,8 @@ gen_lock = false
 
 **Authors:** Katharina Bieker, Hugo T. M. Kussaba, Philipp Scholl, Jaesug Jung, Abdalla Swikir, Sami Haddadin, Gitta Kutyniok
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/CDC56724.2024.10886587](https://doi.org/10.1109/CDC56724.2024.10886587)
+**DOI:** [10.1109/CDC56724.2024.10886587](https://doi.org/10.1109/CDC56724.2024.10886587)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/cdc/BiekerK0JSHK24,
   author       = {Katharina Bieker and

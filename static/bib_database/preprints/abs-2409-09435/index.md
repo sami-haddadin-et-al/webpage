@@ -13,8 +13,8 @@ gen_lock = false
 
 **Authors:** Jicong Ao, Yansong Wu, Fan Wu, Sami Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** [10.48550/ARXIV.2409.09435](https://doi.org/10.48550/ARXIV.2409.09435)
+**DOI:** [10.48550/ARXIV.2409.09435](https://doi.org/10.48550/ARXIV.2409.09435)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @article{DBLP:journals/corr/abs-2409-09435,
   author       = {Jicong Ao and

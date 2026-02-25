@@ -13,8 +13,8 @@ gen_lock = false
 
 **Authors:** Junnan Li, Lingyun Chen, Johannes Ringwald, Edmundo Pozo Fortunic, Amartya Ganguly, Sami Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** [10.48550/ARXIV.2408.13044](https://doi.org/10.48550/ARXIV.2408.13044)
+**DOI:** [10.48550/ARXIV.2408.13044](https://doi.org/10.48550/ARXIV.2408.13044)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @article{DBLP:journals/corr/abs-2408-13044,
   author       = {Junnan Li and

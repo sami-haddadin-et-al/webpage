@@ -3,7 +3,7 @@ title = "A-RIFT: Visual Substitution of Force Feedback for a Zero-Cost Interface
 date = "2022-10-23"
 categories = ["publication", "inproceedings"]
 tags = ["publication", "inproceedings"]
-author = ["Alexander Moortgat{-}Pick", "Peter So", "Michael J. Sack", "Emma G. Cunningham", "Benjamin Paul Hughes", "Anna Adamczyk", "Andriy Sarabakha", "Leila Takayama", "Sami Haddadin"]
+author = ["Alexander Moortgat-Pick", "Peter So", "Michael J. Sack", "Emma G. Cunningham", "Benjamin Paul Hughes", "Anna Adamczyk", "Andriy Sarabakha", "Leila Takayama", "Sami Haddadin"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # A-RIFT: Visual Substitution of Force Feedback for a Zero-Cost Interface in Telemanipulation
 
-**Authors:** Alexander Moortgat{-}Pick, Peter So, Michael J. Sack, Emma G. Cunningham, Benjamin Paul Hughes, Anna Adamczyk, Andriy Sarabakha, Leila Takayama, Sami Haddadin
+**Authors:** Alexander Moortgat-Pick, Peter So, Michael J. Sack, Emma G. Cunningham, Benjamin Paul Hughes, Anna Adamczyk, Andriy Sarabakha, Leila Takayama, Sami Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/IROS47612.2022.9981365](https://doi.org/10.1109/IROS47612.2022.9981365)
+**DOI:** [10.1109/IROS47612.2022.9981365](https://doi.org/10.1109/IROS47612.2022.9981365)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/iros/Moortgat-PickSS22,
   author       = {Alexander Moortgat{-}Pick and

@@ -3,7 +3,7 @@ title = "Collision analysis and safety evaluation using a collision model for th
 date = "2015-01-01"
 categories = ["publication", "article"]
 tags = ["publication", "article"]
-author = ["Jung{-}Jun Park", "Jae{-}Bok Song", "Sami Haddadin"]
+author = ["Jung-Jun Park", "Jae-Bok Song", "Sami Haddadin"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # Collision analysis and safety evaluation using a collision model for the frontal robot-human impact
 
-**Authors:** Jung{-}Jun Park, Jae{-}Bok Song, Sami Haddadin
+**Authors:** Jung-Jun Park, Jae-Bok Song, Sami Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** [10.1017/S0263574714000137](https://doi.org/10.1017/S0263574714000137)
+**DOI:** [10.1017/S0263574714000137](https://doi.org/10.1017/S0263574714000137)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @article{DBLP:journals/robotica/ParkSH15,
   author       = {Jung{-}Jun Park and

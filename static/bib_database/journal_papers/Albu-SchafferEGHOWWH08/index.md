@@ -3,7 +3,7 @@ title = "Soft robotics"
 date = "2008-01-01"
 categories = ["publication", "article"]
 tags = ["publication", "article"]
-author = ["Alin Albu{-}Sch{\\\"{a}}ffer", "Oliver Eiberger", "Markus Grebenstein", "Sami Haddadin", "Christian Ott", "Thomas Wimb{\\\"{o}}ck", "Sebastian Wolf", "Gerd Hirzinger"]
+author = ["Alin Albu-Schäffer", "Oliver Eiberger", "Markus Grebenstein", "Sami Haddadin", "Christian Ott", "Thomas Wimböck", "Sebastian Wolf", "Gerd Hirzinger"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # Soft robotics
 
-**Authors:** Alin Albu{-}Sch{\"{a}}ffer, Oliver Eiberger, Markus Grebenstein, Sami Haddadin, Christian Ott, Thomas Wimb{\"{o}}ck, Sebastian Wolf, Gerd Hirzinger
+**Authors:** Alin Albu-Schäffer, Oliver Eiberger, Markus Grebenstein, Sami Haddadin, Christian Ott, Thomas Wimböck, Sebastian Wolf, Gerd Hirzinger
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/MRA.2008.927979](https://doi.org/10.1109/MRA.2008.927979)
+**DOI:** [10.1109/MRA.2008.927979](https://doi.org/10.1109/MRA.2008.927979)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @article{DBLP:journals/ram/Albu-SchafferEGHOWWH08,
   author       = {Alin Albu{-}Sch{\"{a}}ffer and

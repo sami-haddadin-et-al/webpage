@@ -3,7 +3,7 @@ title = "SVan: A Mobile Hub as a Field Robotics Development and Deployment Platf
 date = "2024-01-01"
 categories = ["publication", "article"]
 tags = ["publication", "article"]
-author = ["Alexander Moortgat{-}Pick", "Anna Adamczyk", "Daniel A Duecker", "Sami Haddadin"]
+author = ["Alexander Moortgat-Pick", "Anna Adamczyk", "Daniel A Duecker", "Sami Haddadin"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # SVan: A Mobile Hub as a Field Robotics Development and Deployment Platform
 
-**Authors:** Alexander Moortgat{-}Pick, Anna Adamczyk, Daniel A Duecker, Sami Haddadin
+**Authors:** Alexander Moortgat-Pick, Anna Adamczyk, Daniel A Duecker, Sami Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** [10.48550/ARXIV.2405.03890](https://doi.org/10.48550/ARXIV.2405.03890)
+**DOI:** [10.48550/ARXIV.2405.03890](https://doi.org/10.48550/ARXIV.2405.03890)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @article{DBLP:journals/corr/abs-2405-03890,
   author       = {Alexander Moortgat{-}Pick and

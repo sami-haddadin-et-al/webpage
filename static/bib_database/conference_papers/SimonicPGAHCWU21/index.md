@@ -3,7 +3,7 @@ title = "Modular ROS-based software architecture for reconfigurable, Industry 4.
 date = "2021-12-06"
 categories = ["publication", "inproceedings"]
 tags = ["publication", "inproceedings"]
-author = ["Mihael Simonic", "Rok Pahic", "Timotej Gaspar", "Saeed Abdolshah", "Sami Haddadin", "Manuel G. Catalano", "Florentin W{\\\"{o}}rg{\\\"{o}}tter", "Ales Ude"]
+author = ["Mihael Simonic", "Rok Pahic", "Timotej Gaspar", "Saeed Abdolshah", "Sami Haddadin", "Manuel G. Catalano", "Florentin Wörgötter", "Ales Ude"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # Modular ROS-based software architecture for reconfigurable, Industry 4.0 compatible robotic workcells
 
-**Authors:** Mihael Simonic, Rok Pahic, Timotej Gaspar, Saeed Abdolshah, Sami Haddadin, Manuel G. Catalano, Florentin W{\"{o}}rg{\"{o}}tter, Ales Ude
+**Authors:** Mihael Simonic, Rok Pahic, Timotej Gaspar, Saeed Abdolshah, Sami Haddadin, Manuel G. Catalano, Florentin Wörgötter, Ales Ude
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/ICAR53236.2021.9659378](https://doi.org/10.1109/ICAR53236.2021.9659378)
+**DOI:** [10.1109/ICAR53236.2021.9659378](https://doi.org/10.1109/ICAR53236.2021.9659378)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/icar/SimonicPGAHCWU21,
   author       = {Mihael Simonic and

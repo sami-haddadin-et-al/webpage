@@ -13,8 +13,8 @@ gen_lock = false
 
 **Authors:** Johannes Kuehn, Johannes Ringwald, Moritz Schappler, Lars Johannsmeier, Sami Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/ICRA.2019.8794332](https://doi.org/10.1109/ICRA.2019.8794332)
+**DOI:** [10.1109/ICRA.2019.8794332](https://doi.org/10.1109/ICRA.2019.8794332)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/icra/KuehnRSJH19,
   author       = {Johannes Kuehn and

@@ -3,7 +3,7 @@ title = "Human-Inspired Audiovisual Inducement of Whole-Body Responses"
 date = "2023-12-12"
 categories = ["publication", "inproceedings"]
 tags = ["publication", "inproceedings"]
-author = ["Seongjin Bien", "Jon Skerlj", "Paul Thiel", "Felix Eberle", "Mario Tr{\\\"{o}}binger", "Christian Stolle", "Luis F. C. Figueredo", "Hamid Sadeghian", "Abdeldjallil Naceri", "Sami Haddadin"]
+author = ["Seongjin Bien", "Jon Skerlj", "Paul Thiel", "Felix Eberle", "Mario Tröbinger", "Christian Stolle", "Luis F. C. Figueredo", "Hamid Sadeghian", "Abdeldjallil Naceri", "Sami Haddadin"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # Human-Inspired Audiovisual Inducement of Whole-Body Responses
 
-**Authors:** Seongjin Bien, Jon Skerlj, Paul Thiel, Felix Eberle, Mario Tr{\"{o}}binger, Christian Stolle, Luis F. C. Figueredo, Hamid Sadeghian, Abdeldjallil Naceri, Sami Haddadin
+**Authors:** Seongjin Bien, Jon Skerlj, Paul Thiel, Felix Eberle, Mario Tröbinger, Christian Stolle, Luis F. C. Figueredo, Hamid Sadeghian, Abdeldjallil Naceri, Sami Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/HUMANOIDS57100.2023.10375229](https://doi.org/10.1109/HUMANOIDS57100.2023.10375229)
+**DOI:** [10.1109/HUMANOIDS57100.2023.10375229](https://doi.org/10.1109/HUMANOIDS57100.2023.10375229)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/humanoids/BienSTETSFSNH23,
   author       = {Seongjin Bien and

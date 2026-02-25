@@ -13,8 +13,8 @@ gen_lock = false
 
 **Authors:** Jicong Ao, Fan Wu, Yansong Wu, Abdalla Swikir, Sami Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/ICRA55743.2025.11128454](https://doi.org/10.1109/ICRA55743.2025.11128454)
+**DOI:** [10.1109/ICRA55743.2025.11128454](https://doi.org/10.1109/ICRA55743.2025.11128454)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/icra/AoWWSH25,
   author       = {Jicong Ao and

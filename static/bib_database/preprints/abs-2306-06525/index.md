@@ -3,7 +3,7 @@ title = "Fast yet predictable braking manoeuvers for real-time robot control"
 date = "2023-01-01"
 categories = ["publication", "article"]
 tags = ["publication", "article"]
-author = ["Mazin Hamad", "Jesus Gutierrez{-}Moreno", "Hugo T. M. Kussaba", "Nico Mansfeld", "Saeed Abdolshah", "Abdalla Swikir", "Wolfram Burgard", "Sami Haddadin"]
+author = ["Mazin Hamad", "Jesus Gutierrez-Moreno", "Hugo T. M. Kussaba", "Nico Mansfeld", "Saeed Abdolshah", "Abdalla Swikir", "Wolfram Burgard", "Sami Haddadin"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # Fast yet predictable braking manoeuvers for real-time robot control
 
-**Authors:** Mazin Hamad, Jesus Gutierrez{-}Moreno, Hugo T. M. Kussaba, Nico Mansfeld, Saeed Abdolshah, Abdalla Swikir, Wolfram Burgard, Sami Haddadin
+**Authors:** Mazin Hamad, Jesus Gutierrez-Moreno, Hugo T. M. Kussaba, Nico Mansfeld, Saeed Abdolshah, Abdalla Swikir, Wolfram Burgard, Sami Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** [10.48550/ARXIV.2306.06525](https://doi.org/10.48550/ARXIV.2306.06525)
+**DOI:** [10.48550/ARXIV.2306.06525](https://doi.org/10.48550/ARXIV.2306.06525)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @article{DBLP:journals/corr/abs-2306-06525,
   author       = {Mazin Hamad and

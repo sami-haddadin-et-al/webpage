@@ -3,7 +3,7 @@ title = "The Franka Emika Robot: A Reference Platform for Robotics Research and 
 date = "2022-01-01"
 categories = ["publication", "article"]
 tags = ["publication", "article"]
-author = ["Sami Haddadin", "Sven Parusel", "Lars Johannsmeier", "Saskia Golz", "Simon Gabl", "Florian Walch", "Mohamadreza Sabaghian", "Christoph J{\\\"{a}}hne", "Lukas Hausperger", "Simon Haddadin"]
+author = ["Sami Haddadin", "Sven Parusel", "Lars Johannsmeier", "Saskia Golz", "Simon Gabl", "Florian Walch", "Mohamadreza Sabaghian", "Christoph Jähne", "Lukas Hausperger", "Simon Haddadin"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # The Franka Emika Robot: A Reference Platform for Robotics Research and Education
 
-**Authors:** Sami Haddadin, Sven Parusel, Lars Johannsmeier, Saskia Golz, Simon Gabl, Florian Walch, Mohamadreza Sabaghian, Christoph J{\"{a}}hne, Lukas Hausperger, Simon Haddadin
+**Authors:** Sami Haddadin, Sven Parusel, Lars Johannsmeier, Saskia Golz, Simon Gabl, Florian Walch, Mohamadreza Sabaghian, Christoph Jähne, Lukas Hausperger, Simon Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/MRA.2021.3138382](https://doi.org/10.1109/MRA.2021.3138382)
+**DOI:** [10.1109/MRA.2021.3138382](https://doi.org/10.1109/MRA.2021.3138382)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @article{DBLP:journals/ram/HaddadinPJGGWSJ22,
   author       = {Sami Haddadin and

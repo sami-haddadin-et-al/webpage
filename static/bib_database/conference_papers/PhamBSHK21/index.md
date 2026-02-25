@@ -13,8 +13,8 @@ gen_lock = false
 
 **Authors:** Huy Xuan Pham, Ilker Bozcan, Andriy Sarabakha, Sami Haddadin, Erdal Kayacan
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/IROS51168.2021.9636207](https://doi.org/10.1109/IROS51168.2021.9636207)
+**DOI:** [10.1109/IROS51168.2021.9636207](https://doi.org/10.1109/IROS51168.2021.9636207)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/iros/PhamBSHK21,
   author       = {Huy Xuan Pham and

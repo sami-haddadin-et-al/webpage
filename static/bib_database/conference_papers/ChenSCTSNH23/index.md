@@ -3,7 +3,7 @@ title = "A Passivity-based Approach on Relocating High-Frequency Robot Controlle
 date = "2023-06-02"
 categories = ["publication", "inproceedings"]
 tags = ["publication", "inproceedings"]
-author = ["Xiao Chen", "Hamid Sadeghian", "Lingyun Chen", "Mario Tr{\\\"{o}}binger", "Abadalla Swirkir", "Abdeldjallil Naceri", "Sami Haddadin"]
+author = ["Xiao Chen", "Hamid Sadeghian", "Lingyun Chen", "Mario Tröbinger", "Abadalla Swirkir", "Abdeldjallil Naceri", "Sami Haddadin"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # A Passivity-based Approach on Relocating High-Frequency Robot Controller to the Edge Cloud
 
-**Authors:** Xiao Chen, Hamid Sadeghian, Lingyun Chen, Mario Tr{\"{o}}binger, Abadalla Swirkir, Abdeldjallil Naceri, Sami Haddadin
+**Authors:** Xiao Chen, Hamid Sadeghian, Lingyun Chen, Mario Tröbinger, Abadalla Swirkir, Abdeldjallil Naceri, Sami Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/ICRA48891.2023.10160366](https://doi.org/10.1109/ICRA48891.2023.10160366)
+**DOI:** [10.1109/ICRA48891.2023.10160366](https://doi.org/10.1109/ICRA48891.2023.10160366)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/icra/ChenSCTSNH23,
   author       = {Xiao Chen and

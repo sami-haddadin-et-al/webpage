@@ -3,7 +3,7 @@ title = "Passivity-Based Skill Motion Learning in Stiffness-Adaptive Unified For
 date = "2022-10-23"
 categories = ["publication", "inproceedings"]
 tags = ["publication", "inproceedings"]
-author = ["K{\\\"{u}}bra Karacan", "Hamid Sadeghian", "Robin Jeanne Kirschner", "Sami Haddadin"]
+author = ["Kübra Karacan", "Hamid Sadeghian", "Robin Jeanne Kirschner", "Sami Haddadin"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # Passivity-Based Skill Motion Learning in Stiffness-Adaptive Unified Force-Impedance Control
 
-**Authors:** K{\"{u}}bra Karacan, Hamid Sadeghian, Robin Jeanne Kirschner, Sami Haddadin
+**Authors:** Kübra Karacan, Hamid Sadeghian, Robin Jeanne Kirschner, Sami Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/IROS47612.2022.9981728](https://doi.org/10.1109/IROS47612.2022.9981728)
+**DOI:** [10.1109/IROS47612.2022.9981728](https://doi.org/10.1109/IROS47612.2022.9981728)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/iros/KaracanSKH22,
   author       = {K{\"{u}}bra Karacan and

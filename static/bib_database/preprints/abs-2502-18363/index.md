@@ -3,7 +3,7 @@ title = "Stretchable Capacitive and Resistive Strain Sensors: Accessible Manufac
 date = "2025-01-01"
 categories = ["publication", "article"]
 tags = ["publication", "article"]
-author = ["Lukas Cha", "Sonja Gro{\\ss}", "Shuai Mao", "Tim Braun", "Sami Haddadin", "Liang He"]
+author = ["Lukas Cha", "Sonja Groß", "Shuai Mao", "Tim Braun", "Sami Haddadin", "Liang He"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # Stretchable Capacitive and Resistive Strain Sensors: Accessible Manufacturing Using Direct Ink Writing
 
-**Authors:** Lukas Cha, Sonja Gro{\ss}, Shuai Mao, Tim Braun, Sami Haddadin, Liang He
+**Authors:** Lukas Cha, Sonja Groß, Shuai Mao, Tim Braun, Sami Haddadin, Liang He
 
-- <!-- **Code:** -->
-- **DOI:** [10.48550/ARXIV.2502.18363](https://doi.org/10.48550/ARXIV.2502.18363)
+**DOI:** [10.48550/ARXIV.2502.18363](https://doi.org/10.48550/ARXIV.2502.18363)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @article{DBLP:journals/corr/abs-2502-18363,
   author       = {Lukas Cha and

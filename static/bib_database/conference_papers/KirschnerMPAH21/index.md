@@ -3,7 +3,7 @@ title = "Notion on the Correct Use of the Robot Effective Mass in the Safety Con
 date = "2021-03-04"
 categories = ["publication", "inproceedings"]
 tags = ["publication", "inproceedings"]
-author = ["Robin Jeanne Kirschner", "Nico Mansfeld", "Guillermo G{\\'{o}}mez Pe{\\~{n}}a", "Saeed Abdolshah", "Sami Haddadin"]
+author = ["Robin Jeanne Kirschner", "Nico Mansfeld", "Guillermo Gómez Peña", "Saeed Abdolshah", "Sami Haddadin"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # Notion on the Correct Use of the Robot Effective Mass in the Safety Context and Comments on ISO/TS 15066
 
-**Authors:** Robin Jeanne Kirschner, Nico Mansfeld, Guillermo G{\'{o}}mez Pe{\~{n}}a, Saeed Abdolshah, Sami Haddadin
+**Authors:** Robin Jeanne Kirschner, Nico Mansfeld, Guillermo Gómez Peña, Saeed Abdolshah, Sami Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/ISR50024.2021.9419495](https://doi.org/10.1109/ISR50024.2021.9419495)
+**DOI:** [10.1109/ISR50024.2021.9419495](https://doi.org/10.1109/ISR50024.2021.9419495)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/isr2/KirschnerMPAH21,
   author       = {Robin Jeanne Kirschner and

@@ -13,8 +13,8 @@ gen_lock = false
 
 **Authors:** Erfan Shahriari, Dinmukhamed Zardykhan, Alexander Koenig, Elisabeth Rose Jensen, Sami Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/IROS40897.2019.8968249](https://doi.org/10.1109/IROS40897.2019.8968249)
+**DOI:** [10.1109/IROS40897.2019.8968249](https://doi.org/10.1109/IROS40897.2019.8968249)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/iros/ShahriariZKJH19,
   author       = {Erfan Shahriari and

@@ -13,8 +13,8 @@ gen_lock = false
 
 **Authors:** Zhimin Hou, Jiacheng Hou, Xiao Chen, Hamid Sadeghian, Tianyu Ren, Sami Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** [10.48550/ARXIV.2510.04666](https://doi.org/10.48550/ARXIV.2510.04666)
+**DOI:** [10.48550/ARXIV.2510.04666](https://doi.org/10.48550/ARXIV.2510.04666)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @article{DBLP:journals/corr/abs-2510-04666,
   author       = {Zhimin Hou and

@@ -3,7 +3,7 @@ title = "Error-related Potentials in a Virtual Pick-and-Place Experiment: Toward
 date = "2023-07-24"
 categories = ["publication", "inproceedings"]
 tags = ["publication", "inproceedings"]
-author = ["Viktorija Dimova{-}Edeleva", "Oscar Soto Rivera", "Riddhiman Laha", "Luis F. C. Figueredo", "Melissa Zavaglia", "Sami Haddadin"]
+author = ["Viktorija Dimova-Edeleva", "Oscar Soto Rivera", "Riddhiman Laha", "Luis F. C. Figueredo", "Melissa Zavaglia", "Sami Haddadin"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # Error-related Potentials in a Virtual Pick-and-Place Experiment: Toward Real-world Shared-control
 
-**Authors:** Viktorija Dimova{-}Edeleva, Oscar Soto Rivera, Riddhiman Laha, Luis F. C. Figueredo, Melissa Zavaglia, Sami Haddadin
+**Authors:** Viktorija Dimova-Edeleva, Oscar Soto Rivera, Riddhiman Laha, Luis F. C. Figueredo, Melissa Zavaglia, Sami Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/EMBC40787.2023.10340244](https://doi.org/10.1109/EMBC40787.2023.10340244)
+**DOI:** [10.1109/EMBC40787.2023.10340244](https://doi.org/10.1109/EMBC40787.2023.10340244)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/embc/Dimova-EdelevaR23,
   author       = {Viktorija Dimova{-}Edeleva and

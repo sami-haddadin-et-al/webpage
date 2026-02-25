@@ -3,7 +3,7 @@ title = "A transhumeral prosthesis with an artificial neuromuscular system: Sim2
 date = "2024-01-01"
 categories = ["publication", "article"]
 tags = ["publication", "article"]
-author = ["Alexander Toedtheide", "Edmundo Pozo Fortunic", "Johannes K{\\\"{u}}hn", "Elisabeth Rose Jensen", "Sami Haddadin"]
+author = ["Alexander Toedtheide", "Edmundo Pozo Fortunic", "Johannes Kühn", "Elisabeth Rose Jensen", "Sami Haddadin"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # A transhumeral prosthesis with an artificial neuromuscular system: Sim2real-guided design, modeling, and control
 
-**Authors:** Alexander Toedtheide, Edmundo Pozo Fortunic, Johannes K{\"{u}}hn, Elisabeth Rose Jensen, Sami Haddadin
+**Authors:** Alexander Toedtheide, Edmundo Pozo Fortunic, Johannes Kühn, Elisabeth Rose Jensen, Sami Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** [10.1177/02783649231218719](https://doi.org/10.1177/02783649231218719)
+**DOI:** [10.1177/02783649231218719](https://doi.org/10.1177/02783649231218719)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @article{DBLP:journals/ijrr/ToedtheideFKJH24,
   author       = {Alexander Toedtheide and

@@ -3,7 +3,7 @@ title = "Legal and Technical Considerations on Unified, Safe and Data-Protected 
 date = "2021-03-04"
 categories = ["publication", "inproceedings"]
 tags = ["publication", "inproceedings"]
-author = ["Anton Reindl", "Nina Rudigkeit", "Martin Ebers", "Mario Tr{\\\"{o}}binger", "Jean Elsner", "Sami Haddadin"]
+author = ["Anton Reindl", "Nina Rudigkeit", "Martin Ebers", "Mario Tröbinger", "Jean Elsner", "Sami Haddadin"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # Legal and Technical Considerations on Unified, Safe and Data-Protected Haptic Telepresence in Healthcare
 
-**Authors:** Anton Reindl, Nina Rudigkeit, Martin Ebers, Mario Tr{\"{o}}binger, Jean Elsner, Sami Haddadin
+**Authors:** Anton Reindl, Nina Rudigkeit, Martin Ebers, Mario Tröbinger, Jean Elsner, Sami Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/ISR50024.2021.9419559](https://doi.org/10.1109/ISR50024.2021.9419559)
+**DOI:** [10.1109/ISR50024.2021.9419559](https://doi.org/10.1109/ISR50024.2021.9419559)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/isr2/ReindlRETEH21,
   author       = {Anton Reindl and

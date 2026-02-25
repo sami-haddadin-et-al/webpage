@@ -3,7 +3,7 @@ title = "Data Recording for Responsible Robotics"
 date = "2023-06-05"
 categories = ["publication", "inproceedings"]
 tags = ["publication", "inproceedings"]
-author = ["Jon Skerlj", "Maximilian Braun", "Sophia Witz", "Svenja Breuer", "Marieke Bak", "Sebastian Scholz", "Abdeldjallil Naceri", "Ruth M{\\\"{u}}ller", "Sami Haddadin", "Iris Eisenberger"]
+author = ["Jon Skerlj", "Maximilian Braun", "Sophia Witz", "Svenja Breuer", "Marieke Bak", "Sebastian Scholz", "Abdeldjallil Naceri", "Ruth Müller", "Sami Haddadin", "Iris Eisenberger"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # Data Recording for Responsible Robotics
 
-**Authors:** Jon Skerlj, Maximilian Braun, Sophia Witz, Svenja Breuer, Marieke Bak, Sebastian Scholz, Abdeldjallil Naceri, Ruth M{\"{u}}ller, Sami Haddadin, Iris Eisenberger
+**Authors:** Jon Skerlj, Maximilian Braun, Sophia Witz, Svenja Breuer, Marieke Bak, Sebastian Scholz, Abdeldjallil Naceri, Ruth Müller, Sami Haddadin, Iris Eisenberger
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/ARSO56563.2023.10187414](https://doi.org/10.1109/ARSO56563.2023.10187414)
+**DOI:** [10.1109/ARSO56563.2023.10187414](https://doi.org/10.1109/ARSO56563.2023.10187414)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/arso/SkerljBWBBSNMHE23,
   author       = {Jon Skerlj and

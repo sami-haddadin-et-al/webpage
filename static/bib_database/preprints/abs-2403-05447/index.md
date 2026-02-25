@@ -3,7 +3,7 @@ title = "Safe Execution of Learned Orientation Skills with Conic Control Barrier
 date = "2024-01-01"
 categories = ["publication", "article"]
 tags = ["publication", "article"]
-author = ["Zheng Shen", "Matteo Saveriano", "Fares J. Abu{-}Dakka", "Sami Haddadin"]
+author = ["Zheng Shen", "Matteo Saveriano", "Fares J. Abu-Dakka", "Sami Haddadin"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # Safe Execution of Learned Orientation Skills with Conic Control Barrier Functions
 
-**Authors:** Zheng Shen, Matteo Saveriano, Fares J. Abu{-}Dakka, Sami Haddadin
+**Authors:** Zheng Shen, Matteo Saveriano, Fares J. Abu-Dakka, Sami Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** [10.48550/ARXIV.2403.05447](https://doi.org/10.48550/ARXIV.2403.05447)
+**DOI:** [10.48550/ARXIV.2403.05447](https://doi.org/10.48550/ARXIV.2403.05447)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @article{DBLP:journals/corr/abs-2403-05447,
   author       = {Zheng Shen and

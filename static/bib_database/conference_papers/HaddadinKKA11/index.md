@@ -3,7 +3,7 @@ title = "Exploiting potential energy storage for cyclic manipulation: An analysi
 date = "2011-09-25"
 categories = ["publication", "inproceedings"]
 tags = ["publication", "inproceedings"]
-author = ["Sami Haddadin", "Kai Krieger", "Mirko Kunze", "Alin Albu{-}Sch{\\\"{a}}ffer"]
+author = ["Sami Haddadin", "Kai Krieger", "Mirko Kunze", "Alin Albu-Schäffer"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # Exploiting potential energy storage for cyclic manipulation: An analysis for elastic dribbling with an anthropomorphic robot
 
-**Authors:** Sami Haddadin, Kai Krieger, Mirko Kunze, Alin Albu{-}Sch{\"{a}}ffer
+**Authors:** Sami Haddadin, Kai Krieger, Mirko Kunze, Alin Albu-Schäffer
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/IROS.2011.6094757](https://doi.org/10.1109/IROS.2011.6094757)
+**DOI:** [10.1109/IROS.2011.6094757](https://doi.org/10.1109/IROS.2011.6094757)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/iros/HaddadinKKA11,
   author       = {Sami Haddadin and

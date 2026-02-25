@@ -3,7 +3,7 @@ title = "Joint Velocity and Acceleration Estimation in Serial Chain Rigid Body a
 date = "2019-11-03"
 categories = ["publication", "inproceedings"]
 tags = ["publication", "inproceedings"]
-author = ["Seyed Ali Baradaran Birjandi", "Johannes K{\\\"{u}}hn", "Sami Haddadin"]
+author = ["Seyed Ali Baradaran Birjandi", "Johannes Kühn", "Sami Haddadin"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # Joint Velocity and Acceleration Estimation in Serial Chain Rigid Body and Flexible Joint Manipulators
 
-**Authors:** Seyed Ali Baradaran Birjandi, Johannes K{\"{u}}hn, Sami Haddadin
+**Authors:** Seyed Ali Baradaran Birjandi, Johannes Kühn, Sami Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/IROS40897.2019.8968475](https://doi.org/10.1109/IROS40897.2019.8968475)
+**DOI:** [10.1109/IROS40897.2019.8968475](https://doi.org/10.1109/IROS40897.2019.8968475)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/iros/BirjandiKH19,
   author       = {Seyed Ali Baradaran Birjandi and

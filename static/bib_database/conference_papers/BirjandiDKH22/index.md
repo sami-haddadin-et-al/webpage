@@ -13,8 +13,8 @@ gen_lock = false
 
 **Authors:** Seyed Ali Baradaran Birjandi, Niels Dehio, Abderrahmane Kheddar, Sami Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/IROS47612.2022.9981233](https://doi.org/10.1109/IROS47612.2022.9981233)
+**DOI:** [10.1109/IROS47612.2022.9981233](https://doi.org/10.1109/IROS47612.2022.9981233)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/iros/BirjandiDKH22,
   author       = {Seyed Ali Baradaran Birjandi and

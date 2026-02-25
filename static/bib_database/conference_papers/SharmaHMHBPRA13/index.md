@@ -3,7 +3,7 @@ title = "Evaluation of human safety in the DLR Robotic Motion Simulator using a 
 date = "2013-05-06"
 categories = ["publication", "inproceedings"]
 tags = ["publication", "inproceedings"]
-author = ["Karan Sharma", "Sami Haddadin", "Sebastian Minning", "Johann Heindl", "Tobias Bellmann", "Sven Parusel", "Tim Rokahr", "Alin Albu{-}Sch{\\\"{a}}ffer"]
+author = ["Karan Sharma", "Sami Haddadin", "Sebastian Minning", "Johann Heindl", "Tobias Bellmann", "Sven Parusel", "Tim Rokahr", "Alin Albu-Schäffer"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # Evaluation of human safety in the DLR Robotic Motion Simulator using a crash test dummy
 
-**Authors:** Karan Sharma, Sami Haddadin, Sebastian Minning, Johann Heindl, Tobias Bellmann, Sven Parusel, Tim Rokahr, Alin Albu{-}Sch{\"{a}}ffer
+**Authors:** Karan Sharma, Sami Haddadin, Sebastian Minning, Johann Heindl, Tobias Bellmann, Sven Parusel, Tim Rokahr, Alin Albu-Schäffer
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/ICRA.2013.6630577](https://doi.org/10.1109/ICRA.2013.6630577)
+**DOI:** [10.1109/ICRA.2013.6630577](https://doi.org/10.1109/ICRA.2013.6630577)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/icra/SharmaHMHBPRA13,
   author       = {Karan Sharma and

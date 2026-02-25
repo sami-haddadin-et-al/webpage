@@ -13,8 +13,8 @@ gen_lock = false
 
 **Authors:** Johannes Ringwald, Samuel Schneider, Lingyun Chen, Dennis Knobbe, Lars Johannsmeier, Abdalla Swikir, Sami Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/LRA.2023.3241757](https://doi.org/10.1109/LRA.2023.3241757)
+**DOI:** [10.1109/LRA.2023.3241757](https://doi.org/10.1109/LRA.2023.3241757)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @article{DBLP:journals/ral/RingwaldSCKJSH23,
   author       = {Johannes Ringwald and

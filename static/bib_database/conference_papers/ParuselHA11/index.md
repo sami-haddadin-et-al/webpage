@@ -3,7 +3,7 @@ title = "Modular state-based behavior control for safe human-robot interaction: 
 date = "2011-05-01"
 categories = ["publication", "inproceedings"]
 tags = ["publication", "inproceedings"]
-author = ["Sven Parusel", "Sami Haddadin", "Alin Albu{-}Sch{\\\"{a}}ffer"]
+author = ["Sven Parusel", "Sami Haddadin", "Alin Albu-Schäffer"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # Modular state-based behavior control for safe human-robot interaction: A lightweight control architecture for a lightweight robot
 
-**Authors:** Sven Parusel, Sami Haddadin, Alin Albu{-}Sch{\"{a}}ffer
+**Authors:** Sven Parusel, Sami Haddadin, Alin Albu-Schäffer
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/ICRA.2011.5980549](https://doi.org/10.1109/ICRA.2011.5980549)
+**DOI:** [10.1109/ICRA.2011.5980549](https://doi.org/10.1109/ICRA.2011.5980549)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/icra/ParuselHA11,
   author       = {Sven Parusel and

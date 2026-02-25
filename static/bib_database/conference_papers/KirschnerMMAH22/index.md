@@ -13,8 +13,8 @@ gen_lock = false
 
 **Authors:** Robin Jeanne Kirschner, Florian Martineau, Nico Mansfeld, Saeed Abdolshah, Sami Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/IROS47612.2022.9981864](https://doi.org/10.1109/IROS47612.2022.9981864)
+**DOI:** [10.1109/IROS47612.2022.9981864](https://doi.org/10.1109/IROS47612.2022.9981864)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/iros/KirschnerMMAH22,
   author       = {Robin Jeanne Kirschner and

@@ -3,7 +3,7 @@ title = "Designing Humanoids: How Robot Posture Influences Users' Perceived Safe
 date = "2024-11-22"
 categories = ["publication", "inproceedings"]
 tags = ["publication", "inproceedings"]
-author = ["Simone Nertinger", "Olivia Herzog", "Anna M{\\\"{u}}hlbauer", "Abdeldjallil Naceri", "Sami Haddadin"]
+author = ["Simone Nertinger", "Olivia Herzog", "Anna Mühlbauer", "Abdeldjallil Naceri", "Sami Haddadin"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # Designing Humanoids: How Robot Posture Influences Users' Perceived Safety in HRI
 
-**Authors:** Simone Nertinger, Olivia Herzog, Anna M{\"{u}}hlbauer, Abdeldjallil Naceri, Sami Haddadin
+**Authors:** Simone Nertinger, Olivia Herzog, Anna Mühlbauer, Abdeldjallil Naceri, Sami Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/HUMANOIDS58906.2024.10769912](https://doi.org/10.1109/HUMANOIDS58906.2024.10769912)
+**DOI:** [10.1109/HUMANOIDS58906.2024.10769912](https://doi.org/10.1109/HUMANOIDS58906.2024.10769912)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/humanoids/NertingerHMNH24,
   author       = {Simone Nertinger and

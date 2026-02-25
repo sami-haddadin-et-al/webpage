@@ -3,7 +3,7 @@ title = "Circular Fields and Predictive Multi-Agents for Online Global Trajector
 date = "2021-01-01"
 categories = ["publication", "article"]
 tags = ["publication", "article"]
-author = ["Marvin Becker", "Torsten Lilge", "Matthias A. M{\\\"{u}}ller", "Sami Haddadin"]
+author = ["Marvin Becker", "Torsten Lilge", "Matthias A. Müller", "Sami Haddadin"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # Circular Fields and Predictive Multi-Agents for Online Global Trajectory Planning
 
-**Authors:** Marvin Becker, Torsten Lilge, Matthias A. M{\"{u}}ller, Sami Haddadin
+**Authors:** Marvin Becker, Torsten Lilge, Matthias A. Müller, Sami Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/LRA.2021.3061997](https://doi.org/10.1109/LRA.2021.3061997)
+**DOI:** [10.1109/LRA.2021.3061997](https://doi.org/10.1109/LRA.2021.3061997)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @article{DBLP:journals/ral/BeckerLMH21,
   author       = {Marvin Becker and

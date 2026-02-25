@@ -13,8 +13,8 @@ gen_lock = false
 
 **Authors:** Leilaalsadat Pezeshki, Hamid Sadeghian, Mehdi Keshmiri, Xiao Chen, Sami Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/LRA.2023.3261750](https://doi.org/10.1109/LRA.2023.3261750)
+**DOI:** [10.1109/LRA.2023.3261750](https://doi.org/10.1109/LRA.2023.3261750)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @article{DBLP:journals/ral/PezeshkiSKCH23,
   author       = {Leilaalsadat Pezeshki and

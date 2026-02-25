@@ -3,7 +3,7 @@ title = "Care3D: An Active 3D Object Detection Dataset of Real Robotic-Care Envi
 date = "2023-12-11"
 categories = ["publication", "inproceedings"]
 tags = ["publication", "inproceedings"]
-author = ["Michael G. Adam", "Sebastian Eger", "Martin Piccolrovazzi", "Maged Iskandar", "Joern Vogel", "Alexander Dietrich", "Seongjin Bien", "Jon Skerlj", "Abdeldjallil Naceri", "Eckehard G. Steinbach", "Alin Albu{-}Sch{\\\"{a}}ffer", "Sami Haddadin", "Wolfram Burgard"]
+author = ["Michael G. Adam", "Sebastian Eger", "Martin Piccolrovazzi", "Maged Iskandar", "Joern Vogel", "Alexander Dietrich", "Seongjin Bien", "Jon Skerlj", "Abdeldjallil Naceri", "Eckehard G. Steinbach", "Alin Albu-Schäffer", "Sami Haddadin", "Wolfram Burgard"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # Care3D: An Active 3D Object Detection Dataset of Real Robotic-Care Environments
 
-**Authors:** Michael G. Adam, Sebastian Eger, Martin Piccolrovazzi, Maged Iskandar, Joern Vogel, Alexander Dietrich, Seongjin Bien, Jon Skerlj, Abdeldjallil Naceri, Eckehard G. Steinbach, Alin Albu{-}Sch{\"{a}}ffer, Sami Haddadin, Wolfram Burgard
+**Authors:** Michael G. Adam, Sebastian Eger, Martin Piccolrovazzi, Maged Iskandar, Joern Vogel, Alexander Dietrich, Seongjin Bien, Jon Skerlj, Abdeldjallil Naceri, Eckehard G. Steinbach, Alin Albu-Schäffer, Sami Haddadin, Wolfram Burgard
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/ISM59092.2023.00050](https://doi.org/10.1109/ISM59092.2023.00050)
+**DOI:** [10.1109/ISM59092.2023.00050](https://doi.org/10.1109/ISM59092.2023.00050)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/ism/AdamEPIVDBSNSAHB23,
   author       = {Michael G. Adam and

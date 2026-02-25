@@ -3,7 +3,7 @@ title = "The ILIAD Safety Stack: Human-Aware Infrastructure-Free Navigation of I
 date = "2024-01-01"
 categories = ["publication", "article"]
 tags = ["publication", "article"]
-author = ["Sergi Molina Mellado", "Anna Mannucci", "Martin Magnusson", "Daniel Adolfsson", "Henrik Andreasson", "Mazin Hamad", "Saeed Abdolshah", "Ravi Teja Chadalavada", "Luigi Palmieri", "Timm Linder", "Chittaranjan Srinivas Swaminathan", "Tomasz Piotr Kucner", "Marc Hanheide", "Manuel Fern{\\'{a}}ndez{-}Carmona", "Grzegorz Cielniak", "Tom Duckett", "Federico Pecora", "Simon Bokesand", "Kai O. Arras", "Sami Haddadin", "Achim J. Lilienthal"]
+author = ["Sergi Molina Mellado", "Anna Mannucci", "Martin Magnusson", "Daniel Adolfsson", "Henrik Andreasson", "Mazin Hamad", "Saeed Abdolshah", "Ravi Teja Chadalavada", "Luigi Palmieri", "Timm Linder", "Chittaranjan Srinivas Swaminathan", "Tomasz Piotr Kucner", "Marc Hanheide", "Manuel Fernández-Carmona", "Grzegorz Cielniak", "Tom Duckett", "Federico Pecora", "Simon Bokesand", "Kai O. Arras", "Sami Haddadin", "Achim J. Lilienthal"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # The ILIAD Safety Stack: Human-Aware Infrastructure-Free Navigation of Industrial Mobile Robots
 
-**Authors:** Sergi Molina Mellado, Anna Mannucci, Martin Magnusson, Daniel Adolfsson, Henrik Andreasson, Mazin Hamad, Saeed Abdolshah, Ravi Teja Chadalavada, Luigi Palmieri, Timm Linder, Chittaranjan Srinivas Swaminathan, Tomasz Piotr Kucner, Marc Hanheide, Manuel Fern{\'{a}}ndez{-}Carmona, Grzegorz Cielniak, Tom Duckett, Federico Pecora, Simon Bokesand, Kai O. Arras, Sami Haddadin, Achim J. Lilienthal
+**Authors:** Sergi Molina Mellado, Anna Mannucci, Martin Magnusson, Daniel Adolfsson, Henrik Andreasson, Mazin Hamad, Saeed Abdolshah, Ravi Teja Chadalavada, Luigi Palmieri, Timm Linder, Chittaranjan Srinivas Swaminathan, Tomasz Piotr Kucner, Marc Hanheide, Manuel Fernández-Carmona, Grzegorz Cielniak, Tom Duckett, Federico Pecora, Simon Bokesand, Kai O. Arras, Sami Haddadin, Achim J. Lilienthal
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/MRA.2023.3296983](https://doi.org/10.1109/MRA.2023.3296983)
+**DOI:** [10.1109/MRA.2023.3296983](https://doi.org/10.1109/MRA.2023.3296983)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @article{DBLP:journals/ram/MelladoMMAAHACPLSKHFCDP24,
   author       = {Sergi Molina Mellado and

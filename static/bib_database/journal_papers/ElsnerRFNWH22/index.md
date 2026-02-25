@@ -13,8 +13,8 @@ gen_lock = false
 
 **Authors:** Jean Elsner, Gerhard Reinerth, Luis F. C. Figueredo, Abdeldjallil Naceri, Ulrich Walter, Sami Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** [10.3389/FRVIR.2022.925794](https://doi.org/10.3389/FRVIR.2022.925794)
+**DOI:** [10.3389/FRVIR.2022.925794](https://doi.org/10.3389/FRVIR.2022.925794)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @article{DBLP:journals/frvir/ElsnerRFNWH22,
   author       = {Jean Elsner and

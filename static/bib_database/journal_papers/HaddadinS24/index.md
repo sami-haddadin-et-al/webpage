@@ -13,8 +13,8 @@ gen_lock = false
 
 **Authors:** Sami Haddadin, Erfan Shahriari
 
-- <!-- **Code:** -->
-- **DOI:** [10.1177/02783649241249194](https://doi.org/10.1177/02783649241249194)
+**DOI:** [10.1177/02783649241249194](https://doi.org/10.1177/02783649241249194)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @article{DBLP:journals/ijrr/HaddadinS24,
   author       = {Sami Haddadin and

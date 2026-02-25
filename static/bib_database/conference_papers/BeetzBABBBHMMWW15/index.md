@@ -3,7 +3,7 @@ title = "Robotic agents capable of natural and safe physical interaction with hu
 date = "2015-10-02"
 categories = ["publication", "inproceedings"]
 tags = ["publication", "inproceedings"]
-author = ["Michael Beetz", "Georg Bartels", "Alin Albu{-}Sch{\\\"{a}}ffer", "Ferenc Balint{-}Benczedi", "Rico Belder", "Daniel Be{\\ss}ler", "Sami Haddadin", "Alexis Maldonado", "Nico Mansfeld", "Thiemo Wiedemeyer", "Roman Weitschat", "Jan{-}Hendrik Worch"]
+author = ["Michael Beetz", "Georg Bartels", "Alin Albu-Schäffer", "Ferenc Balint-Benczedi", "Rico Belder", "Daniel Beßler", "Sami Haddadin", "Alexis Maldonado", "Nico Mansfeld", "Thiemo Wiedemeyer", "Roman Weitschat", "Jan-Hendrik Worch"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # Robotic agents capable of natural and safe physical interaction with human co-workers
 
-**Authors:** Michael Beetz, Georg Bartels, Alin Albu{-}Sch{\"{a}}ffer, Ferenc Balint{-}Benczedi, Rico Belder, Daniel Be{\ss}ler, Sami Haddadin, Alexis Maldonado, Nico Mansfeld, Thiemo Wiedemeyer, Roman Weitschat, Jan{-}Hendrik Worch
+**Authors:** Michael Beetz, Georg Bartels, Alin Albu-Schäffer, Ferenc Balint-Benczedi, Rico Belder, Daniel Beßler, Sami Haddadin, Alexis Maldonado, Nico Mansfeld, Thiemo Wiedemeyer, Roman Weitschat, Jan-Hendrik Worch
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/IROS.2015.7354310](https://doi.org/10.1109/IROS.2015.7354310)
+**DOI:** [10.1109/IROS.2015.7354310](https://doi.org/10.1109/IROS.2015.7354310)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/iros/BeetzBABBBHMMWW15,
   author       = {Michael Beetz and

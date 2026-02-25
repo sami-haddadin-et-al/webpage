@@ -3,7 +3,7 @@ title = "Observer-Extended Direct Method for Collision Monitoring in Robot Manip
 date = "2020-01-01"
 categories = ["publication", "article"]
 tags = ["publication", "article"]
-author = ["Seyed Ali Baradaran Birjandi", "Johannes K{\\\"{u}}hn", "Sami Haddadin"]
+author = ["Seyed Ali Baradaran Birjandi", "Johannes Kühn", "Sami Haddadin"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # Observer-Extended Direct Method for Collision Monitoring in Robot Manipulators Using Proprioception and IMU Sensing
 
-**Authors:** Seyed Ali Baradaran Birjandi, Johannes K{\"{u}}hn, Sami Haddadin
+**Authors:** Seyed Ali Baradaran Birjandi, Johannes Kühn, Sami Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/LRA.2020.2967287](https://doi.org/10.1109/LRA.2020.2967287)
+**DOI:** [10.1109/LRA.2020.2967287](https://doi.org/10.1109/LRA.2020.2967287)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @article{DBLP:journals/ral/BirjandiKH20,
   author       = {Seyed Ali Baradaran Birjandi and

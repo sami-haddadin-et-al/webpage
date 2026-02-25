@@ -3,7 +3,7 @@ title = "Anthropomorphic Soft Robotics - From Torque Control to Variable Intrins
 date = "2009-09-03"
 categories = ["publication", "inproceedings"]
 tags = ["publication", "inproceedings"]
-author = ["Alin Albu{-}Sch{\\\"{a}}ffer", "Oliver Eiberger", "Matthias Fuchs", "Markus Grebenstein", "Sami Haddadin", "Christian Ott", "Andreas Stemmer", "Thomas Wimb{\\\"{o}}ck", "Sebastian Wolf", "Christoph Borst", "Gerd Hirzinger"]
+author = ["Alin Albu-Schäffer", "Oliver Eiberger", "Matthias Fuchs", "Markus Grebenstein", "Sami Haddadin", "Christian Ott", "Andreas Stemmer", "Thomas Wimböck", "Sebastian Wolf", "Christoph Borst", "Gerd Hirzinger"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # Anthropomorphic Soft Robotics - From Torque Control to Variable Intrinsic Compliance
 
-**Authors:** Alin Albu{-}Sch{\"{a}}ffer, Oliver Eiberger, Matthias Fuchs, Markus Grebenstein, Sami Haddadin, Christian Ott, Andreas Stemmer, Thomas Wimb{\"{o}}ck, Sebastian Wolf, Christoph Borst, Gerd Hirzinger
+**Authors:** Alin Albu-Schäffer, Oliver Eiberger, Matthias Fuchs, Markus Grebenstein, Sami Haddadin, Christian Ott, Andreas Stemmer, Thomas Wimböck, Sebastian Wolf, Christoph Borst, Gerd Hirzinger
 
-- <!-- **Code:** -->
-- **DOI:** [10.1007/978-3-642-19457-3\_12](https://doi.org/10.1007/978-3-642-19457-3\_12)
+**DOI:** [10.1007/978-3-642-19457-3\_12](https://doi.org/10.1007/978-3-642-19457-3\_12)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/isrr/Albu-SchafferEFGHOSWWBa09,
   author       = {Alin Albu{-}Sch{\"{a}}ffer and

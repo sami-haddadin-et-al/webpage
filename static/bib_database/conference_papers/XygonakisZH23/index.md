@@ -13,8 +13,8 @@ gen_lock = false
 
 **Authors:** Ioannis Xygonakis, Melissa Zavaglia, Sami Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/EMBC40787.2023.10341096](https://doi.org/10.1109/EMBC40787.2023.10341096)
+**DOI:** [10.1109/EMBC40787.2023.10341096](https://doi.org/10.1109/EMBC40787.2023.10341096)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/embc/XygonakisZH23,
   author       = {Ioannis Xygonakis and

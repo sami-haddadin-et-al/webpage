@@ -13,8 +13,8 @@ gen_lock = false
 
 **Authors:** Alexander Toedtheide, Xiao Chen, Hamid Sadeghian, Abdeldjallil Naceri, Sami Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/ICRA48891.2023.10161175](https://doi.org/10.1109/ICRA48891.2023.10161175)
+**DOI:** [10.1109/ICRA48891.2023.10161175](https://doi.org/10.1109/ICRA48891.2023.10161175)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/icra/ToedtheideCSNH23,
   author       = {Alexander Toedtheide and

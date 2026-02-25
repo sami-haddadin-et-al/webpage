@@ -3,7 +3,7 @@ title = "Development of a Collaborative Wheeled Mobile Robot: Design Considerati
 date = "2022-05-23"
 categories = ["publication", "inproceedings"]
 tags = ["publication", "inproceedings"]
-author = ["Mehmet Can Yildirim", "Mohamadreza Sabaghian", "Thore Goll", "Clemens K{\\\"{o}}ssler", "Christoph J{\\\"{a}}hne", "Abdalla Swikir", "Andriy Sarabakha", "Sami Haddadin"]
+author = ["Mehmet Can Yildirim", "Mohamadreza Sabaghian", "Thore Goll", "Clemens Kössler", "Christoph Jähne", "Abdalla Swikir", "Andriy Sarabakha", "Sami Haddadin"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # Development of a Collaborative Wheeled Mobile Robot: Design Considerations, Drive Unit Torque Control, and Preliminary Result
 
-**Authors:** Mehmet Can Yildirim, Mohamadreza Sabaghian, Thore Goll, Clemens K{\"{o}}ssler, Christoph J{\"{a}}hne, Abdalla Swikir, Andriy Sarabakha, Sami Haddadin
+**Authors:** Mehmet Can Yildirim, Mohamadreza Sabaghian, Thore Goll, Clemens Kössler, Christoph Jähne, Abdalla Swikir, Andriy Sarabakha, Sami Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/ICRA46639.2022.9812006](https://doi.org/10.1109/ICRA46639.2022.9812006)
+**DOI:** [10.1109/ICRA46639.2022.9812006](https://doi.org/10.1109/ICRA46639.2022.9812006)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/icra/YildirimSGKJSSH22,
   author       = {Mehmet Can Yildirim and

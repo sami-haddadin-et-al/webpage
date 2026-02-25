@@ -3,7 +3,7 @@ title = "Dynamic modelling and control of variable stiffness actuators"
 date = "2010-05-01"
 categories = ["publication", "inproceedings"]
 tags = ["publication", "inproceedings"]
-author = ["Alin Albu{-}Sch{\\\"{a}}ffer", "Sebastian Wolf", "Oliver Eiberger", "Sami Haddadin", "Florian Petit", "Maxime Chalon"]
+author = ["Alin Albu-Schäffer", "Sebastian Wolf", "Oliver Eiberger", "Sami Haddadin", "Florian Petit", "Maxime Chalon"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # Dynamic modelling and control of variable stiffness actuators
 
-**Authors:** Alin Albu{-}Sch{\"{a}}ffer, Sebastian Wolf, Oliver Eiberger, Sami Haddadin, Florian Petit, Maxime Chalon
+**Authors:** Alin Albu-Schäffer, Sebastian Wolf, Oliver Eiberger, Sami Haddadin, Florian Petit, Maxime Chalon
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/ROBOT.2010.5509850](https://doi.org/10.1109/ROBOT.2010.5509850)
+**DOI:** [10.1109/ROBOT.2010.5509850](https://doi.org/10.1109/ROBOT.2010.5509850)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/icra/Albu-SchafferWEHPC10,
   author       = {Alin Albu{-}Sch{\"{a}}ffer and

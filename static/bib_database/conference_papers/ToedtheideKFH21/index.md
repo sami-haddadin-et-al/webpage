@@ -3,7 +3,7 @@ title = "An Integrated, Force-Sensitive, Impedance Controlled, Tendon-Driven Wri
 date = "2021-07-19"
 categories = ["publication", "inproceedings"]
 tags = ["publication", "inproceedings"]
-author = ["Alexander Toedtheide", "Johannes K{\\\"{u}}hn", "Edmundo Pozo Fortunic", "Sami Haddadin"]
+author = ["Alexander Toedtheide", "Johannes Kühn", "Edmundo Pozo Fortunic", "Sami Haddadin"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # An Integrated, Force-Sensitive, Impedance Controlled, Tendon-Driven Wrist: Design, Modeling, and Control
 
-**Authors:** Alexander Toedtheide, Johannes K{\"{u}}hn, Edmundo Pozo Fortunic, Sami Haddadin
+**Authors:** Alexander Toedtheide, Johannes Kühn, Edmundo Pozo Fortunic, Sami Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/HUMANOIDS47582.2021.9555777](https://doi.org/10.1109/HUMANOIDS47582.2021.9555777)
+**DOI:** [10.1109/HUMANOIDS47582.2021.9555777](https://doi.org/10.1109/HUMANOIDS47582.2021.9555777)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/humanoids/ToedtheideKFH21,
   author       = {Alexander Toedtheide and

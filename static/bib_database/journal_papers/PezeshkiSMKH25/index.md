@@ -13,8 +13,8 @@ gen_lock = false
 
 **Authors:** Leilaalsadat Pezeshki, Hamid Sadeghian, Abolfazl Mohebbi, Mehdi Keshmiri, Sami Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/TASE.2025.3552446](https://doi.org/10.1109/TASE.2025.3552446)
+**DOI:** [10.1109/TASE.2025.3552446](https://doi.org/10.1109/TASE.2025.3552446)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @article{DBLP:journals/tase/PezeshkiSMKH25,
   author       = {Leilaalsadat Pezeshki and

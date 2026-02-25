@@ -13,8 +13,8 @@ gen_lock = false
 
 **Authors:** Nico Mansfeld, Badis Djellab, Jaime Raldua Veuthey, Fabian Beck, Christian Ott, Sami Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/IROS.2017.8206435](https://doi.org/10.1109/IROS.2017.8206435)
+**DOI:** [10.1109/IROS.2017.8206435](https://doi.org/10.1109/IROS.2017.8206435)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/iros/MansfeldDV0OH17,
   author       = {Nico Mansfeld and

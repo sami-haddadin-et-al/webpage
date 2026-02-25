@@ -13,8 +13,8 @@ gen_lock = false
 
 **Authors:** Saskia Golz, Christian Osendorfer, Sami Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/ICRA.2015.7139726](https://doi.org/10.1109/ICRA.2015.7139726)
+**DOI:** [10.1109/ICRA.2015.7139726](https://doi.org/10.1109/ICRA.2015.7139726)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/icra/GolzOH15,
   author       = {Saskia Golz and

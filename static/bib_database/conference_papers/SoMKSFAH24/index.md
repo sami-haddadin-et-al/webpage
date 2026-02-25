@@ -3,7 +3,7 @@ title = "CITR: A Coordinate-Invariant Task Representation for Robotic Manipulati
 date = "2024-05-13"
 categories = ["publication", "inproceedings"]
 tags = ["publication", "inproceedings"]
-author = ["Peter So", "Rafael I. Cabral Muchacho", "Robin Jeanne Kirschner", "Abdalla Swikir", "Luis F. C. Figueredo", "Fares J. Abu{-}Dakka", "Sami Haddadin"]
+author = ["Peter So", "Rafael I. Cabral Muchacho", "Robin Jeanne Kirschner", "Abdalla Swikir", "Luis F. C. Figueredo", "Fares J. Abu-Dakka", "Sami Haddadin"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # CITR: A Coordinate-Invariant Task Representation for Robotic Manipulation
 
-**Authors:** Peter So, Rafael I. Cabral Muchacho, Robin Jeanne Kirschner, Abdalla Swikir, Luis F. C. Figueredo, Fares J. Abu{-}Dakka, Sami Haddadin
+**Authors:** Peter So, Rafael I. Cabral Muchacho, Robin Jeanne Kirschner, Abdalla Swikir, Luis F. C. Figueredo, Fares J. Abu-Dakka, Sami Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/ICRA57147.2024.10611312](https://doi.org/10.1109/ICRA57147.2024.10611312)
+**DOI:** [10.1109/ICRA57147.2024.10611312](https://doi.org/10.1109/ICRA57147.2024.10611312)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/icra/SoMKSFAH24,
   author       = {Peter So and

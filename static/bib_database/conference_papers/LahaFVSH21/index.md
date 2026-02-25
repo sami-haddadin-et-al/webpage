@@ -13,8 +13,8 @@ gen_lock = false
 
 **Authors:** Riddhiman Laha, Luis F. C. Figueredo, Juraj Vrabel, Abdalla Swikir, Sami Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/ICRA48506.2021.9561985](https://doi.org/10.1109/ICRA48506.2021.9561985)
+**DOI:** [10.1109/ICRA48506.2021.9561985](https://doi.org/10.1109/ICRA48506.2021.9561985)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/icra/LahaFVSH21,
   author       = {Riddhiman Laha and

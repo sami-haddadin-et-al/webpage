@@ -13,8 +13,8 @@ gen_lock = false
 
 **Authors:** Liding Zhang, Zhenshan Bing, Kejia Chen, Lingyun Chen, Fan Wu, Peter Krumbholz, Zhilin Yuan, Sami Haddadin, Alois Knoll
 
-- <!-- **Code:** -->
-- **DOI:** [10.48550/ARXIV.2310.12828](https://doi.org/10.48550/ARXIV.2310.12828)
+**DOI:** [10.48550/ARXIV.2310.12828](https://doi.org/10.48550/ARXIV.2310.12828)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @article{DBLP:journals/corr/abs-2310-12828,
   author       = {Liding Zhang and

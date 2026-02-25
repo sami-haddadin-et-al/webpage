@@ -13,8 +13,8 @@ gen_lock = false
 
 **Authors:** Muhammad Hilman Fatoni, Christopher Herneth, Junnan Li, Fajar Budiman, Amartya Ganguly, Sami Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** [10.48550/ARXIV.2408.17287](https://doi.org/10.48550/ARXIV.2408.17287)
+**DOI:** [10.48550/ARXIV.2408.17287](https://doi.org/10.48550/ARXIV.2408.17287)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @article{DBLP:journals/corr/abs-2408-17287,
   author       = {Muhammad Hilman Fatoni and

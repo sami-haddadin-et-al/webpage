@@ -3,7 +3,7 @@ title = "Injury evaluation of human-robot impacts"
 date = "2008-05-19"
 categories = ["publication", "inproceedings"]
 tags = ["publication", "inproceedings"]
-author = ["Sami Haddadin", "Alin Albu{-}Sch{\\\"{a}}ffer", "Michael Strohmayr", "Mirko Frommberger", "Gerd Hirzinger"]
+author = ["Sami Haddadin", "Alin Albu-Schäffer", "Michael Strohmayr", "Mirko Frommberger", "Gerd Hirzinger"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # Injury evaluation of human-robot impacts
 
-**Authors:** Sami Haddadin, Alin Albu{-}Sch{\"{a}}ffer, Michael Strohmayr, Mirko Frommberger, Gerd Hirzinger
+**Authors:** Sami Haddadin, Alin Albu-Schäffer, Michael Strohmayr, Mirko Frommberger, Gerd Hirzinger
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/ROBOT.2008.4543534](https://doi.org/10.1109/ROBOT.2008.4543534)
+**DOI:** [10.1109/ROBOT.2008.4543534](https://doi.org/10.1109/ROBOT.2008.4543534)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/icra/HaddadinASFH08,
   author       = {Sami Haddadin and

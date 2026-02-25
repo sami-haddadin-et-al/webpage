@@ -3,7 +3,7 @@ title = "A Dual Doctor-Patient Twin Paradigm for Transparent Remote Examination,
 date = "2021-01-01"
 categories = ["publication", "inproceedings"]
 tags = ["publication", "inproceedings"]
-author = ["Mario Tr{\\\"{o}}binger", "Andrei Costinescu", "Hao Xing", "Jean Elsner", "Tingli Hu", "Abdeldjallil Naceri", "Luis F. C. Figueredo", "Elisabeth Rose Jensen", "Darius Burschka", "Sami Haddadin"]
+author = ["Mario Tröbinger", "Andrei Costinescu", "Hao Xing", "Jean Elsner", "Tingli Hu", "Abdeldjallil Naceri", "Luis F. C. Figueredo", "Elisabeth Rose Jensen", "Darius Burschka", "Sami Haddadin"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # A Dual Doctor-Patient Twin Paradigm for Transparent Remote Examination, Diagnosis, and Rehabilitation
 
-**Authors:** Mario Tr{\"{o}}binger, Andrei Costinescu, Hao Xing, Jean Elsner, Tingli Hu, Abdeldjallil Naceri, Luis F. C. Figueredo, Elisabeth Rose Jensen, Darius Burschka, Sami Haddadin
+**Authors:** Mario Tröbinger, Andrei Costinescu, Hao Xing, Jean Elsner, Tingli Hu, Abdeldjallil Naceri, Luis F. C. Figueredo, Elisabeth Rose Jensen, Darius Burschka, Sami Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/IROS51168.2021.9636626](https://doi.org/10.1109/IROS51168.2021.9636626)
+**DOI:** [10.1109/IROS51168.2021.9636626](https://doi.org/10.1109/IROS51168.2021.9636626)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/iros/TrobingerCXEHNF21,
   author       = {Mario Tr{\"{o}}binger and

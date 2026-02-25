@@ -3,7 +3,7 @@ title = "Motion Planning using Reactive Circular Fields: A 2D Analysis of Collis
 date = "2022-01-01"
 categories = ["publication", "article"]
 tags = ["publication", "article"]
-author = ["Marvin Becker", "Johannes K{\\\"{o}}hler", "Sami Haddadin", "Matthias A. M{\\\"{u}}ller"]
+author = ["Marvin Becker", "Johannes Köhler", "Sami Haddadin", "Matthias A. Müller"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # Motion Planning using Reactive Circular Fields: A 2D Analysis of Collision Avoidance and Goal Convergence
 
-**Authors:** Marvin Becker, Johannes K{\"{o}}hler, Sami Haddadin, Matthias A. M{\"{u}}ller
+**Authors:** Marvin Becker, Johannes Köhler, Sami Haddadin, Matthias A. Müller
 
-- <!-- **Code:** -->
-- **DOI:** [10.48550/ARXIV.2210.16106](https://doi.org/10.48550/ARXIV.2210.16106)
+**DOI:** [10.48550/ARXIV.2210.16106](https://doi.org/10.48550/ARXIV.2210.16106)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @article{DBLP:journals/corr/abs-2210-16106,
   author       = {Marvin Becker and

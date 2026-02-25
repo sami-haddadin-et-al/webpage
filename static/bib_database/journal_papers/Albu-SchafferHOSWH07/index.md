@@ -3,7 +3,7 @@ title = "The DLR lightweight robot: design and control concepts for robots in hu
 date = "2007-01-01"
 categories = ["publication", "article"]
 tags = ["publication", "article"]
-author = ["Alin Albu{-}Sch{\\\"{a}}ffer", "Sami Haddadin", "Christian Ott", "Andreas Stemmer", "Thomas Wimb{\\\"{o}}ck", "Gerhard Hirzinger"]
+author = ["Alin Albu-Schäffer", "Sami Haddadin", "Christian Ott", "Andreas Stemmer", "Thomas Wimböck", "Gerhard Hirzinger"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # The DLR lightweight robot: design and control concepts for robots in human environments
 
-**Authors:** Alin Albu{-}Sch{\"{a}}ffer, Sami Haddadin, Christian Ott, Andreas Stemmer, Thomas Wimb{\"{o}}ck, Gerhard Hirzinger
+**Authors:** Alin Albu-Schäffer, Sami Haddadin, Christian Ott, Andreas Stemmer, Thomas Wimböck, Gerhard Hirzinger
 
-- <!-- **Code:** -->
-- **DOI:** [10.1108/01439910710774386](https://doi.org/10.1108/01439910710774386)
+**DOI:** [10.1108/01439910710774386](https://doi.org/10.1108/01439910710774386)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @article{DBLP:journals/irob/Albu-SchafferHOSWH07,
   author       = {Alin Albu{-}Sch{\"{a}}ffer and

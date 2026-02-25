@@ -3,7 +3,7 @@ title = "Online Transfer and Adaptation of Tactile Skill: A Teleoperation Framew
 date = "2024-11-01"
 categories = ["publication", "inproceedings"]
 tags = ["publication", "inproceedings"]
-author = ["Xiao Chen", "Tianle Ni", "K{\\\"{u}}bra Karacan", "Hamid Sadeghian", "Sami Haddadin"]
+author = ["Xiao Chen", "Tianle Ni", "Kübra Karacan", "Hamid Sadeghian", "Sami Haddadin"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # Online Transfer and Adaptation of Tactile Skill: A Teleoperation Framework
 
-**Authors:** Xiao Chen, Tianle Ni, K{\"{u}}bra Karacan, Hamid Sadeghian, Sami Haddadin
+**Authors:** Xiao Chen, Tianle Ni, Kübra Karacan, Hamid Sadeghian, Sami Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** <!-- TODO: DOI missing in BibTeX -->
+<!-- **DOI:** DOI missing in BibTeX -->
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/corl/ChenNKSH24,
   author       = {Xiao Chen and

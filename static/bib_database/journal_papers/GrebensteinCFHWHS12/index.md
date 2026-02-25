@@ -3,7 +3,7 @@ title = "The hand of the DLR Hand Arm System: Designed for interaction"
 date = "2012-01-01"
 categories = ["publication", "article"]
 tags = ["publication", "article"]
-author = ["Markus Grebenstein", "Maxime Chalon", "Werner Friedl", "Sami Haddadin", "Thomas Wimb{\\\"{o}}ck", "Gerd Hirzinger", "Roland Siegwart"]
+author = ["Markus Grebenstein", "Maxime Chalon", "Werner Friedl", "Sami Haddadin", "Thomas Wimböck", "Gerd Hirzinger", "Roland Siegwart"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # The hand of the DLR Hand Arm System: Designed for interaction
 
-**Authors:** Markus Grebenstein, Maxime Chalon, Werner Friedl, Sami Haddadin, Thomas Wimb{\"{o}}ck, Gerd Hirzinger, Roland Siegwart
+**Authors:** Markus Grebenstein, Maxime Chalon, Werner Friedl, Sami Haddadin, Thomas Wimböck, Gerd Hirzinger, Roland Siegwart
 
-- <!-- **Code:** -->
-- **DOI:** [10.1177/0278364912459209](https://doi.org/10.1177/0278364912459209)
+**DOI:** [10.1177/0278364912459209](https://doi.org/10.1177/0278364912459209)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @article{DBLP:journals/ijrr/GrebensteinCFHWHS12,
   author       = {Markus Grebenstein and

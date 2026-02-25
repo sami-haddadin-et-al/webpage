@@ -3,7 +3,7 @@ title = "The Foundation for Tactile Robots: Approaching the Holistic Analysis of
 date = "2025-10-19"
 categories = ["publication", "inproceedings"]
 tags = ["publication", "inproceedings"]
-author = ["Robin Jeanne Kirschner", "Sebastian Siegner", "K{\\\"{u}}bra Karacan", "Sami Haddadin"]
+author = ["Robin Jeanne Kirschner", "Sebastian Siegner", "Kübra Karacan", "Sami Haddadin"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # The Foundation for Tactile Robots: Approaching the Holistic Analysis of a Robot's Force Sensing Capabilities
 
-**Authors:** Robin Jeanne Kirschner, Sebastian Siegner, K{\"{u}}bra Karacan, Sami Haddadin
+**Authors:** Robin Jeanne Kirschner, Sebastian Siegner, Kübra Karacan, Sami Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/IROS60139.2025.11246184](https://doi.org/10.1109/IROS60139.2025.11246184)
+**DOI:** [10.1109/IROS60139.2025.11246184](https://doi.org/10.1109/IROS60139.2025.11246184)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/iros/KirschnerSKH25,
   author       = {Robin Jeanne Kirschner and

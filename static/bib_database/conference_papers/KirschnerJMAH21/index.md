@@ -3,7 +3,7 @@ title = "CSM: Contact Sensitivity Maps for Benchmarking Robot Collision Handling
 date = "2021-06-05"
 categories = ["publication", "inproceedings"]
 tags = ["publication", "inproceedings"]
-author = ["Robin Jeanne Kirschner", "Jo{\\~{a}}o Jantalia", "Nico Mansfeld", "Saeed Abdolshah", "Sami Haddadin"]
+author = ["Robin Jeanne Kirschner", "João Jantalia", "Nico Mansfeld", "Saeed Abdolshah", "Sami Haddadin"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # CSM: Contact Sensitivity Maps for Benchmarking Robot Collision Handling Systems
 
-**Authors:** Robin Jeanne Kirschner, Jo{\~{a}}o Jantalia, Nico Mansfeld, Saeed Abdolshah, Sami Haddadin
+**Authors:** Robin Jeanne Kirschner, João Jantalia, Nico Mansfeld, Saeed Abdolshah, Sami Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/ICRA48506.2021.9561528](https://doi.org/10.1109/ICRA48506.2021.9561528)
+**DOI:** [10.1109/ICRA48506.2021.9561528](https://doi.org/10.1109/ICRA48506.2021.9561528)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/icra/KirschnerJMAH21,
   author       = {Robin Jeanne Kirschner and

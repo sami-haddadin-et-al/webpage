@@ -3,7 +3,7 @@ title = "SharedAssembly: A Data Collection Approach via Shared Tele-Assembly"
 date = "2025-01-01"
 categories = ["publication", "article"]
 tags = ["publication", "article"]
-author = ["Yansong Wu", "Xiao Chen", "Yu Chen", "Hamid Sadeghian", "Fan Wu", "Zhenshan Bing", "Sami Haddadin", "Alexander K{\\\"{o}}nig", "Alois Knoll"]
+author = ["Yansong Wu", "Xiao Chen", "Yu Chen", "Hamid Sadeghian", "Fan Wu", "Zhenshan Bing", "Sami Haddadin", "Alexander König", "Alois Knoll"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # SharedAssembly: A Data Collection Approach via Shared Tele-Assembly
 
-**Authors:** Yansong Wu, Xiao Chen, Yu Chen, Hamid Sadeghian, Fan Wu, Zhenshan Bing, Sami Haddadin, Alexander K{\"{o}}nig, Alois Knoll
+**Authors:** Yansong Wu, Xiao Chen, Yu Chen, Hamid Sadeghian, Fan Wu, Zhenshan Bing, Sami Haddadin, Alexander König, Alois Knoll
 
-- <!-- **Code:** -->
-- **DOI:** [10.48550/ARXIV.2503.12287](https://doi.org/10.48550/ARXIV.2503.12287)
+**DOI:** [10.48550/ARXIV.2503.12287](https://doi.org/10.48550/ARXIV.2503.12287)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @article{DBLP:journals/corr/abs-2503-12287,
   author       = {Yansong Wu and

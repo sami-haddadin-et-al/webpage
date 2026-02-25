@@ -13,8 +13,8 @@ gen_lock = false
 
 **Authors:** Zewen Yang, Xiaobing Dai, Dongfa Zhang, Yu Li, Ziyang Meng, Bingkun Huang, Hamid Sadeghian, Sami Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** [10.48550/ARXIV.2509.14040](https://doi.org/10.48550/ARXIV.2509.14040)
+**DOI:** [10.48550/ARXIV.2509.14040](https://doi.org/10.48550/ARXIV.2509.14040)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @article{DBLP:journals/corr/abs-2509-14040,
   author       = {Zewen Yang and

@@ -13,8 +13,8 @@ gen_lock = false
 
 **Authors:** Arthur Bucker, Luis F. C. Figueredo, Sami Haddadin, Ashish Kapoor, Shuang Ma, Rogerio Bonatti
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/IROS47612.2022.9981810](https://doi.org/10.1109/IROS47612.2022.9981810)
+**DOI:** [10.1109/IROS47612.2022.9981810](https://doi.org/10.1109/IROS47612.2022.9981810)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/iros/BuckerFHKMB22,
   author       = {Arthur Bucker and

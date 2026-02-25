@@ -13,8 +13,8 @@ gen_lock = false
 
 **Authors:** Shreenabh Agrawal, Hugo T. M. Kussaba, Lingyun Chen, Allen Emmanuel Binny, Pushpak Jagtap, Sami Haddadin, Abdalla Swikir
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/IROS60139.2025.11247176](https://doi.org/10.1109/IROS60139.2025.11247176)
+**DOI:** [10.1109/IROS60139.2025.11247176](https://doi.org/10.1109/IROS60139.2025.11247176)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/iros/AgrawalKCBJHS25,
   author       = {Shreenabh Agrawal and

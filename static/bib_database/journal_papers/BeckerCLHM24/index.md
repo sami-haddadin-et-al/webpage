@@ -3,7 +3,7 @@ title = "Informed circular fields: a global reactive obstacle avoidance framewor
 date = "2024-01-01"
 categories = ["publication", "article"]
 tags = ["publication", "article"]
-author = ["Marvin Becker", "Philipp Caspers", "Torsten Lilge", "Sami Haddadin", "Matthias Albrecht M{\\\"{u}}ller"]
+author = ["Marvin Becker", "Philipp Caspers", "Torsten Lilge", "Sami Haddadin", "Matthias Albrecht Müller"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # Informed circular fields: a global reactive obstacle avoidance framework for robotic manipulators
 
-**Authors:** Marvin Becker, Philipp Caspers, Torsten Lilge, Sami Haddadin, Matthias Albrecht M{\"{u}}ller
+**Authors:** Marvin Becker, Philipp Caspers, Torsten Lilge, Sami Haddadin, Matthias Albrecht Müller
 
-- <!-- **Code:** -->
-- **DOI:** [10.3389/FROBT.2024.1447351](https://doi.org/10.3389/FROBT.2024.1447351)
+**DOI:** [10.3389/FROBT.2024.1447351](https://doi.org/10.3389/FROBT.2024.1447351)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @article{DBLP:journals/firai/BeckerCLHM24,
   author       = {Marvin Becker and

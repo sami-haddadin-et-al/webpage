@@ -3,7 +3,7 @@ title = "treeofrobots\\_usertool (Version 1)"
 date = "2024-12-01"
 categories = ["publication", "misc"]
 tags = ["publication", "misc"]
-author = ["Robin Jeanne Kirschner", "K{\\\"{u}}bra Karacan", "Alessandro Melone", "Seongjin Bien", "Samuel Schneider", "Sami Haddadin"]
+author = ["Robin Jeanne Kirschner", "Kübra Karacan", "Alessandro Melone", "Seongjin Bien", "Samuel Schneider", "Sami Haddadin"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # treeofrobots\_usertool (Version 1)
 
-**Authors:** Robin Jeanne Kirschner, K{\"{u}}bra Karacan, Alessandro Melone, Seongjin Bien, Samuel Schneider, Sami Haddadin
+**Authors:** Robin Jeanne Kirschner, Kübra Karacan, Alessandro Melone, Seongjin Bien, Samuel Schneider, Sami Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** [10.5281/ZENODO.14517292](https://doi.org/10.5281/ZENODO.14517292)
+**DOI:** [10.5281/ZENODO.14517292](https://doi.org/10.5281/ZENODO.14517292)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @misc{DBLP:data/11/KirschnerKMBSH24,
   author       = {Robin Jeanne Kirschner and

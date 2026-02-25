@@ -13,8 +13,8 @@ gen_lock = false
 
 **Authors:** Fernando Diaz Ledezma, Sami Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** [10.1126/SCIROBOTICS.ADH0972](https://doi.org/10.1126/SCIROBOTICS.ADH0972)
+**DOI:** [10.1126/SCIROBOTICS.ADH0972](https://doi.org/10.1126/SCIROBOTICS.ADH0972)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @article{DBLP:journals/scirobotics/LedezmaH23,
   author       = {Fernando Diaz Ledezma and

@@ -3,7 +3,7 @@ title = "Digital Robot Judge: Building a Task-Centric Performance Database of Re
 date = "2024-01-01"
 categories = ["publication", "article"]
 tags = ["publication", "article"]
-author = ["Peter So", "Andriy Sarabakha", "Fan Wu", "Utku Culha", "Fares J. Abu{-}Dakka", "Sami Haddadin"]
+author = ["Peter So", "Andriy Sarabakha", "Fan Wu", "Utku Culha", "Fares J. Abu-Dakka", "Sami Haddadin"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # Digital Robot Judge: Building a Task-Centric Performance Database of Real-World Manipulation With Electronic Task Boards
 
-**Authors:** Peter So, Andriy Sarabakha, Fan Wu, Utku Culha, Fares J. Abu{-}Dakka, Sami Haddadin
+**Authors:** Peter So, Andriy Sarabakha, Fan Wu, Utku Culha, Fares J. Abu-Dakka, Sami Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/MRA.2023.3336473](https://doi.org/10.1109/MRA.2023.3336473)
+**DOI:** [10.1109/MRA.2023.3336473](https://doi.org/10.1109/MRA.2023.3336473)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @article{DBLP:journals/ram/SoSWCAH24,
   author       = {Peter So and

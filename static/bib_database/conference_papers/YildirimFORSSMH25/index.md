@@ -13,8 +13,8 @@ gen_lock = false
 
 **Authors:** Mehmet Can Yildirim, Edmundo Pozo Fortunic, Dennis Ossadnik, Vasilije Rakcevic, Kangwagye Samuel, Abdalla Swikir, Valentin Le Mesle, Sami Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/HUMANOIDS65713.2025.11203116](https://doi.org/10.1109/HUMANOIDS65713.2025.11203116)
+**DOI:** [10.1109/HUMANOIDS65713.2025.11203116](https://doi.org/10.1109/HUMANOIDS65713.2025.11203116)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/humanoids/YildirimFORSSMH25,
   author       = {Mehmet Can Yildirim and

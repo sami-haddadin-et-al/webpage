@@ -13,8 +13,8 @@ gen_lock = false
 
 **Authors:** Jonas Fuchtmann, Roman Krumpholz, Maximilian Berlet, Daniel Ostler, Hubertus Feussner, Sami Haddadin, Dirk Wilhelm
 
-- <!-- **Code:** -->
-- **DOI:** [10.1007/S11548-021-02424-Y](https://doi.org/10.1007/S11548-021-02424-Y)
+**DOI:** [10.1007/S11548-021-02424-Y](https://doi.org/10.1007/S11548-021-02424-Y)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @article{DBLP:journals/cars/FuchtmannKBOFHW21,
   author       = {Jonas Fuchtmann and

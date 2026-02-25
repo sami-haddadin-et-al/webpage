@@ -13,8 +13,8 @@ gen_lock = false
 
 **Authors:** Liding Zhang, Kuanqi Cai, Yu Zhang, Zhenshan Bing, Chaoqun Wang, Fan Wu, Sami Haddadin, Alois Knoll
 
-- <!-- **Code:** -->
-- **DOI:** [10.48550/ARXIV.2508.21549](https://doi.org/10.48550/ARXIV.2508.21549)
+**DOI:** [10.48550/ARXIV.2508.21549](https://doi.org/10.48550/ARXIV.2508.21549)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @article{DBLP:journals/corr/abs-2508-21549,
   author       = {Liding Zhang and

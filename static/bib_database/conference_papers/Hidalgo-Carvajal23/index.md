@@ -3,7 +3,7 @@ title = "From Human Hand to Grasp Surface Detection, Tracking \\& Analysis"
 date = "2023-07-24"
 categories = ["publication", "inproceedings"]
 tags = ["publication", "inproceedings"]
-author = ["Diego Hidalgo{-}Carvajal", "Abdeldjallil Naceri", "Sami Haddadin"]
+author = ["Diego Hidalgo-Carvajal", "Abdeldjallil Naceri", "Sami Haddadin"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # From Human Hand to Grasp Surface Detection, Tracking \& Analysis
 
-**Authors:** Diego Hidalgo{-}Carvajal, Abdeldjallil Naceri, Sami Haddadin
+**Authors:** Diego Hidalgo-Carvajal, Abdeldjallil Naceri, Sami Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/EMBC40787.2023.10341066](https://doi.org/10.1109/EMBC40787.2023.10341066)
+**DOI:** [10.1109/EMBC40787.2023.10341066](https://doi.org/10.1109/EMBC40787.2023.10341066)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/embc/Hidalgo-Carvajal23,
   author       = {Diego Hidalgo{-}Carvajal and

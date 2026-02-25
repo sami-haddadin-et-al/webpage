@@ -3,7 +3,7 @@ title = "Safe Physical Human-Robot Interaction: Measurements, Analysis and New I
 date = "2007-11-26"
 categories = ["publication", "inproceedings"]
 tags = ["publication", "inproceedings"]
-author = ["Sami Haddadin", "Alin Albu{-}Sch{\\\"{a}}ffer", "Gerd Hirzinger"]
+author = ["Sami Haddadin", "Alin Albu-Schäffer", "Gerd Hirzinger"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # Safe Physical Human-Robot Interaction: Measurements, Analysis and New Insights
 
-**Authors:** Sami Haddadin, Alin Albu{-}Sch{\"{a}}ffer, Gerd Hirzinger
+**Authors:** Sami Haddadin, Alin Albu-Schäffer, Gerd Hirzinger
 
-- <!-- **Code:** -->
-- **DOI:** [10.1007/978-3-642-14743-2\_33](https://doi.org/10.1007/978-3-642-14743-2\_33)
+**DOI:** [10.1007/978-3-642-14743-2\_33](https://doi.org/10.1007/978-3-642-14743-2\_33)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/isrr/HaddadinAH07,
   author       = {Sami Haddadin and

@@ -3,7 +3,7 @@ title = "1 kHz Behavior Tree for Self-adaptable Tactile Insertion"
 date = "2024-05-13"
 categories = ["publication", "inproceedings"]
 tags = ["publication", "inproceedings"]
-author = ["Yansong Wu", "Fan Wu", "Lingyun Chen", "Kejia Chen", "Samuel Schneider", "Lars Johannsmeier", "Zhenshan Bing", "Fares J. Abu{-}Dakka", "Alois Knoll", "Sami Haddadin"]
+author = ["Yansong Wu", "Fan Wu", "Lingyun Chen", "Kejia Chen", "Samuel Schneider", "Lars Johannsmeier", "Zhenshan Bing", "Fares J. Abu-Dakka", "Alois Knoll", "Sami Haddadin"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # 1 kHz Behavior Tree for Self-adaptable Tactile Insertion
 
-**Authors:** Yansong Wu, Fan Wu, Lingyun Chen, Kejia Chen, Samuel Schneider, Lars Johannsmeier, Zhenshan Bing, Fares J. Abu{-}Dakka, Alois Knoll, Sami Haddadin
+**Authors:** Yansong Wu, Fan Wu, Lingyun Chen, Kejia Chen, Samuel Schneider, Lars Johannsmeier, Zhenshan Bing, Fares J. Abu-Dakka, Alois Knoll, Sami Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/ICRA57147.2024.10610835](https://doi.org/10.1109/ICRA57147.2024.10610835)
+**DOI:** [10.1109/ICRA57147.2024.10610835](https://doi.org/10.1109/ICRA57147.2024.10610835)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/icra/WuWC0SJBAKH24,
   author       = {Yansong Wu and

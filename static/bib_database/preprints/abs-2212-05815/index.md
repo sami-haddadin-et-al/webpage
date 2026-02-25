@@ -3,7 +3,7 @@ title = "Informed Circular Fields for Global Reactive Obstacle Avoidance of Robo
 date = "2022-01-01"
 categories = ["publication", "article"]
 tags = ["publication", "article"]
-author = ["Marvin Becker", "Philipp Caspers", "Tom Hattendorf", "Torsten Lilge", "Sami Haddadin", "Matthias Albrecht M{\\\"{u}}ller"]
+author = ["Marvin Becker", "Philipp Caspers", "Tom Hattendorf", "Torsten Lilge", "Sami Haddadin", "Matthias Albrecht Müller"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,10 +11,10 @@ gen_lock = false
 
 # Informed Circular Fields for Global Reactive Obstacle Avoidance of Robotic Manipulators
 
-**Authors:** Marvin Becker, Philipp Caspers, Tom Hattendorf, Torsten Lilge, Sami Haddadin, Matthias Albrecht M{\"{u}}ller
+**Authors:** Marvin Becker, Philipp Caspers, Tom Hattendorf, Torsten Lilge, Sami Haddadin, Matthias Albrecht Müller
 
-- <!-- **Code:** -->
-- **DOI:** [10.48550/ARXIV.2212.05815](https://doi.org/10.48550/ARXIV.2212.05815)
+**DOI:** [10.48550/ARXIV.2212.05815](https://doi.org/10.48550/ARXIV.2212.05815)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @article{DBLP:journals/corr/abs-2212-05815,
   author       = {Marvin Becker and

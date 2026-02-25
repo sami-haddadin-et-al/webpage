@@ -13,8 +13,8 @@ gen_lock = false
 
 **Authors:** Seongjin Bien, Abdeldjallil Naceri, Luis F. C. Figueredo, Sami Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/IROS58592.2024.10801739](https://doi.org/10.1109/IROS58592.2024.10801739)
+**DOI:** [10.1109/IROS58592.2024.10801739](https://doi.org/10.1109/IROS58592.2024.10801739)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/iros/BienNFH24,
   author       = {Seongjin Bien and

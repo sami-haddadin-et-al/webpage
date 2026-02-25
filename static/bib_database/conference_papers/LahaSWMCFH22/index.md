@@ -13,8 +13,8 @@ gen_lock = false
 
 **Authors:** Riddhiman Laha, Ruiai Sun, Wenxi Wu, Dasharadhan Mahalingam, Nilanjan Chakraborty, Luis F. C. Figueredo, Sami Haddadin
 
-- <!-- **Code:** -->
-- **DOI:** [10.1109/ICRA46639.2022.9812014](https://doi.org/10.1109/ICRA46639.2022.9812014)
+**DOI:** [10.1109/ICRA46639.2022.9812014](https://doi.org/10.1109/ICRA46639.2022.9812014)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -31,6 +31,7 @@ _No video(s) available._
 _No additional files._
 
 ## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @inproceedings{DBLP:conf/icra/LahaSWMCFH22,
   author       = {Riddhiman Laha and

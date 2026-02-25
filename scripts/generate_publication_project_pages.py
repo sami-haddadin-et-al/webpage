@@ -11,6 +11,10 @@ from typing import Iterable, Optional
 
 import bibtexparser
 
+from pylatexenc.latex2text import LatexNodes2Text
+
+_latex_converter = LatexNodes2Text()
+
 # -----------------------
 # Config
 # -----------------------
@@ -127,18 +131,77 @@ def sanitize_bibtex_title(title: str) -> str:
     return " ".join(t.split())
 
 
-def split_authors(author_field: str) -> list[str]:
-    # Normalize all whitespace (including newlines) to single spaces
-    normalized = re.sub(r"\s+", " ", author_field).strip()
+def sanitize_inline(text: str) -> str:
+    """
+    Convert common BibTeX/LaTeX sequences to clean Unicode text:
+    - LaTeX accents/macros -> Unicode
+    - {-} -> -
+    - normalize whitespace
+    """
+    if not text:
+        return ""
 
-    # Split on ' and ' with flexible spacing
+    # Common BibTeX idiom for hyphenation
+    text = text.replace("{-}", "-")
+
+    # If backslashes are doubled before accent commands, undo that:
+    # e.g. \\\"{u} -> \"{u}
+    text = re.sub(r"\\\\(?=[\"'`^~=.Hcuvkbrdt])", r"\\", text)
+
+    # LaTeX -> Unicode
+    text = _latex_converter.latex_to_text(text)
+
+    # Remove leftover braces
+    text = text.replace("{", "").replace("}", "")
+
+    # Normalize whitespace
+    text = re.sub(r"\s+", " ", text).strip()
+    return text
+
+
+# def split_authors(author_field: str) -> list[str]:
+#     # Normalize all whitespace (including newlines) to single spaces
+#     normalized = re.sub(r"\s+", " ", author_field).strip()
+#
+#     # Split on ' and ' with flexible spacing
+#     parts = re.split(r"\s+and\s+", normalized, flags=re.IGNORECASE)
+#
+#     out = []
+#     for p in parts:
+#         p = p.strip()
+#         if not p:
+#             continue
+#
+#         # Convert "Last, First" -> "First Last"
+#         if "," in p:
+#             last, first = [x.strip() for x in p.split(",", 1)]
+#             out.append(f"{first} {last}".strip())
+#         else:
+#             out.append(p)
+#
+#     return out
+def split_authors(author_field: str) -> list[str]:
+    """
+    Robust BibTeX author splitter:
+    - handles multiline fields
+    - splits on 'and' with flexible whitespace
+    - converts LaTeX accents per author
+    - normalizes 'Last, First' -> 'First Last'
+    """
+    normalized = re.sub(r"\s+", " ", (author_field or "")).strip()
+    if not normalized:
+        return []
+
     parts = re.split(r"\s+and\s+", normalized, flags=re.IGNORECASE)
 
-    out = []
+    out: list[str] = []
     for p in parts:
         p = p.strip()
         if not p:
             continue
+
+        # Convert LaTeX accents/macros in names
+        p = sanitize_inline(p)
 
         # Convert "Last, First" -> "First Last"
         if "," in p:

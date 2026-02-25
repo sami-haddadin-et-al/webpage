@@ -258,6 +258,8 @@ After activation, the terminal prompt will show ``(venv)``.
 To run the python3 script locally, the following package(s) have to be installed.
 ````
 python3 -m pip install bibtexparser
+python3 -m pip install wheel
+python3 -m pip install pylatexenc
 ````
 
 In the case you want to reset the folder structure for ``bib_database``, you should remove the subfolder using 

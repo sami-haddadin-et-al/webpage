@@ -1,9 +1,9 @@
 baseURL = "https://sami-haddadin-et-al.github.io/webpage/"
 languageCode = "en-us"
 title = "Sami Haddadin et al."
-#theme = "hugo-texify3"
+theme = "hugo-texify3"
 #theme = "hugo-brewm"
-theme = "ananke"
+#theme = "ananke"
 #theme = "reimu"
 disqusShortname = ""
 enableGitInfo = true

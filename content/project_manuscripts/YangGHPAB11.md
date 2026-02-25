@@ -1,0 +1,56 @@
++++
+title = "Human-Like Adaptation of Force and Impedance in Stable and Unstable Interactions"
+date = "2011-01-01"
+categories = ["publication", "article"]
+tags = ["publication", "article"]
+author = ["Chenguang Yang", "Ganesh Gowrishankar", "Sami Haddadin", "Sven Parusel", "Alin Albu-Schäffer", "Etienne Burdet"]
+keywords = []
+draft = false
+gen_lock = false
++++
+
+# Human-Like Adaptation of Force and Impedance in Stable and Unstable Interactions
+
+**Authors:** Chenguang Yang, Ganesh Gowrishankar, Sami Haddadin, Sven Parusel, Alin Albu-Schäffer, Etienne Burdet
+
+**DOI:** [10.1109/TRO.2011.2158251](https://doi.org/10.1109/TRO.2011.2158251)
+<!-- **Code:** No entry in BibTeX-->
+
+_No images available._
+
+## Abstract
+_No abstract available._
+
+## Tags
+_No tag(s) or keyword(s) available._
+
+## Videos
+_No video(s) available._
+
+## Downloads
+_No additional files._
+
+## BibTeX
+If you want to cite this work, you can use the following BibTeX file:
+```bibtex
+@article{DBLP:journals/trob/YangGHPAB11,
+  author       = {Chenguang Yang and
+                  Ganesh Gowrishankar and
+                  Sami Haddadin and
+                  Sven Parusel and
+                  Alin Albu{-}Sch{\"{a}}ffer and
+                  Etienne Burdet},
+  title        = {Human-Like Adaptation of Force and Impedance in Stable and Unstable
+                  Interactions},
+  journal      = {{IEEE} Trans. Robotics},
+  volume       = {27},
+  number       = {5},
+  pages        = {918--930},
+  year         = {2011},
+  url          = {https://doi.org/10.1109/TRO.2011.2158251},
+  doi          = {10.1109/TRO.2011.2158251},
+  timestamp    = {Tue, 14 May 2024 01:00:00 +0200},
+  biburl       = {https://dblp.org/rec/journals/trob/YangGHPAB11.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
+```

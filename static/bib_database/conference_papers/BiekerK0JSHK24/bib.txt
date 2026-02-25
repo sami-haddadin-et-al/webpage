@@ -1,0 +1,21 @@
+@inproceedings{DBLP:conf/cdc/BiekerK0JSHK24,
+  author       = {Katharina Bieker and
+                  Hugo T. M. Kussaba and
+                  Philipp Scholl and
+                  Jaesug Jung and
+                  Abdalla Swikir and
+                  Sami Haddadin and
+                  Gitta Kutyniok},
+  title        = {Compositional Construction of Barrier Functions for Switched Impulsive
+                  Systems},
+  booktitle    = {63rd {IEEE} Conference on Decision and Control, {CDC} 2024, Milan,
+                  Italy, December 16-19, 2024},
+  pages        = {7085--7091},
+  publisher    = {{IEEE}},
+  year         = {2024},
+  url          = {https://doi.org/10.1109/CDC56724.2024.10886587},
+  doi          = {10.1109/CDC56724.2024.10886587},
+  timestamp    = {Tue, 04 Mar 2025 09:03:41 +0100},
+  biburl       = {https://dblp.org/rec/conf/cdc/BiekerK0JSHK24.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}

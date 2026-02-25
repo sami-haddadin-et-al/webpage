@@ -1,0 +1,16 @@
+@inproceedings{DBLP:conf/icra/VorndammeSH17,
+  author       = {Jonathan Vorndamme and
+                  Moritz Schappler and
+                  Sami Haddadin},
+  title        = {Collision detection, isolation and identification for humanoids},
+  booktitle    = {2017 {IEEE} International Conference on Robotics and Automation, {ICRA}
+                  2017, Singapore, Singapore, May 29 - June 3, 2017},
+  pages        = {4754--4761},
+  publisher    = {{IEEE}},
+  year         = {2017},
+  url          = {https://doi.org/10.1109/ICRA.2017.7989552},
+  doi          = {10.1109/ICRA.2017.7989552},
+  timestamp    = {Mon, 03 Mar 2025 00:00:00 +0100},
+  biburl       = {https://dblp.org/rec/conf/icra/VorndammeSH17.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}

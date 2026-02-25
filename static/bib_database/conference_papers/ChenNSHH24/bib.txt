@@ -1,0 +1,18 @@
+@inproceedings{DBLP:conf/icra/ChenNSHH24,
+  author       = {Lingyun Chen and
+                  Abdeldjallil Naceri and
+                  Abdalla Swikir and
+                  Sandra Hirche and
+                  Sami Haddadin},
+  title        = {Autonomous and Teleoperation Control of a Drawing Robot Avatar},
+  booktitle    = {{IEEE} International Conference on Robotics and Automation, {ICRA}
+                  2024, Yokohama, Japan, May 13-17, 2024},
+  pages        = {15714--15720},
+  publisher    = {{IEEE}},
+  year         = {2024},
+  url          = {https://doi.org/10.1109/ICRA57147.2024.10610310},
+  doi          = {10.1109/ICRA57147.2024.10610310},
+  timestamp    = {Fri, 04 Jul 2025 01:00:00 +0200},
+  biburl       = {https://dblp.org/rec/conf/icra/ChenNSHH24.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}

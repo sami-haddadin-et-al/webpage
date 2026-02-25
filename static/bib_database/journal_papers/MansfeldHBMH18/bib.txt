@@ -1,0 +1,19 @@
+@article{DBLP:journals/ral/MansfeldHBMH18,
+  author       = {Nico Mansfeld and
+                  Mazin Hamad and
+                  Marvin Becker and
+                  Antonio Gonzales Marin and
+                  Sami Haddadin},
+  title        = {Safety Map: {A} Unified Representation for Biomechanics Impact Data
+                  and Robot Instantaneous Dynamic Properties},
+  journal      = {{IEEE} Robotics Autom. Lett.},
+  volume       = {3},
+  number       = {3},
+  pages        = {1880--1887},
+  year         = {2018},
+  url          = {https://doi.org/10.1109/LRA.2018.2801477},
+  doi          = {10.1109/LRA.2018.2801477},
+  timestamp    = {Tue, 01 Apr 2025 01:00:00 +0200},
+  biburl       = {https://dblp.org/rec/journals/ral/MansfeldHBMH18.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}

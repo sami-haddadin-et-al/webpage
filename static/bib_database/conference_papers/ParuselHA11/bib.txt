@@ -1,0 +1,17 @@
+@inproceedings{DBLP:conf/icra/ParuselHA11,
+  author       = {Sven Parusel and
+                  Sami Haddadin and
+                  Alin Albu{-}Sch{\"{a}}ffer},
+  title        = {Modular state-based behavior control for safe human-robot interaction:
+                  {A} lightweight control architecture for a lightweight robot},
+  booktitle    = {{IEEE} International Conference on Robotics and Automation, {ICRA}
+                  2011, Shanghai, China, 9-13 May 2011},
+  pages        = {4298--4305},
+  publisher    = {{IEEE}},
+  year         = {2011},
+  url          = {https://doi.org/10.1109/ICRA.2011.5980549},
+  doi          = {10.1109/ICRA.2011.5980549},
+  timestamp    = {Sat, 30 Sep 2023 01:00:00 +0200},
+  biburl       = {https://dblp.org/rec/conf/icra/ParuselHA11.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}

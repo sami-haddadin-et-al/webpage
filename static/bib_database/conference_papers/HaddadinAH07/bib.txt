@@ -1,0 +1,21 @@
+@inproceedings{DBLP:conf/isrr/HaddadinAH07,
+  author       = {Sami Haddadin and
+                  Alin Albu{-}Sch{\"{a}}ffer and
+                  Gerd Hirzinger},
+  editor       = {Makoto Kaneko and
+                  Yoshihiko Nakamura},
+  title        = {Safe Physical Human-Robot Interaction: Measurements, Analysis and
+                  New Insights},
+  booktitle    = {Robotics Research - The 13th International Symposium, {ISRR} 2007,
+                  November 26-29, 2007 in Hiroshima, Japan},
+  series       = {Springer Tracts in Advanced Robotics},
+  volume       = {66},
+  pages        = {395--407},
+  publisher    = {Springer},
+  year         = {2007},
+  url          = {https://doi.org/10.1007/978-3-642-14743-2\_33},
+  doi          = {10.1007/978-3-642-14743-2\_33},
+  timestamp    = {Sat, 30 Sep 2023 01:00:00 +0200},
+  biburl       = {https://dblp.org/rec/conf/isrr/HaddadinAH07.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}

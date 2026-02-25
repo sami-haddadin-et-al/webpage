@@ -1,0 +1,29 @@
+@article{DBLP:journals/artmed/WilhelmSLFEPHNHEJRISBR24,
+  author       = {Nikolas J. Wilhelm and
+                  Claudio E. von Schacky and
+                  Felix J. Lindner and
+                  Matthias J. Feucht and
+                  Yannick Ehmann and
+                  Jonas Pogorzelski and
+                  Sami Haddadin and
+                  Jan Neumann and
+                  Florian Hinterwimmer and
+                  R{\"{u}}diger von Eisenhart{-}Rothe and
+                  Matthias Jung and
+                  Maximilian F. Russe and
+                  Kaywan Izadpanah and
+                  Sebastian Siebenlist and
+                  Rainer Burgkart and
+                  Marco{-}Christopher Rupp},
+  title        = {Multicentric development and validation of a multi-scale and multi-task
+                  deep learning model for comprehensive lower extremity alignment analysis},
+  journal      = {Artif. Intell. Medicine},
+  volume       = {150},
+  pages        = {102843},
+  year         = {2024},
+  url          = {https://doi.org/10.1016/j.artmed.2024.102843},
+  doi          = {10.1016/J.ARTMED.2024.102843},
+  timestamp    = {Sat, 08 Jun 2024 01:00:00 +0200},
+  biburl       = {https://dblp.org/rec/journals/artmed/WilhelmSLFEPHNHEJRISBR24.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}

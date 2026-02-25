@@ -1,0 +1,19 @@
+@inproceedings{DBLP:conf/icra/Albu-SchafferWEHPC10,
+  author       = {Alin Albu{-}Sch{\"{a}}ffer and
+                  Sebastian Wolf and
+                  Oliver Eiberger and
+                  Sami Haddadin and
+                  Florian Petit and
+                  Maxime Chalon},
+  title        = {Dynamic modelling and control of variable stiffness actuators},
+  booktitle    = {{IEEE} International Conference on Robotics and Automation, {ICRA}
+                  2010, Anchorage, Alaska, USA, 3-7 May 2010},
+  pages        = {2155--2162},
+  publisher    = {{IEEE}},
+  year         = {2010},
+  url          = {https://doi.org/10.1109/ROBOT.2010.5509850},
+  doi          = {10.1109/ROBOT.2010.5509850},
+  timestamp    = {Sun, 04 Aug 2024 01:00:00 +0200},
+  biburl       = {https://dblp.org/rec/conf/icra/Albu-SchafferWEHPC10.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}

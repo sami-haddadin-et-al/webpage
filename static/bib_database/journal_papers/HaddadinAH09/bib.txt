@@ -1,0 +1,16 @@
+@article{DBLP:journals/ijrr/HaddadinAH09,
+  author       = {Sami Haddadin and
+                  Alin Albu{-}Sch{\"{a}}ffer and
+                  Gerd Hirzinger},
+  title        = {Requirements for Safe Robots: Measurements, Analysis and New Insights},
+  journal      = {Int. J. Robotics Res.},
+  volume       = {28},
+  number       = {11-12},
+  pages        = {1507--1527},
+  year         = {2009},
+  url          = {https://doi.org/10.1177/0278364909343970},
+  doi          = {10.1177/0278364909343970},
+  timestamp    = {Sat, 30 Sep 2023 01:00:00 +0200},
+  biburl       = {https://dblp.org/rec/journals/ijrr/HaddadinAH09.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}

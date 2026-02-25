@@ -5,6 +5,7 @@ on:
     paths:
       - "static/bib_database/**"
       - "bibliography.bib"
+  workflow_dispatch: {}
 
 permissions:
   contents: write

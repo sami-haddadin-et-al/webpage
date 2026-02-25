@@ -9,6 +9,7 @@ The current Status of the [Sami Haddadin et al.'s webpage](https://https://sami-
 [![Deploy Hugo site to Pages](https://github.com/sami-haddadin-et-al/webpage/actions/workflows/hugo.yml/badge.svg)](https://github.com/sami-haddadin-et-al/webpage/actions/workflows/hugo.yml)
 [![pages-build-deployment](https://github.com/sami-haddadin-et-al/webpage/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/sami-haddadin-et-al/webpage/actions/workflows/pages/pages-build-deployment)
 [![Sync Bib Folders](https://github.com/sami-haddadin-et-al/webpage/actions/workflows/sync-bib-folders.yml/badge.svg)](https://github.com/sami-haddadin-et-al/webpage/actions/workflows/sync-bib-folders.yml)
+[![Regenerate publication project pages and index](https://github.com/sami-haddadin-et-al/webpage/actions/workflows/regenerate-publication-pages.yml/badge.svg)](https://github.com/sami-haddadin-et-al/webpage/actions/workflows/regenerate-publication-pages.yml)
 
 
 (See: Short tutorial on how to [add a workflow status badge](https://docs.github.com/en/actions/how-tos/monitor-workflows/add-a-status-badge))

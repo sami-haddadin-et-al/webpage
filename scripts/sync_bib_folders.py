@@ -206,16 +206,16 @@ def ensure_entry_scaffold(
     write_if_missing(entry_dir / bib_filename, entry.raw.strip() + "\n")
 
     # Files inside info/
-    write_if_missing(entry_dir / "info" / "tags.csv", "tag\n")
+    write_if_missing(entry_dir / "info" / "tags.csv", "")
     write_if_missing(entry_dir / "info" / "abstract.txt", "")
-    write_if_missing(entry_dir / "info" / "video_links.csv", "url\n")
+    write_if_missing(entry_dir / "info" / "video_links.csv", "")
     write_if_missing(entry_dir / "info" / "github_link.txt", "")
     write_if_missing(entry_dir / "images" / ".gitkeep", "")
     write_if_missing(entry_dir / "misc" / ".gitkeep", "")
 
     # Extra file for preprints only
     if category == "preprints":
-        write_if_missing(entry_dir / "published.txt", "")
+        write_if_missing(entry_dir / "published.txt", "unpublished")
 
     return (True, entry_dir)
 

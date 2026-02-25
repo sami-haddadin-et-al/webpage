@@ -128,16 +128,25 @@ def sanitize_bibtex_title(title: str) -> str:
 
 
 def split_authors(author_field: str) -> list[str]:
-    # BibTeX: "A and B and C"
-    parts = [a.strip() for a in author_field.split(" and ") if a.strip()]
-    # Normalize "Last, First" to "First Last" for display
+    # Normalize all whitespace (including newlines) to single spaces
+    normalized = re.sub(r"\s+", " ", author_field).strip()
+
+    # Split on ' and ' with flexible spacing
+    parts = re.split(r"\s+and\s+", normalized, flags=re.IGNORECASE)
+
     out = []
     for p in parts:
+        p = p.strip()
+        if not p:
+            continue
+
+        # Convert "Last, First" -> "First Last"
         if "," in p:
             last, first = [x.strip() for x in p.split(",", 1)]
             out.append(f"{first} {last}".strip())
         else:
             out.append(p)
+
     return out
 
 
@@ -310,6 +319,7 @@ def build_pub_index_md(pub: PublicationRef) -> str:
     fm_lines.append(f"author = {toml_array(authors)}")
     fm_lines.append(f"keywords = {toml_array(tags)}")
     fm_lines.append("draft = false")
+    fm_lines.append("gen_lock = false")
     fm_lines.append("+++")
     fm = "\n".join(fm_lines)
 
@@ -326,20 +336,33 @@ def build_pub_index_md(pub: PublicationRef) -> str:
 
     # 3) Links
     links = []
-    if github_link:
-        links.append(f"- **Code:** {github_link}")
-    else:
-        links.append("- **Code:** <!-- TODO: add GitHub link -->")
     if paper_link:
-        links.append(f"- **Paper (DOI):** {paper_link}")
+        raw_doi = str(entry.get("doi", "")).strip()
+
+        if raw_doi:
+            display_doi = raw_doi
+            doi_href = f"https://doi.org/{raw_doi}"
+        else:
+            # Fallback: paper_link is a URL (maybe doi.org)
+            if "doi.org/" in paper_link:
+                display_doi = paper_link.split("doi.org/", 1)[1]
+            else:
+                display_doi = paper_link
+            doi_href = paper_link
+
+        links.append(f"**DOI:** [{display_doi}]({doi_href})")
     else:
-        links.append("- **Paper (DOI):** <!-- TODO: DOI missing in BibTeX -->")
-    body.append("## Links")
+        links.append("<!-- **DOI:** DOI missing in BibTeX -->")
+    if github_link:
+        links.append(f"**Code:** {github_link}")
+    else:
+        links.append("<!-- **Code:** No entry in BibTeX-->")
+    # body.append("## Links")
     body.extend(links)
     body.append("")
 
     # 4) Figures
-    body.append("## Gallery")
+    # body.append("## Gallery")
     if images:
         for img in images:
             img_path = f"{base_abs}/images/{img.name}"
@@ -354,7 +377,7 @@ def build_pub_index_md(pub: PublicationRef) -> str:
     if abstract:
         body.append(abstract)
     else:
-        body.append("<!-- TODO: add abstract -->")
+        body.append("_No abstract available._")
     body.append("")
 
     # 6) Tags and keywords
@@ -362,7 +385,7 @@ def build_pub_index_md(pub: PublicationRef) -> str:
     if tags:
         body.append(", ".join(tags))
     else:
-        body.append("<!-- No tags provided -->")
+        body.append("_No tag(s) or keyword(s) available._")
     body.append("")
 
     # 7) Videos + misc
@@ -371,7 +394,7 @@ def build_pub_index_md(pub: PublicationRef) -> str:
         for v in videos:
             body.append(f"- {v}")
     else:
-        body.append("<!-- No videos provided -->")
+        body.append("_No video(s) available._")
     body.append("")
 
     body.append("## Downloads")
@@ -385,6 +408,7 @@ def build_pub_index_md(pub: PublicationRef) -> str:
 
     # 8) Plain bib information
     body.append("## BibTeX")
+    body.append("If you want to cite this work, you can use the following BibTeX file:")
     body.append("```bibtex")
     body.append(read_text_strict(bib_path).rstrip())
     body.append("```")
@@ -423,7 +447,7 @@ def build_aggregate_index(pubs: list[PublicationRef]) -> str:
     # TOML front matter for the aggregate index (kept simple)
     fm = "\n".join([
         "+++",
-        f'title = "bib_database index"',
+        f'title = "List of Publications"',
         f'date = "{today}"',
         'categories = ["publication"]',
         'tags = ["publication"]',

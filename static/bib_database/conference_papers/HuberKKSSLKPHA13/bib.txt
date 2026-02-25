@@ -1,0 +1,24 @@
+@inproceedings{DBLP:conf/iros/HuberKKSSLKPHA13,
+  author       = {Felix Huber and
+                  Konstantin Kondak and
+                  Kai Krieger and
+                  Dominik Sommer and
+                  Marc Schwarzbach and
+                  Maximilian Laiacker and
+                  Ingo Kossyk and
+                  Sven Parusel and
+                  Sami Haddadin and
+                  Alin Albu{-}Sch{\"{a}}ffer},
+  title        = {First analysis and experiments in aerial manipulation using fully
+                  actuated redundant robot arm},
+  booktitle    = {2013 {IEEE/RSJ} International Conference on Intelligent Robots and
+                  Systems, {IROS} 2013, Tokyo, Japan, November 3-7, 2013},
+  pages        = {3452--3457},
+  publisher    = {{IEEE}},
+  year         = {2013},
+  url          = {https://doi.org/10.1109/IROS.2013.6696848},
+  doi          = {10.1109/IROS.2013.6696848},
+  timestamp    = {Sat, 30 Sep 2023 01:00:00 +0200},
+  biburl       = {https://dblp.org/rec/conf/iros/HuberKKSSLKPHA13.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}

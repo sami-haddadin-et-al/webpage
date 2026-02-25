@@ -1,0 +1,23 @@
+@inproceedings{DBLP:conf/icra/BohrenPBKPHSHW13,
+  author       = {Jonathan Bohren and
+                  Chavdar Papazov and
+                  Darius Burschka and
+                  Kai Krieger and
+                  Sven Parusel and
+                  Sami Haddadin and
+                  William L. Shepherdson and
+                  Gregory D. Hager and
+                  Louis L. Whitcomb},
+  title        = {A pilot study in vision-based augmented telemanipulation for remote
+                  assembly over high-latency networks},
+  booktitle    = {2013 {IEEE} International Conference on Robotics and Automation, Karlsruhe,
+                  Germany, May 6-10, 2013},
+  pages        = {3631--3638},
+  publisher    = {{IEEE}},
+  year         = {2013},
+  url          = {https://doi.org/10.1109/ICRA.2013.6631087},
+  doi          = {10.1109/ICRA.2013.6631087},
+  timestamp    = {Sat, 30 Sep 2023 01:00:00 +0200},
+  biburl       = {https://dblp.org/rec/conf/icra/BohrenPBKPHSHW13.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}

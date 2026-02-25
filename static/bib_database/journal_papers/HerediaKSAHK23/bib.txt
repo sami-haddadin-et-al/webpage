@@ -1,0 +1,20 @@
+@article{DBLP:journals/ral/HerediaKSAHK23,
+  author       = {Juan Heredia and
+                  Robin Jeanne Kirschner and
+                  Christian Schlette and
+                  Saeed Abdolshah and
+                  Sami Haddadin and
+                  Mikkel Baun Kj{\ae}rgaard},
+  title        = {{ECDP:} Energy Consumption Disaggregation Pipeline for Energy Optimization
+                  in Lightweight Robots},
+  journal      = {{IEEE} Robotics Autom. Lett.},
+  volume       = {8},
+  number       = {10},
+  pages        = {6107--6114},
+  year         = {2023},
+  url          = {https://doi.org/10.1109/LRA.2023.3301311},
+  doi          = {10.1109/LRA.2023.3301311},
+  timestamp    = {Fri, 23 Feb 2024 00:00:00 +0100},
+  biburl       = {https://dblp.org/rec/journals/ral/HerediaKSAHK23.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}

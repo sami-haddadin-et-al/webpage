@@ -1,0 +1,20 @@
+@inproceedings{DBLP:conf/icra/GrossHBSGNH23,
+  author       = {Sonja Gro{\ss} and
+                  Diego Hidalgo{-}Carvajal and
+                  Silija Breimann and
+                  Nicolai Stein and
+                  Amartya Ganguly and
+                  Abdeldjallil Naceri and
+                  Sami Haddadin},
+  title        = {Soft Sensing Skins for Arbitrary Objects: An Automatic Framework},
+  booktitle    = {{IEEE} International Conference on Robotics and Automation, {ICRA}
+                  2023, London, UK, May 29 - June 2, 2023},
+  pages        = {12507--12513},
+  publisher    = {{IEEE}},
+  year         = {2023},
+  url          = {https://doi.org/10.1109/ICRA48891.2023.10161344},
+  doi          = {10.1109/ICRA48891.2023.10161344},
+  timestamp    = {Tue, 14 Oct 2025 01:00:00 +0200},
+  biburl       = {https://dblp.org/rec/conf/icra/GrossHBSGNH23.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}

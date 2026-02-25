@@ -1,0 +1,19 @@
+@inproceedings{DBLP:conf/icra/LahaWSMFH23,
+  author       = {Riddhiman Laha and
+                  Wenxi Wu and
+                  Ruiai Sun and
+                  Nico Mansfeld and
+                  Luis F. C. Figueredo and
+                  Sami Haddadin},
+  title        = {S*: On Safe and Time Efficient Robot Motion Planning},
+  booktitle    = {{IEEE} International Conference on Robotics and Automation, {ICRA}
+                  2023, London, UK, May 29 - June 2, 2023},
+  pages        = {12758--12764},
+  publisher    = {{IEEE}},
+  year         = {2023},
+  url          = {https://doi.org/10.1109/ICRA48891.2023.10161248},
+  doi          = {10.1109/ICRA48891.2023.10161248},
+  timestamp    = {Tue, 08 Aug 2023 01:00:00 +0200},
+  biburl       = {https://dblp.org/rec/conf/icra/LahaWSMFH23.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}

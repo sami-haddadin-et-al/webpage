@@ -1,0 +1,23 @@
+@inproceedings{DBLP:conf/arso/SkerljBWBBSNMHE23,
+  author       = {Jon Skerlj and
+                  Maximilian Braun and
+                  Sophia Witz and
+                  Svenja Breuer and
+                  Marieke Bak and
+                  Sebastian Scholz and
+                  Abdeldjallil Naceri and
+                  Ruth M{\"{u}}ller and
+                  Sami Haddadin and
+                  Iris Eisenberger},
+  title        = {Data Recording for Responsible Robotics},
+  booktitle    = {{IEEE} International Conference on Advanced Robotics and Its Social
+                  Impacts, {ARSO} 2023, Berlin, Germany, June 5-7, 2023},
+  pages        = {103--109},
+  publisher    = {{IEEE}},
+  year         = {2023},
+  url          = {https://doi.org/10.1109/ARSO56563.2023.10187414},
+  doi          = {10.1109/ARSO56563.2023.10187414},
+  timestamp    = {Thu, 01 May 2025 01:00:00 +0200},
+  biburl       = {https://dblp.org/rec/conf/arso/SkerljBWBBSNMHE23.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}

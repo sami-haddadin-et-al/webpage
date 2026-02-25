@@ -1,0 +1,20 @@
+@article{DBLP:journals/corr/abs-2410-06295,
+  author       = {Dasharadhan Mahalingam and
+                  Aditya Patankar and
+                  Riddhiman Laha and
+                  Srinivasan Lakshminarayanan and
+                  Sami Haddadin and
+                  Nilanjan Chakraborty},
+  title        = {A General Formulation for Path Constrained Time-Optimized Trajectory
+                  Planning with Environmental and Object Contacts},
+  journal      = {CoRR},
+  volume       = {abs/2410.06295},
+  year         = {2024},
+  url          = {https://doi.org/10.48550/arXiv.2410.06295},
+  doi          = {10.48550/ARXIV.2410.06295},
+  eprinttype    = {arXiv},
+  eprint       = {2410.06295},
+  timestamp    = {Mon, 18 Nov 2024 00:00:00 +0100},
+  biburl       = {https://dblp.org/rec/journals/corr/abs-2410-06295.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}

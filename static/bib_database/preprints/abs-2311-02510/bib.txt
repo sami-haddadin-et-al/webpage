@@ -1,0 +1,22 @@
+@article{DBLP:journals/corr/abs-2311-02510,
+  author       = {Diego Hidalgo{-}Carvajal and
+                  Hanzhi Chen and
+                  Gemma Carolina Bettelani and
+                  Jaesug Jung and
+                  Melissa Zavaglia and
+                  Laura Busse and
+                  Abdeldjallil Naceri and
+                  Stefan Leutenegger and
+                  Sami Haddadin},
+  title        = {Anthropomorphic Grasping with Neural Object Shape Completion},
+  journal      = {CoRR},
+  volume       = {abs/2311.02510},
+  year         = {2023},
+  url          = {https://doi.org/10.48550/arXiv.2311.02510},
+  doi          = {10.48550/ARXIV.2311.02510},
+  eprinttype    = {arXiv},
+  eprint       = {2311.02510},
+  timestamp    = {Wed, 08 Nov 2023 00:00:00 +0100},
+  biburl       = {https://dblp.org/rec/journals/corr/abs-2311-02510.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}

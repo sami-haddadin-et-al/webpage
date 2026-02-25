@@ -1,0 +1,18 @@
+@article{DBLP:journals/corr/abs-2409-09435,
+  author       = {Jicong Ao and
+                  Yansong Wu and
+                  Fan Wu and
+                  Sami Haddadin},
+  title        = {Behavior Tree Generation using Large Language Models for Sequential
+                  Manipulation Planning with Human Instructions and Feedback},
+  journal      = {CoRR},
+  volume       = {abs/2409.09435},
+  year         = {2024},
+  url          = {https://doi.org/10.48550/arXiv.2409.09435},
+  doi          = {10.48550/ARXIV.2409.09435},
+  eprinttype    = {arXiv},
+  eprint       = {2409.09435},
+  timestamp    = {Sat, 14 Dec 2024 00:00:00 +0100},
+  biburl       = {https://dblp.org/rec/journals/corr/abs-2409-09435.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}

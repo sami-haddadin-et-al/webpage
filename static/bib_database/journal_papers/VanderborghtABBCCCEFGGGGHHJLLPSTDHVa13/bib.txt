@@ -1,0 +1,38 @@
+@article{DBLP:journals/ras/VanderborghtABBCCCEFGGGGHHJLLPSTDHVa13,
+  author       = {Bram Vanderborght and
+                  Alin Albu{-}Sch{\"{a}}ffer and
+                  Antonio Bicchi and
+                  Etienne Burdet and
+                  Darwin G. Caldwell and
+                  Raffaella Carloni and
+                  Manuel G. Catalano and
+                  Oliver Eiberger and
+                  Werner Friedl and
+                  Ganesh Ganesh and
+                  Manolo Garabini and
+                  Markus Grebenstein and
+                  Giorgio Grioli and
+                  Sami Haddadin and
+                  Hannes H{\"{o}}ppner and
+                  Amir Jafari and
+                  Matteo Laffranchi and
+                  Dirk Lefeber and
+                  Florian Petit and
+                  Stefano Stramigioli and
+                  Nikolaos G. Tsagarakis and
+                  Micha{\"{e}}l Van Damme and
+                  Ronald Van Ham and
+                  Ludo C. Visser and
+                  Sebastian Wolf},
+  title        = {Variable impedance actuators: {A} review},
+  journal      = {Robotics Auton. Syst.},
+  volume       = {61},
+  number       = {12},
+  pages        = {1601--1614},
+  year         = {2013},
+  url          = {https://doi.org/10.1016/j.robot.2013.06.009},
+  doi          = {10.1016/J.ROBOT.2013.06.009},
+  timestamp    = {Sat, 30 Sep 2023 01:00:00 +0200},
+  biburl       = {https://dblp.org/rec/journals/ras/VanderborghtABBCCCEFGGGGHHJLLPSTDHVa13.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}

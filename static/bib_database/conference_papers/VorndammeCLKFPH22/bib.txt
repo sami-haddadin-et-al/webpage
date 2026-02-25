@@ -1,0 +1,21 @@
+@inproceedings{DBLP:conf/humanoids/VorndammeCLKFPH22,
+  author       = {Jonathan Vorndamme and
+                  Jo{\~{a}}o Carvalho and
+                  Riddhiman Laha and
+                  Dorothea Koert and
+                  Luis F. C. Figueredo and
+                  Jan Peters and
+                  Sami Haddadin},
+  title        = {Integrated Bi-Manual Motion Generation and Control shaped for Probabilistic
+                  Movement Primitives},
+  booktitle    = {21st {IEEE-RAS} International Conference on Humanoid Robots, Humanoids
+                  2022, Ginowan, Japan, November 28-30, 2022},
+  pages        = {202--209},
+  publisher    = {{IEEE}},
+  year         = {2022},
+  url          = {https://doi.org/10.1109/Humanoids53995.2022.10000149},
+  doi          = {10.1109/HUMANOIDS53995.2022.10000149},
+  timestamp    = {Mon, 03 Mar 2025 00:00:00 +0100},
+  biburl       = {https://dblp.org/rec/conf/humanoids/VorndammeCLKFPH22.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}

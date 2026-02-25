@@ -1,0 +1,19 @@
+@article{DBLP:journals/ijrr/MathewTABR25,
+  author       = {Anup Teejo Mathew and
+                  Daniel Feli{\'{u}} Talegon and
+                  AbdulAziz Y. AlKayas and
+                  Fr{\'{e}}d{\'{e}}ric Boyer and
+                  Federico Renda},
+  title        = {Reduced order modeling of hybrid soft-rigid robots using global, local,
+                  and state-dependent strain parameterization},
+  journal      = {Int. J. Robotics Res.},
+  volume       = {44},
+  number       = {1},
+  pages        = {129--15},
+  year         = {2025},
+  url          = {https://doi.org/10.1177/02783649241262333},
+  doi          = {10.1177/02783649241262333},
+  timestamp    = {Sun, 01 Feb 2026 00:00:00 +0100},
+  biburl       = {https://dblp.org/rec/journals/ijrr/MathewTABR25.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}

@@ -1,0 +1,18 @@
+@article{DBLP:journals/ijrr/TomicLSMH20,
+  author       = {Teodor Tomic and
+                  Philipp Lutz and
+                  Korbinian Schmid and
+                  Andrew Mathers and
+                  Sami Haddadin},
+  title        = {Simultaneous contact and aerodynamic force estimation (s-CAFE) for
+                  aerial robots},
+  journal      = {Int. J. Robotics Res.},
+  volume       = {39},
+  number       = {6},
+  year         = {2020},
+  url          = {https://doi.org/10.1177/0278364920904788},
+  doi          = {10.1177/0278364920904788},
+  timestamp    = {Sat, 30 Sep 2023 01:00:00 +0200},
+  biburl       = {https://dblp.org/rec/journals/ijrr/TomicLSMH20.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}

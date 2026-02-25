@@ -1,0 +1,17 @@
+@inproceedings{DBLP:conf/icra/HaddadinHA12,
+  author       = {Sami Haddadin and
+                  Felix Huber and
+                  Alin Albu{-}Sch{\"{a}}ffer},
+  title        = {Optimal control for exploiting the natural dynamics of Variable Stiffness
+                  robots},
+  booktitle    = {{IEEE} International Conference on Robotics and Automation, {ICRA}
+                  2012, 14-18 May, 2012, St. Paul, Minnesota, {USA}},
+  pages        = {3347--3354},
+  publisher    = {{IEEE}},
+  year         = {2012},
+  url          = {https://doi.org/10.1109/ICRA.2012.6225190},
+  doi          = {10.1109/ICRA.2012.6225190},
+  timestamp    = {Sat, 30 Sep 2023 01:00:00 +0200},
+  biburl       = {https://dblp.org/rec/conf/icra/HaddadinHA12.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}

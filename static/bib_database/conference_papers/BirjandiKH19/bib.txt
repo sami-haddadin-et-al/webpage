@@ -1,0 +1,17 @@
+@inproceedings{DBLP:conf/iros/BirjandiKH19,
+  author       = {Seyed Ali Baradaran Birjandi and
+                  Johannes K{\"{u}}hn and
+                  Sami Haddadin},
+  title        = {Joint Velocity and Acceleration Estimation in Serial Chain Rigid Body
+                  and Flexible Joint Manipulators},
+  booktitle    = {2019 {IEEE/RSJ} International Conference on Intelligent Robots and
+                  Systems, {IROS} 2019, Macau, SAR, China, November 3-8, 2019},
+  pages        = {7503--7509},
+  publisher    = {{IEEE}},
+  year         = {2019},
+  url          = {https://doi.org/10.1109/IROS40897.2019.8968475},
+  doi          = {10.1109/IROS40897.2019.8968475},
+  timestamp    = {Sat, 30 Sep 2023 01:00:00 +0200},
+  biburl       = {https://dblp.org/rec/conf/iros/BirjandiKH19.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}

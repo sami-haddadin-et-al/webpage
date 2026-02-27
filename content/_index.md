@@ -1,6 +1,4 @@
-This is a blog about robotics.
 
----
 
 ## Intelligent Machines: New Frontiers for our Society
 

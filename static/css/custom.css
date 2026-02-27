@@ -1,0 +1,25 @@
+.post-group ul li a.milestone-item{
+  display:flex !important;
+  flex-direction:column !important;
+  align-items:flex-start;
+  gap:.4rem;
+  text-decoration:none;
+}
+
+/* Image sizing */
+.post-group ul li a.milestone-item img.milestone-thumb{
+  width:360px;
+  height:auto;
+  border-radius:8px;
+  display:block;
+}
+
+/* If anything weird is blocking clicks, this helps */
+.post-group ul li a.milestone-item *{
+  pointer-events:auto;
+}
+
+.milestone-title{
+  font-size: 1.3rem;
+  font-weight: 600;
+}

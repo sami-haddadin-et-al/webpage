@@ -27,6 +27,7 @@ canonifyURLs = true
     github = "https://github.com/sami-haddadin-et-al/"
     keywords = ['Robot', 'Human', 'Discovery']
     numberedSubtitles = false
+    customCSS = ["css/custom.css"]
 
 [markup.goldmark.renderer]
     unsafe = true

@@ -4,7 +4,7 @@
 This README.md file is written in [Markdown](https://www.markdownguide.org/getting-started/).
 The purpose of this readme file is to have a brief recap in order to re-setup this project. 
 
-The current Status of the [Sami Haddadin et al.'s webpage](https://https://sami-haddadin-et-al.github.io/webpage/) page is
+The current Status of the [Sami Haddadin et al.'s webpage](https://sami-haddadin-et-al.github.io/webpage/) page is
 
 [![Deploy Hugo site to Pages](https://github.com/sami-haddadin-et-al/webpage/actions/workflows/hugo.yml/badge.svg)](https://github.com/sami-haddadin-et-al/webpage/actions/workflows/hugo.yml)
 [![pages-build-deployment](https://github.com/sami-haddadin-et-al/webpage/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/sami-haddadin-et-al/webpage/actions/workflows/pages/pages-build-deployment)

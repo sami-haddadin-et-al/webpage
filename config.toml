@@ -11,6 +11,8 @@ enableRobotsTXT = true
 hasCJKLanguage = false
 rssLimit = 7
 enableEmoji = true
+#enableDefault = true
+canonifyURLs = true
 
 
 [params]

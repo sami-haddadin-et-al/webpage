@@ -1,0 +1,9 @@
++++
+date = "2022-01-01"
+draft = false
+title = "ExoPro Gen I"
++++
+
+# ExoPro Gen I
+
+ExoPro Gen I from 2022 reflects cutting-edge research into exoskeleton robotics at RSI. 

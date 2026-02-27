@@ -1,7 +1,7 @@
 +++
 date = "2021-01-01"
 draft = false
-title = "Skydio 2TM"
+title = "Skydio 2TM ©Skydio Inc."
 image = "/images/milestones/2021-skydio-2.png"
 +++
 

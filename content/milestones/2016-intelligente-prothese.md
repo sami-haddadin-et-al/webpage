@@ -1,7 +1,7 @@
 +++
 date = "2016-01-01"
 draft = false
-title = "Intelligente Prothese"
+title = "Intelligente Prothese ©IRT"
 image = "/images/milestones/2016-intelligente-prosthese.png"
 +++
 

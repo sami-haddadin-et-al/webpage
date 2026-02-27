@@ -1,7 +1,7 @@
 +++
 date = "2018-01-01"
 draft = false
-title = "Force-Sensitive Prosthesis"
+title = "Force-Sensitive Prosthesis ©RSI"
 image = "/images/milestones/2018-force-sensitive-prosthesis.png"
 +++
 

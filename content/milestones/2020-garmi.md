@@ -1,7 +1,7 @@
 +++
 date = "2020-01-01"
 draft = false
-title = "GARMI"
+title = "GARMI ©Franka Emika"
 image = "/images/milestones/2020-garmi.png"
 +++
 

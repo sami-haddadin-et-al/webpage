@@ -1,7 +1,7 @@
 +++
 date = "2016-01-01"
 draft = false
-title = "FRANKA"
+title = "FRANKA ©Franka Emika"
 image = "/images/milestones/2016-franka.png"
 +++
 

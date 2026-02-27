@@ -1,7 +1,7 @@
 +++
 date = "2022-01-01"
 draft = false
-title = "Artificial Neuromuscular Prosthesis (ANP)"
+title = "Artificial Neuromuscular Prosthesis (ANP) ©RSI"
 image = "/images/milestones/2022-artificial-neuromuscular-prosthesis.png"
 +++
 

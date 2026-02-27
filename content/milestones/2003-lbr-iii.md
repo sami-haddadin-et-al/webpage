@@ -1,7 +1,7 @@
 +++
 date = "2003-01-01"
 draft = false
-title = "LBR III"
+title = "LBR III ©DLR"
 image = "/images/milestones/2003-lbr-iii.png"
 +++
 

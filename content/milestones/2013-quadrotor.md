@@ -1,7 +1,7 @@
 +++
 date = "2013-01-01"
 draft = false
-title = "Quadrotor"
+title = "Quadrotor ©DLR"
 image = "/images/milestones/2013-quadrotor.png"
 +++
 

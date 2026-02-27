@@ -1,7 +1,7 @@
 +++
 date = "2022-01-01"
 draft = false
-title = "ExoPro Gen I"
+title = "ExoPro Gen I ©RSI"
 image = "/images/milestones/2022-exopro-gen-i.png"
 +++
 

@@ -1,16 +1,28 @@
+
+.darkmode{
+  --milestone-border: rgba(255,255,255,.14);
+  --milestone-spine: rgba(255,255,255,.22);
+  --milestone-dot: rgba(255,255,255,.75);
+  --milestone-line: rgba(255,255,255,.25);
+  --milestone-card-bg: rgba(255,255,255,.05);
+  --milestone-halo: rgba(0,0,0,.55);
+  --milestone-shadow: rgba(0,0,0,.4);
+}
+
 .post-group ul li a.milestone-item{
   display:flex !important;
   flex-direction:column !important;
   align-items:flex-start;
+  align-items: center;
   gap:.4rem;
   text-decoration:none;
 }
 
 /* Image sizing */
 .post-group ul li a.milestone-item img.milestone-thumb{
-  width:360px;
+  width:auto;
   height:auto;
-  border-radius:8px;
+  border-radius:4px;
   display:block;
 }
 
@@ -20,6 +32,139 @@
 }
 
 .milestone-title{
-  font-size: 1.3rem;
+  font-size: 0.9rem;
   font-weight: 600;
+}
+
+.milestone-grid{
+  display:grid;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  gap: 1.25rem;
+  align-items:start;
+}
+
+@media (max-width: 900px){
+  .milestone-grid{ grid-template-columns: 1fr; }
+}
+
+.milestone-col{
+  border: 1px solid rgba(0,0,0,.08);
+  border-radius: 6px;
+  padding: 1rem;
+}
+
+.milestone-col-title{
+  text-align: center;
+  font-size: 1.25rem;     /* tweak: 1.1–1.5rem depending on your theme */
+  font-weight: 700;
+  margin: 0 0 1rem 0;
+  padding-bottom: 0.75rem;
+
+  /* two horizontal lines below (double underline effect) */
+  border-bottom: 3px double rgba(0,0,0,.25);
+}
+
+.milestone-col .post-group ul{
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+}
+
+.milestone-col .post-group::before{
+  content: "";
+  position: absolute;
+  left: 0.5rem;
+  top: 2.25rem;          /* starts below the year heading */
+  bottom: 0.25rem;
+  width: 2px;
+  background: rgba(0,0,0,.18);
+}
+
+.milestone-item{
+  text-align: center;
+}
+
+.milestone-item{
+  display: block;
+  padding: 0.85rem 0.9rem;
+  border: 1px solid rgba(0,0,0,.08);
+  border-radius: 10px;
+  background: rgba(255,255,255,.35);
+  text-decoration: none;
+}
+
+.milestone-thumb{
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  margin-top: 0.65rem;
+  border-radius: 12px;
+}
+
+.milestone-col .post-group h4{
+  text-align: center;
+  font-size: 1.1rem;
+  font-weight: 700;
+  margin: 1.75rem 0 1.25rem 0;
+  position: relative;
+}
+
+.milestone-col .post-group h4::before,
+.milestone-col .post-group h4::after{
+  content:"";
+  position:absolute;
+  top:50%;
+  width:30%;
+  height:1px;
+  background: rgba(0,0,0,.25);
+}
+
+.milestone-col .post-group h4::before{
+  left:0;
+}
+
+.milestone-col .post-group h4::after{
+  right:0;
+}
+
+/* Column container border */
+.darkmode .milestone-col{
+  border-color: rgba(255,255,255,.18);
+}
+
+/* Card border + background */
+.darkmode .milestone-item{
+  border-color: rgba(255,255,255,.18);
+  background: rgba(255,255,255,.06);
+}
+
+/* Vertical timeline spine */
+.darkmode .milestone-col .post-group::before{
+  background: rgba(255,255,255,.25);
+}
+
+/* Timeline dot */
+.darkmode .milestone-li::before{
+  background: rgba(255,255,255,.75);
+  outline: 4px solid rgba(0,0,0,.55);
+}
+
+/* Horizontal double lines under column titles (e.g. Systems) */
+.darkmode .milestone-col-title{
+  border-bottom-color: rgba(255,255,255,.28);
+}
+
+/* Horizontal lines beside year headings */
+.darkmode .milestone-col .post-group h4::before,
+.darkmode .milestone-col .post-group h4::after{
+  background: rgba(255,255,255,.28);
+}
+
+
+/* Make wrapper actually usable width-wise */
+#wrapper:has(.milestone-page){
+  max-width: 2400px !important;  /* keep if you want */
+  width: 100% !important;
+  padding-left: 2vw !important;
+  padding-right: 2vw !important;
 }

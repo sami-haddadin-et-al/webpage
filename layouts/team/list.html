@@ -7,16 +7,17 @@
     <h2 class="team-heading">Sami Haddadin</h2>
 
     {{ with .Site.GetPage "team/SamiHaddadin" }}
+      {{ $p := . }}
       <article class="team-item">
-        {{ with .Params.image }}
-          <img class="team-avatar" src="{{ . }}" alt="{{ .Title }}">
+        {{ with $p.Params.image }}
+          <img class="team-avatar" src="{{ . }}" alt="{{ $p.Title }}">
         {{ end }}
 
         <div class="team-meta">
           <div class="team-name">
-            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+            <a href="{{ $p.RelPermalink }}">{{ $p.Title }}</a>
           </div>
-          {{ with .Params.role }}
+          {{ with $p.Params.role }}
             <div class="team-role">{{ . }}</div>
           {{ end }}
         </div>
@@ -31,24 +32,24 @@
     <h2 class="team-heading">Members</h2>
 
     <div class="team-list">
-      {{ $members := where .Site.RegularPages "Section" "team" }}
-      {{ $members = where $members "File.Dir" "match" "^team/members/" }}
-
-      {{ range $members.ByTitle }}
-        <article class="team-item">
-          {{ with .Params.image }}
-            <img class="team-avatar" src="{{ . }}" alt="{{ $.Title }}">
-          {{ end }}
-
-          <div class="team-meta">
-            <div class="team-name">
-              <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-            </div>
-            {{ with .Params.role }}
-              <div class="team-role">{{ . }}</div>
+      {{ range (sort .Site.RegularPages "Title" "asc") }}
+        {{ if and (eq .Section "team") (hasPrefix .File.Dir "team/members/") }}
+          {{ $m := . }}
+          <article class="team-item">
+            {{ with $m.Params.image }}
+              <img class="team-avatar" src="{{ . }}" alt="{{ $m.Title }}">
             {{ end }}
-          </div>
-        </article>
+
+            <div class="team-meta">
+              <div class="team-name">
+                <a href="{{ $m.RelPermalink }}">{{ $m.Title }}</a>
+              </div>
+              {{ with $m.Params.role }}
+                <div class="team-role">{{ . }}</div>
+              {{ end }}
+            </div>
+          </article>
+        {{ end }}
       {{ end }}
     </div>
   </section>

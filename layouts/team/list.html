@@ -1,5 +1,23 @@
 {{ define "main" }}
-  <main>
-    {{ .Content }}
-  </main>
+<main>
+  <h1>{{ .Title }}</h1>
+
+  <h2>Principal Investigator</h2>
+  {{ with .Site.GetPage "team/SamiHaddadin" }}
+    <ul>
+      <li><a href="{{ .RelPermalink }}">{{ .Title }}</a>{{ with .Params.role }} — {{ . }}{{ end }}</li>
+    </ul>
+  {{ end }}
+
+  <hr/>
+
+  <h2>Members</h2>
+  {{ with .Site.GetPage "section" "team/members" }}
+    <ul>
+      {{ range .Pages.ByTitle }}
+        <li><a href="{{ .RelPermalink }}">{{ .Title }}</a>{{ with .Params.role }} — {{ . }}{{ end }}</li>
+      {{ end }}
+    </ul>
+  {{ end }}
+</main>
 {{ end }}

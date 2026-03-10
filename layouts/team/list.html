@@ -4,7 +4,7 @@
 
   <div class="team-columns">
 
-    <!-- LEFT COLUMN: Faculty (PI) -->
+    <!-- LEFT COLUMN: PI -->
     <section class="team-col">
       <h2 class="team-heading">Sami Haddadin</h2>
 
@@ -22,16 +22,13 @@
               {{ with .Params.role }}
                 <div class="team-role">{{ . }}</div>
               {{ end }}
-              {{ with .Params.group }}
-                <div class="team-sub">{{ . }}</div>
-              {{ end }}
             </div>
           </article>
         </div>
       {{ end }}
     </section>
 
-    <!-- RIGHT COLUMN: Graduate Students (Members) -->
+    <!-- RIGHT COLUMN: MEMBERS -->
     <section class="team-col">
       <h2 class="team-heading">Members</h2>
 
@@ -50,9 +47,6 @@
                 {{ with .Params.role }}
                   <div class="team-role">{{ . }}</div>
                 {{ end }}
-                {{ with .Params.group }}
-                  <div class="team-sub">{{ . }}</div>
-                {{ end }}
               </div>
             </article>
           {{ end }}
@@ -64,45 +58,39 @@
 </main>
 
 <style>
-/* Layout */
 .team-page { max-width: 1100px; margin: 0 auto; padding: 1rem; }
-.team-title { margin: 0 0 1rem 0; }
+
 .team-columns {
   display: grid;
   grid-template-columns: 1fr;
   gap: 2rem;
 }
+
 @media (min-width: 900px) {
   .team-columns { grid-template-columns: 1fr 1fr; }
 }
 
-/* Headings */
-.team-heading { margin: 0 0 1rem 0; }
-
-/* List + items */
-.team-list { display: flex; flex-direction: column; gap: 1.25rem; }
+.team-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
 
 .team-item {
   display: grid;
-  grid-template-columns: 84px 1fr;
+  grid-template-columns: 90px 1fr;
   gap: 1rem;
   align-items: center;
 }
 
 .team-avatar {
-  width: 84px;
-  height: 84px;
+  width: 90px;
+  height: 90px;
   border-radius: 999px;
   object-fit: cover;
-  display: block;
 }
 
-/* Text */
-.team-meta { min-width: 0; }
-.team-name { font-weight: 700; line-height: 1.2; }
-.team-name a { text-decoration: none; }
-.team-name a:hover { text-decoration: underline; }
-.team-role { opacity: 0.85; margin-top: 0.25rem; }
-.team-sub { opacity: 0.75; margin-top: 0.25rem; font-size: 0.95rem; }
+.team-name { font-weight: 700; }
+.team-role { opacity: 0.8; margin-top: 0.3rem; }
 </style>
 {{ end }}

@@ -29,6 +29,7 @@
 
   {{/* Get the three milestone sub-sections (folders) */}}
   {{ $papers := site.GetPage "section" "milestones/papers" }}
+  {{ $patents := site.GetPage "section" "milestones/patents" }}
   {{ $systems := site.GetPage "section" "milestones/systems" }}
   {{ $theory := site.GetPage "section" "milestones/theory" }}
   {{ $experiments := site.GetPage "section" "milestones/experiments" }}
@@ -36,6 +37,7 @@
 
   <div class="milestone-grid">
     {{ partial "milestones/column.html" (dict "title" "Papers" "section" $papers) }}
+    {{ partial "milestones/column.html" (dict "title" "Patents" "section" $patents) }}
     {{ partial "milestones/column.html" (dict "title" "Systems" "section" $systems) }}
     {{ partial "milestones/column.html" (dict "title" "Theory" "section" $theory) }}
     {{ partial "milestones/column.html" (dict "title" "Experiments" "section" $experiments) }}

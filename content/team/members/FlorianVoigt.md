@@ -4,6 +4,12 @@ role = "Visiting Student"
 role_group = "PhD"
 image = "/images/team/FlorianVoigt.jpg"
 status = "active"
+publications = [
+    "VoigtNH25",
+    "VoigtNH23",
+    "NaceriETSJVCMJB22",
+    "VoigtJH20"
+]
 +++
 
 

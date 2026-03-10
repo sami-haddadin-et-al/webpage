@@ -27,11 +27,11 @@
 
   <hr class="team-sep"/>
 
-  <!-- Members below -->
+  <!-- Members grid -->
   <section class="team-block">
     <h2 class="team-heading">Members</h2>
 
-    <div class="team-list">
+    <div class="team-grid">
       {{ range (sort .Site.RegularPages "Title" "asc") }}
         {{ if and (eq .Section "team") (hasPrefix .File.Dir "team/members/") }}
           {{ $m := . }}
@@ -64,10 +64,13 @@
 
 .team-sep { margin: 1.5rem 0; opacity: 0.35; }
 
-.team-list {
-  display: flex;
-  flex-direction: column;
+/* NEW: grid layout for members */
+.team-grid {
+  display: grid;
   gap: 1.25rem;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  justify-items: start; /* left-flushed cards */
+  align-items: start;
 }
 
 .team-item {
@@ -75,6 +78,7 @@
   grid-template-columns: 90px 1fr;
   gap: 1rem;
   align-items: center;
+  width: 100%; /* fill the grid cell */
 }
 
 .team-avatar {

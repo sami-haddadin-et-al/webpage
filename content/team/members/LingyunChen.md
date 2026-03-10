@@ -4,6 +4,37 @@ role = "Visiting Student"
 role_group = "PhD"
 image = "/images/team/LingyunChen.jpg"
 status = "active"
+publications = [
+    "WuCWCZBSHK25",
+    "ChenSZCWBHK25",
+    "AgrawalKCBJHS25",
+    "ChenZCWNSH25",
+    "abs-2506-20376",
+    "abs-2507-03992",
+    "abs-2508-19771",
+    "ChenYNSH24",
+    "ChenNSHH24",
+    "WuWC0SJBAKH24",
+    "SchongerKCFSBH24",
+    "ZhangB0CCZWKYHK24",
+    "GrossRWHCFGSH24",
+    "0008CRFGH24",
+    "CaiLGCZFH24",
+    "ChenYZNSH24",
+    "ZhangBZCCWHK24",
+    "abs-2403-08178",
+    "abs-2407-20156",
+    "abs-2408-02293",
+    "abs-2408-13044",
+    "abs-2408-16420",
+    "abs-2409-11047",
+    "abs-2409-11863",
+    "RingwaldSCKJSH23",
+    "ChenSCTSNH23",
+    "abs-2310-12828",
+    "abs-2210-10015",
+    "ChenSH21"
+]
 +++
 
 

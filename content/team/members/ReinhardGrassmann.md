@@ -4,6 +4,9 @@ role = "Postdoc"
 role_group = "Postdoc"
 image = "/images/team/ReinhardGrassmann.jpeg"
 status = "active"
+publications = [
+    "GrassmannJH18"
+]
 +++
 
 

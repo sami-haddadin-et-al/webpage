@@ -1,0 +1,88 @@
+{{ define "main" }}
+<main class="member-page">
+
+  <!-- Header -->
+  <div class="member-header">
+    {{ $img := .Params.image }}
+    {{ if $img }}
+      <img src="{{ $img }}" alt="{{ .Title }}" class="member-avatar">
+    {{ end }}
+
+    <div class="member-header-text">
+      <h1 class="member-name">{{ .Title }}</h1>
+      {{ with .Params.role }}
+        <div class="member-role">{{ . }}</div>
+      {{ end }}
+    </div>
+  </div>
+
+  <div class="member-content">
+    {{ .Content }}
+
+    <!-- Selected Publications -->
+    {{ $pubs := .Params.publications }}
+    {{ if $pubs }}
+       <!-- <h2>Selected Publications</h2>-->
+      <ul class="pub-list">
+        {{ range $pubs }}
+          {{ $p := site.GetPage (printf "project_manuscripts/%s" .) }}
+          {{ if $p }}
+            {{ $authors := delimit ($p.Params.author | default (slice)) ", " }}
+            {{ $year := "" }}
+            {{ with $p.Date }}{{ $year = .Format "2006" }}{{ end }}
+
+            <li>
+              {{ if $authors }}{{ $authors }}, {{ end }}
+              <em>{{ $p.Title }}</em>{{ if $year }}, {{ $year }}{{ end }}.
+              [<a href="{{ $p.RelPermalink }}">Project Page</a>]
+            </li>
+          {{ end }}
+        {{ end }}
+      </ul>
+    {{ end }}
+  </div>
+
+</main>
+
+<style>
+.member-page {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+/* Header layout */
+.member-header {
+  display: grid;
+  grid-template-columns: 220px 1fr;
+  gap: 2rem;
+  align-items: center;
+  margin-bottom: 2.5rem;
+}
+
+.member-avatar {
+  width: 220px;
+  height: 220px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.member-name { margin: 0; }
+.member-role { margin-top: 0.5rem; font-size: 1.1rem; opacity: 0.85; }
+
+/* Content spacing */
+.member-content h2 {
+  margin-top: 2.5rem;
+  margin-bottom: 0.8rem;
+}
+
+.member-content ul {
+  padding-left: 1.5rem;
+  margin-bottom: 1.25rem;
+}
+
+.member-content li {
+  margin: 0.4rem 0;
+}
+</style>
+{{ end }}

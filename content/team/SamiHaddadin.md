@@ -6,23 +6,18 @@ status = "active"
 +++
 
 
-{{ with .Params.image }}
-<img src="{{ . }}" alt="{{ $.Title }}"
-     style="max-width:300px; border-radius:12px; margin-bottom:1rem;">
-{{ end }}
-
-### Current Occupation
+## Current Occupation
 
 Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), Abu Dhabi, UAE
 - Professor of Robotics and Vice President of Research
 - https://mbzuai.ac.ae/study/faculty/sami-haddadin/
 
 
-### Career
+## Career
 
 
-### Robotic Startups (Selection)
+## Robotic Startups (Selection)
 
-### Awards & Honors
+## Awards & Honors
 
-### Research Projects, Grants, Buildings & other Funding
+## Research Projects, Grants, Buildings & other Funding

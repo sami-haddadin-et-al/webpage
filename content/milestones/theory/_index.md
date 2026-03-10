@@ -1,3 +1,3 @@
 ---
-title: "Theory"
+title: "Theories"
 ---

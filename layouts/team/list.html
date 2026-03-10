@@ -2,78 +2,71 @@
 <main class="team-page">
   <h1 class="team-title">{{ .Title }}</h1>
 
-  <div class="team-columns">
+  <!-- PI on top -->
+  <section class="team-block">
+    <h2 class="team-heading">Sami Haddadin</h2>
 
-    <!-- LEFT COLUMN: PI -->
-    <section class="team-col">
-      <h2 class="team-heading">Sami Haddadin</h2>
+    {{ with .Site.GetPage "team/SamiHaddadin" }}
+      <article class="team-item">
+        {{ with .Params.image }}
+          <img class="team-avatar" src="{{ . }}" alt="{{ .Title }}">
+        {{ end }}
 
-      {{ with .Site.GetPage "team/SamiHaddadin" }}
-        <div class="team-list">
-          <article class="team-item">
-            {{ with .Params.image }}
-              <img class="team-avatar" src="{{ . }}" alt="{{ $.Title }}">
-            {{ end }}
-
-            <div class="team-meta">
-              <div class="team-name">
-                <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-              </div>
-              {{ with .Params.role }}
-                <div class="team-role">{{ . }}</div>
-              {{ end }}
-            </div>
-          </article>
-        </div>
-      {{ end }}
-    </section>
-
-    <!-- RIGHT COLUMN: MEMBERS -->
-    <section class="team-col">
-      <h2 class="team-heading">Members</h2>
-
-      {{ with .Site.GetPage "section" "team/members" }}
-        <div class="team-list">
-          {{ range .Pages.ByTitle }}
-            <article class="team-item">
-              {{ with .Params.image }}
-                <img class="team-avatar" src="{{ . }}" alt="{{ $.Title }}">
-              {{ end }}
-
-              <div class="team-meta">
-                <div class="team-name">
-                  <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-                </div>
-                {{ with .Params.role }}
-                  <div class="team-role">{{ . }}</div>
-                {{ end }}
-              </div>
-            </article>
+        <div class="team-meta">
+          <div class="team-name">
+            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+          </div>
+          {{ with .Params.role }}
+            <div class="team-role">{{ . }}</div>
           {{ end }}
         </div>
-      {{ end }}
-    </section>
+      </article>
+    {{ end }}
+  </section>
 
-  </div>
+  <hr class="team-sep"/>
+
+  <!-- Members below -->
+  <section class="team-block">
+    <h2 class="team-heading">Members</h2>
+
+    <div class="team-list">
+      {{ $members := where .Site.RegularPages "Section" "team" }}
+      {{ $members = where $members "File.Dir" "match" "^team/members/" }}
+
+      {{ range $members.ByTitle }}
+        <article class="team-item">
+          {{ with .Params.image }}
+            <img class="team-avatar" src="{{ . }}" alt="{{ $.Title }}">
+          {{ end }}
+
+          <div class="team-meta">
+            <div class="team-name">
+              <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+            </div>
+            {{ with .Params.role }}
+              <div class="team-role">{{ . }}</div>
+            {{ end }}
+          </div>
+        </article>
+      {{ end }}
+    </div>
+  </section>
 </main>
 
 <style>
-.team-page { max-width: 1100px; margin: 0 auto; padding: 1rem; }
+.team-page { max-width: 900px; margin: 0 auto; padding: 1rem; }
+.team-title { margin: 0 0 1rem 0; }
 
-.team-columns {
-  display: grid;
-  grid-template-columns: 1fr;
-  gap: 2rem;
-}
+.team-block { margin-bottom: 1.5rem; }
+.team-heading { margin: 0 0 1rem 0; }
 
-@media (min-width: 900px) {
-  .team-columns { grid-template-columns: 1fr 1fr; }
-}
+.team-sep { margin: 1.5rem 0; opacity: 0.35; }
 
 .team-list {
   display: flex;
   flex-direction: column;
-  gap: 1.5rem;
+  gap: 1.25rem;
 }
 
 .team-item {
@@ -88,9 +81,12 @@
   height: 90px;
   border-radius: 999px;
   object-fit: cover;
+  display: block;
 }
 
 .team-name { font-weight: 700; }
-.team-role { opacity: 0.8; margin-top: 0.3rem; }
+.team-name a { text-decoration: none; }
+.team-name a:hover { text-decoration: underline; }
+.team-role { opacity: 0.8; margin-top: 0.25rem; }
 </style>
 {{ end }}

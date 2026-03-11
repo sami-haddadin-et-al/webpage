@@ -2,24 +2,19 @@
 <main class="team-page">
   <h1 class="team-title">{{ .Title }}</h1>
 
-  <!-- PI on top -->
+  <!-- 1) PI -->
   <section class="team-block">
     <h2 class="team-heading">Sami Haddadin</h2>
 
-    {{ with .Site.GetPage "team/SamiHaddadin" }}
+    {{ with site.GetPage "team/SamiHaddadin" }}
       {{ $p := . }}
       <article class="team-item">
         {{ with $p.Params.image }}
           <img class="team-avatar" src="{{ . }}" alt="{{ $p.Title }}">
         {{ end }}
-
         <div class="team-meta">
-          <div class="team-name">
-            <a href="{{ $p.RelPermalink }}">{{ $p.Title }}</a>
-          </div>
-          {{ with $p.Params.role }}
-            <div class="team-role">{{ . }}</div>
-          {{ end }}
+          <div class="team-name"><a href="{{ $p.RelPermalink }}">{{ $p.Title }}</a></div>
+          {{ with $p.Params.role }}<div class="team-role">{{ . }}</div>{{ end }}
         </div>
       </article>
     {{ end }}
@@ -27,26 +22,68 @@
 
   <hr class="team-sep"/>
 
-  <!-- Members grid -->
+  <!-- 2) Members -->
   <section class="team-block">
     <h2 class="team-heading">Members</h2>
-
-    <div class="team-grid">
-      {{ range (sort .Site.RegularPages "Title" "asc") }}
+    <div id="team-members" class="team-grid">
+      {{ range (sort site.RegularPages "Title" "asc") }}
         {{ if and (eq .Section "team") (hasPrefix .File.Dir "team/members/") }}
-          {{ $m := . }}
-          <article class="team-item">
-            {{ with $m.Params.image }}
-              <img class="team-avatar" src="{{ . }}" alt="{{ $m.Title }}">
-            {{ end }}
-
-            <div class="team-meta">
-              <div class="team-name">
-                <a href="{{ $m.RelPermalink }}">{{ $m.Title }}</a>
-              </div>
-              {{ with $m.Params.role }}
-                <div class="team-role">{{ . }}</div>
+          {{ $status := lower (.Params.status | default "active") }}
+          {{ if ne $status "alumni" }}
+            <article class="team-item member-card">
+              {{ with .Params.image }}
+                <img class="team-avatar" src="{{ . }}" alt="{{ $.Title }}">
               {{ end }}
+              <div class="team-meta">
+                <div class="team-name"><a href="{{ .RelPermalink }}">{{ .Title }}</a></div>
+                {{ with .Params.role }}<div class="team-role">{{ . }}</div>{{ end }}
+              </div>
+            </article>
+          {{ end }}
+        {{ end }}
+      {{ end }}
+    </div>
+  </section>
+
+  <hr class="team-sep"/>
+
+  <!-- 3) Alumni -->
+  <section class="team-block">
+    <h2 class="team-heading">Alumni</h2>
+    <div id="team-alumni" class="team-grid">
+      {{ range (sort site.RegularPages "Title" "asc") }}
+        {{ if and (eq .Section "team") (hasPrefix .File.Dir "team/members/") }}
+          {{ if eq (lower (.Params.status | default "active")) "alumni" }}
+            <article class="team-item member-card">
+              {{ with .Params.image }}
+                <img class="team-avatar" src="{{ . }}" alt="{{ $.Title }}">
+              {{ end }}
+              <div class="team-meta">
+                <div class="team-name"><a href="{{ .RelPermalink }}">{{ .Title }}</a></div>
+                {{ with .Params.role }}<div class="team-role">{{ . }}</div>{{ end }}
+              </div>
+            </article>
+          {{ end }}
+        {{ end }}
+      {{ end }}
+    </div>
+  </section>
+
+  <hr class="team-sep"/>
+
+  <!-- 4) Collaborators -->
+  <section class="team-block">
+    <h2 class="team-heading">Collaborators</h2>
+    <div id="team-collaborators" class="team-grid">
+      {{ range (sort site.RegularPages "Title" "asc") }}
+        {{ if and (eq .Section "team") (hasPrefix .File.Dir "team/collaborators/") }}
+          <article class="team-item member-card">
+            {{ with .Params.image }}
+              <img class="team-avatar" src="{{ . }}" alt="{{ $.Title }}">
+            {{ end }}
+            <div class="team-meta">
+              <div class="team-name"><a href="{{ .RelPermalink }}">{{ .Title }}</a></div>
+              {{ with .Params.role }}<div class="team-role">{{ . }}</div>{{ end }}
             </div>
           </article>
         {{ end }}
@@ -55,25 +92,43 @@
   </section>
 </main>
 
+<!-- Randomize each block independently -->
+<script>
+(function () {
+  function shuffle(containerId) {
+    const container = document.getElementById(containerId);
+    if (!container) return;
+    const items = Array.from(container.children);
+    for (let i = items.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      container.appendChild(items[j]);
+    }
+  }
+
+  document.addEventListener("DOMContentLoaded", function () {
+    shuffle("team-members");
+    shuffle("team-alumni");
+    shuffle("team-collaborators");
+  });
+})();
+</script>
+
 <style>
 .team-page {
   width: min(1200px, 100%);
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 1rem;
 }
-.team-title { margin: 0 0 1rem 0; }
 
 .team-block { margin-bottom: 1.5rem; }
 .team-heading { margin: 0 0 1rem 0; }
-
 .team-sep { margin: 1.5rem 0; opacity: 0.35; }
 
-/* Grid that can form multiple columns */
 .team-grid {
   display: grid;
   gap: 1.25rem;
-
-  /* smaller min width -> more columns */
   grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-
   justify-items: start;
   align-items: start;
 }
@@ -83,7 +138,7 @@
   grid-template-columns: 90px 1fr;
   gap: 1rem;
   align-items: center;
-  width: 100%; /* fill the grid cell */
+  width: 100%;
 }
 
 .team-avatar {
@@ -91,7 +146,6 @@
   height: 90px;
   border-radius: 999px;
   object-fit: cover;
-  display: block;
 }
 
 .team-name { font-weight: 700; }

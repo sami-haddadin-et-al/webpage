@@ -5,7 +5,7 @@ role_group = "PhD"                              # One of: PhD, Postdoc, MSc, BSc
 image = "/images/team/MoritzEckhoff.jpg"        # webpage/image/team/ ....
 status = "active"                               # "active" or "alumni"
 publications = [
-    "abs-2501-06847",
+    "CooperCDEFGGHHHHKPSSTVV25",
     "EckhoffKZSH23",
     "EckhoffKKAH22"                       # name of bib entry (must appear in webpage\bibliography.bib
 ] 

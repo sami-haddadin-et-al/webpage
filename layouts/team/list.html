@@ -56,7 +56,9 @@
 </main>
 
 <style>
-.team-page { max-width: 900px; margin: 0 auto; padding: 1rem; }
+.team-page {
+  width: min(1200px, 100%);
+}
 .team-title { margin: 0 0 1rem 0; }
 
 .team-block { margin-bottom: 1.5rem; }
@@ -64,12 +66,15 @@
 
 .team-sep { margin: 1.5rem 0; opacity: 0.35; }
 
-/* NEW: grid layout for members */
+/* Grid that can form multiple columns */
 .team-grid {
   display: grid;
   gap: 1.25rem;
-  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
-  justify-items: start; /* left-flushed cards */
+
+  /* smaller min width -> more columns */
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+
+  justify-items: start;
   align-items: start;
 }
 

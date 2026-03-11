@@ -42,7 +42,15 @@ publications = [
 
 
 ## Research Interests
-- Robotics
+- Teleoperation and Telepresence
+- Robot Control
+- Design and Control of Robotic Hands
+- Mobile Robot
+
+
+## Awards
+- RoboCup 2019 Small Size League First Place 
+- RoboCup 2018 Small Size League First Place
 
 
 ## Selected Publications

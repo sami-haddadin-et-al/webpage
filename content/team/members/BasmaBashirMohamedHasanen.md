@@ -1,6 +1,6 @@
 +++
 title = "Basma Bashir Mohamed Hasanen"
-role = "PhD"
+role = "PhD Student"
 role_group = "PhD"
 image = "/images/team/BasmaBashirMohamedHasanen.jpeg"
 status = "active"

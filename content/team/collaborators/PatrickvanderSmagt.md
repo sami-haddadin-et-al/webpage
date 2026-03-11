@@ -1,6 +1,6 @@
 +++
 title = "Patrick van der Smagt"
-role = "Postdoc"                            # Visible subtitle
+role = "Foundation Robotics | ELTE University | LMU GSN"                            # Visible subtitle
 role_group = "Collaborator"                      # One of: PhD, Postdoc, MSc, BSc, Staff, Visiting, Alumni, Collaborator
 image = "/images/team/PatrickvanderSmagt.jpg"  # webpage/image/team/ ....
 status = "active"                           # "active" or "alumni"

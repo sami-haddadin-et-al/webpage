@@ -1,6 +1,6 @@
 +++
 title = "Sami Haddadin"
-role = "Principle Inverstigator"
+role = ""
 image = "/images/team/SamiHaddadin.jpg"
 status = "active"
 +++

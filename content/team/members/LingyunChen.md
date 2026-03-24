@@ -1,6 +1,6 @@
 +++
 title = "Lingyun Chen"
-role = "Visiting Student"
+role = "PhD Student @ TUM"
 role_group = "PhD"
 image = "/images/team/LingyunChen.jpg"
 status = "active"

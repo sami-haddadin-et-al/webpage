@@ -1,6 +1,6 @@
 +++
 title = "Abdulaziz Youssef Alkayas"
-role = "Postdoc"
+role = "Postdoc @ MBZUAI"
 role_group = "Postdoc"
 image = "/images/team/AbdulazizYoussefAlkayas.jpg"
 status = "active"

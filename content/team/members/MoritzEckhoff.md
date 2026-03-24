@@ -1,6 +1,6 @@
 +++
 title = "Moritz Eckhoff"
-role = "PhD Student"                            # Visible subtitle
+role = "PhD Student @ TUM"                            # Visible subtitle
 role_group = "PhD"                              # One of: PhD, Postdoc, MSc, BSc, Staff, Visiting, Alumni, Collaborator
 image = "/images/team/MoritzEckhoff.jpg"        # webpage/image/team/ ....
 status = "active"                               # "active" or "alumni"

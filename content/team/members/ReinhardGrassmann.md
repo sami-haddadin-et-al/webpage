@@ -1,6 +1,6 @@
 +++
 title = "Reinhard Grassmann"
-role = "Postdoc"
+role = "Postdoc @ MBZUAI"
 role_group = "Postdoc"
 image = "/images/team/ReinhardGrassmann.jpeg"
 status = "active"

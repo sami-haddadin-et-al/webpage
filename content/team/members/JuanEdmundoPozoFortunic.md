@@ -1,7 +1,7 @@
 +++
 title = "Juan Edmundo Pozo Fortunic"
-role = "Postdoc"                            # Visible subtitle
-role_group = "Postdoc"                      # One of: PhD, Postdoc, MSc, BSc, Staff, Visiting, Alumni, Collaborator
+role = "PhD Student @ TUM"                            # Visible subtitle
+role_group = "PhD"                      # One of: PhD, Postdoc, MSc, BSc, Staff, Visiting, Alumni, Collaborator
 image = "/images/team/JuanEdmundoPozoFortunic.jpg"  # webpage/image/team/ ....
 status = "active"                           # "active" or "alumni"
 publications = [

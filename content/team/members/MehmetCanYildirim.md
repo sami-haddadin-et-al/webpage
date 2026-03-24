@@ -2,7 +2,7 @@
 title = "Mehmet Can Yildirim"
 role = "PhD Student @ TUM"                            # Visible subtitle
 role_group = "PhD"                      # One of: PhD, Postdoc, MSc, BSc, Staff, Visiting, Alumni, Collaborator
-image = "/images/team/ErikaMustermann.jpg"  # webpage/image/team/ ....
+image = "/images/team/MehmetCanYildirim.jpg"  # webpage/image/team/ ....
 status = "active"                           # "active" or "alumni"
 publications = [
     "YildirimFORSSMH25",                   # name of bib entry (must appear in webpage\bibliography.bib

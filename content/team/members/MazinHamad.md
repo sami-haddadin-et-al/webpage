@@ -5,7 +5,7 @@ draft = false
 image = "/images/team/MazinHamad.jpg"
 
 role_first_line = "PhD Student @ TUM"
-role_second_line = "(now at Agile)"
+role_second_line = "(now at Agile Robots SE)"
 role_group = ["PhD"]
 affiliation = ["TUM"]
 

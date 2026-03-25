@@ -1,21 +1,15 @@
 +++
-title = "Erika Mustermann"
-draft = true
+title = "Max Mustermann"
+draft = false
 
-image = "/images/team/ErikaMustermann.jpg"  # webpage/image/team/ ....
+image = "/images/team/MaxMustermann.jpg"
 
-role_first_line = "Postdoc @ MBZUAI"        # Visible subtitle
-role_second_line = ""                       # Visible subtitle
-role_group = ["Postdoc"]                    # One of: PhD, Postdoc, MSc, BSc, Staff, Visiting, Alumni, Collaborator
-affiliation = ["MBZUAI", "TUM", "LUH"]      # One of: MBZUAI, TUM, LUH
+role_first_line = "First Line"
+role_second_line = "Second Line"
+role_group = ["Collaborator"]
+affiliation = []
 
-status = "active"                           # "active" or "alumni"
-
-publications = [
-    "ErikaMustermann2026",                  # name of bib entry (must appear in webpage\bibliography.bib
-    "ErikaMustermann1926",
-    "ErikaMustermann1826"
-] 
+publications = []
 +++
 
 

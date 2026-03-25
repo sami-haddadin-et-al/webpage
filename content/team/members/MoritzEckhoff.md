@@ -28,7 +28,7 @@ His work focuses on methods for closing the experimental discovery loop in life 
 
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/moritz-eckhoff/)
-- [Google Scholar](https://www.linkedin.com/in/moritz-eckhoff/)
+- [Google Scholar](https://scholar.google.com/citations?user=GzuEAXoAAAAJ)
 
 
 ## Selected Publications

@@ -2,116 +2,90 @@
 <main class="team-page">
   <h1 class="team-title">{{ .Title }}</h1>
 
-  <!-- 1) PI -->
+  <!-- Students -->
   <section class="team-block">
-    <h2 class="team-heading">Principle Inverstigator</h2>
-
-    {{ with site.GetPage "team/SamiHaddadin" }}
-      {{ $p := . }}
-      <article class="team-item">
-        {{ with $p.Params.image }}
-          <img class="team-avatar" src="{{ . }}" alt="{{ $p.Title }}">
-        {{ end }}
-        <div class="team-meta">
-          <div class="team-name"><a href="{{ $p.RelPermalink }}">{{ $p.Title }}</a></div>
-          {{ with $p.Params.role }}<div class="team-role">{{ . }}</div>{{ end }}
-        </div>
-      </article>
-    {{ end }}
+    <h2 class="team-heading">Students</h2>
+    {{ partial "team/team_group_by_affiliation.html" (dict
+        "pages" site.RegularPages
+        "group_names" (slice "PhD" "MSc" "BSc")
+        "status" "active"
+        "path" "team/members/"
+    ) }}
   </section>
 
   <hr class="team-sep"/>
 
-  <!-- 2) Members -->
+  <!-- Postdocs -->
   <section class="team-block">
-    <h2 class="team-heading">Members</h2>
-    <div id="team-members" class="team-grid">
-      {{ range (sort site.RegularPages "Title" "asc") }}
-        {{ if and (eq .Section "team") (hasPrefix .File.Dir "team/members/") }}
-          {{ $status := lower (.Params.status | default "active") }}
-          {{ if ne $status "alumni" }}
-            <article class="team-item member-card">
-              {{ with .Params.image }}
-                <img class="team-avatar" src="{{ . }}" alt="{{ $.Title }}">
-              {{ end }}
-              <div class="team-meta">
-                <div class="team-name"><a href="{{ .RelPermalink }}">{{ .Title }}</a></div>
-                {{ with .Params.role }}<div class="team-role">{{ . }}</div>{{ end }}
-              </div>
-            </article>
-          {{ end }}
-        {{ end }}
-      {{ end }}
-    </div>
+    <h2 class="team-heading">Postdocs</h2>
+    {{ partial "team/team_group_by_affiliation.html" (dict
+        "pages" site.RegularPages
+        "group_names" (slice "Postdoc")
+        "status" "active"
+        "path" "team/members/"
+    ) }}
   </section>
 
   <hr class="team-sep"/>
 
-  <!-- 3) Alumni -->
+  <!-- Research Scientists -->
+  <section class="team-block">
+    <h2 class="team-heading">Research Scientists</h2>
+    {{ partial "team/team_group_by_affiliation.html" (dict
+        "pages" site.RegularPages
+        "group_names" (slice "Staff")
+        "status" "active"
+        "path" "team/members/"
+    ) }}
+  </section>
+
+  <hr class="team-sep"/>
+
+  <!-- Alumni -->
   <section class="team-block">
     <h2 class="team-heading">Alumni</h2>
-    <div id="team-alumni" class="team-grid">
-      {{ range (sort site.RegularPages "Title" "asc") }}
-        {{ if and (eq .Section "team") (hasPrefix .File.Dir "team/members/") }}
-          {{ if eq (lower (.Params.status | default "active")) "alumni" }}
-            <article class="team-item member-card">
-              {{ with .Params.image }}
-                <img class="team-avatar" src="{{ . }}" alt="{{ $.Title }}">
-              {{ end }}
-              <div class="team-meta">
-                <div class="team-name"><a href="{{ .RelPermalink }}">{{ .Title }}</a></div>
-                {{ with .Params.role }}<div class="team-role">{{ . }}</div>{{ end }}
-              </div>
-            </article>
-          {{ end }}
-        {{ end }}
-      {{ end }}
-    </div>
+    {{ partial "team/team_group_by_affiliation.html" (dict
+        "pages" site.RegularPages
+        "group_names" (slice "PhD" "MSc" "BSc" "Postdoc" "Staff")
+        "status" "alumni"
+        "path" "team/members/"
+    ) }}
   </section>
 
   <hr class="team-sep"/>
 
-  <!-- 4) Collaborators -->
+  <!-- Collaborators -->
   <section class="team-block">
     <h2 class="team-heading">Collaborators</h2>
-    <div id="team-collaborators" class="team-grid">
+
+    <div class="team-grid">
       {{ range (sort site.RegularPages "Title" "asc") }}
-        {{ if and (eq .Section "team") (hasPrefix .File.Dir "team/collaborators/") }}
-          <article class="team-item member-card">
+        {{ if and (eq .Section "team") (hasPrefix .File.Path "team/collaborators/") }}
+          <article class="team-item">
             {{ with .Params.image }}
               <img class="team-avatar" src="{{ . }}" alt="{{ $.Title }}">
             {{ end }}
+
             <div class="team-meta">
-              <div class="team-name"><a href="{{ .RelPermalink }}">{{ .Title }}</a></div>
-              {{ with .Params.role }}<div class="team-role">{{ . }}</div>{{ end }}
+              <div class="team-name">
+                <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+              </div>
+
+              {{ with .Params.role_first_line }}
+                <div class="team-role">{{ . }}</div>
+              {{ end }}
+
+              {{ with .Params.role_second_line }}
+                <div class="team-role-second">{{ . }}</div>
+              {{ end }}
             </div>
           </article>
         {{ end }}
       {{ end }}
     </div>
   </section>
+
 </main>
-
-<!-- Randomize each block independently -->
-<script>
-(function () {
-  function shuffle(containerId) {
-    const container = document.getElementById(containerId);
-    if (!container) return;
-    const items = Array.from(container.children);
-    for (let i = items.length - 1; i > 0; i--) {
-      const j = Math.floor(Math.random() * (i + 1));
-      container.appendChild(items[j]);
-    }
-  }
-
-  document.addEventListener("DOMContentLoaded", function () {
-    shuffle("team-members");
-    shuffle("team-alumni");
-    shuffle("team-collaborators");
-  });
-})();
-</script>
 
 <style>
 .team-page {
@@ -121,16 +95,20 @@
   padding: 1rem;
 }
 
-.team-block { margin-bottom: 1.5rem; }
-.team-heading { margin: 0 0 1rem 0; }
-.team-sep { margin: 1.5rem 0; opacity: 0.35; }
+.team-heading {
+  margin-bottom: 1rem;
+}
+
+.team-sep {
+  margin: 1.5rem 0;
+  opacity: 0.3;
+}
 
 .team-grid {
   display: grid;
   gap: 1.25rem;
-  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
   justify-items: start;
-  align-items: start;
 }
 
 .team-item {
@@ -138,19 +116,32 @@
   grid-template-columns: 90px 1fr;
   gap: 1rem;
   align-items: center;
-  width: 100%;
 }
 
 .team-avatar {
   width: 90px;
   height: 90px;
-  border-radius: 999px;
+  border-radius: 50%;
   object-fit: cover;
 }
 
-.team-name { font-weight: 700; }
-.team-name a { text-decoration: none; }
-.team-name a:hover { text-decoration: underline; }
-.team-role { opacity: 0.8; margin-top: 0.25rem; }
+.team-name {
+  font-weight: 700;
+}
+
+.team-role {
+  opacity: 0.8;
+  margin-top: 0.2rem;
+}
+
+.team-role-second {
+  opacity: 0.7;
+  margin-top: 0.1rem;
+}
+
+.team-title {
+  text-align: center;
+  margin-bottom: 2rem;
+}
 </style>
 {{ end }}

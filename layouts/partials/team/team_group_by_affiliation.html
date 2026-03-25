@@ -1,0 +1,64 @@
+{{ $pages := .pages }}
+{{ $groupNames := .group_names }}
+{{ $statusWanted := .status }}
+
+{{ $affiliations := slice "MBZUAI" "TUM" "LUH" }}
+
+{{ range $aff := $affiliations }}
+  {{ $matches := slice }}
+
+  {{ range $pages }}
+    {{ $p := . }}
+
+    {{ if and (eq $p.Section "team") (hasPrefix $p.File.Path "team/members/") }}
+      {{ $groups := $p.Params.role_group | default (slice) }}
+      {{ $status := lower ($p.Params.status | default "active") }}
+      {{ $affs := $p.Params.affiliation | default (slice) }}
+
+      {{ $groupMatch := false }}
+      {{ range $groupNames }}
+        {{ if in $groups . }}
+          {{ $groupMatch = true }}
+        {{ end }}
+      {{ end }}
+
+      {{ $statusMatch := false }}
+      {{ if eq $statusWanted "any" }}
+        {{ $statusMatch = true }}
+      {{ else if eq $statusWanted $status }}
+        {{ $statusMatch = true }}
+      {{ end }}
+
+      {{ if and $groupMatch $statusMatch (in $affs $aff) }}
+        {{ $matches = $matches | append $p }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+
+  {{ if gt (len $matches) 0 }}
+    <h3 class="team-affiliation-heading">{{ $aff }}</h3>
+    <div class="team-grid">
+      {{ range sort $matches "Title" "asc" }}
+        <article class="team-item">
+          {{ with .Params.image }}
+            <img class="team-avatar" src="{{ . }}" alt="{{ $.Title }}">
+          {{ end }}
+
+          <div class="team-meta">
+            <div class="team-name">
+              <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+            </div>
+
+            {{ with .Params.role_first_line }}
+              <div class="team-role">{{ . }}</div>
+            {{ end }}
+
+            {{ with .Params.role_second_line }}
+              <div class="team-role-second">{{ . }}</div>
+            {{ end }}
+          </div>
+        </article>
+      {{ end }}
+    </div>
+  {{ end }}
+{{ end }}

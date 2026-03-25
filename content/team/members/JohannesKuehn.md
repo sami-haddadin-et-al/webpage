@@ -7,7 +7,7 @@ image = "/images/team/JohannesKuehn.jpg"
 role_first_line = "PhD Student @ TUM"
 role_second_line = "(now at ZF Group)"
 role_group = ["PhD"]
-affiliation = ["TUM", "LUH"]
+affiliation = ["TUM"]
 
 status = "alumni"
 

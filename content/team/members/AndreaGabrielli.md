@@ -1,6 +1,6 @@
 +++
 title = "Dott.Ric. Andrea Gabrielli"
-draft = true
+draft = false
 
 image = "/images/team/AndreaGabrielli.jpg"  # webpage/image/team/ ....
 

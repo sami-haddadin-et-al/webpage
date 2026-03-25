@@ -1,6 +1,6 @@
 +++
 title = "Dr. Alexander Robert Craik"
-draft = true
+draft = false
 
 image = "/images/team/AlexanderRobertCraik.jpg"  # webpage/image/team/ ....
 

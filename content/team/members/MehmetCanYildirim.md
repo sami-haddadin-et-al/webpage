@@ -1,11 +1,18 @@
 +++
 title = "Mehmet Can Yildirim"
-role = "PhD Student @ TUM"                            # Visible subtitle
-role_group = "PhD"                      # One of: PhD, Postdoc, MSc, BSc, Staff, Visiting, Alumni, Collaborator
-image = "/images/team/MehmetCanYildirim.jpg"  # webpage/image/team/ ....
-status = "active"                           # "active" or "alumni"
+draft = false
+
+image = "/images/team/MehmetCanYildirim.jpg"
+
+role_first_line = "PhD Student @ TUM"
+role_second_line = ""
+role_group = ["PhD"]
+affiliation = ["TUM"]
+
+status = "active"
+
 publications = [
-    "YildirimFORSSMH25",                   # name of bib entry (must appear in webpage\bibliography.bib
+    "YildirimFORSSMH25",
     "YildirimCRKMH25",
     "RakcevicOFYMH25",
     "OssadnikRYFKSH24",
@@ -14,7 +21,7 @@ publications = [
     "YildirimPHMSH23",
     "YildirimSGKJSSH22",
     "OssadnikYWSKAH22"
-] 
+]
 +++
 
 

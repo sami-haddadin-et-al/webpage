@@ -1,11 +1,18 @@
 +++
 title = "Riddhiman Laha"
-role = "PhD Student @ TUM"                            # Visible subtitle
-role_group = "PhD"                      # One of: PhD, Postdoc, MSc, BSc, Staff, Visiting, Alumni, Collaborator
-image = "/images/team/RiddhimanLaha.jpg"  # webpage/image/team/ ....
-status = "active"                           # "active" or "alumni"
+draft = false
+
+image = "/images/team/RiddhimanLaha.jpg"
+
+role_first_line = "PhD Student @ TUM"
+role_second_line = ""
+role_group = ["PhD"]
+affiliation = ["TUM"]
+
+status = "active"
+
 publications = [
-    "YaoLSHFCH25",                   # name of bib entry (must appear in webpage\bibliography.bib
+    "YaoLSHFCH25",
     "YaoLFH24",
     "ArrizabalagaPLL24",
     "EberleLYNFH24",
@@ -16,7 +23,7 @@ publications = [
     "ColombaLFH22",
     "VorndammeCLKFPH22",
     "MuchachoLFH22"
-] 
+]
 +++
 
 

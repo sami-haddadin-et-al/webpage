@@ -1,15 +1,22 @@
 +++
-title = "Tingli Hu"
-role = "Postdoc @ MBZUAI"                            # Visible subtitle
-role_group = "Postdoc"                      # One of: PhD, Postdoc, MSc, BSc, Staff, Visiting, Alumni, Collaborator
-image = "/images/team/TingliHu.jpg"  # webpage/image/team/ ....
-status = "active"                           # "active" or "alumni"
+title = "Dr.-Ing. Tingli Hu"
+draft = false
+
+image = "/images/team/TingliHu.jpg"
+
+role_first_line = "Postdoc @ MBZUAI"
+role_second_line = "(Former PhD Student at TUM)"
+role_group = ["Postdoc"]
+affiliation = ["MBZUAI"]
+
+status = "active"
+
 publications = [
-    "KuhnHTFJH24",                   # name of bib entry (must appear in webpage\bibliography.bib
+    "KuhnHTFJH24",
     "TrobingerCXEHNF21",
     "HuKH18a",
     "KuehnHSH18"
-] 
+]
 +++
 
 

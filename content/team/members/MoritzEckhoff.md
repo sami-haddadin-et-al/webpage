@@ -1,14 +1,21 @@
 +++
 title = "Moritz Eckhoff"
-role = "PhD Student @ TUM"                            # Visible subtitle
-role_group = "PhD"                              # One of: PhD, Postdoc, MSc, BSc, Staff, Visiting, Alumni, Collaborator
-image = "/images/team/MoritzEckhoff.jpg"        # webpage/image/team/ ....
-status = "active"                               # "active" or "alumni"
+draft = false
+
+image = "/images/team/MoritzEckhoff.jpg"
+
+role_first_line = "PhD Student @ TUM"
+role_second_line = "Visiting Student @ MBZUAI"
+role_group = ["PhD"]
+affiliation = ["MBZUAI", "TUM"]
+
+status = "active"
+
 publications = [
     "CooperCDEFGGHHHHKPSSTVV25",
     "EckhoffKZSH23",
-    "EckhoffKKAH22"                       # name of bib entry (must appear in webpage\bibliography.bib
-] 
+    "EckhoffKKAH22"
+]
 +++
 
 

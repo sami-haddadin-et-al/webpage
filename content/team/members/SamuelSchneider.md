@@ -1,17 +1,24 @@
 +++
 title = "Samuel Schneider"
-role = "PhD Student @ TUM"                            # Visible subtitle
-role_group = "PhD"                      # One of: PhD, Postdoc, MSc, BSc, Staff, Visiting, Alumni, Collaborator
-image = "/images/team/SamuelSchneider.jpg"  # webpage/image/team/ ....
-status = "active"                           # "active" or "alumni"
+draft = false
+
+image = "/images/team/SamuelSchneider.jpg"
+
+role_first_line = "PhD Student @ TUM"
+role_second_line = "Visiting Student @ MBZUAI"
+role_group = ["PhD"]
+affiliation = ["MBZUAI", "TUM"]
+
+status = "active"
+
 publications = [
-    "KirschnerKMBSH25",                   # name of bib entry (must appear in webpage\bibliography.bib
+    "KirschnerKMBSH25",
     "XygonakisSHSSKMCZH24",
     "WuWC0SJBAKH24",
     "SchneiderWJWH24",
     "KirschnerKMBSH24",
     "RingwaldSCKJSH23"
-] 
+]
 +++
 
 

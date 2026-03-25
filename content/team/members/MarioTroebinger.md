@@ -1,11 +1,18 @@
 +++
 title = "Mario Tröbinger"
-role = "PhD Student @ TUM"                            # Visible subtitle
-role_group = "PhD"                      # One of: PhD, Postdoc, MSc, BSc, Staff, Visiting, Alumni, Collaborator
-image = "/images/team/MarioTroebinger.jpg"  # webpage/image/team/ ....
-status = "active"                           # "active" or "alumni"
+draft = false
+
+image = "/images/team/MarioTroebinger.jpg"
+
+role_first_line = "PhD Student @ TUM"
+role_second_line = ""
+role_group = ["PhD"]
+affiliation = ["TUM"]
+
+status = "active"
+
 publications = [
-    "TrobingerNSH25",                   # name of bib entry (must appear in webpage\bibliography.bib
+    "TrobingerNSH25",
     "BienSTETSFSNH23",
     "ChenSCTSNH23",
     "TrobingerNCSH23",
@@ -13,7 +20,7 @@ publications = [
     "TrobingerJQERGG21",
     "TrobingerCXEHNF21",
     "ReindlRETEH21"
-] 
+]
 +++
 
 

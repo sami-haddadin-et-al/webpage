@@ -1,11 +1,18 @@
 +++
-title = "Mazin Hamad"
-role = "PhD Student @ TUM"                            # Visible subtitle
-role_group = "PhD"                      # One of: PhD, Postdoc, MSc, BSc, Staff, Visiting, Alumni, Collaborator
-image = "/images/team/MazinHamad.jpg"  # webpage/image/team/ ....
-status = "alumni"                           # "active" or "alumni"
+title = "Dr.-Ing. Mazin Hamad"
+draft = false
+
+image = "/images/team/MazinHamad.jpg"
+
+role_first_line = "PhD Student @ TUM"
+role_second_line = "(now at Agile)"
+role_group = ["PhD"]
+affiliation = ["TUM"]
+
+status = "alumni"
+
 publications = [
-    "TonolaFAHHPB25",                   # name of bib entry (must appear in webpage\bibliography.bib
+    "TonolaFAHHPB25",
     "MelladoMMAAHACPLSKHFCDP24",
     "XygonakisSHSSKMCZH24",
     "KirschnerMZSHGN24",
@@ -23,7 +30,7 @@ publications = [
     "HamadKAH21a",
     "HamadMAH19",
     "MansfeldHBMH18"
-] 
+]
 +++
 
 

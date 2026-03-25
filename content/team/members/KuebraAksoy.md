@@ -1,11 +1,18 @@
 +++
 title = "Kübra Karacan Aksoy"
-role = "PhD Student @ TUM"                            # Visible subtitle
-role_group = "PhD"                      # One of: PhD, Postdoc, MSc, BSc, Staff, Visiting, Alumni, Collaborator
-image = "/images/team/KuebraAksoy.jpg"  # webpage/image/team/ ....
-status = "active"                           # "active" or "alumni"
+draft = false
+
+image = "/images/team/KuebraAksoy.jpg"
+
+role_first_line = "PhD Student @ TUM"
+role_second_line = ""
+role_group = ["PhD"]
+affiliation = ["TUM"]
+
+status = "active"
+
 publications = [
-    "KirschnerKMH25",                   # name of bib entry (must appear in webpage\bibliography.bib
+    "KirschnerKMH25",
     "KirschnerSKH25",
     "KirschnerKMBSH25",
     "ChenNKSH24",
@@ -16,7 +23,7 @@ publications = [
     "KaracanKSWH23",
     "KaracanSKH22",
     "KirschnerKKJBMA21"
-] 
+]
 +++
 
 

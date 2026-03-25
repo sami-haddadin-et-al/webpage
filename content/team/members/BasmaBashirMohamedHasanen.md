@@ -1,14 +1,18 @@
 +++
 title = "Basma Bashir Mohamed Hasanen"
-role = "PhD Student @ MBZUAI"
-role_group = "PhD"
+draft = false
+
 image = "/images/team/BasmaBashirMohamedHasanen.jpeg"
+
+role_first_line = "PhD Student @ MBZUAI"
+role_second_line = ""
+role_group = ["PhD"]
+affiliation = ["MBZUAI"]
+
 status = "active"
+
 publications = []
 +++
-
-
-## Biography
 
 
 ## Research Interests

@@ -1,11 +1,18 @@
 +++
-title = "Abdulaziz Youssef Alkayas"
-role = "Postdoc @ MBZUAI"
-role_group = "Postdoc"
-image = "/images/team/AbdulazizYoussefAlkayas.jpg"
-status = "active"
-+++
+title = "Dr. Abdulaziz Youssef Alkayas"
+draft = false
 
+image = "/images/team/AbdulazizYoussefAlkayas.jpg"  # webpage/image/team/ ....
+
+role_first_line = "Postdoc @ MBZUAI"        # Visible subtitle
+role_second_line = ""                       # Visible subtitle
+role_group = ["Postdoc"]                    # One of: PhD, Postdoc, MSc, BSc, Staff, Visiting, Alumni, Collaborator
+affiliation = ["MBZUAI"]      # One of: MBZUAI, TUM, LUH
+
+status = "active"                           # "active" or "alumni"
+
+publications = [] 
++++
 
 ## Biography
 

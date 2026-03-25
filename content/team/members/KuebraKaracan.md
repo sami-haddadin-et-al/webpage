@@ -1,12 +1,19 @@
 +++
 title = "Erika Mustermann"
-role = "Postdoc"                            # Visible subtitle
-role_group = "Postdoc"                      # One of: PhD, Postdoc, MSc, BSc, Staff, Visiting, Alumni, Collaborator
-image = "/images/team/ErikaMustermann.jpg"  # webpage/image/team/ ....
-status = "active"                           # "active" or "alumni"
+draft = false
+
+image = "/images/team/ErikaMustermann.jpg"
+
+role_first_line = "Postdoc"
+role_second_line = ""
+role_group = ["Postdoc"]
+affiliation = []
+
+status = "active"
+
 publications = [
-    "ErikaMustermann2026"                   # name of bib entry (must appear in webpage\bibliography.bib
-] 
+    "ErikaMustermann2026"
+]
 +++
 
 

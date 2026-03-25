@@ -1,11 +1,19 @@
 +++
 title = "Ahmed Almijbari"
-role = "PhD Student @ TUM"                            # Visible subtitle
-role_group = "PhD"                      # One of: PhD, Postdoc, MSc, BSc, Staff, Visiting, Alumni, Collaborator
+draft = false
+
 image = "/images/team/AhmedAlmijbari.jpg"  # webpage/image/team/ ....
+
+role_first_line = "PhD Student @ TUM"        # Visible subtitle
+role_second_line = ""                       # Visible subtitle
+role_group = ["PhD"]                    # One of: PhD, Postdoc, MSc, BSc, Staff, Visiting, Alumni, Collaborator
+affiliation = ["TUM"]      # One of: MBZUAI, TUM, LUH
+
 status = "active"                           # "active" or "alumni"
+
 publications = [] 
 +++
+
 
 
 ## Biography

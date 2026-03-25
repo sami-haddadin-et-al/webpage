@@ -1,11 +1,18 @@
 +++
 title = "Juan Edmundo Pozo Fortunic"
-role = "PhD Student @ TUM"                            # Visible subtitle
-role_group = "PhD"                      # One of: PhD, Postdoc, MSc, BSc, Staff, Visiting, Alumni, Collaborator
-image = "/images/team/JuanEdmundoPozoFortunic.jpg"  # webpage/image/team/ ....
-status = "active"                           # "active" or "alumni"
+draft = false
+
+image = "/images/team/JuanEdmundoPozoFortunic.jpg"
+
+role_first_line = "PhD Student @ TUM"
+role_second_line = ""
+role_group = ["PhD"]
+affiliation = ["TUM"]
+
+status = "active"
+
 publications = [
-    "YildirimFORSSMH25",                   # name of bib entry (must appear in webpage\bibliography.bib
+    "YildirimFORSSMH25",
     "RakcevicOFYMH25",
     "ToedtheideFKJH24",
     "KuhnHTFJH24",
@@ -18,7 +25,7 @@ publications = [
     "FortunicSAH22",
     "ValleKFAH22",
     "ToedtheideKFH21"
-] 
+]
 +++
 
 

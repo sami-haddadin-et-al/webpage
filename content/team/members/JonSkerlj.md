@@ -1,16 +1,23 @@
 +++
 title = "Jon Skerlj"
-role = "PhD Student @ TUM"                            # Visible subtitle
-role_group = "PhD"                      # One of: PhD, Postdoc, MSc, BSc, Staff, Visiting, Alumni, Collaborator
-image = "/images/team/JonSkerlj.jpg"  # webpage/image/team/ ....
-status = "active"                           # "active" or "alumni"
+draft = false
+
+image = "/images/team/JonSkerlj.jpg"
+
+role_first_line = "PhD Student @ TUM"
+role_second_line = ""
+role_group = ["PhD"]
+affiliation = ["TUM"]
+
+status = "active"
+
 publications = [
-    "SkerljHENH24",                   # name of bib entry (must appear in webpage\bibliography.bib
+    "SkerljHENH24",
     "SkerljBWBBSNMHE23",
     "BienSTETSFSNH23",
     "AdamEPIVDBSNSAHB23",
     "abs-2310-05600"
-] 
+]
 +++
 
 

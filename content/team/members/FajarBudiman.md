@@ -8,7 +8,23 @@ publications = [
     "FatoniH0BGH24"                   # name of bib entry (must appear in webpage\bibliography.bib
 ] 
 +++
++++
+title = "Fajar Budiman"
+draft = false
 
+image = "/images/team/FajarBudiman.jpg"  # webpage/image/team/ ....
+
+role_first_line = "Research Scientist @ TUM"        # Visible subtitle
+role_second_line = ""                       # Visible subtitle
+role_group = ["Staff"]                    # One of: PhD, Postdoc, MSc, BSc, Staff, Visiting, Alumni, Collaborator
+affiliation = ["TUM"]      # One of: MBZUAI, TUM, LUH
+
+status = "active"                           # "active" or "alumni"
+
+publications = [
+    "FatoniH0BGH24"                   # name of bib entry (must appear in webpage\bibliography.bib
+] 
++++
 
 
 ## Selected Publications

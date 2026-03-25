@@ -1,16 +1,23 @@
 +++
 title = "Junnan Li"
-role = "PhD Student @ TUM"                            # Visible subtitle
-role_group = "PhD"                      # One of: PhD, Postdoc, MSc, BSc, Staff, Visiting, Alumni, Collaborator
-image = "/images/team/JunnanLi.jpg"  # webpage/image/team/ ....
-status = "active"                           # "active" or "alumni"
+draft = false
+
+image = "/images/team/JunnanLi.jpg"
+
+role_first_line = "PhD Student @ TUM"
+role_second_line = ""
+role_group = ["PhD"]
+affiliation = ["TUM"]
+
+status = "active"
+
 publications = [
-    "LiGFH24",                   # name of bib entry (must appear in webpage\bibliography.bib
+    "LiGFH24",
     "FatoniH0BGH24",
     "0008CRFGH24",
     "Herneth0FGH24",
     "0008GFH23"
-] 
+]
 +++
 
 

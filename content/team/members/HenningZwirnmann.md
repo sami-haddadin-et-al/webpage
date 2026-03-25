@@ -1,17 +1,25 @@
 +++
 title = "Henning Zwirnmann"
-role = "PhD Student @ TUM"                            # Visible subtitle
-role_group = "PhD"                      # One of: PhD, Postdoc, MSc, BSc, Staff, Visiting, Alumni, Collaborator
-image = "/images/team/HenningZwirnmann.jpg"  # webpage/image/team/ ....
-status = "active"                           # "active" or "alumni"
+draft = false
+
+image = "/images/team/HenningZwirnmann.jpg"
+
+role_first_line = "PhD Student @ TUM"
+role_second_line = ""
+role_group = ["PhD"]
+affiliation = ["TUM"]
+
+status = "active"
+
 publications = [
-    "CooperCDEFGGHHHHKPSSTVV25",           # name of bib entry (must appear in webpage\bibliography.bib
+    "CooperCDEFGGHHHHKPSSTVV25",
     "ZwirnmannEKFGH25",
     "EckhoffKZSH23",
     "ZwirnmannKCH23",
     "KnobbeZEH22"
-] 
+]
 +++
+
 
 
 ## Research Focus in Biolab Automation

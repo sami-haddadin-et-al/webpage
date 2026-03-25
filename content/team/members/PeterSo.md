@@ -1,17 +1,24 @@
 +++
 title = "Peter So"
-role = "PhD Student @ TUM (co-supervised)"                            # Visible subtitle
-role_group = "PhD"                      # One of: PhD, Postdoc, MSc, BSc, Staff, Visiting, Alumni, Collaborator
-image = "/images/team/PeterSo.jpg"  # webpage/image/team/ ....
-status = "active"                           # "active" or "alumni"
+draft = false
+
+image = "/images/team/PeterSo.jpg"
+
+role_first_line = "PhD Student @ TUM (co-supervised)"
+role_second_line = ""
+role_group = ["PhD"]
+affiliation = ["TUM"]
+
+status = "active"
+
 publications = [
-    "SoSAH25",                   # name of bib entry (must appear in webpage\bibliography.bib
+    "SoSAH25",
     "SoSWCAH24",
     "SoALSH24",
     "SoMKSFAH24",
     "Moortgat-PickSS22",
     "abs-2201-09565"
-] 
+]
 +++
 
 

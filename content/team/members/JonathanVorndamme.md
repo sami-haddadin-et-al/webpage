@@ -1,11 +1,18 @@
 +++
-title = "Jonathan Vorndamme"
-role = "PhD Student (now at)"                            # Visible subtitle
-role_group = "PhD"                      # One of: PhD, Postdoc, MSc, BSc, Staff, Visiting, Alumni, Collaborator
-image = "/images/team/JonathanVorndamme.jpg"  # webpage/image/team/ ....
-status = "alumni"                           # "active" or "alumni"
+title = "Dr.-Ing. Jonathan Vorndamme"
+draft = false
+
+image = "/images/team/JonathanVorndamme.jpg"
+
+role_first_line = "PhD Student @ TUM"
+role_second_line = "(now Postdoc at TUM)"
+role_group = ["PhD"]
+affiliation = ["TUM"]
+
+status = "alumni"
+
 publications = [
-    "VorndammeMKFH25",                   # name of bib entry (must appear in webpage\bibliography.bib
+    "VorndammeMKFH25",
     "LahaBVVFMH24",
     "VorndammeCLKFPH22",
     "KurdasHVMAH22",
@@ -15,7 +22,7 @@ publications = [
     "VorndammeSH17",
     "VorndammeSTH16",
     "SchapplerVTCSH15"
-] 
+]
 +++
 
 

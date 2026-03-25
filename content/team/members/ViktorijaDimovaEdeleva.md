@@ -1,12 +1,19 @@
 +++
 title = "Viktorija Dimova-Edeleva"
-role = "PhD Student @ TUM"                            # Visible subtitle
-role_group = "PhD"                      # One of: PhD, Postdoc, MSc, BSc, Staff, Visiting, Alumni, Collaborator
-image = "/images/team/ViktorijaDimovaEdeleva.jpg"  # webpage/image/team/ ....
-status = "active"                           # "active" or "alumni"
+draft = false
+
+image = "/images/team/ViktorijaDimovaEdeleva.jpg"
+
+role_first_line = "PhD Student @ TUM"
+role_second_line = ""
+role_group = ["PhD"]
+affiliation = ["TUM"]
+
+status = "active"
+
 publications = [
-    "Dimova-EdelevaR23"                   # name of bib entry (must appear in webpage\bibliography.bib
-] 
+    "Dimova-EdelevaR23"
+]
 +++
 
 

@@ -1,18 +1,22 @@
 +++
 title = "Ainoor Teimoorzadeh"
-role = "PhD Student @ TUM"                            # Visible subtitle
-role_group = "PhD"                      # One of: PhD, Postdoc, MSc, BSc, Staff, Visiting, Alumni, Collaborator
+draft = false
+
 image = "/images/team/AinoorTeimoorzadeh.jpg"  # webpage/image/team/ ....
+
+role_first_line = "PhD Student @ TUM"        # Visible subtitle
+role_second_line = ""                       # Visible subtitle
+role_group = ["PhD"]                    # One of: PhD, Postdoc, MSc, BSc, Staff, Visiting, Alumni, Collaborator
+affiliation = ["TUM"]      # One of: MBZUAI, TUM, LUH
+
 status = "active"                           # "active" or "alumni"
+
 publications = [
     "TeimoorzadehPSH25",                   # name of bib entry (must appear in webpage\bibliography.bib
     "abs-2402-05037",
-    "TeimoorzadehSFH23",
-    "",
-    "",
+    "TeimoorzadehSFH23"
 ] 
 +++
-
 
 
 ## Selected Publications

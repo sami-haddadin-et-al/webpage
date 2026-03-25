@@ -1,9 +1,16 @@
 +++
-title = "Reinhard Grassmann"
-role = "Postdoc @ MBZUAI"
-role_group = "Postdoc"
+title = "Dr. Reinhard M. Grassmann"
+draft = false
+
 image = "/images/team/ReinhardGrassmann.jpeg"
+
+role_first_line = "Postdoc @ MBZUAI"
+role_second_line = ""
+role_group = ["Postdoc"]
+affiliation = ["MBZUAI"]
+
 status = "active"
+
 publications = [
     "GrassmannJH18"
 ]

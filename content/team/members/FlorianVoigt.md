@@ -1,9 +1,16 @@
 +++
 title = "Florian Voigt"
-role = "PhD Student @ TUM"
-role_group = "PhD"
-image = "/images/team/FlorianVoigt.jpg"
-status = "active"
+draft = false
+
+image = "/images/team/FlorianVoigt.jpg"  # webpage/image/team/ ....
+
+role_first_line = "PhD Student @ TUM"        # Visible subtitle
+role_second_line = "Visiting Student @ MBZUAI"                       # Visible subtitle
+role_group = ["PhD"]                    # One of: PhD, Postdoc, MSc, BSc, Staff, Visiting, Alumni, Collaborator
+affiliation = ["MBZUAI", "TUM"]      # One of: MBZUAI, TUM, LUH
+
+status = "active"                           # "active" or "alumni"
+
 publications = [
     "VoigtNH25",
     "VoigtNH23",
@@ -11,7 +18,6 @@ publications = [
     "VoigtJH20"
 ]
 +++
-
 
 ## Biography
 

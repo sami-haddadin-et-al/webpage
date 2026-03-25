@@ -1,15 +1,22 @@
 +++
 title = "Moein Forouhar"
-role = "PhD Student @ TUM"                            # Visible subtitle
-role_group = "PhD"                      # One of: PhD, Postdoc, MSc, BSc, Staff, Visiting, Alumni, Collaborator
-image = "/images/team/MoeinForouhar.jpg"  # webpage/image/team/ ....
-status = "active"                           # "active" or "alumni"
+draft = false
+
+image = "/images/team/MoeinForouhar.jpg"
+
+role_first_line = "PhD Student @ TUM"
+role_second_line = ""
+role_group = ["PhD"]
+affiliation = ["TUM"]
+
+status = "active"
+
 publications = [
-    "ForouharSNH25",                   # name of bib entry (must appear in webpage\bibliography.bib
+    "ForouharSNH25",
     "ForouharSLH25",
     "ForouharSPNH24",
     "KavianiradFSEHH23"
-] 
+]
 +++
 
 

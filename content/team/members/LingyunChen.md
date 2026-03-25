@@ -1,9 +1,16 @@
 +++
 title = "Lingyun Chen"
-role = "PhD Student @ TUM"
-role_group = "PhD"
+draft = false
+
 image = "/images/team/LingyunChen.jpg"
+
+role_first_line = "PhD Student @ TUM"
+role_second_line = "Visiting Student @ MBZUAI"
+role_group = ["PhD"]
+affiliation = ["MBZUAI", "TUM"]
+
 status = "active"
+
 publications = [
     "WuCWCZBSHK25",
     "ChenSZCWBHK25",

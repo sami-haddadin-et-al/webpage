@@ -1,9 +1,16 @@
 +++
 title = "Christopher Herneth"
-role = "Research Scientist @ TUM"                            # Visible subtitle
-role_group = "Staff"                      # One of: PhD, Postdoc, MSc, BSc, Staff, Visiting, Alumni, Collaborator
+draft = false
+
 image = "/images/team/ChristopherHerneth.jpg"  # webpage/image/team/ ....
+
+role_first_line = "Research Scientist @ TUM"        # Visible subtitle
+role_second_line = ""                       # Visible subtitle
+role_group = ["Staff"]                    # One of: PhD, Postdoc, MSc, BSc, Staff, Visiting, Alumni, Collaborator
+affiliation = ["TUM"]      # One of: MBZUAI, TUM, LUH
+
 status = "active"                           # "active" or "alumni"
+
 publications = [
     "HernethCGH25",                   # name of bib entry (must appear in webpage\bibliography.bib
     "HernethGH24",
@@ -12,7 +19,6 @@ publications = [
     "Hidalgo-Carvajal22"
 ] 
 +++
-
 
 Striving towards upper limb prosthetics that become integral and accepted parts of the pilots body. 
 

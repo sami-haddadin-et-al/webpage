@@ -1,18 +1,25 @@
 +++
 title = "Xiao Chen"
-role = "PhD Student @ TUM"                            # Visible subtitle
-role_group = "PhD"                      # One of: PhD, Postdoc, MSc, BSc, Staff, Visiting, Alumni, Collaborator
-image = "/images/team/XiaoChen.jpg"  # webpage/image/team/ ....
-status = "active"                           # "active" or "alumni"
+draft = false
+
+image = "/images/team/XiaoChen.jpg"
+
+role_first_line = "PhD Student @ TUM"
+role_second_line = ""
+role_group = ["PhD"]
+affiliation = ["TUM"]
+
+status = "active"
+
 publications = [
-    "PradoCESRNHS25",                   # name of bib entry (must appear in webpage\bibliography.bib
+    "PradoCESRNHS25",
     "JakobCSH24",
     "PezeshkiSKCH23",
     "FrotzscherCTGSWDWRH23",
     "TrobingerNCSH23",
     "ToedtheideCSNH23",
     "NaceriETSJVCMJB22"
-] 
+]
 +++
 
 

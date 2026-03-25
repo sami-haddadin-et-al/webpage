@@ -1,13 +1,20 @@
 +++
 title = "Erika Mustermann"
-role = "Postdoc @ MBZUAI"                   # Visible subtitle
-role_group = "Postdoc"                      # One of: PhD, Postdoc, MSc, BSc, Staff, Visiting, Alumni, Collaborator
+draft = true
+
 image = "/images/team/ErikaMustermann.jpg"  # webpage/image/team/ ....
+
+role_first_line = "Postdoc @ MBZUAI"        # Visible subtitle
+role_second_line = ""                       # Visible subtitle
+role_group = ["Postdoc"]                    # One of: PhD, Postdoc, MSc, BSc, Staff, Visiting, Alumni, Collaborator
+affiliation = ["MBZUAI", "TUM", "LUH"]      # One of: MBZUAI, TUM, LUH
+
 status = "active"                           # "active" or "alumni"
+
 publications = [
     "ErikaMustermann2026",                  # name of bib entry (must appear in webpage\bibliography.bib
-    "",
-    ""
+    "ErikaMustermann1926",
+    "ErikaMustermann1826"
 ] 
 +++
 
@@ -21,6 +28,14 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 
 ## Research Interests
 - Robotics
+- Robotics
+
+
+## Contact
+- [LinkedIn](https://www.linkedin.com/in/erika-mustermann/)
+- [Google Scholar](https://scholar.google.com/citations?user=QWERTY)
+- [Semantic Scholar](https://www.semanticscholar.org/author/R.-Grassmann/65752777)
+- [ORCID](https://orcid.org/0000-0002-6943-673X)
 
 
 ## Selected Publications

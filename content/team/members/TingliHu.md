@@ -24,6 +24,10 @@ I am scientist with an interdisciplinary background spanning electrical engineer
 I have been advancing my research career in human neuromechanics and motor control with Prof. Sami Haddadin since 2014. 
 I have been also (co-)leading and managing the human motor control lab since 2016.
 
+## Thesis
+
+*Neuromechanically consistent closed-loop control for human shoulder-arm muscle-force distribution*
+
 
 ## Research Interests
 My research focus is human neuromechanics and motor control, including
@@ -36,6 +40,12 @@ I am also interested in
 - parameter identification and model calibration,
 - physics-based computer graphics, and
 - intelligent prosthesis (control & autonomy).
+
+
+## Contact
+- [LinkedIn](https://de.linkedin.com/in/tinglihu)
+- [Google Scholar](https://scholar.google.com/citations?user=6KmmZpoAAAAJ)
+- [Xing](https://www.xing.com/profile/Tingli_Hu)
 
 
 ## Selected Publications

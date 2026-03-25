@@ -39,7 +39,7 @@ publications = [
 
 ## Thesis
 
-Towards Autonomous Policy Synthesis: Tactile Manipulation Skills, Learning Architecture, and Process-Taxonomy-Based Planning
+*Towards Autonomous Policy Synthesis: Tactile Manipulation Skills, Learning Architecture, and Process-Taxonomy-Based Planning*
 
 
 ## Biography
@@ -54,6 +54,13 @@ Second, how to model manipulation such that robots can solve complex tasks with 
 ## Research Interests
 - Artificial Intelligence and Machine Learning
 - Robotics
+
+
+## Contact
+- [LinkedIn](https://de.linkedin.com/in/lars-johannsmeier-575940181)
+- [Google Scholar](https://scholar.google.com/citations?user=-Wf923oAAAAJ)
+- [NVIDIA](https://research.nvidia.com/person/lars-johannsmeier)
+- [ORCID](https://orcid.org/0000-0003-4599-7636)
 
 
 ## Selected Publications

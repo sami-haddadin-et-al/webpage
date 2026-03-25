@@ -10,19 +10,32 @@
 
     <div class="member-header-text">
       <h1 class="member-name">{{ .Title }}</h1>
-      {{ with .Params.role }}
-        <div class="member-role">{{ . }}</div>
+
+      {{ if or .Params.role_first_line .Params.role_second_line }}
+        <div class="member-role-block">
+          {{ with .Params.role_first_line }}
+            <div class="member-role">{{ . }}</div>
+          {{ end }}
+
+          {{ with .Params.role_second_line }}
+            <div class="member-role-second">{{ . }}</div>
+          {{ end }}
+        </div>
+      {{ end }}
+
+      {{ with .Params.affiliation }}
+        <div class="member-affiliation">{{ delimit . ", " }}</div>
       {{ end }}
     </div>
   </div>
 
+  <!-- Main Content -->
   <div class="member-content">
     {{ .Content }}
 
     <!-- Selected Publications -->
     {{ $pubs := .Params.publications }}
     {{ if $pubs }}
-       <!-- <h2>Selected Publications</h2>-->
       <ul class="pub-list">
         {{ range $pubs }}
           {{ $p := site.GetPage (printf "project_manuscripts/%s" .) }}
@@ -67,8 +80,31 @@
   object-fit: cover;
 }
 
-.member-name { margin: 0; }
-.member-role { margin-top: 0.5rem; font-size: 1.1rem; opacity: 0.85; }
+/* Text styling */
+.member-name {
+  margin: 0;
+}
+
+.member-role-block {
+  margin-top: 0.5rem;
+}
+
+.member-role {
+  font-size: 1.1rem;
+  opacity: 0.85;
+}
+
+.member-role-second {
+  margin-top: 0.2rem;
+  font-size: 1rem;
+  opacity: 0.75;
+}
+
+.member-affiliation {
+  margin-top: 0.4rem;
+  font-size: 0.95rem;
+  opacity: 0.7;
+}
 
 /* Content spacing */
 .member-content h2 {
@@ -76,7 +112,18 @@
   margin-bottom: 0.8rem;
 }
 
-.member-content ul {
+.member-content h3 {
+  margin-top: 2rem;
+  margin-bottom: 0.6rem;
+}
+
+.member-content p {
+  margin-bottom: 1rem;
+}
+
+/* Lists */
+.member-content ul,
+.member-content ol {
   padding-left: 1.5rem;
   margin-bottom: 1.25rem;
 }
@@ -84,5 +131,11 @@
 .member-content li {
   margin: 0.4rem 0;
 }
+
+/* Publications */
+.pub-list li {
+  margin: 0.3rem 0;
+}
 </style>
+
 {{ end }}

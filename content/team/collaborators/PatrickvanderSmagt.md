@@ -1,10 +1,15 @@
 +++
 title = "Patrick van der Smagt"
-role = "Foundation Robotics | ELTE University | LMU GSN"                            # Visible subtitle
-role_group = "Collaborator"                      # One of: PhD, Postdoc, MSc, BSc, Staff, Visiting, Alumni, Collaborator
-image = "/images/team/PatrickvanderSmagt.jpg"  # webpage/image/team/ ....
-status = "active"                           # "active" or "alumni"
-publications = [] 
+draft = false
+
+image = "/images/team/PatrickvanderSmagt.jpg"
+
+role_first_line = "Foundation Robotics"
+role_second_line = "ELTE University | LMU GSN"
+role_group = ["Collaborator"]
+affiliation = []
+
+publications = []
 +++
 
 

@@ -1,11 +1,11 @@
 +++
-title = "Dr.-Ing. Mortiz Schappler"
+title = "Dr.-Ing. Moritz Schappler"
 draft = true
 
-image = "/images/team/MortizSchappler.jpg"  # webpage/image/team/ ....
+image = "/images/team/MoritzSchappler.jpg"  # webpage/image/team/ ....
 
 role_first_line = "Group Leader at LUH"        # Visible subtitle
-role_second_line = "(Research Associates @ LUH)"                       # Visible subtitle
+role_second_line = "(Research Associate @ LUH)"                       # Visible subtitle
 role_group = ["Alumni"]                    # One of: PhD, Postdoc, MSc, BSc, Staff, Visiting, Alumni, Collaborator
 affiliation = ["LUH"]      # One of: MBZUAI, TUM, LUH
 

@@ -5,7 +5,7 @@ draft = true
 image = "/images/team/ChristopherSchindlbeck.jpg"  # webpage/image/team/ ....
 
 role_first_line = "IAV"        # Visible subtitle
-role_second_line = "(Research Associates @ LUH)"                       # Visible subtitle
+role_second_line = "(Research Associate @ LUH)"                       # Visible subtitle
 role_group = ["Alumni"]                    # One of: PhD, Postdoc, MSc, BSc, Staff, Visiting, Alumni, Collaborator
 affiliation = ["LUH"]      # One of: MBZUAI, TUM, LUH
 

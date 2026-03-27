@@ -4,7 +4,7 @@ draft = false
 
 image = "/images/team/YansongWu.jpg"
 
-role_first_line = "Research Scientist @ TUM"
+role_first_line = "Research Associate @ TUM"
 role_second_line = ""
 role_group = ["Staff"]
 affiliation = ["TUM"]

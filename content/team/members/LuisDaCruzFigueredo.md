@@ -1,5 +1,5 @@
 +++
-title = "Luis Da Cruz Figueredo"
+title = "Dr. Luis Da Cruz Figueredo"
 draft = true
 
 image = "/images/team/LuisDaCruzFigueredo.jpg"  # webpage/image/team/ ....
@@ -72,6 +72,7 @@ His research also focuses on interdisciplinary methods and tools to address larg
 - [University of Nottingham](https://www.nottingham.ac.uk/computerscience/People/luis.figueredo)
 - [Google Scholar](https://scholar.google.com/citations?user=ppZN58sAAAAJ)
 - [ORCID](https://orcid.org/0000-0002-0759-3000)
+- [YouTube](https://www.youtube.com/@figueredo_robotics)
 
 
 ## Selected Publications

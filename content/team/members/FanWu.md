@@ -2,7 +2,7 @@
 title = "Dr. Fan Wu"
 draft = false
 
-image = "/images/team/FanWu.jpg"  # webpage/image/team/ ....
+image = "/images/team/FanWu.jpeg"  # webpage/image/team/ ....
 
 role_first_line = "Prof. at Shanghai University"        # Visible subtitle
 role_second_line = "(former Postdoc @ TUM)"                       # Visible subtitle

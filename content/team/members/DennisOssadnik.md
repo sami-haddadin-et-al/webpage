@@ -12,9 +12,14 @@ affiliation = ["TUM"]      # One of: MBZUAI, TUM, LUH
 status = "active"                           # "active" or "alumni"
 
 publications = [
-    "ErikaMustermann2026",                  # name of bib entry (must appear in webpage\bibliography.bib
-    "ErikaMustermann1926",
-    "ErikaMustermann1826"
+    "YildirimFORSSMH25",                  # name of bib entry (must appear in webpage\bibliography.bib
+    "RakcevicOFYMH25",
+    "OssadnikRYFKSH24",
+    "FortunicYOSAH23",
+    "JensenMPOWLMHBH23",
+    "OssadnikYWSKAH22",
+    "OssadnikJH21",
+    "OssadnikJH21a"
 ] 
 +++
 

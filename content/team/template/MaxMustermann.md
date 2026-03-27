@@ -12,6 +12,8 @@ affiliation = []
 publications = []
 +++
 
+*(image credit: []())*
+
 
 ## Biography
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
@@ -19,17 +21,24 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
 Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
+*(source: []())*
+
 
 ## Research Interests
 - Robotics
 - Robotics
 
+*(source: []())*
+
 
 ## Contact
-- [LinkedIn](https://www.linkedin.com/in/erika-mustermann/)
-- [Google Scholar](https://scholar.google.com/citations?user=QWERTY)
-- [Semantic Scholar](https://www.semanticscholar.org/author/E.-Mustermann/123456789)
-- [ORCID](https://orcid.org/0000-0000-0000-0000)
+- [LinkedIn]()
+- [University]()
+- [Google Scholar]()
+- [Semantic Scholar]()
+- [ORCID]()
+
+*(source: []())*
 
 
 ## Selected Publications

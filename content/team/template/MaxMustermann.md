@@ -1,6 +1,6 @@
 +++
 title = "Max Mustermann"
-draft = false
+draft = true
 
 image = "/images/team/MaxMustermann.jpg"
 

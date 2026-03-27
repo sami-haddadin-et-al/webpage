@@ -4,8 +4,8 @@ draft = false
 
 image = "/images/team/MohamadrezaSabaghian.jpg"  # webpage/image/team/ ....
 
-role_first_line = "Student @ TUM"        # Visible subtitle
-role_second_line = "(now Program Manager at amazon)"                       # Visible subtitle
+role_first_line = "Program Manager at amazon"        # Visible subtitle
+role_second_line = "(former MSc. Student)"                       # Visible subtitle
 role_group = ["MSc"]                    # One of: PhD, Postdoc, MSc, BSc, Staff, Visiting, Alumni, Collaborator
 affiliation = ["TUM"]                       # One of: MBZUAI, TUM, LUH
 

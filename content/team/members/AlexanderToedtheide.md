@@ -4,8 +4,8 @@ draft = false
 
 image = "/images/team/AlexanderToedtheide.jpg"
 
-role_first_line = "PhD Student @ TUM"
-role_second_line = "(now at Inspire)"
+role_first_line = "inspire AG"
+role_second_line = "(former PhD Student @ TUM)"
 role_group = ["PhD"]
 affiliation = ["TUM"]
 

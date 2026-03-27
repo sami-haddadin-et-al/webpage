@@ -4,8 +4,8 @@ draft = false
 
 image = "/images/team/NicoMansfeld.jpg"
 
-role_first_line = "PhD Student @ TUM"
-role_second_line = "(now Prof. at OTH Regensburg)"
+role_first_line = "Prof. at OTH Regensburg"
+role_second_line = "(former PhD Student @ TUM)"
 role_group = ["PhD"]
 affiliation = ["TUM"]
 

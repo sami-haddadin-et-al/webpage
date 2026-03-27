@@ -4,8 +4,8 @@ draft = false
 
 image = "/images/team/LarsJohannsmeier.jpg"
 
-role_first_line = "PhD Student @ TUM"
-role_second_line = "(now at NVIDIA)"
+role_first_line = "NVIDIA"
+role_second_line = "(former PhD Student @ TUM)"
 role_group = ["PhD"]
 affiliation = ["TUM"]
 

@@ -4,8 +4,8 @@ draft = false
 
 image = "/images/team/JonathanVorndamme.jpg"
 
-role_first_line = "PhD Student @ TUM"
-role_second_line = "(now Postdoc at TUM)"
+role_first_line = "Postdoc at TUM"
+role_second_line = "(former PhD Student @ TUM)"
 role_group = ["PhD"]
 affiliation = ["TUM"]
 

@@ -4,8 +4,8 @@ draft = false
 
 image = "/images/team/TeodorTomic.jpg"
 
-role_first_line = "PhD Student @ LUH"
-role_second_line = "(now at Skydio)"
+role_first_line = "Skydio"
+role_second_line = "(former PhD Student @ LUH)"
 role_group = ["PhD"]
 affiliation = ["LUH"]
 

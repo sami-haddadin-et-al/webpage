@@ -9,7 +9,7 @@ role_second_line = ""
 role_group = ["Staff"]
 affiliation = ["TUM"]
 
-status = "active"
+status = "alumni"
 
 publications = [
     "AoWWSH25",

@@ -4,8 +4,8 @@ draft = false
 
 image = "/images/team/ErfanShahriari.jpg"
 
-role_first_line = "PhD Student @ TUM"
-role_second_line = "(now at RAI Institute)"
+role_first_line = "RAI Institute"
+role_second_line = "(former PhD Student @ TUM)"
 role_group = ["PhD"]
 affiliation = ["TUM"]
 

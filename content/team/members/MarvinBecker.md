@@ -4,8 +4,8 @@ draft = false
 
 image = "/images/team/MarvinBecker.jpg"
 
-role_first_line = "PhD Student @ LUH"
-role_second_line = "(now at Beckhoff Automation)"
+role_first_line = "Beckhoff Automation"
+role_second_line = "(former PhD Student @ LUH)"
 role_group = ["PhD"]
 affiliation = ["LUH"]
 

@@ -9,7 +9,7 @@ role_second_line = ""                       # Visible subtitle
 role_group = ["Staff"]                    # One of: PhD, Postdoc, MSc, BSc, Staff, Visiting, Alumni, Collaborator
 affiliation = ["TUM"]      # One of: MBZUAI, TUM, LUH
 
-status = "active"                           # "active" or "alumni"
+status = "alumni"                           # "active" or "alumni"
 
 publications = [
     "SoALSH24"                  # name of bib entry (must appear in webpage\bibliography.bib

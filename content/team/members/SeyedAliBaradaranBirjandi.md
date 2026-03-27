@@ -4,8 +4,8 @@ draft = false
 
 image = "/images/team/SeyedAliBaradaranBirjandi.jpg"
 
-role_first_line = "PhD Student @ TUM"
-role_second_line = "(now at Trimbe)"
+role_first_line = "Trimbe Inc."
+role_second_line = "(former PhD Student @ TUM)"
 role_group = ["PhD"]
 affiliation = ["TUM"]
 

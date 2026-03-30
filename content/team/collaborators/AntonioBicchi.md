@@ -1,6 +1,6 @@
 +++
 title = "Antonio Bicchi"
-draft = true
+draft = false
 
 image = "/images/team/AntonioBicchi.jpg"
 

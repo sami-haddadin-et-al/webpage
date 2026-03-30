@@ -5,7 +5,7 @@ draft = false
 image = "/images/team/TimLaue.jpg"
 
 role_first_line = "University of Bremen"
-role_second_line = "Second Line"
+role_second_line = ""
 role_group = ["Collaborator"]
 affiliation = []
 

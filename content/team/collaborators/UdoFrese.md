@@ -9,7 +9,9 @@ role_second_line = ""
 role_group = ["Collaborator"]
 affiliation = []
 
-publications = []
+publications = [
+    "HaddadinLFWAH09"
+]
 +++
 
 *(image credit: [LinkedIn](https://de.linkedin.com/in/udo-frese-440b7a9b))*

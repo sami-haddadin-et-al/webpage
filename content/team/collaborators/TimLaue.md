@@ -9,7 +9,9 @@ role_second_line = ""
 role_group = ["Collaborator"]
 affiliation = []
 
-publications = []
+publications = [
+    "HaddadinLFWAH09"
+]
 +++
 
 *(image credit: [University of Bremen](https://user.informatik.uni-bremen.de/tlaue/index.html))*

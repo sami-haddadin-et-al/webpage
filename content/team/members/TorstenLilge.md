@@ -6,7 +6,7 @@ image = "/images/team/TorstenLilge.jpg"  # webpage/image/team/ ....
 
 role_first_line = "Senior Researcher @ LUH"        # Visible subtitle
 role_second_line = ""                       # Visible subtitle
-role_group = ["Alumni"]                    # One of: PhD, Postdoc, MSc, BSc, Staff, Visiting, Alumni, Collaborator
+role_group = ["Staff"]                    # One of: PhD, Postdoc, MSc, BSc, Staff, Visiting, Alumni, Collaborator
 affiliation = ["LUH"]      # One of: MBZUAI, TUM, LUH
 
 status = "alumni"                           # "active" or "alumni"

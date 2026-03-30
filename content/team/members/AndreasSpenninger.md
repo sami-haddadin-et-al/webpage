@@ -5,7 +5,7 @@ draft = false
 image = "/images/team/AndreasSpenninger.jpg"  # webpage/image/team/ ....
 
 role_first_line = "Agile Robots SE"       # Visible subtitle
-role_second_line = "(former MSc. Student)"                       # Visible subtitle
+role_second_line = "(former MSc. Student and Collaborator)"                       # Visible subtitle
 role_group = ["MSc"]                    # One of: PhD, Postdoc, MSc, BSc, Staff, Visiting, Alumni, Collaborator
 affiliation = ["TUM"]                       # One of: MBZUAI, TUM, LUH
 

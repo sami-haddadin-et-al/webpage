@@ -5,8 +5,8 @@ draft = false
 image = "/images/team/PhilippLechner.jpg"  # webpage/image/team/ ....
 
 role_first_line = "Prof. at University Augsburg"        # Visible subtitle
-role_second_line = "(former Postdoc @ TUM)"                       # Visible subtitle
-role_group = ["Postdoc"]                    # One of: PhD, Postdoc, MSc, BSc, Staff, Visiting, Alumni, Collaborator
+role_second_line = "(former MSc. Student and collaborator @ TUM)"                       # Visible subtitle
+role_group = ["MSc"]                    # One of: PhD, Postdoc, MSc, BSc, Staff, Visiting, Alumni, Collaborator
 affiliation = ["TUM"]      # One of: MBZUAI, TUM, LUH
 
 status = "alumni"                           # "active" or "alumni"

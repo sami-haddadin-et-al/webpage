@@ -4,12 +4,12 @@ draft = false
 
 image = "/images/team/MuhammadHilmanFatoni.jpg"
 
-role_first_line = "PhD Student @ TUM"
+role_first_line = "Research Associate @ TUM"
 role_second_line = ""
-role_group = ["PhD"]
+role_group = ["Staff"]
 affiliation = ["TUM"]
 
-status = "active"
+status = "alumni"
 
 publications = [
     "FatoniH0BGH24",

@@ -5,7 +5,7 @@ draft = false
 image = "/images/team/JanHarder.jpg"  # webpage/image/team/ ....
 
 role_first_line = "German Vice-Director at Tongji University"        # Visible subtitle
-role_second_line = "(former Chief of Science @ TUM)"                       # Visible subtitle
+role_second_line = "(former chief science officer @ TUM)"                       # Visible subtitle
 role_group = ["Postdoc"]                    # One of: PhD, Postdoc, MSc, BSc, Staff, Visiting, Alumni, Collaborator
 affiliation = ["TUM"]      # One of: MBZUAI, TUM, LUH
 

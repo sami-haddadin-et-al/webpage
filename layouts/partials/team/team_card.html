@@ -1,0 +1,19 @@
+<article class="team-item">
+  {{ with .Params.image }}
+    <img class="team-avatar" src="{{ . }}" alt="{{ $.Title }}">
+  {{ end }}
+
+  <div class="team-meta">
+    <div class="team-name">
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+    </div>
+
+    {{ with .Params.role_first_line }}
+      <div class="team-role">{{ . }}</div>
+    {{ end }}
+
+    {{ with .Params.role_second_line }}
+      <div class="team-role-second">{{ . }}</div>
+    {{ end }}
+  </div>
+</article>

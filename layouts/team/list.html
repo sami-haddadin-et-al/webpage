@@ -10,6 +10,7 @@
         "group_names" (slice "PhD" "MSc" "BSc")
         "status" "active"
         "path" "team/members/"
+        "exclude_path" "team/template/"
     ) }}
   </section>
 
@@ -23,19 +24,21 @@
         "group_names" (slice "Postdoc")
         "status" "active"
         "path" "team/members/"
+        "exclude_path" "team/template/"
     ) }}
   </section>
 
   <hr class="team-sep"/>
 
-  <!-- Research Scientists -->
+  <!-- Research Associates -->
   <section class="team-block">
-    <h2 class="team-heading">Research Scientists</h2>
+    <h2 class="team-heading">Research Associates</h2>
     {{ partial "team/team_group_by_affiliation.html" (dict
         "pages" site.RegularPages
         "group_names" (slice "Staff")
         "status" "active"
         "path" "team/members/"
+        "exclude_path" "team/template/"
     ) }}
   </section>
 
@@ -49,6 +52,7 @@
         "group_names" (slice "PhD" "MSc" "BSc" "Postdoc" "Staff")
         "status" "alumni"
         "path" "team/members/"
+        "exclude_path" "team/template/"
     ) }}
   </section>
 
@@ -60,7 +64,14 @@
 
     <div class="team-grid">
       {{ range (sort site.RegularPages "Title" "asc") }}
-        {{ if and (eq .Section "team") (hasPrefix .File.Path "team/collaborators/") }}
+        {{ if and
+            (eq .Section "team")
+            (hasPrefix .File.Path "team/collaborators/")
+            (not .Draft)
+            (not (hasPrefix .File.Path "team/template/"))
+            (ne .File.BaseFileName "template")
+            (ne .File.BaseFileName "Template")
+        }}
           <article class="team-item">
             {{ with .Params.image }}
               <img class="team-avatar" src="{{ . }}" alt="{{ $.Title }}">

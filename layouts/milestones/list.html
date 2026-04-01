@@ -33,6 +33,7 @@
   {{ $systems := site.GetPage "section" "milestones/systems" }}
   {{ $theory := site.GetPage "section" "milestones/theory" }}
   {{ $experiments := site.GetPage "section" "milestones/experiments" }}
+  {{ $projects := site.GetPage "section" "milestones/projects" }}
   {{ $institutions := site.GetPage "section" "milestones/institutions" }}
 
   <div class="milestone-grid">
@@ -41,6 +42,7 @@
     {{ partial "milestones/column.html" (dict "title" "Systems" "section" $systems) }}
     {{ partial "milestones/column.html" (dict "title" "Theories" "section" $theory) }}
     {{ partial "milestones/column.html" (dict "title" "Experiments" "section" $experiments) }}
+    {{ partial "milestones/column.html" (dict "title" "Projects / Grants" "section" $projects) }}
     {{ partial "milestones/column.html" (dict "title" "Institutions" "section" $institutions) }}
   </div>
 

@@ -1,42 +1,57 @@
 +++
-title = "Max Mustermann"
+title = "Alessandro De Luca"
 draft = false
 
-image = "/images/team/MaxMustermann.jpg"
+image = "/images/team/AlessandroDeLuca.jpg"
 
-role_first_line = "First Line"
-role_second_line = "Second Line"
+role_first_line = "Sapienza Università di Roma"
+role_second_line = ""
 role_group = ["Collaborator"]
 affiliation = []
 
-publications = []
+publications = [
+    "HaddadinALH08",
+    "LucaAHH06"
+]
 +++
 
-*(image credit: []())*
+*(image credit: [Sapienza Università di Roma](https://www.diag.uniroma1.it/deluca/))*
 
 
 ## About
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+PhD in Systems Engineering in 1987. Researcher in 1988. 
+Associate professor at the Università di Milano in 1992, moved to Sapienza in 1993. Full professor since 2000.
 
-*(source: []())*
+Associate Editor (1994-98), Editor (1998-2003), and Editor-in-Chief (2003-04) of the IEEE Transactions on Robotics and Automation. 
+Editor-in-Chief of the IEEE Transactions on Robotics (2004-08).
+General Chair of the 2007 IEEE International Conference on Robotics and Automation (Roma, 2007). 
+Elected member of the IEEE Robotics and Automation Society (RAS) AdCom (2008-10). 
+Vice-President for Publication Activities of IEEE RAS (2012-13).
+Program Chair of the 2016 IEEE International Conference on Robotics and Automation (Stockholm, 2016). 
+General Chair of the 1st Italian Conference on Robotics and Intelligent Machines (Roma, 2019).
+IEEE Fellow (class of 2007). 
+IEEE Life Fellow since 2023. 
+
+Member of the Search Committee for Physical Sciences of the Körber European Science Award (2006-12) and of the Scientific Advisory Board of the Max Planck Institute for Biological Cybernetics (2015-17). Chair of Panel PE7 (Systems and Communication Engineering) of the European Research Council for the Advanced Grants in 2009, 2011, and 2013. I have been one of the Vice-presidents of the national Institute for Robotics and Intelligent Machines (I-RIM) since its foundation in 2019 until 2025. 
+Member of the Science Advisory Board of the Munich Institute of Robotics and Machine Intelligence (MIRMI) of the Technical University of Munich since 2022 and of the Advisory Board of The International Journal of Robotics Research since 2023.
+
+*(source: [Sapienza Università di Roma](https://www.diag.uniroma1.it/en/users/alessandro_de-luca))*
 
 
 ## Research Interests
 - Robotics
-- Robotics
+- Control
 
-*(source: []())*
+*(source: [Google Scholar](https://scholar.google.com/citations?user=rNOKqLcAAAAJ))*
 
 
 ## Contact
 - [LinkedIn]()
-- [University]()
-- [Google Scholar]()
-- [Semantic Scholar]()
-- [ORCID]()
+- [Sapienza Università di Roma](https://www.diag.uniroma1.it/en/users/alessandro_de-luca)
+- [Google Scholar](https://scholar.google.com/citations?user=rNOKqLcAAAAJ)
+- [YouTube](https://www.youtube.com/user/RoboticsLabSapienza)
+- [Semantic Scholar](https://www.semanticscholar.org/author/Alessandro-De-Luca/144765522)
+- [ORCID](https://orcid.org/0000-0002-0713-5608)
 
 
 

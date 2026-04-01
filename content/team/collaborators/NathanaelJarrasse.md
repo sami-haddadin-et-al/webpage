@@ -5,7 +5,7 @@ draft = false
 image = "/images/team/NathanaelJarrasse.jpg"
 
 role_first_line = "CNRS Researcher"
-role_second_line = "Second Line"
+role_second_line = ""
 role_group = ["Collaborator"]
 affiliation = []
 

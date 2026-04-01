@@ -1,9 +1,9 @@
 +++
-date = "2020-01-01"
+date = "2019-01-01"
 draft = false
-title = "ReconCycle (CeTI Excellence Cluster)"
+title = "CeTI Excellence Cluster"
 +++
 
-# ReconCycle (CeTI Excellence Cluster)
+# CeTI Excellence Cluster
 
-Funded by: European Commission Horizon 2020 (2020 - 2024)
+Funded by: German Science Foundation (DFG) (2019 - 2025)

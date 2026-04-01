@@ -1,19 +1,19 @@
 +++
-title = "A truly safely moving robot has to know what injury it may cause"
-date = "2012-10-07"
-categories = ["publication", "inproceedings"]
-tags = ["publication", "inproceedings"]
+title = "On making robots understand safety: Embedding injury knowledge into control"
+date = "2012-01-01"
+categories = ["publication", "article"]
+tags = ["publication", "article"]
 author = ["Sami Haddadin", "Simon Haddadin", "Augusto Khoury", "Tim Rokahr", "Sven Parusel", "Rainer Burgkart", "Antonio Bicchi", "Alin Albu-Schäffer"]
 keywords = []
 draft = false
 gen_lock = false
 +++
 
-# A truly safely moving robot has to know what injury it may cause
+# On making robots understand safety: Embedding injury knowledge into control
 
 **Authors:** Sami Haddadin, Simon Haddadin, Augusto Khoury, Tim Rokahr, Sven Parusel, Rainer Burgkart, Antonio Bicchi, Alin Albu-Schäffer
 
-**DOI:** [10.1109/IROS.2012.6386163](https://doi.org/10.1109/IROS.2012.6386163)
+**DOI:** [10.1177/0278364912462256](https://doi.org/10.1177/0278364912462256)
 <!-- **Code:** No entry in BibTeX-->
 
 _No images available._
@@ -33,7 +33,7 @@ _No additional files._
 ## BibTeX
 If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
-@inproceedings{DBLP:conf/iros/HaddadinHKRPBBA12,
+@article{DBLP:journals/ijrr/HaddadinHKRPBBA12,
   author       = {Sami Haddadin and
                   Simon Haddadin and
                   Augusto Khoury and
@@ -42,17 +42,17 @@ If you want to cite this work, you can use the following BibTeX file:
                   Rainer Burgkart and
                   Antonio Bicchi and
                   Alin Albu{-}Sch{\"{a}}ffer},
-  title        = {A truly safely moving robot has to know what injury it may cause},
-  booktitle    = {2012 {IEEE/RSJ} International Conference on Intelligent Robots and
-                  Systems, {IROS} 2012, Vilamoura, Algarve, Portugal, October 7-12,
-                  2012},
-  pages        = {5406--5413},
-  publisher    = {{IEEE}},
+  title        = {On making robots understand safety: Embedding injury knowledge into
+                  control},
+  journal      = {Int. J. Robotics Res.},
+  volume       = {31},
+  number       = {13},
+  pages        = {1578--1602},
   year         = {2012},
-  url          = {https://doi.org/10.1109/IROS.2012.6386163},
-  doi          = {10.1109/IROS.2012.6386163},
+  url          = {https://doi.org/10.1177/0278364912462256},
+  doi          = {10.1177/0278364912462256},
   timestamp    = {Sat, 30 Sep 2023 01:00:00 +0200},
-  biburl       = {https://dblp.org/rec/conf/iros/HaddadinHKRPBBA12.bib},
+  biburl       = {https://dblp.org/rec/journals/ijrr/HaddadinHKRPBBA12.bib},
   bibsource    = {dblp computer science bibliography, https://dblp.org}
 }
 ```

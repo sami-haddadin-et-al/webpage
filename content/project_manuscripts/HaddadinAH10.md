@@ -1,19 +1,19 @@
 +++
-title = "Soft-tissue injury in robotics"
-date = "2010-05-01"
-categories = ["publication", "inproceedings"]
-tags = ["publication", "inproceedings"]
+title = "Safety Analysis for a Human-Friendly Manipulator"
+date = "2010-01-01"
+categories = ["publication", "article"]
+tags = ["publication", "article"]
 author = ["Sami Haddadin", "Alin Albu-Schäffer", "Gerd Hirzinger"]
 keywords = []
 draft = false
 gen_lock = false
 +++
 
-# Soft-tissue injury in robotics
+# Safety Analysis for a Human-Friendly Manipulator
 
 **Authors:** Sami Haddadin, Alin Albu-Schäffer, Gerd Hirzinger
 
-**DOI:** [10.1109/ROBOT.2010.5509854](https://doi.org/10.1109/ROBOT.2010.5509854)
+**DOI:** [10.1007/S12369-010-0053-Z](https://doi.org/10.1007/S12369-010-0053-Z)
 <!-- **Code:** No entry in BibTeX-->
 
 _No images available._
@@ -33,20 +33,20 @@ _No additional files._
 ## BibTeX
 If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
-@inproceedings{DBLP:conf/icra/HaddadinAH10,
+@article{DBLP:journals/ijsr/HaddadinAH10,
   author       = {Sami Haddadin and
                   Alin Albu{-}Sch{\"{a}}ffer and
                   Gerd Hirzinger},
-  title        = {Soft-tissue injury in robotics},
-  booktitle    = {{IEEE} International Conference on Robotics and Automation, {ICRA}
-                  2010, Anchorage, Alaska, USA, 3-7 May 2010},
-  pages        = {3426--3433},
-  publisher    = {{IEEE}},
+  title        = {Safety Analysis for a Human-Friendly Manipulator},
+  journal      = {Int. J. Soc. Robotics},
+  volume       = {2},
+  number       = {3},
+  pages        = {235--252},
   year         = {2010},
-  url          = {https://doi.org/10.1109/ROBOT.2010.5509854},
-  doi          = {10.1109/ROBOT.2010.5509854},
+  url          = {https://doi.org/10.1007/s12369-010-0053-z},
+  doi          = {10.1007/S12369-010-0053-Z},
   timestamp    = {Sat, 30 Sep 2023 01:00:00 +0200},
-  biburl       = {https://dblp.org/rec/conf/icra/HaddadinAH10.bib},
+  biburl       = {https://dblp.org/rec/journals/ijsr/HaddadinAH10.bib},
   bibsource    = {dblp computer science bibliography, https://dblp.org}
 }
 ```

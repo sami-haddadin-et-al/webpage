@@ -1,6 +1,6 @@
 +++
 title = "List of Publications"
-date = "2026-02-25"
+date = "2026-04-01"
 categories = ["publication"]
 tags = ["publication"]
 draft = false

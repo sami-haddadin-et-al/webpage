@@ -30,7 +30,7 @@ TYPE_ORDER = [
 ]
 
 # For each entry, link to the (future) project manuscript page:
-PROJECT_URL_FMT = "/webpage/project_manuscripts/{key}"
+PROJECT_URL_FMT = "/webpage/project_manuscripts/{key.lower()}"
 
 # Strict requirements
 REQUIRED_BIB_SINGLE_ENTRY = True
@@ -436,7 +436,7 @@ def fmt_reference(item: BibItem) -> str:
     citation = ", ".join([p for p in parts if p])
 
     # Project page link
-    project_link = f"[Project Page]({PROJECT_URL_FMT.format(key=item.key)}), "
+    project_link = f"[Project Page](/project_manuscripts/{item.key.lower()}), "
 
     # External links
     extras: list[str] = []

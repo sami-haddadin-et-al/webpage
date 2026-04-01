@@ -115,7 +115,11 @@ def parse_gen_lock(existing_index_md: Path) -> bool:
 
     fm = m.group(1)
     # Use tomllib in 3.11
-    import tomllib
+    # import tomllib
+    try:
+        import tomllib
+    except ModuleNotFoundError:
+        import tomli as tomllib
     try:
         data = tomllib.loads(fm)
     except Exception:

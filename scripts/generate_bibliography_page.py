@@ -11,6 +11,7 @@ from typing import Optional, Tuple, Dict, List
 import bibtexparser
 from pylatexenc.latex2text import LatexNodes2Text
 
+
 # -----------------------
 # Paths / Config
 # -----------------------

@@ -9,7 +9,6 @@ from pathlib import Path
 from typing import Optional, Tuple, Dict, List
 
 import bibtexparser
-
 from pylatexenc.latex2text import LatexNodes2Text
 
 # -----------------------
@@ -29,8 +28,8 @@ TYPE_ORDER = [
     ("preprints", "Preprints"),
 ]
 
-# For each entry, link to the (future) project manuscript page:
-PROJECT_URL_FMT = "/webpage/project_manuscripts/{key}"
+# Hugo serves these pages at lowercase URLs.
+PROJECT_URL_FMT = "/webpage/project_manuscripts/{key_lower}"
 
 # Strict requirements
 REQUIRED_BIB_SINGLE_ENTRY = True
@@ -52,12 +51,8 @@ def read_text_strict(path: Path) -> str:
         die(f"Failed reading {path.relative_to(REPO_ROOT)}: {e}")
 
 
-# def sanitize_inline(text: str) -> str:
-#     # Minimal cleanup: remove braces, collapse whitespace
-#     t = (text or "").replace("{", "").replace("}", "")
-#     t = re.sub(r"\s+", " ", t).strip()
-#     return t
 _latex_converter = LatexNodes2Text()
+
 
 def sanitize_inline(text: str) -> str:
     if not text:
@@ -81,25 +76,6 @@ def sanitize_inline(text: str) -> str:
     return text
 
 
-# def split_authors_fullnames(author_field: str) -> list[str]:
-#     # Normalize whitespace and split on 'and' robustly
-#     normalized = re.sub(r"\s+", " ", (author_field or "")).strip()
-#     if not normalized:
-#         return []
-#     parts = re.split(r"\s+and\s+", normalized, flags=re.IGNORECASE)
-#
-#     out: list[str] = []
-#     for p in parts:
-#         p = p.strip()
-#         if not p:
-#             continue
-#         # Convert "Last, First" -> "First Last"
-#         if "," in p:
-#             last, first = [x.strip() for x in p.split(",", 1)]
-#             out.append(f"{first} {last}".strip())
-#         else:
-#             out.append(p)
-#     return out
 def split_authors_fullnames(author_field: str) -> list[str]:
     normalized = re.sub(r"\s+", " ", (author_field or "")).strip()
     if not normalized:
@@ -124,6 +100,7 @@ def split_authors_fullnames(author_field: str) -> list[str]:
             out.append(p)
 
     return out
+
 
 def parse_bib_file_single_entry(bib_path: Path) -> dict:
     raw = read_text_strict(bib_path)
@@ -169,18 +146,15 @@ def find_doi_and_url(entry: dict) -> Tuple[Optional[str], Optional[str]]:
 
 
 def find_arxiv_link(entry: dict) -> Optional[str]:
-    # Prefer eprint if archivePrefix indicates arXiv, but be flexible
     archive_prefix = sanitize_inline(str(entry.get("archiveprefix", ""))).lower()
     eprint = sanitize_inline(str(entry.get("eprint", "")))
     if archive_prefix == "arxiv" and eprint:
         return f"https://arxiv.org/abs/{eprint}"
 
-    # Some entries may not have archivePrefix but have eprinttype / primaryClass; still try.
     eprint_type = sanitize_inline(str(entry.get("eprinttype", ""))).lower()
     if eprint_type == "arxiv" and eprint:
         return f"https://arxiv.org/abs/{eprint}"
 
-    # If url already points to arxiv, we could use it, but you asked "if possible" — this counts.
     url = sanitize_inline(str(entry.get("url", "")))
     if "arxiv.org/abs/" in url:
         return url
@@ -192,9 +166,7 @@ def fmt_pages(pages: str) -> Optional[str]:
     p = sanitize_inline(pages)
     if not p:
         return None
-    # BibTeX often uses -- for ranges; use en dash
-    p = p.replace("--", "–")
-    return p
+    return p.replace("--", "–")
 
 
 def toml_string(s: str) -> str:
@@ -204,10 +176,10 @@ def toml_string(s: str) -> str:
 
 @dataclass(frozen=True)
 class BibItem:
-    group_folder: str          # e.g. "books"
-    group_title: str           # e.g. "Books"
+    group_folder: str
+    group_title: str
     year: int
-    key: str                  # BibTeX key / also folder name in your structure
+    key: str
     title: str
     authors: list[str]
     venue: str
@@ -220,14 +192,13 @@ class BibItem:
     doi_href: Optional[str]
     url_fallback: Optional[str]
     arxiv_href: Optional[str]
-    raw_entry_type: str        # e.g. inproceedings/article/book/etc
+    raw_entry_type: str
     bib_path: Path
 
 
-def venue_for_type(group_folder: str, entry: dict) -> Tuple[str, Optional[str], Optional[str], Optional[str], Optional[str]]:
-    """
-    Returns: venue, volume, number, publisher, school
-    """
+def venue_for_type(
+    group_folder: str, entry: dict
+) -> Tuple[str, Optional[str], Optional[str], Optional[str], Optional[str]]:
     if group_folder == "books":
         venue = sanitize_inline(str(entry.get("publisher", "")))
         return venue, None, None, venue or None, None
@@ -235,7 +206,6 @@ def venue_for_type(group_folder: str, entry: dict) -> Tuple[str, Optional[str], 
     if group_folder == "book_chapters":
         venue = sanitize_inline(str(entry.get("booktitle", "")))
         publisher = sanitize_inline(str(entry.get("publisher", "")))
-        # Venue will be booktitle; publisher handled separately
         return venue, None, None, publisher or None, None
 
     if group_folder == "journal_papers":
@@ -249,13 +219,13 @@ def venue_for_type(group_folder: str, entry: dict) -> Tuple[str, Optional[str], 
         return venue, None, None, None, None
 
     if group_folder == "theses":
-        # You said assume only PhD theses
         school = sanitize_inline(str(entry.get("school", ""))) or None
         return "Ph.D. thesis", None, None, None, school
 
     if group_folder == "preprints":
-        # Prefer note/howpublished, else something generic
-        venue = sanitize_inline(str(entry.get("note", ""))) or sanitize_inline(str(entry.get("howpublished", "")))
+        venue = sanitize_inline(str(entry.get("note", ""))) or sanitize_inline(
+            str(entry.get("howpublished", ""))
+        )
         if not venue:
             venue = "Preprint"
         return venue, None, None, None, None
@@ -264,12 +234,6 @@ def venue_for_type(group_folder: str, entry: dict) -> Tuple[str, Optional[str], 
 
 
 def preprint_included(pub_folder: Path) -> bool:
-    """
-    Strict:
-      - published.txt must exist
-      - content must be exactly 'published' or 'unpublished' (case-insensitive)
-      - include only if 'unpublished'
-    """
     p = pub_folder / "published.txt"
     if not p.exists():
         die(f"Missing required file for preprint: {p.relative_to(REPO_ROOT)}")
@@ -279,7 +243,9 @@ def preprint_included(pub_folder: Path) -> bool:
         return False
     if val == "unpublished":
         return True
-    die(f"Invalid value in {p.relative_to(REPO_ROOT)}: expected 'published' or 'unpublished', got '{val}'")
+    die(
+        f"Invalid value in {p.relative_to(REPO_ROOT)}: expected 'published' or 'unpublished', got '{val}'"
+    )
     return False
 
 
@@ -292,13 +258,13 @@ def collect_items() -> list[BibItem]:
     for folder_name, display_name in TYPE_ORDER:
         type_dir = BIB_DB_ROOT / folder_name
         if not type_dir.exists():
-            # If a defined group folder is missing, treat as empty (not fatal)
             continue
 
-        for pub_folder in sorted([p for p in type_dir.iterdir() if p.is_dir()], key=lambda p: p.name.lower()):
+        for pub_folder in sorted(
+            [p for p in type_dir.iterdir() if p.is_dir()], key=lambda p: p.name.lower()
+        ):
             key = pub_folder.name
 
-            # Preprints filtering
             if folder_name == "preprints":
                 if not preprint_included(pub_folder):
                     continue
@@ -318,10 +284,7 @@ def collect_items() -> list[BibItem]:
                 die(f"Missing 'author' in {bib_path.relative_to(REPO_ROOT)}")
 
             year = get_year(entry, bib_path)
-            entry_key = bibtex_key(entry, bib_path)  # BibTeX ID (may differ from folder name, but you want bibtex key sorting)
-            # You asked: sort by BibTeX key; most cases equals first author last name.
-            # We'll use BibTeX ID for sorting, but keep folder-name for project URL.
-            # If you'd rather always use folder-name as "key", tell me and I’ll adjust.
+            _entry_key = bibtex_key(entry, bib_path)
 
             venue, volume, number, publisher, school = venue_for_type(folder_name, entry)
             pages = fmt_pages(str(entry.get("pages", "")))
@@ -345,7 +308,7 @@ def collect_items() -> list[BibItem]:
                     group_folder=folder_name,
                     group_title=display_name,
                     year=year,
-                    key=key,  # folder name used for project URL
+                    key=key,
                     title=title,
                     authors=authors,
                     venue=venue,
@@ -367,45 +330,31 @@ def collect_items() -> list[BibItem]:
 
 
 def fmt_reference(item: BibItem) -> str:
-    """
-    IEEE-like with uniform italic titles.
-    Includes:
-      - Authors
-      - *Title*
-      - venue details by type
-      - pages if present
-      - year
-      - [Project Page](/project_manuscripts/<key>)
-      - DOI: [..](..) or URL, and arXiv for preprints if available
-    """
     authors_str = ", ".join(item.authors)
     title_str = f"*{item.title}*"
 
-    # Base: Authors, *Title*,
     parts: list[str] = [f"{authors_str}, {title_str}"]
 
-    # Type-specific venue formatting
     if item.group_folder == "journal_papers":
-        v = item.venue
-        if v:
-            parts.append(v)
+        if item.venue:
+            parts.append(item.venue)
         if item.volume:
             parts.append(f"vol. {item.volume}")
         if item.number:
             parts.append(f"no. {item.number}")
         if item.pages:
             parts.append(f"pp. {item.pages}")
-        parts.append(str(item.year) + ".")
+        parts.append(f"{item.year}.")
     elif item.group_folder == "conference_papers":
         if item.venue:
             parts.append(f"in Proceedings of {item.venue}")
         if item.pages:
             parts.append(f"pp. {item.pages}")
-        parts.append(str(item.year) + ".")
+        parts.append(f"{item.year}.")
     elif item.group_folder == "books":
         if item.publisher:
             parts.append(item.publisher)
-        parts.append(str(item.year) + ".")
+        parts.append(f"{item.year}.")
     elif item.group_folder == "book_chapters":
         if item.venue:
             parts.append(item.venue)
@@ -413,47 +362,41 @@ def fmt_reference(item: BibItem) -> str:
             parts.append(item.publisher)
         if item.pages:
             parts.append(f"pp. {item.pages}")
-        parts.append(str(item.year) + ".")
+        parts.append(f"{item.year}.")
     elif item.group_folder == "theses":
-        # Venue_for_type returns "Ph.D. thesis"
         parts.append("Ph.D. thesis")
         if item.school:
             parts.append(item.school)
-        parts.append(str(item.year) + ".")
+        parts.append(f"{item.year}.")
     elif item.group_folder == "preprints":
         if item.venue:
             parts.append(item.venue)
-        parts.append(str(item.year) + ".")
+        parts.append(f"{item.year}.")
     else:
         if item.venue:
             parts.append(item.venue)
         if item.pages:
             parts.append(f"pp. {item.pages}")
-        parts.append(str(item.year) + ".")
+        parts.append(f"{item.year}.")
 
-    # Join the main citation sentence cleanly
-    # Ensure commas between segments; keep final period already appended as "YYYY."
     citation = ", ".join([p for p in parts if p])
 
-    # Project page link
-    project_link = f"[Project Page]({PROJECT_URL_FMT.format(key=item.key.lower())}), "
+    project_link = f"[Project Page]({PROJECT_URL_FMT.format(key_lower=item.key.lower())})"
 
-    # External links
     extras: list[str] = []
 
-    # Preprints: if arXiv exists, include ONLY arXiv (no DOI/URL)
     if item.group_folder == "preprints" and item.arxiv_href:
         arxiv_id = item.arxiv_href.split("/abs/", 1)[-1]
         extras.append(f"[arXiv:{arxiv_id}]({item.arxiv_href})")
     else:
-        # Non-preprints (or preprints without arXiv): DOI first, then URL
         if item.doi_display and item.doi_href:
             extras.append(f"DOI: [{item.doi_display}]({item.doi_href})")
         elif item.url_fallback:
             extras.append(f"URL: [{item.url_fallback}]({item.url_fallback})")
 
-    # Build final line as one bullet item
-    tail = " ".join([project_link] + extras) if extras else project_link
+    tail_parts = [project_link] + extras
+    tail = " ".join(tail_parts)
+
     return f"- {citation} {tail}"
 
 
@@ -475,8 +418,6 @@ def build_page(items: list[BibItem]) -> str:
     lines.append("---")
     lines.append("")
 
-    # Organize by group then year desc then bib key asc (you requested bib key sorting)
-    # We only included allowed groups in collect_items, but keep ordering stable.
     items_by_group: Dict[str, List[BibItem]] = {folder: [] for folder, _ in TYPE_ORDER}
     for it in items:
         if it.group_folder in items_by_group:
@@ -489,22 +430,18 @@ def build_page(items: list[BibItem]) -> str:
 
         lines.append(f"## {group_title}")
 
-        # Year desc
         years = sorted({it.year for it in group_items}, reverse=True)
         for y in years:
             lines.append(f"**{y}**")
 
             year_items = [it for it in group_items if it.year == y]
-            # Sort by BibTeX key (entry ID), but we did not store entry ID separately.
-            # Use bib file's entry ID (from file) isn't stored; by default folder key is often that.
-            # If you want strict BibTeX ID sorting, we can store and sort by it.
             year_items.sort(key=lambda it: it.key.lower())
 
             for it in year_items:
                 lines.append(fmt_reference(it))
-            lines.append("")  # blank line after each year block
+            lines.append("")
 
-        lines.append("")  # blank line after each group
+        lines.append("")
 
     return fm + "\n".join(lines).rstrip() + "\n"
 

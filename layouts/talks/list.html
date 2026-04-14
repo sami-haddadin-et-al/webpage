@@ -1,0 +1,88 @@
+{{ define "head" }}
+  {{ $options := dict "transpiler" "dartsass" "targetPath" "css/list.css" }}
+  {{ with resources.Get "sass/layouts/list.scss" }}
+    {{ with . | toCSS $options | postCSS | minify | fingerprint }}
+      <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous">
+    {{ end }}
+  {{ end }}
+  <style>
+    .talks-grid {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 1.75rem;
+      margin-top: 1.5rem;
+    }
+
+    @media (max-width: 700px) {
+      .talks-grid { grid-template-columns: 1fr; }
+    }
+
+    .talk-card {
+      border: 1px solid rgba(0,0,0,.08);
+      border-radius: 10px;
+      overflow: hidden;
+      background: rgba(255,255,255,.35);
+    }
+
+    .talk-video-wrap {
+      position: relative;
+      width: 100%;
+      padding-top: 56.25%;
+    }
+
+    .talk-video-wrap iframe {
+      position: absolute;
+      top: 0; left: 0;
+      width: 100%; height: 100%;
+      border: none;
+    }
+
+    .talk-info {
+      padding: 0.85rem 1rem;
+    }
+
+    .talk-title {
+      font-size: 0.95rem;
+      font-weight: 700;
+      margin: 0 0 0.3rem 0;
+    }
+
+    .talk-meta {
+      font-size: 0.82rem;
+      color: var(--fg3);
+      margin: 0;
+    }
+
+    .darkmode .talk-card {
+      border-color: rgba(255,255,255,.18);
+      background: rgba(255,255,255,.06);
+    }
+  </style>
+{{ end }}
+
+{{ define "main" }}
+<main id="main" class="archive">
+  <div class="talks-grid">
+    {{ range .Pages.ByDate.Reverse }}
+      {{ if .Params.youtube }}
+      <div class="talk-card">
+        <div class="talk-video-wrap">
+          <iframe
+            src="https://www.youtube.com/embed/{{ .Params.youtube }}"
+            title="{{ .Title }}"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen>
+          </iframe>
+        </div>
+        <div class="talk-info">
+          <p class="talk-title">{{ .Title }}</p>
+          <p class="talk-meta">
+            {{ with .Params.event }}{{ . }}{{ end }}{{ with .Params.location }} · {{ . }}{{ end }} · {{ .Date.Format "Jan 2006" }}
+          </p>
+        </div>
+      </div>
+      {{ end }}
+    {{ end }}
+  </div>
+</main>
+{{ end }}

@@ -7,4 +7,4 @@ image = "/images/milestones/2003-lbr-iii.png"
 
 # LBR III
 
-The LBR III robot was developed in 2003 as part of the ongoing evolution of intelligent robotic systems at research institutions.
+The [LBR III](https://www.dlr.de/en/rm/research/robotic-systems/arms/lwr-iii) robot was developed in 2003 as part of the ongoing evolution of intelligent robotic systems at research institutions.

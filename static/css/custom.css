@@ -50,18 +50,30 @@
 .milestone-col{
   border: 1px solid rgba(0,0,0,.08);
   border-radius: 6px;
-  padding: 1rem;
+  padding: 0 1rem 1rem 1rem;  /* no top padding — sticky title sits flush at top */
+  max-height: 80vh;
+  overflow-y: auto;
 }
 
 .milestone-col-title{
   text-align: center;
-  font-size: 1.25rem;     /* tweak: 1.1–1.5rem depending on your theme */
+  font-size: 1.25rem;
   font-weight: 700;
-  margin: 0 0 1rem 0;
-  padding-bottom: 0.75rem;
+  padding: 0.75rem 1rem;
+  margin: 0 -1rem 1rem -1rem;  /* span full width, flush top */
+
+  /* Sticky header — stays at top of its column while scrolling */
+  position: sticky;
+  top: 0;
+  z-index: 2;
+  background: var(--bg);
 
   /* two horizontal lines below (double underline effect) */
   border-bottom: 3px double rgba(0,0,0,.25);
+}
+
+.milestone-col .post-group{
+  position: relative;  /* so ::before spine anchors to its own group, not the column */
 }
 
 .milestone-col .post-group ul{
@@ -71,13 +83,7 @@
 }
 
 .milestone-col .post-group::before{
-  content: "";
-  position: absolute;
-  left: 0.5rem;
-  top: 2.25rem;          /* starts below the year heading */
-  bottom: 0.25rem;
-  width: 2px;
-  background: rgba(0,0,0,.18);
+  content: none;
 }
 
 .milestone-item{
@@ -138,10 +144,7 @@
   background: rgba(255,255,255,.06);
 }
 
-/* Vertical timeline spine */
-.darkmode .milestone-col .post-group::before{
-  background: rgba(255,255,255,.25);
-}
+/* Vertical timeline spine — removed */
 
 /* Timeline dot */
 .darkmode .milestone-li::before{
@@ -167,4 +170,52 @@
   width: 100% !important;
   padding-left: 2vw !important;
   padding-right: 2vw !important;
+}
+
+/* ── Awards 4-column grid ── */
+.awards-grid{
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 1.25rem;
+  align-items: start;
+}
+
+@media (max-width: 900px){
+  .awards-grid{ grid-template-columns: 1fr; }
+}
+
+/* ── Award video card ── */
+.award-video-card {
+  display: block;
+  width: 100%;
+  border: 1px solid rgba(0,0,0,.08);
+  border-radius: 10px;
+  background: rgba(255,255,255,.35);
+  cursor: default;
+  overflow: hidden;
+}
+
+.award-video-wrap {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+}
+
+.award-video-wrap iframe {
+  display: block;
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+
+.award-video-title {
+  display: block;
+  font-size: 0.8rem;
+  font-weight: 600;
+  line-height: 1.3;
+  padding: 0.55rem 0.75rem;
+}
+
+.darkmode .award-video-card {
+  border-color: rgba(255,255,255,.18);
+  background: rgba(255,255,255,.06);
 }

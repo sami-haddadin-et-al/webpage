@@ -1,0 +1,44 @@
+{{ define "head" }}
+  {{ $options := dict "transpiler" "dartsass" "targetPath" "css/list.css" }}
+  {{ with resources.Get "sass/layouts/list.scss" }}
+    {{ with . | toCSS $options | postCSS | minify | fingerprint }}
+      <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous">
+    {{ end }}
+  {{ end }}
+  <style>
+    .awards-grid {
+      display: grid !important;
+      grid-template-columns: repeat(4, minmax(0, 1fr)) !important;
+      gap: 1.25rem;
+      align-items: start;
+    }
+    @media (max-width: 900px) {
+      .awards-grid { grid-template-columns: 1fr !important; }
+    }
+    #wrapper:has(.awards-page) {
+      max-width: 2400px !important;
+      width: 100% !important;
+      padding-left: 2vw !important;
+      padding-right: 2vw !important;
+    }
+  </style>
+{{ end }}
+
+{{ define "main" }}
+<main id="main" class="archive awards-page">
+
+  {{/* Get the four awards sub-sections (folders) */}}
+  {{ $bestJournal := site.GetPage "section" "awards/best-journal-papers" }}
+  {{ $bestConference := site.GetPage "section" "awards/best-conference-papers" }}
+  {{ $individual := site.GetPage "section" "awards/individual-awards" }}
+  {{ $general := site.GetPage "section" "awards/general" }}
+
+  <div class="awards-grid">
+    {{ partial "awards/column.html" (dict "title" "Best Journal Papers" "section" $bestJournal) }}
+    {{ partial "awards/column.html" (dict "title" "Best Conference Papers" "section" $bestConference) }}
+    {{ partial "awards/column.html" (dict "title" "Individual Awards" "section" $individual) }}
+    {{ partial "awards/column.html" (dict "title" "General" "section" $general) }}
+  </div>
+
+</main>
+{{ end }}

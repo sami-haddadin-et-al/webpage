@@ -1,0 +1,47 @@
+{{ $s := .section }}
+
+<div class="milestone-col">
+  <h3 class="milestone-col-title">{{ .title }}</h3>
+
+  {{ if not $s }}
+    <p class="milestone-empty">No awards found.</p>
+  {{ else }}
+
+    {{/* Group within the column by year */}}
+    {{ range ($s.RegularPages.ByDate.Reverse).GroupByDate "2006" }}
+      <div class="post-group">
+        <h4>{{ .Key }}</h4>
+        <ul>
+          {{ range .Pages }}
+            {{ $p := . }}
+            <li class="milestone-li">
+              {{ if $p.Params.youtube }}
+                <div class="award-video-card">
+                  <div class="award-video-wrap">
+                    <iframe
+                      src="https://www.youtube.com/embed/{{ $p.Params.youtube }}"
+                      title="{{ $p.Title }}"
+                      frameborder="0"
+                      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                      allowfullscreen>
+                    </iframe>
+                  </div>
+                  <span class="award-video-title">{{ $p.Title }}</span>
+                </div>
+              {{ else }}
+                <a class="milestone-item"
+                  href="{{ with $p.Params.link }}{{ . }}{{ else }}{{ $p.RelPermalink }}{{ end }}">
+                    <span class="milestone-title">{{ $p.Title }}</span>
+                    {{ with $p.Params.image }}
+                      <img class="milestone-thumb" src="{{ . | relURL }}" alt="Thumbnail for {{ $p.Title }}">
+                    {{ end }}
+                </a>
+              {{ end }}
+            </li>
+          {{ end }}
+        </ul>
+      </div>
+    {{ end }}
+
+  {{ end }}
+</div>

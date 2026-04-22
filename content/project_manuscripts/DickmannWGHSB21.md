@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Thomas Dickmann, Nikolas J. Wilhelm, Claudio Glowalla, Sami Haddadin, Patrick van der Smagt, Rainer Burgkart
 
+**Published in:** Frontiers Robotics AI, vol. 8 (2021)
+
 **DOI:** [10.3389/FROBT.2021.716451](https://doi.org/10.3389/FROBT.2021.716451)
 <!-- **Code:** No entry in BibTeX-->
 

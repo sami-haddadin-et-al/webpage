@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Sami Haddadin, Felix Huber, Alin Albu-Schäffer
 
+**Published in:** IEEE International Conference on Robotics and Automation, ICRA 2012, 14-18 May, 2012, St. Paul, Minnesota, USA
+
 **DOI:** [10.1109/ICRA.2012.6225190](https://doi.org/10.1109/ICRA.2012.6225190)
 <!-- **Code:** No entry in BibTeX-->
 

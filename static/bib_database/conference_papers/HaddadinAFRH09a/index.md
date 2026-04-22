@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Sami Haddadin, Alin Albu-Schäffer, Mirko Frommberger, Jürgen Rossmann, Gerd Hirzinger
 
+**Published in:** 2009 IEEE International Conference on Robotics and Automation, ICRA 2009, Kobe, Japan, May 12-17, 2009
+
 **DOI:** [10.1109/ROBOT.2009.5152602](https://doi.org/10.1109/ROBOT.2009.5152602)
 <!-- **Code:** No entry in BibTeX-->
 

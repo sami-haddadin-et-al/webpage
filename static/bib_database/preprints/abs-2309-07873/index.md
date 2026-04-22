@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Edmundo Pozo Fortunic, Mehmet Can Yildirim, Dennis Ossadnik, Abdalla Swikir, Saeed Abdolshah, Sami Haddadin
 
+**Published in:** arXiv 2309.07873 (2023)
+
 **DOI:** [10.48550/ARXIV.2309.07873](https://doi.org/10.48550/ARXIV.2309.07873)
 <!-- **Code:** No entry in BibTeX-->
 

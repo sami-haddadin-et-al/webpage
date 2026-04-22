@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Jörn Vogel, Sami Haddadin, Beata Jarosiewicz, John D. Simeral, Daniel Bacher, Leigh R. Hochberg, John P. Donoghue, Patrick van der Smagt
 
+**Published in:** Int. J. Robotics Res., vol. 34, no. 6 (2015)
+
 **DOI:** [10.1177/0278364914561535](https://doi.org/10.1177/0278364914561535)
 <!-- **Code:** No entry in BibTeX-->
 

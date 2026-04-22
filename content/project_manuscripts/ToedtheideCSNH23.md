@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Alexander Toedtheide, Xiao Chen, Hamid Sadeghian, Abdeldjallil Naceri, Sami Haddadin
 
+**Published in:** IEEE International Conference on Robotics and Automation, ICRA 2023, London, UK, May 29 - June 2, 2023
+
 **DOI:** [10.1109/ICRA48891.2023.10161175](https://doi.org/10.1109/ICRA48891.2023.10161175)
 <!-- **Code:** No entry in BibTeX-->
 

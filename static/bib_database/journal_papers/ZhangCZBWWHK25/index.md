@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Liding Zhang, Kuanqi Cai, Yu Zhang, Zhenshan Bing, Chaoqun Wang, Fan Wu, Sami Haddadin, Alois Knoll
 
+**Published in:** IEEE Trans Autom. Sci. Eng., vol. 22 (2025)
+
 **DOI:** [10.1109/TASE.2025.3590084](https://doi.org/10.1109/TASE.2025.3590084)
 <!-- **Code:** No entry in BibTeX-->
 

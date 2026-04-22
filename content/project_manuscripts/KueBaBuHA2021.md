@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Johannes Kuehn, Carlo Bagnato, Etienne Burdet, Sami Haddadin
 
+**Published in:** Scientific Reports, vol. 11 (2021)
+
 **DOI:** [10.1038/s41598-021-86173-7](https://doi.org/10.1038/s41598-021-86173-7)
 <!-- **Code:** No entry in BibTeX-->
 

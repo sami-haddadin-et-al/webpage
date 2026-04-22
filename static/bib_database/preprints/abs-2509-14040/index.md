@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Zewen Yang, Xiaobing Dai, Dongfa Zhang, Yu Li, Ziyang Meng, Bingkun Huang, Hamid Sadeghian, Sami Haddadin
 
+**Published in:** arXiv 2509.14040 (2025)
+
 **DOI:** [10.48550/ARXIV.2509.14040](https://doi.org/10.48550/ARXIV.2509.14040)
 <!-- **Code:** No entry in BibTeX-->
 

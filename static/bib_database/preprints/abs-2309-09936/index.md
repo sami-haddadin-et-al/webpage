@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Mazin Hamad, Simone Nertinger, Robin Jeanne Kirschner, Luis F. C. Figueredo, Abdeldjallil Naceri, Sami Haddadin
 
+**Published in:** arXiv 2309.09936 (2023)
+
 **DOI:** [10.48550/ARXIV.2309.09936](https://doi.org/10.48550/ARXIV.2309.09936)
 <!-- **Code:** No entry in BibTeX-->
 

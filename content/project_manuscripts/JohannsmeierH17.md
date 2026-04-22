@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Lars Johannsmeier, Sami Haddadin
 
+**Published in:** IEEE Robotics Autom. Lett., vol. 2, no. 1 (2017)
+
 **DOI:** [10.1109/LRA.2016.2535907](https://doi.org/10.1109/LRA.2016.2535907)
 <!-- **Code:** No entry in BibTeX-->
 

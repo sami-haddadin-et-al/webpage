@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Xiao Chen, Lars Johannsmeier, Hamid Sadeghian, Erfan Shahriari, Martin Danneberg, Anselm Nicklas, Fan Wu, Gerhard P. Fettweis, Sami Haddadin
 
+**Published in:** IEEE/RSJ International Conference on Intelligent Robots and Systems, IROS 2022, Kyoto, Japan, October 23-27, 2022
+
 **DOI:** [10.1109/IROS47612.2022.9981833](https://doi.org/10.1109/IROS47612.2022.9981833)
 <!-- **Code:** No entry in BibTeX-->
 

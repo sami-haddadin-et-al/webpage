@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Joern Vogel, Sami Haddadin, John D. Simeral, Sergey D. Stavisky, Daniel Bacher, Leigh R. Hochberg, John P. Donoghue, Patrick van der Smagt
 
+**Published in:** Experimental Robotics - The 12th International Symposium on Experimental Robotics, ISER 2010, December 18-21, 2010, New Delhi and Agra, India
+
 **DOI:** [10.1007/978-3-642-28572-1\_9](https://doi.org/10.1007/978-3-642-28572-1\_9)
 <!-- **Code:** No entry in BibTeX-->
 

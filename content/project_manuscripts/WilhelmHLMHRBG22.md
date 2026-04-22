@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Nikolas Jakob Wilhelm, Sami Haddadin, Jan Josef Lang, Carina Micheler, Florian Hinterwimmer, Anselm Reiners, Rainer Burgkart, Claudio Glowalla
 
+**Published in:** Sensors, vol. 22, no. 13 (2022)
+
 **DOI:** [10.3390/S22134804](https://doi.org/10.3390/S22134804)
 <!-- **Code:** No entry in BibTeX-->
 

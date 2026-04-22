@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Sami Haddadin, Alin Albu-Schäffer, Gerd Hirzinger
 
+**Published in:** Robotics: Science and Systems III, June 27-30, 2007, Georgia Institute of Technology, Atlanta, Georgia, USA
+
 **DOI:** [10.15607/RSS.2007.III.028](https://doi.org/10.15607/RSS.2007.III.028)
 <!-- **Code:** No entry in BibTeX-->
 

@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Markus Grebenstein, Maxime Chalon, Werner Friedl, Sami Haddadin, Thomas Wimböck, Gerd Hirzinger, Roland Siegwart
 
+**Published in:** Int. J. Robotics Res., vol. 31, no. 13 (2012)
+
 **DOI:** [10.1177/0278364912459209](https://doi.org/10.1177/0278364912459209)
 <!-- **Code:** No entry in BibTeX-->
 

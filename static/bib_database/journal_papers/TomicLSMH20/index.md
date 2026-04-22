@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Teodor Tomic, Philipp Lutz, Korbinian Schmid, Andrew Mathers, Sami Haddadin
 
+**Published in:** Int. J. Robotics Res., vol. 39, no. 6 (2020)
+
 **DOI:** [10.1177/0278364920904788](https://doi.org/10.1177/0278364920904788)
 <!-- **Code:** No entry in BibTeX-->
 

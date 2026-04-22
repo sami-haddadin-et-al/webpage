@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Hugo Tadashi M. Kussaba, Abdalla Swikir, Fan Wu, Anastasija Demerdjieva, Gitta Kutyniok, Sami Haddadin
 
+**Published in:** arXiv 2306.06520 (2023)
+
 **DOI:** [10.48550/ARXIV.2306.06520](https://doi.org/10.48550/ARXIV.2306.06520)
 <!-- **Code:** No entry in BibTeX-->
 

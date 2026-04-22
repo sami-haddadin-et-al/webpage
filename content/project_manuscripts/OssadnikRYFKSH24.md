@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Dennis Ossadnik, Vasilije Rakcevic, Mehmet Can Yildirim, Edmundo Pozo Fortunic, Hugo T. M. Kussaba, Abdalla Swikir, Sami Haddadin
 
+**Published in:** IEEE International Conference on Robotics and Automation, ICRA 2024, Yokohama, Japan, May 13-17, 2024
+
 **DOI:** [10.1109/ICRA57147.2024.10610380](https://doi.org/10.1109/ICRA57147.2024.10610380)
 <!-- **Code:** No entry in BibTeX-->
 

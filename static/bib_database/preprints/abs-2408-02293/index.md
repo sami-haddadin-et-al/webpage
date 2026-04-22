@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Sonja Groß, Michael Ratzel, Edgar Welte, Diego Hidalgo-Carvajal, Lingyun Chen, Edmundo Pozo Fortunic, Amartya Ganguly, Abdalla Swikir, Sami Haddadin
 
+**Published in:** arXiv 2408.02293 (2024)
+
 **DOI:** [10.48550/ARXIV.2408.02293](https://doi.org/10.48550/ARXIV.2408.02293)
 <!-- **Code:** No entry in BibTeX-->
 

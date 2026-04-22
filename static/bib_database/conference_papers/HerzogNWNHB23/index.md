@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Olivia Herzog, Simone Nertinger, Katharina Wenzel, Abdeldjallil Naceri, Sami Haddadin, Klaus Bengler
 
+**Published in:** 32nd IEEE International Conference on Robot and Human Interactive Communication, RO-MAN 2023, Busan, Republic of Korea, August 28-31, 2023
+
 **DOI:** [10.1109/RO-MAN57019.2023.10309413](https://doi.org/10.1109/RO-MAN57019.2023.10309413)
 <!-- **Code:** No entry in BibTeX-->
 

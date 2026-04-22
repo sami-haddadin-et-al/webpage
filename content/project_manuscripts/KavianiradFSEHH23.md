@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Hossein Kavianirad, Moein Forouhar, Hamid Sadeghian, Satoshi Endo, Sami Haddadin, Sandra Hirche
 
+**Published in:** International Conference on Rehabilitation Robotics, ICORR 2023, Singapore, September 24-28, 2023
+
 **DOI:** [10.1109/ICORR58425.2023.10304764](https://doi.org/10.1109/ICORR58425.2023.10304764)
 <!-- **Code:** No entry in BibTeX-->
 

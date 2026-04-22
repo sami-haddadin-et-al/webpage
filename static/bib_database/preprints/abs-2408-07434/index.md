@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Christopher Herneth, Junnan Li, Muhammad Hilman Fatoni, Amartya Ganguly, Sami Haddadin
 
+**Published in:** arXiv 2408.07434 (2024)
+
 **DOI:** [10.48550/ARXIV.2408.07434](https://doi.org/10.48550/ARXIV.2408.07434)
 <!-- **Code:** No entry in BibTeX-->
 

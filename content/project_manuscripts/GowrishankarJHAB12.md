@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Ganesh Gowrishankar, Nathanaël Jarrassé, Sami Haddadin, Alin Albu-Schäffer, Etienne Burdet
 
+**Published in:** IEEE International Conference on Robotics and Automation, ICRA 2012, 14-18 May, 2012, St. Paul, Minnesota, USA
+
 **DOI:** [10.1109/ICRA.2012.6225057](https://doi.org/10.1109/ICRA.2012.6225057)
 <!-- **Code:** No entry in BibTeX-->
 

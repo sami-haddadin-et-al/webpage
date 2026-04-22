@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Christoph Borst, Christian Ott, Thomas Wimböck, Bernhard Brunner, Franziska Zacharias, Berthold Bäuml, Ulrich Hillenbrand, Sami Haddadin, Alin Albu-Schäffer, Gerd Hirzinger
 
+**Published in:** 2007 IEEE International Conference on Robotics and Automation, ICRA 2007, 10-14 April 2007, Roma, Italy
+
 **DOI:** [10.1109/ROBOT.2007.363886](https://doi.org/10.1109/ROBOT.2007.363886)
 <!-- **Code:** No entry in BibTeX-->
 

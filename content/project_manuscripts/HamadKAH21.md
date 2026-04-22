@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Mazin Hamad, Alexander Kurdas, Saeed Abdolshah, Sami Haddadin
 
+**Published in:** IEEE International Conference on Intelligence and Safety for Robotics, ISR 2021, Tokoname, Japan, March 4-6, 2021
+
 **DOI:** [10.1109/ISR50024.2021.9419569](https://doi.org/10.1109/ISR50024.2021.9419569)
 <!-- **Code:** No entry in BibTeX-->
 

@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Robin Jeanne Kirschner, Nico Mansfeld, Saeed Abdolshah, Sami Haddadin
 
+**Published in:** arXiv 2203.02706 (2022)
+
 **DOI:** [10.48550/ARXIV.2203.02706](https://doi.org/10.48550/ARXIV.2203.02706)
 <!-- **Code:** No entry in BibTeX-->
 

@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Borut Povse, Sami Haddadin, Rico Belder, Darko Koritnik, Tadej Bajd
 
+**Published in:** Robotica, vol. 34, no. 11 (2016)
+
 **DOI:** [10.1017/S0263574715000156](https://doi.org/10.1017/S0263574715000156)
 <!-- **Code:** No entry in BibTeX-->
 

@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Maximilian Ulmer, Elie Aljalbout, Sascha Schwarz, Sami Haddadin
 
+**Published in:** arXiv 2110.09904 (2021)
+
 <!-- **DOI:** DOI missing in BibTeX -->
 <!-- **Code:** No entry in BibTeX-->
 

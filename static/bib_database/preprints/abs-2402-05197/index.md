@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Jon Arrizabalaga, Lukas Pries, Riddhiman Laha, Runkang Li, Sami Haddadin, Markus Ryll
 
+**Published in:** arXiv 2402.05197 (2024)
+
 **DOI:** [10.48550/ARXIV.2402.05197](https://doi.org/10.48550/ARXIV.2402.05197)
 <!-- **Code:** No entry in BibTeX-->
 

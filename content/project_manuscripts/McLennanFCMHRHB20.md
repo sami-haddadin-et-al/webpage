@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Stuart McLennan, Amelia Fiske, Leo Anthony Celi, Ruth Müller, Jan Harder, Konstantin Ritt, Sami Haddadin, Alena Buyx
 
+**Published in:** Nat. Mach. Intell., vol. 2, no. 9 (2020)
+
 **DOI:** [10.1038/S42256-020-0214-1](https://doi.org/10.1038/S42256-020-0214-1)
 <!-- **Code:** No entry in BibTeX-->
 

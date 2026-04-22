@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Sami Haddadin
 
+**Published in:** Software Engineering 2017, Fachtagung des GI-Fachbereichs Softwaretechnik, 21.-24. Februar 2017, Hannover, Deutschland
+
 <!-- **DOI:** DOI missing in BibTeX -->
 <!-- **Code:** No entry in BibTeX-->
 

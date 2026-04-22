@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Kim K. Peper, Dinmukhamed Zardykhan, Marion Egger, Martina Steinböck, Friedemann Müller, Xavier Hildenbrand, Alexander Koenig, Elisabeth Rose Jensen, Sami Haddadin
 
+**Published in:** International Conference on Rehabilitation Robotics, ICORR 2022, Rotterdam, Netherlands, July 25-29, 2022
+
 **DOI:** [10.1109/ICORR55369.2022.9896495](https://doi.org/10.1109/ICORR55369.2022.9896495)
 <!-- **Code:** No entry in BibTeX-->
 

@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Nirnai Rao, Elie Aljalbout, Axel Sauer, Sami Haddadin
 
+**Published in:** arXiv 2010.13083 (2020)
+
 <!-- **DOI:** DOI missing in BibTeX -->
 <!-- **Code:** No entry in BibTeX-->
 

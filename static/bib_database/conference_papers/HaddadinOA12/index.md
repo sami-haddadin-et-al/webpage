@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Sami Haddadin, Mehmet Can Ozparpucu, Alin Albu-Schäffer
 
+**Published in:** Proceedings of the 51th IEEE Conference on Decision and Control, CDC 2012, December 10-13, 2012, Maui, HI, USA
+
 **DOI:** [10.1109/CDC.2012.6426032](https://doi.org/10.1109/CDC.2012.6426032)
 <!-- **Code:** No entry in BibTeX-->
 

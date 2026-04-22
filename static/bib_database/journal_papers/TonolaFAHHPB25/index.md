@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Cesare Tonola, Marco Faroni, Saeed Abdolshah, Mazin Hamad, Sami Haddadin, Nicola Pedrocchi, Manuel Beschi
 
+**Published in:** IEEE Trans Autom. Sci. Eng., vol. 22 (2025)
+
 **DOI:** [10.1109/TASE.2025.3607037](https://doi.org/10.1109/TASE.2025.3607037)
 <!-- **Code:** No entry in BibTeX-->
 

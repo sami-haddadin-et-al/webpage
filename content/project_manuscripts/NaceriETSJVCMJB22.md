@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Abdeldjallil Naceri, Jean Elsner, Mario Tröbinger, Hamid Sadeghian, Lars Johannsmeier, Florian Voigt, Xiao Chen, Daniela Macari, Christoph Jähne, Maximilian Berlet, Jonas Fuchtmann, Luis F. C. Figueredo, Hubertus Feußner, Dirk Wilhelm, Sami Haddadin
 
+**Published in:** IEEE Robotics Autom. Lett., vol. 7, no. 4 (2022)
+
 **DOI:** [10.1109/LRA.2022.3191563](https://doi.org/10.1109/LRA.2022.3191563)
 <!-- **Code:** No entry in BibTeX-->
 

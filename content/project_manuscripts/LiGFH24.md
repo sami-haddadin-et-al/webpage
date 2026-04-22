@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Junnan Li, Amartya Ganguly, Luis F. C. Figueredo, Sami Haddadin
 
+**Published in:** IEEE Robotics Autom. Lett., vol. 9, no. 3 (2024)
+
 **DOI:** [10.1109/LRA.2024.3360816](https://doi.org/10.1109/LRA.2024.3360816)
 <!-- **Code:** No entry in BibTeX-->
 

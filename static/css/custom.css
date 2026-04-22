@@ -184,38 +184,3 @@
   .awards-grid{ grid-template-columns: 1fr; }
 }
 
-/* ── Award video card ── */
-.award-video-card {
-  display: block;
-  width: 100%;
-  border: 1px solid rgba(0,0,0,.08);
-  border-radius: 10px;
-  background: rgba(255,255,255,.35);
-  cursor: default;
-  overflow: hidden;
-}
-
-.award-video-wrap {
-  width: 100%;
-  aspect-ratio: 16 / 9;
-}
-
-.award-video-wrap iframe {
-  display: block;
-  width: 100%;
-  height: 100%;
-  border: none;
-}
-
-.award-video-title {
-  display: block;
-  font-size: 0.8rem;
-  font-weight: 600;
-  line-height: 1.3;
-  padding: 0.55rem 0.75rem;
-}
-
-.darkmode .award-video-card {
-  border-color: rgba(255,255,255,.18);
-  background: rgba(255,255,255,.06);
-}

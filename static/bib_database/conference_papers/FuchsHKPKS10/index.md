@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Stefan Fuchs, Sami Haddadin, Maik Keller, Sven Parusel, Andreas Kolb, Michael Suppa
 
+**Published in:** 2010 IEEE/RSJ International Conference on Intelligent Robots and Systems, October 18-22, 2010, Taipei, Taiwan
+
 **DOI:** [10.1109/IROS.2010.5651046](https://doi.org/10.1109/IROS.2010.5651046)
 <!-- **Code:** No entry in BibTeX-->
 

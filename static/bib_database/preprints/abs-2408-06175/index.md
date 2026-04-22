@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Robin Jeanne Kirschner, Jinyu Yang, Edonis Elshani, Carina M. Micheler, Tobias Leibbrand, Dirk Müller, Claudio Glowalla, Nader Rajaei, Rainer Burgkart, Sami Haddadin
 
+**Published in:** arXiv 2408.06175 (2024)
+
 **DOI:** [10.48550/ARXIV.2408.06175](https://doi.org/10.48550/ARXIV.2408.06175)
 <!-- **Code:** No entry in BibTeX-->
 

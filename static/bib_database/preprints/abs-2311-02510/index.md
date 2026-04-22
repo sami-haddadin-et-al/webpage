@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Diego Hidalgo-Carvajal, Hanzhi Chen, Gemma Carolina Bettelani, Jaesug Jung, Melissa Zavaglia, Laura Busse, Abdeldjallil Naceri, Stefan Leutenegger, Sami Haddadin
 
+**Published in:** arXiv 2311.02510 (2023)
+
 **DOI:** [10.48550/ARXIV.2311.02510](https://doi.org/10.48550/ARXIV.2311.02510)
 <!-- **Code:** No entry in BibTeX-->
 

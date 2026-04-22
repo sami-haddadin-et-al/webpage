@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Jon Skerlj, Maximilian Braun, Sophia Witz, Svenja Breuer, Marieke Bak, Sebastian Scholz, Abdeldjallil Naceri, Ruth Müller, Sami Haddadin, Iris Eisenberger
 
+**Published in:** IEEE International Conference on Advanced Robotics and Its Social Impacts, ARSO 2023, Berlin, Germany, June 5-7, 2023
+
 **DOI:** [10.1109/ARSO56563.2023.10187414](https://doi.org/10.1109/ARSO56563.2023.10187414)
 <!-- **Code:** No entry in BibTeX-->
 

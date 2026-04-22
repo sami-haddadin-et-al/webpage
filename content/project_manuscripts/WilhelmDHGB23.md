@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Nikolas J. Wilhelm, Constantin von Deimling, Sami Haddadin, Claudio Glowalla, Rainer Burgkart
 
+**Published in:** Sensors, vol. 23, no. 17 (2023)
+
 **DOI:** [10.3390/S23177459](https://doi.org/10.3390/S23177459)
 <!-- **Code:** No entry in BibTeX-->
 

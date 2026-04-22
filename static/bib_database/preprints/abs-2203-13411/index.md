@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Arthur Bucker, Luis F. C. Figueredo, Sami Haddadin, Ashish Kapoor, Shuang Ma, Rogerio Bonatti
 
+**Published in:** arXiv 2203.13411 (2022)
+
 **DOI:** [10.48550/ARXIV.2203.13411](https://doi.org/10.48550/ARXIV.2203.13411)
 <!-- **Code:** No entry in BibTeX-->
 

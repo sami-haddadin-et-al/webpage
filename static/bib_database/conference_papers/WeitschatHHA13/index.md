@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Roman Weitschat, Sami Haddadin, Felix Huber, Alin Albu-Schäffer
 
+**Published in:** 2013 IEEE/RSJ International Conference on Intelligent Robots and Systems, IROS 2013, Tokyo, Japan, November 3-7, 2013
+
 **DOI:** [10.1109/IROS.2013.6697173](https://doi.org/10.1109/IROS.2013.6697173)
 <!-- **Code:** No entry in BibTeX-->
 

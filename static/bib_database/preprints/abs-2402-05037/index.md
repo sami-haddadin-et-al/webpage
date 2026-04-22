@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Ainoor Teimoorzadeh, Frederico Fernandes Afonso Silva, Luis F. C. Figueredo, Sami Haddadin
 
+**Published in:** arXiv 2402.05037 (2024)
+
 **DOI:** [10.48550/ARXIV.2402.05037](https://doi.org/10.48550/ARXIV.2402.05037)
 <!-- **Code:** No entry in BibTeX-->
 

@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Juan Heredia, Robin Jeanne Kirschner, Christian Schlette, Saeed Abdolshah, Sami Haddadin, Mikkel Baun Kjærgaard
 
+**Published in:** IROS (2023)
+
 **DOI:** [10.1109/IROS55552.2023.10341484](https://doi.org/10.1109/IROS55552.2023.10341484)
 <!-- **Code:** No entry in BibTeX-->
 

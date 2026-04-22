@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Sami Haddadin, Paolo Robuffo Giordano, Angelika Peer
 
+**Published in:** Int. J. Robotics Res., vol. 31, no. 13 (2012)
+
 **DOI:** [10.1177/0278364912464705](https://doi.org/10.1177/0278364912464705)
 <!-- **Code:** No entry in BibTeX-->
 

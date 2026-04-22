@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** David J. Braun, Florian Petit, Felix Huber, Sami Haddadin, Patrick van der Smagt, Alin Albu-Schäffer, Sethu Vijayakumar
 
+**Published in:** IEEE Trans. Robotics, vol. 29, no. 5 (2013)
+
 **DOI:** [10.1109/TRO.2013.2271099](https://doi.org/10.1109/TRO.2013.2271099)
 <!-- **Code:** No entry in BibTeX-->
 

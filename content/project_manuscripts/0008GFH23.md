@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Junnan Li, Amartya Ganguly, Luis F. C. Figueredo, Sami Haddadin
 
+**Published in:** Human-Friendly Robotics 2023 - HFR: 16th International Workshop on Human-Friendly Robotics, Munich, Germany, 20-21 September 2023
+
 **DOI:** [10.1007/978-3-031-55000-3\_14](https://doi.org/10.1007/978-3-031-55000-3\_14)
 <!-- **Code:** No entry in BibTeX-->
 

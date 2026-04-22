@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Tingli Hu, Johannes Kuehn, Sami Haddadin
 
+**Published in:** 7th IEEE International Conference on Biomedical Robotics and Biomechatronics, BioRob 2018, Enschede, The Netherlands, August 26-29, 2018
+
 **DOI:** [10.1109/BIOROB.2018.8487190](https://doi.org/10.1109/BIOROB.2018.8487190)
 <!-- **Code:** No entry in BibTeX-->
 

@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Simone Nertinger, Abdeldjallil Naceri, Sami Haddadin
 
+**Published in:** 32nd IEEE International Conference on Robot and Human Interactive Communication, RO-MAN 2023, Busan, Republic of Korea, August 28-31, 2023
+
 **DOI:** [10.1109/RO-MAN57019.2023.10309570](https://doi.org/10.1109/RO-MAN57019.2023.10309570)
 <!-- **Code:** No entry in BibTeX-->
 

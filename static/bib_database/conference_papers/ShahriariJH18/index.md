@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Erfan Shahriari, Lars Johannsmeier, Sami Haddadin
 
+**Published in:** 2018 Annual American Control Conference, ACC 2018, Milwaukee, WI, USA, June 27-29, 2018
+
 **DOI:** [10.23919/ACC.2018.8431718](https://doi.org/10.23919/ACC.2018.8431718)
 <!-- **Code:** No entry in BibTeX-->
 

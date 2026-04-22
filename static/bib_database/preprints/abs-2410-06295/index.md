@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Dasharadhan Mahalingam, Aditya Patankar, Riddhiman Laha, Srinivasan Lakshminarayanan, Sami Haddadin, Nilanjan Chakraborty
 
+**Published in:** arXiv 2410.06295 (2024)
+
 **DOI:** [10.48550/ARXIV.2410.06295](https://doi.org/10.48550/ARXIV.2410.06295)
 <!-- **Code:** No entry in BibTeX-->
 

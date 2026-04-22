@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Axel Sauer, Elie Aljalbout, Sami Haddadin
 
+**Published in:** arXiv 1907.12920 (2019)
+
 <!-- **DOI:** DOI missing in BibTeX -->
 <!-- **Code:** No entry in BibTeX-->
 

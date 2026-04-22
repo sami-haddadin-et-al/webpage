@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Riddhiman Laha, Ruiai Sun, Wenxi Wu, Dasharadhan Mahalingam, Nilanjan Chakraborty, Luis F. C. Figueredo, Sami Haddadin
 
+**Published in:** arXiv 2203.10649 (2022)
+
 **DOI:** [10.48550/ARXIV.2203.10649](https://doi.org/10.48550/ARXIV.2203.10649)
 <!-- **Code:** No entry in BibTeX-->
 

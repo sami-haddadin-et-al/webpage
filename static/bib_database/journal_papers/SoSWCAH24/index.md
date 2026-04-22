@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Peter So, Andriy Sarabakha, Fan Wu, Utku Culha, Fares J. Abu-Dakka, Sami Haddadin
 
+**Published in:** IEEE Robotics Autom. Mag., vol. 31, no. 4 (2024)
+
 **DOI:** [10.1109/MRA.2023.3336473](https://doi.org/10.1109/MRA.2023.3336473)
 <!-- **Code:** No entry in BibTeX-->
 

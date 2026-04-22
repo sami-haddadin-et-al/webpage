@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Erfan Shahriari, Kim K. Peper, Matej Hoffmann, Sami Haddadin
 
+**Published in:** arXiv 2412.18869 (2024)
+
 **DOI:** [10.48550/ARXIV.2412.18869](https://doi.org/10.48550/ARXIV.2412.18869)
 <!-- **Code:** No entry in BibTeX-->
 

@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Leilaalsadat Pezeshki, Hamid Sadeghian, Mehdi Keshmiri, Xiao Chen, Sami Haddadin
 
+**Published in:** IEEE Robotics Autom. Lett., vol. 8, no. 5 (2023)
+
 **DOI:** [10.1109/LRA.2023.3261750](https://doi.org/10.1109/LRA.2023.3261750)
 <!-- **Code:** No entry in BibTeX-->
 

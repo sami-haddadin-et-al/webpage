@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Sergi Molina Mellado, Anna Mannucci, Martin Magnusson, Daniel Adolfsson, Henrik Andreasson, Mazin Hamad, Saeed Abdolshah, Ravi Teja Chadalavada, Luigi Palmieri, Timm Linder, Chittaranjan Srinivas Swaminathan, Tomasz Piotr Kucner, Marc Hanheide, Manuel Fernández-Carmona, Grzegorz Cielniak, Tom Duckett, Federico Pecora, Simon Bokesand, Kai O. Arras, Sami Haddadin, Achim J. Lilienthal
 
+**Published in:** IEEE Robotics Autom. Mag., vol. 31, no. 3 (2024)
+
 **DOI:** [10.1109/MRA.2023.3296983](https://doi.org/10.1109/MRA.2023.3296983)
 <!-- **Code:** No entry in BibTeX-->
 

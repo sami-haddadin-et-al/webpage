@@ -11,6 +11,7 @@
       grid-template-columns: repeat(2, 1fr);
       gap: 1.75rem;
       margin-top: 1.5rem;
+      align-items: start;
     }
 
     @media (max-width: 700px) {
@@ -57,6 +58,118 @@
       border-color: rgba(255,255,255,.18);
       background: rgba(255,255,255,.06);
     }
+
+    .talk-thumb-wrap {
+      position: relative;
+      width: 100%;
+      padding-top: 56.25%;
+      background: #111;
+      overflow: hidden;
+    }
+
+    .talk-thumb-wrap img {
+      position: absolute;
+      top: 0; left: 0;
+      width: 100%; height: 100%;
+      object-fit: cover;
+    }
+
+    .talk-watch-btn {
+      display: inline-block;
+      margin-top: 0.5rem;
+      padding: 0.28rem 0.75rem;
+      font-size: 0.78rem;
+      font-weight: 600;
+      color: var(--fg);
+      background: transparent;
+      border: 1.5px solid var(--fg3);
+      border-radius: 4px;
+      text-decoration: none;
+      letter-spacing: 0.01em;
+      transition: border-color 0.15s, color 0.15s;
+    }
+
+    .talk-watch-btn:hover {
+      border-color: var(--fg);
+      color: var(--fg);
+    }
+
+    /* ── Selected Talks text section ── */
+    .talks-list-section {
+      margin-top: 3.5rem;
+    }
+
+    .talks-list-heading {
+      font-size: 1.2rem;
+      font-weight: 700;
+      margin: 0 0 1.5rem 0;
+      padding-bottom: 0.5rem;
+      border-bottom: 2px solid rgba(0,0,0,.1);
+    }
+
+    .darkmode .talks-list-heading {
+      border-bottom-color: rgba(255,255,255,.15);
+    }
+
+    .talks-year-group {
+      margin-bottom: 1.75rem;
+    }
+
+    .talks-year-label {
+      font-size: 0.8rem;
+      font-weight: 700;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: var(--fg3);
+      margin: 0 0 0.6rem 0;
+    }
+
+    .talks-year-entries {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+
+    .talks-year-entry {
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      gap: 1rem;
+      padding: 0.55rem 0;
+      border-bottom: 1px solid rgba(0,0,0,.06);
+    }
+
+    .darkmode .talks-year-entry {
+      border-bottom-color: rgba(255,255,255,.07);
+    }
+
+    .talks-entry-body {
+      flex: 1;
+      min-width: 0;
+    }
+
+    .talks-entry-title {
+      font-size: 0.88rem;
+      font-weight: 600;
+      margin: 0 0 0.15rem 0;
+    }
+
+    .talks-entry-meta {
+      font-size: 0.78rem;
+      color: var(--fg3);
+      margin: 0;
+    }
+
+    .talks-entry-type {
+      flex-shrink: 0;
+      font-size: 0.7rem;
+      font-weight: 600;
+      padding: 0.15rem 0.5rem;
+      border: 1.5px solid var(--fg3);
+      border-radius: 3px;
+      color: var(--fg3);
+      white-space: nowrap;
+    }
   </style>
 {{ end }}
 
@@ -81,8 +194,54 @@
           </p>
         </div>
       </div>
+      {{ else if .Params.video_url }}
+      {{ $videoURL := .Params.video_url }}
+      {{ $talkTitle := .Title }}
+      <div class="talk-card">
+        {{ with .Params.thumbnail }}
+        <div class="talk-thumb-wrap">
+          <a href="{{ $videoURL }}" target="_blank" rel="noopener" style="position:absolute;inset:0;display:block;">
+            <img src="{{ . }}" alt="{{ $talkTitle }}" style="width:100%;height:100%;object-fit:cover;">
+          </a>
+        </div>
+        {{ end }}
+        <div class="talk-info">
+          <p class="talk-title">{{ .Title }}</p>
+          <p class="talk-meta">
+            {{ with .Params.event }}{{ . }}{{ end }}{{ with .Params.location }} · {{ . }}{{ end }} · {{ .Date.Format "Jan 2006" }}
+          </p>
+          <a class="talk-watch-btn" href="{{ .Params.video_url }}" target="_blank" rel="noopener">Watch ↗</a>
+        </div>
+      </div>
       {{ end }}
     {{ end }}
   </div>
+
+  {{ $talks := site.Data.talks_text }}
+  {{ if $talks }}
+  <section class="talks-list-section">
+    <h2 class="talks-list-heading">Keynotes / Invited Talks / Panels</h2>
+    {{ $currentYear := 0 }}
+    {{ range $talks }}
+      {{ if ne .year $currentYear }}
+        {{ if ne $currentYear 0 }}</ul></div>{{ end }}
+        {{ $currentYear = .year }}
+        <div class="talks-year-group">
+          <p class="talks-year-label">{{ $currentYear }}</p>
+          <ul class="talks-year-entries">
+      {{ end }}
+        <li class="talks-year-entry">
+          <div class="talks-entry-body">
+            <p class="talks-entry-title">{{ .title }}</p>
+            <p class="talks-entry-meta">
+              {{ .event }}{{ with .location }}{{ if . }} · {{ . }}{{ end }}{{ end }}{{ with .month }} · {{ . }}{{ end }}
+            </p>
+          </div>
+          <span class="talks-entry-type">{{ .type }}</span>
+        </li>
+    {{ end }}
+    {{ if ne $currentYear 0 }}</ul></div>{{ end }}
+  </section>
+  {{ end }}
 </main>
 {{ end }}

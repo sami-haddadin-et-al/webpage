@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Alin Albu-Schäffer, Oliver Eiberger, Matthias Fuchs, Markus Grebenstein, Sami Haddadin, Christian Ott, Andreas Stemmer, Thomas Wimböck, Sebastian Wolf, Christoph Borst, Gerd Hirzinger
 
+**Published in:** Robotics Research - The 14th International Symposium, ISRR 2009, August 31 - September 3, 2009, Lucerne, Switzerland
+
 **DOI:** [10.1007/978-3-642-19457-3\_12](https://doi.org/10.1007/978-3-642-19457-3\_12)
 <!-- **Code:** No entry in BibTeX-->
 

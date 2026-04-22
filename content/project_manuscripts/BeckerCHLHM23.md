@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Marvin Becker, Philipp Caspers, Tom Hattendorf, Torsten Lilge, Sami Haddadin, Matthias Albrecht Müller
 
+**Published in:** IFAC-PapersOnLine, vol. 56, no. 2 (2023)
+
 **DOI:** [10.1016/j.ifacol.2023.10.1698](https://doi.org/10.1016/j.ifacol.2023.10.1698)
 <!-- **Code:** No entry in BibTeX-->
 

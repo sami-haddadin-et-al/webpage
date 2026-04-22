@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Erfan Shahriari, Seyed Ali Baradaran Birjandi, Sami Haddadin
 
+**Published in:** IEEE Robotics Autom. Lett., vol. 7, no. 2 (2022)
+
 **DOI:** [10.1109/LRA.2022.3142903](https://doi.org/10.1109/LRA.2022.3142903)
 <!-- **Code:** No entry in BibTeX-->
 

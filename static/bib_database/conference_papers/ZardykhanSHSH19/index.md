@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Dinmukhamed Zardykhan, Petr Svarný, Matej Hoffmann, Erfan Shahriari, Sami Haddadin
 
+**Published in:** 19th IEEE-RAS International Conference on Humanoid Robots, Humanoids 2019, Toronto, ON, Canada, October 15-17, 2019
+
 **DOI:** [10.1109/HUMANOIDS43949.2019.9035065](https://doi.org/10.1109/HUMANOIDS43949.2019.9035065)
 <!-- **Code:** No entry in BibTeX-->
 

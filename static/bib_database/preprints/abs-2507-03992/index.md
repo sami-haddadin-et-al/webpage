@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Shreenabh Agrawal, Hugo T. M. Kussaba, Lingyun Chen, Allen Emmanuel Binny, Abdalla Swikir, Pushpak Jagtap, Sami Haddadin
 
+**Published in:** arXiv 2507.03992 (2025)
+
 **DOI:** [10.48550/ARXIV.2507.03992](https://doi.org/10.48550/ARXIV.2507.03992)
 <!-- **Code:** No entry in BibTeX-->
 

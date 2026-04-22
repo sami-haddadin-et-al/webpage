@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Sonja Groß, Amartya Ganguly, Hendrik Dietz, Sami Haddadin
 
+**Published in:** arXiv 2310.16641 (2023)
+
 **DOI:** [10.48550/ARXIV.2310.16641](https://doi.org/10.48550/ARXIV.2310.16641)
 <!-- **Code:** No entry in BibTeX-->
 

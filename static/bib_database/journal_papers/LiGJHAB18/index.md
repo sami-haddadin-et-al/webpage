@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Yanan Li, Ganesh Gowrishankar, Nathanaël Jarrassé, Sami Haddadin, Alin Albu-Schäffer, Etienne Burdet
 
+**Published in:** IEEE Trans. Robotics, vol. 34, no. 5 (2018)
+
 **DOI:** [10.1109/TRO.2018.2830405](https://doi.org/10.1109/TRO.2018.2830405)
 <!-- **Code:** No entry in BibTeX-->
 

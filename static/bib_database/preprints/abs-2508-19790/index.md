@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Liding Zhang, Sicheng Wang, Kuanqi Cai, Zhenshan Bing, Fan Wu, Chaoqun Wang, Sami Haddadin, Alois Knoll
 
+**Published in:** arXiv 2508.19790 (2025)
+
 **DOI:** [10.48550/ARXIV.2508.19790](https://doi.org/10.48550/ARXIV.2508.19790)
 <!-- **Code:** No entry in BibTeX-->
 

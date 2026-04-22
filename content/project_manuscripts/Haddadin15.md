@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Sami Haddadin
 
+**Published in:** Formal Modeling and Verification of Cyber-Physical Systems, 1st International Summer School on Methods and Tools for the Design of Digital Systems, Bremen, Germany, September 2015
+
 **DOI:** [10.1007/978-3-658-09994-7\_9](https://doi.org/10.1007/978-3-658-09994-7\_9)
 <!-- **Code:** No entry in BibTeX-->
 

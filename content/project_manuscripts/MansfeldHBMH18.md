@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Nico Mansfeld, Mazin Hamad, Marvin Becker, Antonio Gonzales Marin, Sami Haddadin
 
+**Published in:** IEEE Robotics Autom. Lett., vol. 3, no. 3 (2018)
+
 **DOI:** [10.1109/LRA.2018.2801477](https://doi.org/10.1109/LRA.2018.2801477)
 <!-- **Code:** No entry in BibTeX-->
 

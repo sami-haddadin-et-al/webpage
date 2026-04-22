@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Huy Xuan Pham, Ilker Bozcan, Andriy Sarabakha, Sami Haddadin, Erdal Kayacan
 
+**Published in:** IEEE/RSJ International Conference on Intelligent Robots and Systems, IROS 2021, Prague, Czech Republic, September 27 - Oct. 1, 2021
+
 **DOI:** [10.1109/IROS51168.2021.9636207](https://doi.org/10.1109/IROS51168.2021.9636207)
 <!-- **Code:** No entry in BibTeX-->
 

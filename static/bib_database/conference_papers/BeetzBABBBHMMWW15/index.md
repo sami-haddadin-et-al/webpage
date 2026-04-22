@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Michael Beetz, Georg Bartels, Alin Albu-Schäffer, Ferenc Balint-Benczedi, Rico Belder, Daniel Beßler, Sami Haddadin, Alexis Maldonado, Nico Mansfeld, Thiemo Wiedemeyer, Roman Weitschat, Jan-Hendrik Worch
 
+**Published in:** 2015 IEEE/RSJ International Conference on Intelligent Robots and Systems, IROS 2015, Hamburg, Germany, September 28 - October 2, 2015
+
 **DOI:** [10.1109/IROS.2015.7354310](https://doi.org/10.1109/IROS.2015.7354310)
 <!-- **Code:** No entry in BibTeX-->
 

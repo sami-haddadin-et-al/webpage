@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Mihael Simonic, Rok Pahic, Timotej Gaspar, Saeed Abdolshah, Sami Haddadin, Manuel G. Catalano, Florentin Wörgötter, Ales Ude
 
+**Published in:** 20th International Conference on Advanced Robotics, ICAR 2021, Ljubljana, Slovenia, December 6-10, 2021
+
 **DOI:** [10.1109/ICAR53236.2021.9659378](https://doi.org/10.1109/ICAR53236.2021.9659378)
 <!-- **Code:** No entry in BibTeX-->
 

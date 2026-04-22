@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Johannes Kuehn, Sami Haddadin
 
+**Published in:** IEEE Robotics Autom. Lett., vol. 2, no. 1 (2017)
+
 **DOI:** [10.1109/LRA.2016.2536360](https://doi.org/10.1109/LRA.2016.2536360)
 <!-- **Code:** No entry in BibTeX-->
 

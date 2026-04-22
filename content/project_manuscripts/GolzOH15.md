@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Saskia Golz, Christian Osendorfer, Sami Haddadin
 
+**Published in:** IEEE International Conference on Robotics and Automation, ICRA 2015, Seattle, WA, USA, 26-30 May, 2015
+
 **DOI:** [10.1109/ICRA.2015.7139726](https://doi.org/10.1109/ICRA.2015.7139726)
 <!-- **Code:** No entry in BibTeX-->
 

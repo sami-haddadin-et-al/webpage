@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Knut B. Kaldestad, Sami Haddadin, Rico Belder, Geir Hovland, David A. Anisi
 
+**Published in:** 2014 IEEE International Conference on Robotics and Automation, ICRA 2014, Hong Kong, China, May 31 - June 7, 2014
+
 **DOI:** [10.1109/ICRA.2014.6907326](https://doi.org/10.1109/ICRA.2014.6907326)
 <!-- **Code:** No entry in BibTeX-->
 

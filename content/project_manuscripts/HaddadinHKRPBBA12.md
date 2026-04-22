@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Sami Haddadin, Simon Haddadin, Augusto Khoury, Tim Rokahr, Sven Parusel, Rainer Burgkart, Antonio Bicchi, Alin Albu-Schäffer
 
+**Published in:** Int. J. Robotics Res., vol. 31, no. 13 (2012)
+
 **DOI:** [10.1177/0278364912462256](https://doi.org/10.1177/0278364912462256)
 <!-- **Code:** No entry in BibTeX-->
 

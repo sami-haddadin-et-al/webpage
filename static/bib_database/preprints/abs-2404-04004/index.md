@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Robin Jeanne Kirschner, Carina Micheler, Yangcan Zhou, Sebastian Siegner, Mazin Hamad, Claudio Glowalla, Jan Neumann, Nader Rajaei, Rainer Burgkart, Sami Haddadin
 
+**Published in:** arXiv 2404.04004 (2024)
+
 **DOI:** [10.48550/ARXIV.2404.04004](https://doi.org/10.48550/ARXIV.2404.04004)
 <!-- **Code:** No entry in BibTeX-->
 

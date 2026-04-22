@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Henning Zwirnmann, Dennis Knobbe, Sami Haddadin
 
+**Published in:** IFAC-PapersOnLine, vol. 56, no. 2 (2023)
+
 **DOI:** [10.1016/j.ifacol.2023.10.862](https://doi.org/10.1016/j.ifacol.2023.10.862)
 <!-- **Code:** No entry in BibTeX-->
 

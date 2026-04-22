@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Moritz Eckhoff, Dennis Knobbe, Henning Zwirnmann, Abdalla Swikir, Sami Haddadin
 
+**Published in:** arXiv 2309.06873 (2023)
+
 **DOI:** [10.48550/ARXIV.2309.06873](https://doi.org/10.48550/ARXIV.2309.06873)
 <!-- **Code:** No entry in BibTeX-->
 

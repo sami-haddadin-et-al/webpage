@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Sami Haddadin, Erfan Shahriari
 
+**Published in:** Int. J. Robotics Res., vol. 43, no. 13 (2024)
+
 **DOI:** [10.1177/02783649241249194](https://doi.org/10.1177/02783649241249194)
 <!-- **Code:** No entry in BibTeX-->
 

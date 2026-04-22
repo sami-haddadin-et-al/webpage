@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Dennis Ossadnik, Mehmet Can Yildirim, Fan Wu, Abdalla Swikir, Hugo T. M. Kussaba, Saeed Abdolshah, Sami Haddadin
 
+**Published in:** arXiv 2212.14741 (2022)
+
 **DOI:** [10.48550/ARXIV.2212.14741](https://doi.org/10.48550/ARXIV.2212.14741)
 <!-- **Code:** No entry in BibTeX-->
 

@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Nikolas J. Wilhelm, Claudio E. von Schacky, Felix J. Lindner, Matthias J. Feucht, Yannick Ehmann, Jonas Pogorzelski, Sami Haddadin, Jan Neumann, Florian Hinterwimmer, Rüdiger von Eisenhart-Rothe, Matthias Jung, Maximilian F. Russe, Kaywan Izadpanah, Sebastian Siebenlist, Rainer Burgkart, Marco-Christopher Rupp
 
+**Published in:** Artif. Intell. Medicine, vol. 150 (2024)
+
 **DOI:** [10.1016/J.ARTMED.2024.102843](https://doi.org/10.1016/J.ARTMED.2024.102843)
 <!-- **Code:** No entry in BibTeX-->
 

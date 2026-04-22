@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Hugo Tadashi M. Kussaba, Abdalla Swikir, Fan Wu, Anastasija Demerdjieva, Gitta Kutyniok, Sami Haddadin
 
+**Published in:** IFAC-PapersOnLine, vol. 56, no. 2 (2023)
+
 **DOI:** [10.1016/j.ifacol.2023.10.1242](https://doi.org/10.1016/j.ifacol.2023.10.1242)
 <!-- **Code:** No entry in BibTeX-->
 

@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Junewhee Ahn, Jaesug Jung, Yisoo Lee, Hokyun Lee, Sami Haddadin, Jaeheung Park
 
+**Published in:** arXiv 2409.10903 (2024)
+
 **DOI:** [10.48550/ARXIV.2409.10903](https://doi.org/10.48550/ARXIV.2409.10903)
 <!-- **Code:** No entry in BibTeX-->
 

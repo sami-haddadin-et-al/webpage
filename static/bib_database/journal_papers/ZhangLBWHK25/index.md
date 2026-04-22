@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Liding Zhang, Yao Ling, Zhenshan Bing, Fan Wu, Sami Haddadin, Alois Knoll
 
+**Published in:** IEEE Robotics Autom. Lett., vol. 10, no. 6 (2025)
+
 **DOI:** [10.1109/LRA.2025.3562369](https://doi.org/10.1109/LRA.2025.3562369)
 <!-- **Code:** No entry in BibTeX-->
 

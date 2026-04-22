@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Anran Zhang, Kübra Karacan, Hamid Sadeghian, Yansong Wu, Fan Wu, Sami Haddadin
 
+**Published in:** arXiv 2408.12285 (2024)
+
 **DOI:** [10.48550/ARXIV.2408.12285](https://doi.org/10.48550/ARXIV.2408.12285)
 <!-- **Code:** No entry in BibTeX-->
 

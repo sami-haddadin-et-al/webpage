@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Lukas Cha, Sonja Groß, Shuai Mao, Tim Braun, Sami Haddadin, Liang He
 
+**Published in:** arXiv 2502.18363 (2025)
+
 **DOI:** [10.48550/ARXIV.2502.18363](https://doi.org/10.48550/ARXIV.2502.18363)
 <!-- **Code:** No entry in BibTeX-->
 

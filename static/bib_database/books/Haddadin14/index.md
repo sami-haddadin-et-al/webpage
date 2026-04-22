@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Sami Haddadin
 
+**Published in:** Springer Tracts in Advanced Robotics, vol. 90 (2014)
+
 **DOI:** [10.1007/978-3-642-40308-8](https://doi.org/10.1007/978-3-642-40308-8)
 <!-- **Code:** No entry in BibTeX-->
 

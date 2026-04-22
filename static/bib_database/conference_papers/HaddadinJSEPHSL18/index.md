@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Sami Haddadin, Lars Johannsmeier, Johannes Schmid, Tobias Ende, Sven Parusel, Simon Haddadin, Moritz Schappler, Torsten Lilge, Marvin Becker
 
+**Published in:** Robotics in Education - Methods and Applications for Teaching and Learning, Proceedings of the 9th RiE 2018, Qawra, St. Paul's Bay, Malta, April 18-20, 2018
+
 **DOI:** [10.1007/978-3-319-97085-1\_1](https://doi.org/10.1007/978-3-319-97085-1\_1)
 <!-- **Code:** No entry in BibTeX-->
 

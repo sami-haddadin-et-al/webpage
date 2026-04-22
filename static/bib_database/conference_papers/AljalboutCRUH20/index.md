@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Elie Aljalbout, Ji Chen, Konstantin Ritt, Maximilian Ulmer, Sami Haddadin
 
+**Published in:** 4th Conference on Robot Learning, CoRL 2020, 16-18 November 2020, Virtual Event / Cambridge, MA, USA
+
 <!-- **DOI:** DOI missing in BibTeX -->
 <!-- **Code:** No entry in BibTeX-->
 

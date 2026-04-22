@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Sami Haddadin, Kai Krieger, Alin Albu-Schäffer
 
+**Published in:** 50th IEEE Conference on Decision and Control and European Control Conference, 11th European Control Conference, CDC/ECC 2011, Orlando, FL, USA, December 12-15, 2011
+
 **DOI:** [10.1109/CDC.2011.6161022](https://doi.org/10.1109/CDC.2011.6161022)
 <!-- **Code:** No entry in BibTeX-->
 

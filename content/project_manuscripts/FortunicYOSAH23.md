@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Edmundo Pozo Fortunic, Mehmet Can Yildirim, Dennis Ossadnik, Abdalla Swikir, Saeed Abdolshah, Sami Haddadin
 
+**Published in:** IEEE Robotics Autom. Lett., vol. 8, no. 12 (2023)
+
 **DOI:** [10.1109/LRA.2023.3325782](https://doi.org/10.1109/LRA.2023.3325782)
 <!-- **Code:** No entry in BibTeX-->
 

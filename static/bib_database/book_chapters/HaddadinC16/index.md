@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Sami Haddadin, Elizabeth A. Croft
 
+**Published in:** Springer Handbook of Robotics (2016)
+
 **DOI:** [10.1007/978-3-319-32552-1\_69](https://doi.org/10.1007/978-3-319-32552-1\_69)
 <!-- **Code:** No entry in BibTeX-->
 

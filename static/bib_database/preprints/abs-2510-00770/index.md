@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Tianle Ni, Xiao Chen, Hamid Sadeghian, Sami Haddadin
 
+**Published in:** arXiv 2510.00770 (2025)
+
 **DOI:** [10.48550/ARXIV.2510.00770](https://doi.org/10.48550/ARXIV.2510.00770)
 <!-- **Code:** No entry in BibTeX-->
 

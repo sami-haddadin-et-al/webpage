@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Robin Jeanne Kirschner, Henning Mayer, Lisa Burr, Nico Mansfeld, Saeed Abdolshah, Sami Haddadin
 
+**Published in:** arXiv 2109.07201 (2021)
+
 <!-- **DOI:** DOI missing in BibTeX -->
 <!-- **Code:** No entry in BibTeX-->
 

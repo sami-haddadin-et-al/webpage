@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Lukas Cha, Sonja Groß, Shuai Mao, Tim Braun, Sami Haddadin, Liang He
 
+**Published in:** 8th IEEE International Conference on Soft Robotics, RoboSoft 2025, Lausanne, Switzerland, April 22-26, 2025
+
 **DOI:** [10.1109/ROBOSOFT63089.2025.11020898](https://doi.org/10.1109/ROBOSOFT63089.2025.11020898)
 <!-- **Code:** No entry in BibTeX-->
 

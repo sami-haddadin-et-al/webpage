@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Sami Haddadin
 
+**Published in:** IEEE Robotics Autom. Mag., vol. 31, no. 4 (2024)
+
 **DOI:** [10.1109/MRA.2024.3451788](https://doi.org/10.1109/MRA.2024.3451788)
 <!-- **Code:** No entry in BibTeX-->
 

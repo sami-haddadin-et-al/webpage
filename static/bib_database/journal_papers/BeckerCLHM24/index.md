@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Marvin Becker, Philipp Caspers, Torsten Lilge, Sami Haddadin, Matthias Albrecht Müller
 
+**Published in:** Frontiers Robotics AI, vol. 11 (2024)
+
 **DOI:** [10.3389/FROBT.2024.1447351](https://doi.org/10.3389/FROBT.2024.1447351)
 <!-- **Code:** No entry in BibTeX-->
 

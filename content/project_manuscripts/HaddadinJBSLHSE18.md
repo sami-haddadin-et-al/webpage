@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Sami Haddadin, Lars Johannsmeier, Marvin Becker, Moritz Schappler, Torsten Lilge, Simon Haddadin, Johannes Schmid, Tobias Ende, Sven Parusel
 
+**Published in:** Companion of the 2018 ACM/IEEE International Conference on Human-Robot Interaction, HRI 2018, Chicago, IL, USA, March 05-08, 2018
+
 **DOI:** [10.1145/3173386.3177534](https://doi.org/10.1145/3173386.3177534)
 <!-- **Code:** No entry in BibTeX-->
 

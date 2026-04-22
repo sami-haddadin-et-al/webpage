@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Mazin Hamad, Jesus Gutierrez-Moreno, Hugo T. M. Kussaba, Nico Mansfeld, Saeed Abdolshah, Abdalla Swikir, Wolfram Burgard, Sami Haddadin
 
+**Published in:** IFAC-PapersOnLine, vol. 56, no. 2 (2023)
+
 **DOI:** [10.1016/j.ifacol.2023.10.711](https://doi.org/10.1016/j.ifacol.2023.10.711)
 <!-- **Code:** No entry in BibTeX-->
 

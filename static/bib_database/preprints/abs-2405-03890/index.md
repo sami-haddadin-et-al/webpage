@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Alexander Moortgat-Pick, Anna Adamczyk, Daniel A Duecker, Sami Haddadin
 
+**Published in:** arXiv 2405.03890 (2024)
+
 **DOI:** [10.48550/ARXIV.2405.03890](https://doi.org/10.48550/ARXIV.2405.03890)
 <!-- **Code:** No entry in BibTeX-->
 

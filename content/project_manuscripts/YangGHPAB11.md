@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Chenguang Yang, Ganesh Gowrishankar, Sami Haddadin, Sven Parusel, Alin Albu-Schäffer, Etienne Burdet
 
+**Published in:** IEEE Trans. Robotics, vol. 27, no. 5 (2011)
+
 **DOI:** [10.1109/TRO.2011.2158251](https://doi.org/10.1109/TRO.2011.2158251)
 <!-- **Code:** No entry in BibTeX-->
 

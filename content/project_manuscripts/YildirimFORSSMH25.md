@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Mehmet Can Yildirim, Edmundo Pozo Fortunic, Dennis Ossadnik, Vasilije Rakcevic, Kangwagye Samuel, Abdalla Swikir, Valentin Le Mesle, Sami Haddadin
 
+**Published in:** 24th IEEE-RAS International Conference on Humanoid Robots, Humanoids 2025, Seoul, Republic of Korea, September 30 - October 2, 2025
+
 **DOI:** [10.1109/HUMANOIDS65713.2025.11203116](https://doi.org/10.1109/HUMANOIDS65713.2025.11203116)
 <!-- **Code:** No entry in BibTeX-->
 

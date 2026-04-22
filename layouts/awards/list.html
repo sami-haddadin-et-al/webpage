@@ -21,6 +21,106 @@
       padding-left: 2vw !important;
       padding-right: 2vw !important;
     }
+
+    /* ── Award video card (inlined to bypass custom.css caching) ── */
+    .award-video-card {
+      display: block;
+      width: 100%;
+      border: 1px solid rgba(0,0,0,.08);
+      border-radius: 10px;
+      background: rgba(255,255,255,.35);
+      cursor: default;
+      overflow: hidden;
+    }
+    .award-video-wrap {
+      width: 100%;
+      aspect-ratio: 16 / 9;
+    }
+    .award-video-wrap iframe {
+      display: block;
+      width: 100%;
+      height: 100%;
+      border: none;
+    }
+    .award-video-title {
+      display: block;
+      font-size: 0.8rem;
+      font-weight: 600;
+      line-height: 1.3;
+      padding: 0.55rem 0.75rem;
+    }
+    .darkmode .award-video-card {
+      border-color: rgba(255,255,255,.18);
+      background: rgba(255,255,255,.06);
+    }
+
+    /* ── Text-only award entry ── */
+    .milestone-text-only {
+      display: block;
+      font-weight: 600;
+      font-size: 0.9rem;
+      line-height: 1.4;
+      padding: 0.5rem 0.1rem;
+    }
+
+    /* ── Spacing between entries ── */
+    .awards-page .milestone-li {
+      margin-bottom: 1.25rem;
+    }
+    .awards-page .milestone-li:last-child {
+      margin-bottom: 0;
+    }
+
+    /* ── Unified award card (image + PDF) ── */
+    .award-card {
+      display: block;
+      width: 100%;
+      border: 1px solid rgba(0,0,0,.08);
+      border-radius: 10px;
+      overflow: hidden;
+      color: inherit;
+      text-decoration: none;
+    }
+    .award-card-title {
+      display: block;
+      font-size: 0.78rem;
+      font-weight: 700;
+      line-height: 1.35;
+      letter-spacing: 0.01em;
+      padding: 0.6rem 0.85rem;
+      background: rgba(0,0,0,.04);
+      border-bottom: 1px solid rgba(0,0,0,.07);
+      text-align: center;
+    }
+    .award-card img {
+      display: block;
+      width: 100%;
+      height: auto;
+      object-fit: cover;
+    }
+    .darkmode .award-card {
+      border-color: rgba(255,255,255,.18);
+    }
+    .darkmode .award-card-title {
+      background: rgba(255,255,255,.07);
+      border-bottom-color: rgba(255,255,255,.12);
+    }
+
+    /* ── Award PDF embed ── */
+    .award-pdf-wrap {
+      width: 100%;
+      aspect-ratio: 8.5 / 11; /* default portrait; JS overrides with real page ratio */
+      overflow: hidden;
+      position: relative;
+      transition: aspect-ratio 0.2s ease;
+    }
+    .award-pdf-wrap iframe {
+      position: absolute;
+      top: 0; left: 0;
+      width: 100%;
+      height: 300%; /* forces FitH — PDF scales to width, not height */
+      border: none;
+    }
   </style>
 {{ end }}
 
@@ -41,4 +141,41 @@
   </div>
 
 </main>
+
+<script>
+(function () {
+  const PDFJS_VERSION = '3.11.174';
+  const PDFJS_CDN    = `https://cdnjs.cloudflare.com/ajax/libs/pdf.js/${PDFJS_VERSION}`;
+
+  function adaptPdfRatios() {
+    document.querySelectorAll('.award-pdf-wrap').forEach(function (wrap) {
+      const iframe = wrap.querySelector('iframe');
+      if (!iframe) return;
+      const pdfUrl = iframe.src.split('#')[0];
+
+      pdfjsLib.getDocument(pdfUrl).promise
+        .then(pdf => pdf.getPage(1))
+        .then(page => {
+          const vp = page.getViewport({ scale: 1 });
+          // Set container to exact page proportions so no black gap appears
+          wrap.style.aspectRatio = `${vp.width} / ${vp.height}`;
+        })
+        .catch(err => console.warn('PDF.js ratio detection failed for', pdfUrl, err));
+    });
+  }
+
+  // Load PDF.js worker + lib from CDN, then run
+  const workerScript = document.createElement('script');
+  workerScript.src = `${PDFJS_CDN}/pdf.worker.min.js`;
+  document.head.appendChild(workerScript);
+
+  const libScript = document.createElement('script');
+  libScript.src = `${PDFJS_CDN}/pdf.min.js`;
+  libScript.onload = function () {
+    pdfjsLib.GlobalWorkerOptions.workerSrc = `${PDFJS_CDN}/pdf.worker.min.js`;
+    adaptPdfRatios();
+  };
+  document.head.appendChild(libScript);
+})();
+</script>
 {{ end }}

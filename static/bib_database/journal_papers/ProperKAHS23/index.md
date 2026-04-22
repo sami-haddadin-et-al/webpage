@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Benn Proper, Alexander Kurdas, Saeed Abdolshah, Sami Haddadin, Alessandro Saccon
 
+**Published in:** IEEE Robotics Autom. Lett., vol. 8, no. 8 (2023)
+
 **DOI:** [10.1109/LRA.2023.3284371](https://doi.org/10.1109/LRA.2023.3284371)
 <!-- **Code:** No entry in BibTeX-->
 

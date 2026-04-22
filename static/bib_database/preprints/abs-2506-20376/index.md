@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Lingyun Chen, Xinrui Zhao, Marcos P. S. Campanha, Alexander Wegener, Abdeldjallil Naceri, Abdalla Swikir, Sami Haddadin
 
+**Published in:** arXiv 2506.20376 (2025)
+
 **DOI:** [10.48550/ARXIV.2506.20376](https://doi.org/10.48550/ARXIV.2506.20376)
 <!-- **Code:** No entry in BibTeX-->
 

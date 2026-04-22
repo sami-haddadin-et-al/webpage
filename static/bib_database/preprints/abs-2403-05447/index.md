@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Zheng Shen, Matteo Saveriano, Fares J. Abu-Dakka, Sami Haddadin
 
+**Published in:** arXiv 2403.05447 (2024)
+
 **DOI:** [10.48550/ARXIV.2403.05447](https://doi.org/10.48550/ARXIV.2403.05447)
 <!-- **Code:** No entry in BibTeX-->
 

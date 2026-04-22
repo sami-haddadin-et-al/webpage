@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Sami Haddadin, Lars Johannsmeier, Fernando Diaz Ledezma
 
+**Published in:** Proc. IEEE, vol. 107, no. 2 (2019)
+
 **DOI:** [10.1109/JPROC.2018.2879870](https://doi.org/10.1109/JPROC.2018.2879870)
 <!-- **Code:** No entry in BibTeX-->
 

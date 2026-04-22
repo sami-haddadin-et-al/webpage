@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Diego Hidalgo-Carvajal, Christopher Herneth, Abdeldjallil Naceri, Sami Haddadin
 
+**Published in:** IEEE Robotics Autom. Lett., vol. 7, no. 4 (2022)
+
 **DOI:** [10.1109/LRA.2022.3192649](https://doi.org/10.1109/LRA.2022.3192649)
 <!-- **Code:** No entry in BibTeX-->
 

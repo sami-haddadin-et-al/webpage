@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Cesare Tonola, Marco Faroni, Saeed Abdolshah, Mazin Hamad, Sami Haddadin, Nicola Pedrocchi, Manuel Beschi
 
+**Published in:** arXiv 2503.07192 (2025)
+
 **DOI:** [10.48550/ARXIV.2503.07192](https://doi.org/10.48550/ARXIV.2503.07192)
 <!-- **Code:** No entry in BibTeX-->
 

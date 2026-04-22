@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Nico Mansfeld, Christian Ott, Sami Haddadin
 
+**Published in:** 2016 American Control Conference, ACC 2016, Boston, MA, USA, July 6-8, 2016
+
 **DOI:** [10.1109/ACC.2016.7526730](https://doi.org/10.1109/ACC.2016.7526730)
 <!-- **Code:** No entry in BibTeX-->
 

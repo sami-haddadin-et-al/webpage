@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Felix Huber, Konstantin Kondak, Kai Krieger, Dominik Sommer, Marc Schwarzbach, Maximilian Laiacker, Ingo Kossyk, Sven Parusel, Sami Haddadin, Alin Albu-Schäffer
 
+**Published in:** 2013 IEEE/RSJ International Conference on Intelligent Robots and Systems, IROS 2013, Tokyo, Japan, November 3-7, 2013
+
 **DOI:** [10.1109/IROS.2013.6696848](https://doi.org/10.1109/IROS.2013.6696848)
 <!-- **Code:** No entry in BibTeX-->
 

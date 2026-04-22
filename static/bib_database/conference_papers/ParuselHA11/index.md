@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Sven Parusel, Sami Haddadin, Alin Albu-Schäffer
 
+**Published in:** IEEE International Conference on Robotics and Automation, ICRA 2011, Shanghai, China, 9-13 May 2011
+
 **DOI:** [10.1109/ICRA.2011.5980549](https://doi.org/10.1109/ICRA.2011.5980549)
 <!-- **Code:** No entry in BibTeX-->
 

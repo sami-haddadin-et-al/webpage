@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Sami Haddadin, Simon Haddadin, Augusto Khoury, Tim Rokahr, Sven Parusel, Rainer Burgkart, Antonio Bicchi, Alin Albu-Schäffer
 
+**Published in:** 2012 IEEE/RSJ International Conference on Intelligent Robots and Systems, IROS 2012, Vilamoura, Algarve, Portugal, October 7-12, 2012
+
 **DOI:** [10.1109/IROS.2012.6386163](https://doi.org/10.1109/IROS.2012.6386163)
 <!-- **Code:** No entry in BibTeX-->
 

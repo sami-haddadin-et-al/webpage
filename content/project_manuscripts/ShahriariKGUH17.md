@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Erfan Shahriari, Aljaz Kramberger, Andrej Gams, Ales Ude, Sami Haddadin
 
+**Published in:** 17th IEEE-RAS International Conference on Humanoid Robotics, Humanoids 2017, Birmingham, United Kingdom, November 15-17, 2017
+
 **DOI:** [10.1109/HUMANOIDS.2017.8239548](https://doi.org/10.1109/HUMANOIDS.2017.8239548)
 <!-- **Code:** No entry in BibTeX-->
 

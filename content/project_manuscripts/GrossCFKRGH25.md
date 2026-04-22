@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Sonja Groß, Lingyun Chen, Edmundo Pozo Fortunić, Manuel Krummschmidt, Johannes Ringwald, Amartya Ganguly, and Sami Haddadin
 
+**Published in:** IEEE Sensors Journal, vol. 25, no. 20 (2025)
+
 **DOI:** [10.1109/JSEN.2025.3606565](https://doi.org/10.1109/JSEN.2025.3606565)
 
 _No images available._
@@ -42,4 +44,4 @@ If you want to cite this work, you can use the following BibTeX file:
   pages={37802-37809},
   keywords={Sensors;Robots;Magnetic sensors;Force;Three-dimensional printing;Prototypes;Tactile sensors;Temperature sensors;Sensor fusion;Integrated circuits;Barometer;comparison;magnetic;piezoelectric;piezoresistive;robotic grasping;sensor fusion;tactile sensors},
   doi={10.1109/JSEN.2025.3606565}
-}
+}```

@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Florian Voigt, Abdeldjallil Naceri, Sami Haddadin
 
+**Published in:** IEEE Trans. Robotics, vol. 41 (2025)
+
 **DOI:** [10.1109/TRO.2025.3576950](https://doi.org/10.1109/TRO.2025.3576950)
 <!-- **Code:** No entry in BibTeX-->
 

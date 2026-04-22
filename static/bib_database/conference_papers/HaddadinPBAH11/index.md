@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Sami Haddadin, Sven Parusel, Rico Belder, Alin Albu-Schäffer, Gerd Hirzinger
 
+**Published in:** Advanced Robotics and its Social Impacts, ARSO 2011, Menlo Park, CA, USA, October 2-4, 2011
+
 **DOI:** [10.1109/ARSO.2011.6301962](https://doi.org/10.1109/ARSO.2011.6301962)
 <!-- **Code:** No entry in BibTeX-->
 

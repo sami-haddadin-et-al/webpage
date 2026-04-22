@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Sami Haddadin, Felix Huber, Kai Krieger, Roman Weitschat, Alin Albu-Schäffer, Sebastian Wolf, Werner Friedl, Markus Grebenstein, Florian Petit, Jens Reinecke, Roberto Lampariello
 
+**Published in:** 2012 IEEE/RSJ International Conference on Intelligent Robots and Systems, IROS 2012, Vilamoura, Algarve, Portugal, October 7-12, 2012
+
 **DOI:** [10.1109/IROS.2012.6386289](https://doi.org/10.1109/IROS.2012.6386289)
 <!-- **Code:** No entry in BibTeX-->
 

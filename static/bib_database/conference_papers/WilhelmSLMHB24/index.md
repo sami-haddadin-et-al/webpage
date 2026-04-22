@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Nikolas J. Wilhelm, Victor Schaack, Annick Leisching, Carina Micheler, Sami Haddadin, Rainer Burgkart
 
+**Published in:** IEEE/RSJ International Conference on Intelligent Robots and Systems, IROS 2024, Abu Dhabi, United Arab Emirates, October 14-18, 2024
+
 **DOI:** [10.1109/IROS58592.2024.10802093](https://doi.org/10.1109/IROS58592.2024.10802093)
 <!-- **Code:** No entry in BibTeX-->
 

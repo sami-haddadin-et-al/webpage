@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Yu Li, Hamid Sadeghian, Zewen Yang, Valentin Le Mesle, Sami Haddadin
 
+**Published in:** arXiv 2509.14075 (2025)
+
 **DOI:** [10.48550/ARXIV.2509.14075](https://doi.org/10.48550/ARXIV.2509.14075)
 <!-- **Code:** No entry in BibTeX-->
 

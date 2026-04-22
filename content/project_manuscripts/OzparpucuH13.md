@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Mehmet Can Ozparpucu, Sami Haddadin
 
+**Published in:** 2013 IEEE/RSJ International Conference on Intelligent Robots and Systems, IROS 2013, Tokyo, Japan, November 3-7, 2013
+
 **DOI:** [10.1109/IROS.2013.6696786](https://doi.org/10.1109/IROS.2013.6696786)
 <!-- **Code:** No entry in BibTeX-->
 

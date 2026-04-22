@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Fernando Diaz Ledezma, Sami Haddadin
 
+**Published in:** Sci. Robotics, vol. 8, no. 85 (2023)
+
 **DOI:** [10.1126/SCIROBOTICS.ADH0972](https://doi.org/10.1126/SCIROBOTICS.ADH0972)
 <!-- **Code:** No entry in BibTeX-->
 

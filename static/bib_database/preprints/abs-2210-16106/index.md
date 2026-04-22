@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Marvin Becker, Johannes Köhler, Sami Haddadin, Matthias A. Müller
 
+**Published in:** arXiv 2210.16106 (2022)
+
 **DOI:** [10.48550/ARXIV.2210.16106](https://doi.org/10.48550/ARXIV.2210.16106)
 <!-- **Code:** No entry in BibTeX-->
 

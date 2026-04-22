@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Carlos Magno C. O. Valle, Alexander Kurdas, Edmundo Pozo Fortunic, Saeed Abdolshah, Sami Haddadin
 
+**Published in:** IEEE/RSJ International Conference on Intelligent Robots and Systems, IROS 2022, Kyoto, Japan, October 23-27, 2022
+
 **DOI:** [10.1109/IROS47612.2022.9981139](https://doi.org/10.1109/IROS47612.2022.9981139)
 <!-- **Code:** No entry in BibTeX-->
 

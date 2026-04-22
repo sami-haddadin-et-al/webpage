@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Nico Mansfeld, Guillermo Gómez Peña, Mazin Hamad, Alexander Kurdas, Saeed Abdolshah, Sami Haddadin
 
+**Published in:** 18th IEEE International Conference on Automation Science and Engineering, CASE 2022, Mexico City, Mexico, August 20-24, 2022
+
 **DOI:** [10.1109/CASE49997.2022.9926607](https://doi.org/10.1109/CASE49997.2022.9926607)
 <!-- **Code:** No entry in BibTeX-->
 

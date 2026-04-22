@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Teodor Tomic, Christian Ott, Sami Haddadin
 
+**Published in:** IEEE Trans. Robotics, vol. 33, no. 6 (2017)
+
 **DOI:** [10.1109/TRO.2017.2750703](https://doi.org/10.1109/TRO.2017.2750703)
 <!-- **Code:** No entry in BibTeX-->
 

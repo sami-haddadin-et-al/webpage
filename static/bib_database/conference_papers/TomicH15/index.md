@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Teodor Tomic, Sami Haddadin
 
+**Published in:** IEEE International Conference on Robotics and Automation, ICRA 2015, Seattle, WA, USA, 26-30 May, 2015
+
 **DOI:** [10.1109/ICRA.2015.7139937](https://doi.org/10.1109/ICRA.2015.7139937)
 <!-- **Code:** No entry in BibTeX-->
 

@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Andrew I. Cooper, Patrick Courtney, Kourosh Darvish, Moritz Eckhoff, Hatem Fakhruldeen, Andrea Gabrielli, Animesh Garg, Sami Haddadin, Kanako Harada, Jason Hein, Maria Hübner, Dennis Knobbe, Gabriella Pizzuto, Florian Shkurti, Ruja Shrestha, Kerstin Thurow, Rafael Vescovi, Birgit Vogel-Heuser, Ádám Wolf, Naruki Yoshikawa, Yan Zeng, Zhengxue Zhou, Henning Zwirnmann
 
+**Published in:** arXiv 2501.06847 (2025)
+
 **DOI:** [10.48550/ARXIV.2501.06847](https://doi.org/10.48550/ARXIV.2501.06847)
 <!-- **Code:** No entry in BibTeX-->
 

@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Seyed Ali Baradaran Birjandi, Sami Haddadin
 
+**Published in:** IEEE Robotics Autom. Lett., vol. 5, no. 4 (2020)
+
 **DOI:** [10.1109/LRA.2020.3015187](https://doi.org/10.1109/LRA.2020.3015187)
 <!-- **Code:** No entry in BibTeX-->
 

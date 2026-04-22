@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Katharina Bieker, Hugo T. M. Kussaba, Philipp Scholl, Jaesug Jung, Abdalla Swikir, Sami Haddadin, Gitta Kutyniok
 
+**Published in:** 63rd IEEE Conference on Decision and Control, CDC 2024, Milan, Italy, December 16-19, 2024
+
 **DOI:** [10.1109/CDC56724.2024.10886587](https://doi.org/10.1109/CDC56724.2024.10886587)
 <!-- **Code:** No entry in BibTeX-->
 

@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Moritz Schappler, Jonathan Vorndamme, Alexander Toedtheide, David C. Conner, Oskar von Stryk, Sami Haddadin
 
+**Published in:** 15th IEEE-RAS International Conference on Humanoid Robots, Humanoids 2015, Seoul, South Korea, November 3-5, 2015
+
 **DOI:** [10.1109/HUMANOIDS.2015.7363499](https://doi.org/10.1109/HUMANOIDS.2015.7363499)
 <!-- **Code:** No entry in BibTeX-->
 

@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Samuel Schneider, Yansong Wu, Lars Johannsmeier, Fan Wu, Sami Haddadin
 
+**Published in:** IEEE/RSJ International Conference on Intelligent Robots and Systems, IROS 2024, Abu Dhabi, United Arab Emirates, October 14-18, 2024
+
 **DOI:** [10.1109/IROS58592.2024.10801516](https://doi.org/10.1109/IROS58592.2024.10801516)
 <!-- **Code:** No entry in BibTeX-->
 

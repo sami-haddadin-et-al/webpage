@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Sami Haddadin, Sven Parusel, Lars Johannsmeier, Saskia Golz, Simon Gabl, Florian Walch, Mohamadreza Sabaghian, Christoph Jähne, Lukas Hausperger, Simon Haddadin
 
+**Published in:** IEEE Robotics Autom. Mag., vol. 29, no. 2 (2022)
+
 **DOI:** [10.1109/MRA.2021.3138382](https://doi.org/10.1109/MRA.2021.3138382)
 <!-- **Code:** No entry in BibTeX-->
 

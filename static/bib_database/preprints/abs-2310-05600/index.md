@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Michael G. Adam, Sebastian Eger, Martin Piccolrovazzi, Maged Iskandar, Joern Vogel, Alexander Dietrich, Seongjin Bien, Jon Skerlj, Abdeldjallil Naceri, Eckehard G. Steinbach, Alin Albu-Schäffer, Sami Haddadin, Wolfram Burgard
 
+**Published in:** arXiv 2310.05600 (2023)
+
 **DOI:** [10.48550/ARXIV.2310.05600](https://doi.org/10.48550/ARXIV.2310.05600)
 <!-- **Code:** No entry in BibTeX-->
 

@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Jonathan Vorndamme, Moritz Schappler, Sami Haddadin
 
+**Published in:** 2017 IEEE International Conference on Robotics and Automation, ICRA 2017, Singapore, Singapore, May 29 - June 3, 2017
+
 **DOI:** [10.1109/ICRA.2017.7989552](https://doi.org/10.1109/ICRA.2017.7989552)
 <!-- **Code:** No entry in BibTeX-->
 

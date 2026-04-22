@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Haowen Yao, Riddhiman Laha, Anirban Sinha, Jonas Hall, Luis F. C. Figueredo, Nilanjan Chakraborty, Sami Haddadin
 
+**Published in:** IEEE International Conference on Robotics and Automation, ICRA 2025, Atlanta, GA, USA, May 19-23, 2025
+
 **DOI:** [10.1109/ICRA55743.2025.11127913](https://doi.org/10.1109/ICRA55743.2025.11127913)
 <!-- **Code:** No entry in BibTeX-->
 

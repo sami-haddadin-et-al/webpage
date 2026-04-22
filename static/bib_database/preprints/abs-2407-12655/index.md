@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Dennis Ossadnik, Vasilije Rakcevic, Mehmet Can Yildirim, Edmundo Pozo Fortunic, Hugo T. M. Kussaba, Abdalla Swikir, Sami Haddadin
 
+**Published in:** arXiv 2407.12655 (2024)
+
 **DOI:** [10.48550/ARXIV.2407.12655](https://doi.org/10.48550/ARXIV.2407.12655)
 <!-- **Code:** No entry in BibTeX-->
 

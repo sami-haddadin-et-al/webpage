@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Robin Jeanne Kirschner, Nico Mansfeld, Guillermo Gómez Peña, Saeed Abdolshah, Sami Haddadin
 
+**Published in:** IEEE International Conference on Intelligence and Safety for Robotics, ISR 2021, Tokoname, Japan, March 4-6, 2021
+
 **DOI:** [10.1109/ISR50024.2021.9419495](https://doi.org/10.1109/ISR50024.2021.9419495)
 <!-- **Code:** No entry in BibTeX-->
 

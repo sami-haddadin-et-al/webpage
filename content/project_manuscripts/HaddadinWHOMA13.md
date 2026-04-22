@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Sami Haddadin, Roman Weitschat, Felix Huber, Mehmet Can Özparpucu, Nico Mansfeld, Alin Albu-Schäffer
 
+**Published in:** Robotics Research - The 16th International Symposium ISRR, 16-19 December 2013, Singapore
+
 **DOI:** [10.1007/978-3-319-28872-7\_8](https://doi.org/10.1007/978-3-319-28872-7\_8)
 <!-- **Code:** No entry in BibTeX-->
 

@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Johannes Ringwald, Shaochuan Zong, Abdalla Swikir, Sami Haddadin
 
+**Published in:** IEEE Robotics Autom. Mag., vol. 30, no. 2 (2023)
+
 **DOI:** [10.1109/MRA.2023.3269404](https://doi.org/10.1109/MRA.2023.3269404)
 <!-- **Code:** No entry in BibTeX-->
 

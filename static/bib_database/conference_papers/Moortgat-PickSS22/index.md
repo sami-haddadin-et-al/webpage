@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Alexander Moortgat-Pick, Peter So, Michael J. Sack, Emma G. Cunningham, Benjamin Paul Hughes, Anna Adamczyk, Andriy Sarabakha, Leila Takayama, Sami Haddadin
 
+**Published in:** IEEE/RSJ International Conference on Intelligent Robots and Systems, IROS 2022, Kyoto, Japan, October 23-27, 2022
+
 **DOI:** [10.1109/IROS47612.2022.9981365](https://doi.org/10.1109/IROS47612.2022.9981365)
 <!-- **Code:** No entry in BibTeX-->
 

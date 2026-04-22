@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Jingyun Zhao, Birgit Vogel-Heuser, Jicong Ao, Yansong Wu, Liding Zhang, Fandi Hartl, Dominik Hujo, Zhenshan Bing, Fan Wu, Alois Knoll, Sami Haddadin, Bernd Vojanec, Timo Markert, André Kraft
 
+**Published in:** IEEE/RSJ International Conference on Intelligent Robots and Systems, IROS 2024, Abu Dhabi, United Arab Emirates, October 14-18, 2024
+
 **DOI:** [10.1109/IROS58592.2024.10802295](https://doi.org/10.1109/IROS58592.2024.10802295)
 <!-- **Code:** No entry in BibTeX-->
 

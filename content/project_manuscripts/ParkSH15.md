@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Jung-Jun Park, Jae-Bok Song, Sami Haddadin
 
+**Published in:** Robotica, vol. 33, no. 7 (2015)
+
 **DOI:** [10.1017/S0263574714000137](https://doi.org/10.1017/S0263574714000137)
 <!-- **Code:** No entry in BibTeX-->
 

@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Juan Heredia, Robin Jeanne Kirschner, Christian Schlette, Saeed Abdolshah, Sami Haddadin, Mikkel Baun Kjærgaard
 
+**Published in:** IEEE Robotics Autom. Lett., vol. 8, no. 10 (2023)
+
 **DOI:** [10.1109/LRA.2023.3301311](https://doi.org/10.1109/LRA.2023.3301311)
 <!-- **Code:** No entry in BibTeX-->
 

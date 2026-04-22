@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Liding Zhang, Kuanqi Cai, Zewei Sun, Zhenshan Bing, Chaoqun Wang, Luis F. C. Figueredo, Sami Haddadin, Alois Knoll
 
+**Published in:** arXiv 2410.19414 (2024)
+
 **DOI:** [10.48550/ARXIV.2410.19414](https://doi.org/10.48550/ARXIV.2410.19414)
 <!-- **Code:** No entry in BibTeX-->
 

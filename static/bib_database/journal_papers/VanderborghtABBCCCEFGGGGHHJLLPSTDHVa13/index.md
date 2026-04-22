@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Bram Vanderborght, Alin Albu-Schäffer, Antonio Bicchi, Etienne Burdet, Darwin G. Caldwell, Raffaella Carloni, Manuel G. Catalano, Oliver Eiberger, Werner Friedl, Ganesh Ganesh, Manolo Garabini, Markus Grebenstein, Giorgio Grioli, Sami Haddadin, Hannes Höppner, Amir Jafari, Matteo Laffranchi, Dirk Lefeber, Florian Petit, Stefano Stramigioli, Nikolaos G. Tsagarakis, Michaël Van Damme, Ronald Van Ham, Ludo C. Visser, Sebastian Wolf
 
+**Published in:** Robotics Auton. Syst., vol. 61, no. 12 (2013)
+
 **DOI:** [10.1016/J.ROBOT.2013.06.009](https://doi.org/10.1016/J.ROBOT.2013.06.009)
 <!-- **Code:** No entry in BibTeX-->
 

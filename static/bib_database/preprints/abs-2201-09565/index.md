@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Peter So, Jonas Wittmann, Patrick Ruhkamp, Andriy Sarabakha, Sami Haddadin
 
+**Published in:** arXiv 2201.09565 (2022)
+
 <!-- **DOI:** DOI missing in BibTeX -->
 <!-- **Code:** No entry in BibTeX-->
 

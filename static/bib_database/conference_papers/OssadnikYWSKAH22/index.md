@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Dennis Ossadnik, Mehmet Can Yildirim, Fan Wu, Abdalla Swikir, Hugo T. M. Kussaba, Saeed Abdolshah, Sami Haddadin
 
+**Published in:** IEEE/RSJ International Conference on Intelligent Robots and Systems, IROS 2022, Kyoto, Japan, October 23-27, 2022
+
 **DOI:** [10.1109/IROS47612.2022.9981928](https://doi.org/10.1109/IROS47612.2022.9981928)
 <!-- **Code:** No entry in BibTeX-->
 

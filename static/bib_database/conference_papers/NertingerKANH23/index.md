@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Simone Nertinger, Robin Jeanne Kirschner, Saeed Abdolshah, Abdeldjallil Naceri, Sami Haddadin
 
+**Published in:** IEEE International Conference on Advanced Robotics and Its Social Impacts, ARSO 2023, Berlin, Germany, June 5-7, 2023
+
 **DOI:** [10.1109/ARSO56563.2023.10187525](https://doi.org/10.1109/ARSO56563.2023.10187525)
 <!-- **Code:** No entry in BibTeX-->
 

@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Fernando Diaz Ledezma, Sami Haddadin
 
+**Published in:** 18th IEEE-RAS International Conference on Humanoid Robots, Humanoids 2018, Beijing, China, November 6-9, 2018
+
 **DOI:** [10.1109/HUMANOIDS.2018.8625033](https://doi.org/10.1109/HUMANOIDS.2018.8625033)
 <!-- **Code:** No entry in BibTeX-->
 

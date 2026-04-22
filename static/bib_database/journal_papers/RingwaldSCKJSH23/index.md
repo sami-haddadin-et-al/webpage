@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Johannes Ringwald, Samuel Schneider, Lingyun Chen, Dennis Knobbe, Lars Johannsmeier, Abdalla Swikir, Sami Haddadin
 
+**Published in:** IEEE Robotics Autom. Lett., vol. 8, no. 3 (2023)
+
 **DOI:** [10.1109/LRA.2023.3241757](https://doi.org/10.1109/LRA.2023.3241757)
 <!-- **Code:** No entry in BibTeX-->
 

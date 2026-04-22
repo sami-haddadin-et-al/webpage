@@ -14,6 +14,8 @@ gen_lock = false
 **Authors:** Sami Haddadin, Michael Weis, Sebastian Wolf, Alin Albu-Schäffer
 
 
+**Published in:** IFAC Proceedings Volumes, vol. 44, no. 1 (2011)
+
 **DOI:** [10.3182/20110828-6-IT-1002.01686](https://doi.org/10.3182/20110828-6-IT-1002.01686)
 <!-- **Code:** No entry in BibTeX-->
 

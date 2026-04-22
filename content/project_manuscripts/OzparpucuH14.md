@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Mehmet Can Ozparpucu, Sami Haddadin
 
+**Published in:** 13th European Control Conference, ECC 2014, Strasbourg, France, June 24-27, 2014
+
 **DOI:** [10.1109/ECC.2014.6862266](https://doi.org/10.1109/ECC.2014.6862266)
 <!-- **Code:** No entry in BibTeX-->
 

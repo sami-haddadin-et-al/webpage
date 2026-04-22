@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Zhimin Hou, Jiacheng Hou, Xiao Chen, Hamid Sadeghian, Tianyu Ren, Sami Haddadin
 
+**Published in:** arXiv 2510.04666 (2025)
+
 **DOI:** [10.48550/ARXIV.2510.04666](https://doi.org/10.48550/ARXIV.2510.04666)
 <!-- **Code:** No entry in BibTeX-->
 

@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Teodor Tomic, Philipp Lutz, Korbinian Schmid, Andrew Mathers, Sami Haddadin
 
+**Published in:** arXiv 1810.12908 (2018)
+
 <!-- **DOI:** DOI missing in BibTeX -->
 <!-- **Code:** No entry in BibTeX-->
 

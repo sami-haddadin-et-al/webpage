@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Sami Haddadin, Kai Krieger, Alin Albu-Schäffer, Torsten Lilge
 
+**Published in:** IEEE Trans. Robotics, vol. 34, no. 1 (2018)
+
 **DOI:** [10.1109/TRO.2017.2765684](https://doi.org/10.1109/TRO.2017.2765684)
 <!-- **Code:** No entry in BibTeX-->
 

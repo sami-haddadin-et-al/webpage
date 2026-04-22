@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Erfan Shahriari, Lars Johannsmeier, Elisabeth Rose Jensen, Sami Haddadin
 
+**Published in:** IEEE Robotics Autom. Lett., vol. 5, no. 1 (2020)
+
 **DOI:** [10.1109/LRA.2019.2953662](https://doi.org/10.1109/LRA.2019.2953662)
 <!-- **Code:** No entry in BibTeX-->
 

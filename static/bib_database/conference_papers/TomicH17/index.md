@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Teodor Tomic, Sami Haddadin
 
+**Published in:** Robotics Research, The 18th International Symposium, ISRR 2017, Puerto Varas, Chile, December 11-14, 2017
+
 **DOI:** [10.1007/978-3-030-28619-4\_19](https://doi.org/10.1007/978-3-030-28619-4\_19)
 <!-- **Code:** No entry in BibTeX-->
 

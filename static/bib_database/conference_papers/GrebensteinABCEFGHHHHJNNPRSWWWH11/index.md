@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Markus Grebenstein, Alin Albu-Schäffer, Thomas Bahls, Maxime Chalon, Oliver Eiberger, Werner Friedl, Robin Gruber, Sami Haddadin, Ulrich Hagn, Robert Haslinger, Hannes Höppner, Stefan Jörg, Mathias Nickl, Alexander Nothhelfer, Florian Petit, Josef Reill, Nikolaus Seitz, Thomas Wimböck, Sebastian Wolf, Tilo Wüsthoff, Gerd Hirzinger
 
+**Published in:** IEEE International Conference on Robotics and Automation, ICRA 2011, Shanghai, China, 9-13 May 2011
+
 **DOI:** [10.1109/ICRA.2011.5980371](https://doi.org/10.1109/ICRA.2011.5980371)
 <!-- **Code:** No entry in BibTeX-->
 

@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Diego Hidalgo-Carvajal, Carlos Magno C. O. Valle, Abdeldjallil Naceri, Sami Haddadin
 
+**Published in:** 21st IEEE-RAS International Conference on Humanoid Robots, Humanoids 2022, Ginowan, Japan, November 28-30, 2022
+
 **DOI:** [10.1109/HUMANOIDS53995.2022.10000192](https://doi.org/10.1109/HUMANOIDS53995.2022.10000192)
 <!-- **Code:** No entry in BibTeX-->
 

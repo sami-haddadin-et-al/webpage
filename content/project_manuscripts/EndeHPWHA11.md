@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Tobias Ende, Sami Haddadin, Sven Parusel, Tilo Wüsthoff, Marc Hassenzahl, Alin Albu-Schäffer
 
+**Published in:** 2011 IEEE/RSJ International Conference on Intelligent Robots and Systems, IROS 2011, San Francisco, CA, USA, September 25-30, 2011
+
 **DOI:** [10.1109/IROS.2011.6094592](https://doi.org/10.1109/IROS.2011.6094592)
 <!-- **Code:** No entry in BibTeX-->
 

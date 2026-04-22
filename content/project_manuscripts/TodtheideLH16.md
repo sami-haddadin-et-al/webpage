@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Alexander Toedtheide, Torsten Lilge, Sami Haddadin
 
+**Published in:** IEEE Robotics Autom. Lett., vol. 1, no. 1 (2016)
+
 **DOI:** [10.1109/LRA.2015.2511663](https://doi.org/10.1109/LRA.2015.2511663)
 <!-- **Code:** No entry in BibTeX-->
 

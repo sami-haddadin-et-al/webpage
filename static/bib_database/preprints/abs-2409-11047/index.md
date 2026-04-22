@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Yansong Wu, Zongxie Chen, Fan Wu, Lingyun Chen, Liding Zhang, Zhenshan Bing, Abdalla Swikir, Alois Knoll, Sami Haddadin
 
+**Published in:** arXiv 2409.11047 (2024)
+
 **DOI:** [10.48550/ARXIV.2409.11047](https://doi.org/10.48550/ARXIV.2409.11047)
 <!-- **Code:** No entry in BibTeX-->
 

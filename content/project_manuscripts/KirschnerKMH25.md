@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Robin Jeanne Kirschner, Kübra Karacan, Alessandro Melone, Sami Haddadin
 
+**Published in:** Nat. Mac. Intell., vol. 7, no. 3 (2025)
+
 **DOI:** [10.1038/S42256-025-00995-Y](https://doi.org/10.1038/S42256-025-00995-Y)
 <!-- **Code:** No entry in BibTeX-->
 

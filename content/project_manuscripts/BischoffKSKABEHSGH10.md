@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Rainer Bischoff, Johannes Kurth, Günter Schreiber, Ralf Koeppe, Alin Albu-Schäffer, Alexander Beyer, Oliver Eiberger, Sami Haddadin, Andreas Stemmer, Gerhard Grunwald, Gerd Hirzinger
 
+**Published in:** ISR/ROBOTIK 2010, Munich, Germany, June 7-9, 2010
+
 <!-- **DOI:** DOI missing in BibTeX -->
 <!-- **Code:** No entry in BibTeX-->
 

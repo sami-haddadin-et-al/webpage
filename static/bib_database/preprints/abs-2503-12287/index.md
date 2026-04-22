@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Yansong Wu, Xiao Chen, Yu Chen, Hamid Sadeghian, Fan Wu, Zhenshan Bing, Sami Haddadin, Alexander König, Alois Knoll
 
+**Published in:** arXiv 2503.12287 (2025)
+
 **DOI:** [10.48550/ARXIV.2503.12287](https://doi.org/10.48550/ARXIV.2503.12287)
 <!-- **Code:** No entry in BibTeX-->
 

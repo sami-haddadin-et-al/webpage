@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Kübra Karacan, Divij Grover, Hamid Sadeghian, Fan Wu, Sami Haddadin
 
+**Published in:** IFAC-PapersOnLine, vol. 56, no. 2 (2023)
+
 **DOI:** [10.1016/j.ifacol.2023.10.1279](https://doi.org/10.1016/j.ifacol.2023.10.1279)
 <!-- **Code:** No entry in BibTeX-->
 

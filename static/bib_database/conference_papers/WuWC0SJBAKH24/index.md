@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Yansong Wu, Fan Wu, Lingyun Chen, Kejia Chen, Samuel Schneider, Lars Johannsmeier, Zhenshan Bing, Fares J. Abu-Dakka, Alois Knoll, Sami Haddadin
 
+**Published in:** IEEE International Conference on Robotics and Automation, ICRA 2024, Yokohama, Japan, May 13-17, 2024
+
 **DOI:** [10.1109/ICRA57147.2024.10610835](https://doi.org/10.1109/ICRA57147.2024.10610835)
 <!-- **Code:** No entry in BibTeX-->
 

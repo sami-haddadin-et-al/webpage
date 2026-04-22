@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Karan Sharma, Sami Haddadin, Sebastian Minning, Johann Heindl, Tobias Bellmann, Sven Parusel, Tim Rokahr, Alin Albu-Schäffer
 
+**Published in:** 2013 IEEE International Conference on Robotics and Automation, Karlsruhe, Germany, May 6-10, 2013
+
 **DOI:** [10.1109/ICRA.2013.6630577](https://doi.org/10.1109/ICRA.2013.6630577)
 <!-- **Code:** No entry in BibTeX-->
 

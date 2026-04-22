@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Andrew I. Cooper, Patrick Courtney, Kourosh Darvish, Moritz Eckhoff, Hatem Fakhruldeen, Andrea Gabrielli, Animesh Garg, Sami Haddadin, Kanako Harada, Jason Hein, Maria Hübner, Dennis Knobbe, Gabriella Pizzuto, Florian Shkurti, Ruja Shrestha, Kerstin Thurow, Rafael Vescovi, Birgit Vogel-Heuser, Ádám Wolf, Naruki Yoshikawa, Yan Zeng, Zhengxue Zhou, Henning Zwirnmann
 
+**Published in:** Sci. Robotics, vol. 10, no. 106 (2025)
+
 **DOI:** [10.1126/SCIROBOTICS.ADV7932](https://doi.org/10.1126/SCIROBOTICS.ADV7932)
 <!-- **Code:** No entry in BibTeX-->
 

@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Simone Nertinger, Robin Jeanne Kirschner, Abdeldjallil Naceri, Sami Haddadin
 
+**Published in:** Int. J. Soc. Robotics, vol. 16, no. 6 (2024)
+
 **DOI:** [10.1007/S12369-022-00931-9](https://doi.org/10.1007/S12369-022-00931-9)
 <!-- **Code:** No entry in BibTeX-->
 

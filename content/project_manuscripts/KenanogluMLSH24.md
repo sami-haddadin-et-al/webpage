@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Celal Umut Kenanoglu, Valentin Le Mesle, Gjergji Luarasi, Hamid Sadeghian, Sami Haddadin
 
+**Published in:** 10th IEEE RAS/EMBS International Conference for Biomedical Robotics and Biomechatronics, BioRob 2024, Heidelberg, Germany, September 1-4, 2024
+
 **DOI:** [10.1109/BIOROB60516.2024.10719745](https://doi.org/10.1109/BIOROB60516.2024.10719745)
 <!-- **Code:** No entry in BibTeX-->
 

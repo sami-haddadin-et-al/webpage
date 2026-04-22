@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Kübra Karacan, Robin Jeanne Kirschner, Hamid Sadeghian, Fan Wu, Sami Haddadin
 
+**Published in:** 62nd IEEE Conference on Decision and Control, CDC 2023, Singapore, December 13-15, 2023
+
 **DOI:** [10.1109/CDC49753.2023.10383326](https://doi.org/10.1109/CDC49753.2023.10383326)
 <!-- **Code:** No entry in BibTeX-->
 

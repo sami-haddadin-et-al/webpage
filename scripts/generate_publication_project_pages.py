@@ -270,6 +270,82 @@ def infer_date(entry: dict) -> str:
     return f"{year:04d}-01-01"
 
 
+def build_published_in(entry: dict) -> Optional[str]:
+    """
+    Build the 'Published in' venue string from a BibTeX entry.
+    - article:       journal, vol. X, no. Y (year)   [CoRR -> arXiv]
+    - inproceedings: full booktitle; appends (year) if no 4-digit year present
+    - book:          series, vol. X (year)
+    - misc/other:    booktitle > journal > Zenodo > institution
+    """
+    btype = bibtex_type(entry)
+    year = str(entry.get("year", "")).strip()
+
+    def get(field: str) -> str:
+        return sanitize_inline(str(entry.get(field, "") or "").strip())
+
+    def append_year(text: str) -> str:
+        if year and not re.search(r"[0-9]{4}", text):
+            return f"{text} ({year})"
+        return text
+
+    def format_journal(journal: str) -> str:
+        """Handle CoRR->arXiv and append vol/no/year."""
+        if journal.lower() == "corr":
+            journal = "arXiv"
+            volume = get("volume")
+            # arXiv volume looks like abs/XXXX.XXXXX — strip the abs/ prefix
+            volume = re.sub(r"^abs/", "", volume)
+            result = f"arXiv {volume}" if volume else "arXiv"
+            return f"{result} ({year})" if year else result
+        volume = get("volume")
+        number = get("number")
+        result = journal
+        if volume:
+            result += f", vol. {volume}"
+        if number:
+            result += f", no. {number}"
+        if year:
+            result += f" ({year})"
+        return result
+
+    if btype == "article":
+        journal = get("journal")
+        return format_journal(journal) if journal else None
+
+    elif btype == "inproceedings":
+        booktitle = get("booktitle")
+        return append_year(booktitle) if booktitle else None
+
+    elif btype == "book":
+        series = get("series")
+        volume = get("volume")
+        result = series or get("publisher") or ""
+        if not result:
+            return None
+        if volume:
+            result += f", vol. {volume}"
+        if year:
+            result += f" ({year})"
+        return result
+
+    else:
+        # misc, techreport, incollection, etc.
+        booktitle = get("booktitle")
+        if booktitle:
+            return append_year(booktitle)
+        journal = get("journal")
+        if journal:
+            return format_journal(journal)
+        howpublished = get("howpublished")
+        if "zenodo" in howpublished.lower():
+            return f"Zenodo (Dataset) ({year})" if year else "Zenodo (Dataset)"
+        institution = get("institution")
+        if institution:
+            return f"{institution} ({year})" if year else institution
+        return None
+
+
 def bibtex_type(entry: dict) -> str:
     # bibtexparser uses ENTRYTYPE
     t = str(entry.get("ENTRYTYPE", "")).strip().lower()
@@ -401,7 +477,13 @@ def build_pub_index_md(pub: PublicationRef) -> str:
     body.append("**Authors:** " + ", ".join(authors))
     body.append("")
 
-    # 3) Links
+    # 3) Published in (venue)
+    published_in = build_published_in(entry)
+    if published_in:
+        body.append(f"**Published in:** {published_in}")
+        body.append("")
+
+    # 4) Links
     links = []
     if paper_link:
         raw_doi = str(entry.get("doi", "")).strip()
@@ -428,7 +510,7 @@ def build_pub_index_md(pub: PublicationRef) -> str:
     body.extend(links)
     body.append("")
 
-    # 4) Figures
+    # 5) Figures
     # body.append("## Gallery")
     if images:
         for img in images:
@@ -439,7 +521,7 @@ def build_pub_index_md(pub: PublicationRef) -> str:
         body.append("_No images available._")
     body.append("")
 
-    # 5) Abstract
+    # 6) Abstract
     body.append("## Abstract")
     if abstract:
         body.append(abstract)
@@ -447,7 +529,7 @@ def build_pub_index_md(pub: PublicationRef) -> str:
         body.append("_No abstract available._")
     body.append("")
 
-    # 6) Tags and keywords
+    # 7) Tags and keywords
     body.append("## Tags")
     if tags:
         body.append(", ".join(tags))
@@ -455,7 +537,7 @@ def build_pub_index_md(pub: PublicationRef) -> str:
         body.append("_No tag(s) or keyword(s) available._")
     body.append("")
 
-    # 7) Videos + misc
+    # 8) Videos + misc
     body.append("## Videos")
     if videos:
         for v in videos:
@@ -473,7 +555,7 @@ def build_pub_index_md(pub: PublicationRef) -> str:
         body.append("_No additional files._")
     body.append("")
 
-    # 8) Plain bib information
+    # 9) Plain bib information
     body.append("## BibTeX")
     body.append("If you want to cite this work, you can use the following BibTeX file:")
     body.append("```bibtex")

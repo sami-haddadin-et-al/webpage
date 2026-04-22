@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Alessandro Palleschi, Mazin Hamad, Saeed Abdolshah, Manolo Garabini, Sami Haddadin, Lucia Pallottino
 
+**Published in:** IEEE Robotics Autom. Lett., vol. 6, no. 3 (2021)
+
 **DOI:** [10.1109/LRA.2021.3076968](https://doi.org/10.1109/LRA.2021.3076968)
 <!-- **Code:** No entry in BibTeX-->
 

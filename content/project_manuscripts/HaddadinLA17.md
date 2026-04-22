@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Sami Haddadin, Alessandro De Luca, Alin Albu-Schäffer
 
+**Published in:** IEEE Trans. Robotics, vol. 33, no. 6 (2017)
+
 **DOI:** [10.1109/TRO.2017.2723903](https://doi.org/10.1109/TRO.2017.2723903)
 <!-- **Code:** No entry in BibTeX-->
 

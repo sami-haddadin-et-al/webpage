@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Sami Haddadin, Alin Albu-Schäffer, Gerd Hirzinger
 
+**Published in:** Robotics Research - The 13th International Symposium, ISRR 2007, November 26-29, 2007 in Hiroshima, Japan
+
 **DOI:** [10.1007/978-3-642-14743-2\_33](https://doi.org/10.1007/978-3-642-14743-2\_33)
 <!-- **Code:** No entry in BibTeX-->
 

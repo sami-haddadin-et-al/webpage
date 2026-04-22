@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Mehmet Can Yildirim, Edgar Alejandro Pisano, Mazin Hamad, Valentin Le Mesle, Abdalla Swikir, Sami Haddadin
 
+**Published in:** 22nd IEEE-RAS International Conference on Humanoid Robots, Humanoids 2023, Austin, TX, USA, December 12-14, 2023
+
 **DOI:** [10.1109/HUMANOIDS57100.2023.10375205](https://doi.org/10.1109/HUMANOIDS57100.2023.10375205)
 <!-- **Code:** No entry in BibTeX-->
 

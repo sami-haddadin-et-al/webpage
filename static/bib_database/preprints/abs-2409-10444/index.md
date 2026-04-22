@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Jicong Ao, Fan Wu, Yansong Wu, Abdalla Swikir, Sami Haddadin
 
+**Published in:** arXiv 2409.10444 (2024)
+
 **DOI:** [10.48550/ARXIV.2409.10444](https://doi.org/10.48550/ARXIV.2409.10444)
 <!-- **Code:** No entry in BibTeX-->
 

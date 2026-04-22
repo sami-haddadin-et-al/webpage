@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Kim K. Peper, Alexander Aasmann, Elisabeth Rose Jensen, Sami Haddadin
 
+**Published in:** 45th Annual International Conference of the IEEE Engineering in Medicine & Biology Society, EMBC 2023, Sydney, Australia, July 24-27, 2023
+
 **DOI:** [10.1109/EMBC40787.2023.10340308](https://doi.org/10.1109/EMBC40787.2023.10340308)
 <!-- **Code:** No entry in BibTeX-->
 

@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Cristiana de Farias, Luis F. C. Figueredo, Riddhiman Laha, Maxime Adjigble, Brahim Tamadazte, Rustam Stolkin, Sami Haddadin, Naresh Marturi
 
+**Published in:** arXiv 2503.15371 (2025)
+
 **DOI:** [10.48550/ARXIV.2503.15371](https://doi.org/10.48550/ARXIV.2503.15371)
 <!-- **Code:** No entry in BibTeX-->
 

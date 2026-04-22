@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Marvin Becker, Philipp Caspers, Tom Hattendorf, Torsten Lilge, Sami Haddadin, Matthias Albrecht Müller
 
+**Published in:** arXiv 2212.05815 (2022)
+
 **DOI:** [10.48550/ARXIV.2212.05815](https://doi.org/10.48550/ARXIV.2212.05815)
 <!-- **Code:** No entry in BibTeX-->
 

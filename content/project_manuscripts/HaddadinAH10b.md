@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Sami Haddadin, Alin Albu-Schäffer, Gerd Hirzinger
 
+**Published in:** 2010 IEEE International Conference on Robotics and Automation
+
 **DOI:** [10.1109/ROBOT.2010.5509854](https://doi.org/10.1109/ROBOT.2010.5509854)
 <!-- **Code:** No entry in BibTeX-->
 

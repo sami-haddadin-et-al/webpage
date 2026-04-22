@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Alexander Kurdas, Mazin Hamad, Jonathan Vorndamme, Nico Mansfeld, Saeed Abdolshah, Sami Haddadin
 
+**Published in:** 2022 International Conference on Robotics and Automation, ICRA 2022, Philadelphia, PA, USA, May 23-27, 2022
+
 **DOI:** [10.1109/ICRA46639.2022.9811691](https://doi.org/10.1109/ICRA46639.2022.9811691)
 <!-- **Code:** No entry in BibTeX-->
 

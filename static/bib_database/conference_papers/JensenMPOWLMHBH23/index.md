@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Elisabeth Rose Jensen, Reihaneh Mirjalili, Kim K. Peper, Dennis Ossadnik, Fan Wu, Jan Josef Lang, Matthias Martin, Florian Hetfleisch, Rainer Burgkart, Sami Haddadin
 
+**Published in:** International Conference on Rehabilitation Robotics, ICORR 2023, Singapore, September 24-28, 2023
+
 **DOI:** [10.1109/ICORR58425.2023.10304810](https://doi.org/10.1109/ICORR58425.2023.10304810)
 <!-- **Code:** No entry in BibTeX-->
 

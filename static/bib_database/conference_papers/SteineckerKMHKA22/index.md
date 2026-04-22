@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Thomas Steinecker, Alexander Kurdas, Nico Mansfeld, Mazin Hamad, Robin Jeanne Kirschner, Saeed Abdolshah, Sami Haddadin
 
+**Published in:** 2022 International Conference on Robotics and Automation, ICRA 2022, Philadelphia, PA, USA, May 23-27, 2022
+
 **DOI:** [10.1109/ICRA46639.2022.9811582](https://doi.org/10.1109/ICRA46639.2022.9811582)
 <!-- **Code:** No entry in BibTeX-->
 

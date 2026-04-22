@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Riddhiman Laha, Luis F. C. Figueredo, Juraj Vrabel, Abdalla Swikir, Sami Haddadin
 
+**Published in:** IEEE International Conference on Robotics and Automation, ICRA 2021, Xi'an, China, May 30 - June 5, 2021
+
 **DOI:** [10.1109/ICRA48506.2021.9561985](https://doi.org/10.1109/ICRA48506.2021.9561985)
 <!-- **Code:** No entry in BibTeX-->
 

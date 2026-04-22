@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Ali Aminzadeh, Abdalla Swikir, Sami Haddadin, Abolfazl Lavaei
 
+**Published in:** European Control Conference, ECC 2024, Stockholm, Sweden, June 25-28, 2024
+
 **DOI:** [10.23919/ECC64448.2024.10591289](https://doi.org/10.23919/ECC64448.2024.10591289)
 <!-- **Code:** No entry in BibTeX-->
 

@@ -28,14 +28,29 @@
                   </div>
                   <span class="award-video-title">{{ $p.Title }}</span>
                 </div>
-              {{ else }}
-                <a class="milestone-item"
-                  href="{{ with $p.Params.link }}{{ . }}{{ else }}{{ $p.RelPermalink }}{{ end }}">
-                    <span class="milestone-title">{{ $p.Title }}</span>
-                    {{ with $p.Params.image }}
-                      <img class="milestone-thumb" src="{{ . | relURL }}" alt="Thumbnail for {{ $p.Title }}">
-                    {{ end }}
+              {{ else if $p.Params.pdf }}
+                <div class="award-card">
+                  <span class="award-card-title">{{ $p.Title }}</span>
+                  <div class="award-pdf-wrap">
+                    <iframe
+                      src="{{ $p.Params.pdf | relURL }}#toolbar=0&navpanes=0&scrollbar=0&view=FitH"
+                      title="{{ $p.Title }}"
+                      frameborder="0"
+                      scrolling="no">
+                    </iframe>
+                  </div>
+                </div>
+              {{ else if $p.Params.image }}
+                <div class="award-card">
+                  <span class="award-card-title">{{ $p.Title }}</span>
+                  <img src="{{ $p.Params.image | relURL }}" alt="{{ $p.Title }}">
+                </div>
+              {{ else if $p.Params.link }}
+                <a class="milestone-item" href="{{ $p.Params.link }}">
+                  <span class="milestone-title">{{ $p.Title }}</span>
                 </a>
+              {{ else }}
+                <span class="milestone-item milestone-text-only">{{ $p.Title }}</span>
               {{ end }}
             </li>
           {{ end }}

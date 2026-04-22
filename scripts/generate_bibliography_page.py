@@ -419,12 +419,27 @@ def build_page(items: list[BibItem]) -> str:
     lines.append("---")
     lines.append("")
 
+    # Hardcoded thesis entries (not generated from bib_database)
+    HARDCODED_THESES = [
+        "## Theses",
+        "",
+        "**2011**",
+        "- Sami Haddadin, *Towards Safe Robots: Approaching Asimov's 1st Law*, Ph.D. thesis, RWTH Aachen University, 2011. [PDF](https://publications.rwth-aachen.de/record/52869/files/3826.pdf)",
+        "",
+        "",
+    ]
+    lines.extend(HARDCODED_THESES)
+
     items_by_group: Dict[str, List[BibItem]] = {folder: [] for folder, _ in TYPE_ORDER}
     for it in items:
         if it.group_folder in items_by_group:
             items_by_group[it.group_folder].append(it)
 
     for folder, group_title in TYPE_ORDER:
+        # Theses are hardcoded above; skip if the bib_database also has theses entries
+        if folder == "theses":
+            continue
+
         group_items = items_by_group.get(folder, [])
         if not group_items:
             continue

@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Jonathan Bohren, Chavdar Papazov, Darius Burschka, Kai Krieger, Sven Parusel, Sami Haddadin, William L. Shepherdson, Gregory D. Hager, Louis L. Whitcomb
 
+**Published in:** 2013 IEEE International Conference on Robotics and Automation, Karlsruhe, Germany, May 6-10, 2013
+
 **DOI:** [10.1109/ICRA.2013.6631087](https://doi.org/10.1109/ICRA.2013.6631087)
 <!-- **Code:** No entry in BibTeX-->
 

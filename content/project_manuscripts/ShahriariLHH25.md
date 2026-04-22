@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Erfan Shahriari, Johannes Lachner, Sami Haddadin, Neville Hogan
 
+**Published in:** IEEE Robotics Autom. Lett., vol. 10, no. 8 (2025)
+
 **DOI:** [10.1109/LRA.2025.3578848](https://doi.org/10.1109/LRA.2025.3578848)
 <!-- **Code:** No entry in BibTeX-->
 

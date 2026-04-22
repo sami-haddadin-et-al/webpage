@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Henning Zwirnmann, Dennis Knobbe, Utku Culha, Sami Haddadin
 
+**Published in:** arXiv 2302.03644 (2023)
+
 **DOI:** [10.48550/ARXIV.2302.03644](https://doi.org/10.48550/ARXIV.2302.03644)
 <!-- **Code:** No entry in BibTeX-->
 

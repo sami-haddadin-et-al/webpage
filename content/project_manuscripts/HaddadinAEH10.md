@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Sami Haddadin, Alin Albu-Schäffer, Oliver Eiberger, Gerd Hirzinger
 
+**Published in:** 2010 IEEE/RSJ International Conference on Intelligent Robots and Systems, October 18-22, 2010, Taipei, Taiwan
+
 **DOI:** [10.1109/IROS.2010.5652037](https://doi.org/10.1109/IROS.2010.5652037)
 <!-- **Code:** No entry in BibTeX-->
 

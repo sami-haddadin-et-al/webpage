@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Simone Nertinger, Olivia Herzog, Anna Mühlbauer, Abdeldjallil Naceri, Sami Haddadin
 
+**Published in:** 23rd IEEE-RAS International Conference on Humanoid Robots, Humanoids 2024, Nancy, France, November 22-24, 2024
+
 **DOI:** [10.1109/HUMANOIDS58906.2024.10769912](https://doi.org/10.1109/HUMANOIDS58906.2024.10769912)
 <!-- **Code:** No entry in BibTeX-->
 

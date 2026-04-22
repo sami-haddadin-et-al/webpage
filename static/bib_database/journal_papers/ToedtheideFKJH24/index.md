@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Alexander Toedtheide, Edmundo Pozo Fortunic, Johannes Kühn, Elisabeth Rose Jensen, Sami Haddadin
 
+**Published in:** Int. J. Robotics Res., vol. 43, no. 7 (2024)
+
 **DOI:** [10.1177/02783649231218719](https://doi.org/10.1177/02783649231218719)
 <!-- **Code:** No entry in BibTeX-->
 

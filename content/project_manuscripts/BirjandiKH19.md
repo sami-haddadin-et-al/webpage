@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Seyed Ali Baradaran Birjandi, Johannes Kühn, Sami Haddadin
 
+**Published in:** 2019 IEEE/RSJ International Conference on Intelligent Robots and Systems, IROS 2019, Macau, SAR, China, November 3-8, 2019
+
 **DOI:** [10.1109/IROS40897.2019.8968475](https://doi.org/10.1109/IROS40897.2019.8968475)
 <!-- **Code:** No entry in BibTeX-->
 

@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Alin Albu-Schäffer, Sebastian Wolf, Oliver Eiberger, Sami Haddadin, Florian Petit, Maxime Chalon
 
+**Published in:** IEEE International Conference on Robotics and Automation, ICRA 2010, Anchorage, Alaska, USA, 3-7 May 2010
+
 **DOI:** [10.1109/ROBOT.2010.5509850](https://doi.org/10.1109/ROBOT.2010.5509850)
 <!-- **Code:** No entry in BibTeX-->
 

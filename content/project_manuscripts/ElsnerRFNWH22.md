@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Jean Elsner, Gerhard Reinerth, Luis F. C. Figueredo, Abdeldjallil Naceri, Ulrich Walter, Sami Haddadin
 
+**Published in:** Frontiers Virtual Real., vol. 3 (2022)
+
 **DOI:** [10.3389/FRVIR.2022.925794](https://doi.org/10.3389/FRVIR.2022.925794)
 <!-- **Code:** No entry in BibTeX-->
 

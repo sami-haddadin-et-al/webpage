@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Johannes Kühn, Tingli Hu, Alexander Toedtheide, Edmundo Pozo Fortunic, Elisabeth Rose Jensen, Sami Haddadin
 
+**Published in:** Nat. Mac. Intell., vol. 6, no. 4 (2024)
+
 **DOI:** [10.1038/S42256-024-00825-7](https://doi.org/10.1038/S42256-024-00825-7)
 <!-- **Code:** No entry in BibTeX-->
 

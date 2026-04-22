@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Sami Haddadin, Sven Parusel, Rico Belder, Alin Albu-Schäffer
 
+**Published in:** Computer Safety, Reliability, and Security - 32nd International Conference, SAFECOMP 2013, Toulouse, France, September 24-27, 2013. Proceedings
+
 **DOI:** [10.1007/978-3-642-40793-2\_19](https://doi.org/10.1007/978-3-642-40793-2\_19)
 <!-- **Code:** No entry in BibTeX-->
 

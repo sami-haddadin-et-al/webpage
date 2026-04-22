@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Lars Johannsmeier, Samuel Schneider, Yanan Li, Etienne Burdet, and Sami Haddadin
 
+**Published in:** Nature Machine Intelligence, vol. 7 (2025)
+
 **DOI:** [10.1038/s42256-025-01045-3](https://doi.org/10.1038/s42256-025-01045-3)
 <!-- **Code:** No entry in BibTeX-->
 

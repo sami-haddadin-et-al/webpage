@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Sami Haddadin
 
+**Published in:** Autom., vol. 65, no. 2 (2017)
+
 **DOI:** [10.1515/AUTO-2016-0108](https://doi.org/10.1515/AUTO-2016-0108)
 <!-- **Code:** No entry in BibTeX-->
 

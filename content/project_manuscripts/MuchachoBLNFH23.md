@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Rafael I. Cabral Muchacho, Seongjin Bien, Riddhiman Laha, Abdeldjallil Naceri, Luis F. C. Figueredo, Sami Haddadin
 
+**Published in:** IROS (2023)
+
 **DOI:** [10.1109/IROS55552.2023.10342234](https://doi.org/10.1109/IROS55552.2023.10342234)
 <!-- **Code:** No entry in BibTeX-->
 

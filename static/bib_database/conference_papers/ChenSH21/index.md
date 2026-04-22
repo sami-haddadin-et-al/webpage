@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Lingyun Chen, Abdalla Swikir, Sami Haddadin
 
+**Published in:** IEEE/RSJ International Conference on Intelligent Robots and Systems, IROS 2021, Prague, Czech Republic, September 27 - Oct. 1, 2021
+
 **DOI:** [10.1109/IROS51168.2021.9635879](https://doi.org/10.1109/IROS51168.2021.9635879)
 <!-- **Code:** No entry in BibTeX-->
 

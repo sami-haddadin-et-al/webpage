@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Veronika Spieker, Amartya Ganguly, Sami Haddadin, Cristina Piazza
 
+**Published in:** Sensors, vol. 21, no. 21 (2021)
+
 **DOI:** [10.3390/S21217404](https://doi.org/10.3390/S21217404)
 <!-- **Code:** No entry in BibTeX-->
 

@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Seyed Ali Baradaran Birjandi, Harshit Khurana, Aude Billard, Sami Haddadin
 
+**Published in:** IROS (2023)
+
 **DOI:** [10.1109/IROS55552.2023.10342476](https://doi.org/10.1109/IROS55552.2023.10342476)
 <!-- **Code:** No entry in BibTeX-->
 

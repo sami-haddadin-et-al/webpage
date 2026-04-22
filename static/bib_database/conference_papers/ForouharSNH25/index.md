@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Moein Forouhar, Hamid Sadeghian, Abdeldjallil Naceri, Sami Haddadin
 
+**Published in:** 24th IEEE-RAS International Conference on Humanoid Robots, Humanoids 2025, Seoul, Republic of Korea, September 30 - October 2, 2025
+
 **DOI:** [10.1109/HUMANOIDS65713.2025.11203174](https://doi.org/10.1109/HUMANOIDS65713.2025.11203174)
 <!-- **Code:** No entry in BibTeX-->
 

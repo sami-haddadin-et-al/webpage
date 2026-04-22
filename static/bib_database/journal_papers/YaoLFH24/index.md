@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Haowen Yao, Riddhiman Laha, Luis F. C. Figueredo, Sami Haddadin
 
+**Published in:** IEEE Robotics Autom. Lett., vol. 9, no. 2 (2024)
+
 **DOI:** [10.1109/LRA.2023.3345695](https://doi.org/10.1109/LRA.2023.3345695)
 <!-- **Code:** No entry in BibTeX-->
 

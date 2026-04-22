@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Alexander Toedtheide, Sami Haddadin
 
+**Published in:** IEEE Robotics Autom. Lett., vol. 3, no. 4 (2018)
+
 **DOI:** [10.1109/LRA.2018.2853802](https://doi.org/10.1109/LRA.2018.2853802)
 <!-- **Code:** No entry in BibTeX-->
 

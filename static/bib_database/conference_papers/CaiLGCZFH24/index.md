@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Kuanqi Cai, Riddhiman Laha, Yuhe Gong, Lingyun Chen, Liding Zhang, Luis F. C. Figueredo, Sami Haddadin
 
+**Published in:** IEEE/RSJ International Conference on Intelligent Robots and Systems, IROS 2024, Abu Dhabi, United Arab Emirates, October 14-18, 2024
+
 **DOI:** [10.1109/IROS58592.2024.10802661](https://doi.org/10.1109/IROS58592.2024.10802661)
 <!-- **Code:** No entry in BibTeX-->
 

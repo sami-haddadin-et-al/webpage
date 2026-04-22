@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Aljaz Kramberger, Erfan Shahriari, Andrej Gams, Bojan Nemec, Ales Ude, Sami Haddadin
 
+**Published in:** 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems, IROS 2018, Madrid, Spain, October 1-5, 2018
+
 **DOI:** [10.1109/IROS.2018.8593647](https://doi.org/10.1109/IROS.2018.8593647)
 <!-- **Code:** No entry in BibTeX-->
 

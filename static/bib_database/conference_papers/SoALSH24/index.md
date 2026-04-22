@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Peter So, Ahmed Abdelrahman, Hoan Quang Le, Abdalla Swikir, Sami Haddadin
 
+**Published in:** European Robotics Forum 2024 - 15th ERF, Volume 2, Rimini, Italy, 13-15 March 2024
+
 **DOI:** [10.1007/978-3-031-76428-8\_17](https://doi.org/10.1007/978-3-031-76428-8\_17)
 <!-- **Code:** No entry in BibTeX-->
 

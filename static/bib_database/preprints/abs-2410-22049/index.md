@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Haowen Yao, Riddhiman Laha, Anirban Sinha, Jonas Hall, Luis F. C. Figueredo, Nilanjan Chakraborty, Sami Haddadin
 
+**Published in:** arXiv 2410.22049 (2024)
+
 **DOI:** [10.48550/ARXIV.2410.22049](https://doi.org/10.48550/ARXIV.2410.22049)
 <!-- **Code:** No entry in BibTeX-->
 

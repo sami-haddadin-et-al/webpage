@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Alin Albu-Schäffer, Sami Haddadin, Christian Ott, Andreas Stemmer, Thomas Wimböck, Gerhard Hirzinger
 
+**Published in:** Ind. Robot, vol. 34, no. 5 (2007)
+
 **DOI:** [10.1108/01439910710774386](https://doi.org/10.1108/01439910710774386)
 <!-- **Code:** No entry in BibTeX-->
 

@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Edmundo Pozo Fortunic, Abdalla Swikir, Saeed Abdolsah, Sami Haddadin
 
+**Published in:** American Control Conference, ACC 2022, Atlanta, GA, USA, June 8-10, 2022
+
 **DOI:** [10.23919/ACC53348.2022.9867705](https://doi.org/10.23919/ACC53348.2022.9867705)
 <!-- **Code:** No entry in BibTeX-->
 

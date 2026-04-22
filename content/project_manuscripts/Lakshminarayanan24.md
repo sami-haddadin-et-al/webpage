@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Srinivasan Lakshminarayanan, Daniel A Duecker, Andriy Sarabakha, Amartya Ganguly, Leila Takayama, Sami Haddadin
 
+**Published in:** 20th IEEE International Conference on Automation Science and Engineering, CASE 2024, Bari, Italy, August 28 - Sept. 1, 2024
+
 **DOI:** [10.1109/CASE59546.2024.10711608](https://doi.org/10.1109/CASE59546.2024.10711608)
 <!-- **Code:** No entry in BibTeX-->
 

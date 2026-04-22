@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Leigh R. Hochberg, Daniel Bacher, Beata Jarosiewicz, Nicolas Y. Masse, John D. Simeral, Joern Vogel, Sami Haddadin, Jie Liu, Sydney S. Cash, Patrick van der Smagt, others
 
+**Published in:** Nature, vol. 485, no. 7398 (2012)
+
 **DOI:** [10.1038/nature11076](https://doi.org/10.1038/nature11076)
 <!-- **Code:** No entry in BibTeX-->
 

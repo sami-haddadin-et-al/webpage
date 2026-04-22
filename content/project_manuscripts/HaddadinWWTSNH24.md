@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Simon Haddadin, Dirk Wilhelm, Daniel Wahrmann, Fabio Tenebruso, Hamid Sadeghian, Djallil Naceri and Sami Haddadin
 
+**Published in:** Scientific Reports, vol. 14 (2024)
+
 **DOI:** [10.1038/s41598-023-50291-1](https://doi.org/10.1038/s41598-023-50291-1)
 <!-- **Code:** No entry in BibTeX-->
 

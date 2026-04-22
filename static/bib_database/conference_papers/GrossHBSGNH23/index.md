@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Sonja Groß, Diego Hidalgo-Carvajal, Silija Breimann, Nicolai Stein, Amartya Ganguly, Abdeldjallil Naceri, Sami Haddadin
 
+**Published in:** IEEE International Conference on Robotics and Automation, ICRA 2023, London, UK, May 29 - June 2, 2023
+
 **DOI:** [10.1109/ICRA48891.2023.10161344](https://doi.org/10.1109/ICRA48891.2023.10161344)
 <!-- **Code:** No entry in BibTeX-->
 

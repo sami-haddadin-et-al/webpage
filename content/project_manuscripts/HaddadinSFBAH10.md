@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Sami Haddadin, Michael Suppa, Stefan Fuchs, Tim Bodenmüller, Alin Albu-Schäffer, Gerd Hirzinger
 
+**Published in:** Autom., vol. 58, no. 12 (2010)
+
 **DOI:** [10.1524/AUTO.2010.0888](https://doi.org/10.1524/AUTO.2010.0888)
 <!-- **Code:** No entry in BibTeX-->
 

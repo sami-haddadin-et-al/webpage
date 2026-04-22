@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Riddhiman Laha, Marvin Becker, Jonathan Vorndamme, Juraj Vrabel, Luis F. C. Figueredo, Matthias Albrecht Müller, Sami Haddadin
 
+**Published in:** IEEE Trans. Robotics, vol. 40 (2024)
+
 **DOI:** [10.1109/TRO.2023.3341689](https://doi.org/10.1109/TRO.2023.3341689)
 <!-- **Code:** No entry in BibTeX-->
 

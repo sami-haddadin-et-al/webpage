@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Robin Jeanne Kirschner, Henning Mayer, Lisa Burr, Nico Mansfeld, Saeed Abdolshah, Sami Haddadin
 
+**Published in:** IEEE Robotics Autom. Lett., vol. 7, no. 2 (2022)
+
 **DOI:** [10.1109/LRA.2022.3144535](https://doi.org/10.1109/LRA.2022.3144535)
 <!-- **Code:** No entry in BibTeX-->
 

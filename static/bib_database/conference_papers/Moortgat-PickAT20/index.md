@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Alexander Moortgat-Pick, Anna Adamczyk, Teodor Tomic, Sami Haddadin
 
+**Published in:** IEEE/RSJ International Conference on Intelligent Robots and Systems, IROS 2020, Las Vegas, NV, USA, October 24, 2020 - January 24, 2021
+
 **DOI:** [10.1109/IROS45743.2020.9341778](https://doi.org/10.1109/IROS45743.2020.9341778)
 <!-- **Code:** No entry in BibTeX-->
 

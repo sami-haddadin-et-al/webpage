@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Sami Haddadin, Alin Albu-Schäffer, Gerd Hirzinger
 
+**Published in:** Int. J. Robotics Res., vol. 28, no. 11-12 (2009)
+
 **DOI:** [10.1177/0278364909343970](https://doi.org/10.1177/0278364909343970)
 <!-- **Code:** No entry in BibTeX-->
 

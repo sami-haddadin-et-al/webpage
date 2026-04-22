@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Alin Albu-Schäffer, Oliver Eiberger, Markus Grebenstein, Sami Haddadin, Christian Ott, Thomas Wimböck, Sebastian Wolf, Gerd Hirzinger
 
+**Published in:** IEEE Robotics Autom. Mag., vol. 15, no. 3 (2008)
+
 **DOI:** [10.1109/MRA.2008.927979](https://doi.org/10.1109/MRA.2008.927979)
 <!-- **Code:** No entry in BibTeX-->
 

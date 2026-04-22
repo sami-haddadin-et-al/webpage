@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Lars Johannsmeier, Malkin Gerchow, Sami Haddadin
 
+**Published in:** arXiv 1805.08576 (2018)
+
 <!-- **DOI:** DOI missing in BibTeX -->
 <!-- **Code:** No entry in BibTeX-->
 

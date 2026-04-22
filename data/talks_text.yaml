@@ -1,0 +1,2354 @@
+# 2025
+- title: "Robots and the Search for Universal Intelligence: How Machines Learn to Move, Think, and Adapt"
+  event: "National Academy of Sciences Leopoldina Annual Assembly"
+  location: "Halle, Germany"
+  year: 2025
+  month: "Sep"
+  type: "invited talk"
+
+- title: "Robots and the Search for Universal Intelligence: How Machines Learn to Move, Think, and Adapt"
+  event: "Leibniz Prize Lecture – Cambridge / German National Science Foundation"
+  location: "Cambridge, UK"
+  year: 2025
+  month: "May"
+  type: "keynote"
+
+- title: "Human-Robot Symbiosis: From Human Modeling to Neurally-Driven Symbiotic Embodiment"
+  event: "AD-AIRoC2025, MBZUAI"
+  location: "Abu Dhabi, UAE"
+  year: 2025
+  month: "Apr"
+  type: "keynote"
+
+- title: "Robots and the Search for Universal Intelligence: How Machines Learn to Move, Think, and Adapt"
+  event: "Columbia University AI Summit"
+  location: "New York, USA"
+  year: 2025
+  month: "Mar"
+  type: "keynote"
+
+- title: "AI and Renewable Energy Transition"
+  event: "IRENA High-Level Event on APRECA"
+  location: "Abu Dhabi, UAE"
+  year: 2025
+  month: "Jan"
+  type: "keynote"
+
+# 2024
+- title: "The Great Robot Accelerator: Collective Learning of Optimal Embodied AI"
+  event: "Physikalisches Kolloquium, University of Heidelberg"
+  location: "Heidelberg, Germany"
+  year: 2024
+  month: "Nov"
+  type: "invited talk"
+
+- title: "Few-Shot Transfer Learning in Robot Manipulation"
+  event: "EASE Autumn School 2024, University of Bremen & University of Michigan"
+  location: ""
+  year: 2024
+  month: "Nov"
+  type: "invited talk"
+
+- title: "Few-Shot Transfer Learning in Robot Manipulation"
+  event: "CoRL 2024 – Workshop on Safe Robot Learning"
+  location: ""
+  year: 2024
+  month: "Nov"
+  type: "invited talk"
+
+- title: "Tutorial: Foundations of Interaction Control for Contact Robots"
+  event: "IROS 2024"
+  location: "Abu Dhabi, UAE"
+  year: 2024
+  month: "Oct"
+  type: "tutorial"
+
+- title: "Formal Methods Techniques in Robotics Systems: Design and Control"
+  event: "IROS 2024 – 2nd Workshop"
+  location: "Abu Dhabi, UAE"
+  year: 2024
+  month: "Oct"
+  type: "keynote"
+
+- title: "Human-Aware Robots and Prosthetics"
+  event: "Biorob 2024"
+  location: "Heidelberg, Germany"
+  year: 2024
+  month: "Sep"
+  type: "keynote"
+
+- title: "The Great Robot Accelerator: Collective Learning of Optimal Embodied AI"
+  event: "ICRA 2024"
+  location: "Yokohama, Japan"
+  year: 2024
+  month: "May"
+  type: "plenary talk"
+
+- title: "From Human Modeling to Neurally-Driven Symbiotic Embodiment"
+  event: "Nature Conference – Transformative Technologies for Neuroengineering"
+  location: "Shenzhen, China"
+  year: 2024
+  month: "Apr"
+  type: "keynote"
+
+- title: "Tactile Robots: Building the Machine and Learning the Self"
+  event: "Huawei Headquarters"
+  location: "Shenzhen, China"
+  year: 2024
+  month: "Apr"
+  type: "invited talk"
+
+- title: "From Human Modeling to Neurally-Driven Symbiotic Embodiment"
+  event: "Harbin Institute of Technology"
+  location: "Shenzhen, China"
+  year: 2024
+  month: "Apr"
+  type: "invited talk"
+
+- title: "Knowledge"
+  event: "University of Bremen – Institute for Artificial Intelligence"
+  location: "Bremen, Germany"
+  year: 2024
+  month: "Mar"
+  type: "invited talk"
+
+- title: "Unsere Zukunft: Eine Welt voller Menschen und Roboter?"
+  event: "Jugend forscht"
+  location: "Munich, Germany"
+  year: 2024
+  month: "Mar"
+  type: "keynote"
+
+- title: "Chancen und Risiken von KI und Robotik"
+  event: "Ayinger Gespräche"
+  location: "Munich, Germany"
+  year: 2024
+  month: "Feb"
+  type: "invited talk"
+
+# 2023
+- title: "Robot Guardians: The Artificial Immune System of Our Planet"
+  event: "TEDxTUM"
+  location: "Munich, Germany"
+  year: 2023
+  month: "Nov"
+  type: "keynote"
+
+- title: "Unified Force-Impedance Control"
+  event: "Reconcycle Summer School"
+  location: "Cala Rajada, Spain"
+  year: 2023
+  month: "Oct"
+  type: "keynote"
+
+- title: "The next wave of robotics – from collaboration to the artificial sense of touch"
+  event: "Here.We.Go – The Future Industry Forum"
+  location: "Munich, Germany"
+  year: 2023
+  month: "Oct"
+  type: "keynote"
+
+- title: "Tactile robots: building the machine and learning the self"
+  event: "Honda Research Institute"
+  location: "San Francisco, USA"
+  year: 2023
+  month: "Oct"
+  type: "invited talk"
+
+- title: "Opening Speech: Robotics AI in Future Factory"
+  event: "IROS 2023 Workshop"
+  location: "Detroit, USA"
+  year: 2023
+  month: "Oct"
+  type: "keynote"
+
+- title: "Tactile Robots: Building the Machine and Learning the Self"
+  event: "New York University Tandon School of Engineering"
+  location: "New York, USA"
+  year: 2023
+  month: "Sep"
+  type: "keynote"
+
+- title: "Geriatronik: Taktile Roboter und Künstliche Intelligenz in der Pflege"
+  event: "6. Clusterkonferenz \"Zukunft der Pflege\""
+  location: "Oldenburg, Germany"
+  year: 2023
+  month: "Sep"
+  type: "keynote"
+
+- title: "\"The Age of Artificial Intelligence\" – Humans Or Machines / Humans And Machines"
+  event: "Geschäftsführertagung Phoenix Mecano"
+  location: "Zürich, Switzerland"
+  year: 2023
+  month: "Sep"
+  type: "keynote"
+
+- title: "Future of Environment"
+  event: "SVan Prototype Launch"
+  location: "Poecking, Germany"
+  year: 2023
+  month: "Sep"
+  type: "invited talk"
+
+- title: "Interactive Construction"
+  event: "Future of Construction 2023 Symposium"
+  location: "Munich, Germany"
+  year: 2023
+  month: "Sep"
+  type: "invited talk"
+
+- title: "Geriatronics Summit – Opening Speech"
+  event: "Geriatronics Summit 2023"
+  location: "Garmisch-Partenkirchen, Germany"
+  year: 2023
+  month: "Jul"
+  type: "keynote"
+
+- title: "Shaping the future of robotics with open platforms and AI"
+  event: "automatica forum, automatica 2023"
+  location: "Munich, Germany"
+  year: 2023
+  month: "Jun"
+  type: "keynote"
+
+- title: "Opening speech: munich i Hightech Summit"
+  event: "munich i Hightech Summit 2023"
+  location: "Munich, Germany"
+  year: 2023
+  month: "Jun"
+  type: "invited talk"
+
+- title: "CEO Roundtable automatica Forum"
+  event: "automatica 2023"
+  location: "Munich, Germany"
+  year: 2023
+  month: "Jun"
+  type: "panelist"
+
+- title: "Roboterassistenten im Krankenhaus der Zukunft"
+  event: "18. Unfallmedizinische Tagung des Landesverbandes Nordost"
+  location: "Berlin, Germany"
+  year: 2023
+  month: "Jun"
+  type: "invited talk"
+
+- title: "Future developments of Germany as a business location"
+  event: "German Engineering Day, VDI Association of German Engineers"
+  location: "Berlin, Germany"
+  year: 2023
+  month: "May"
+  type: "keynote"
+
+- title: "Science and Entrepreneurship"
+  event: "SPICE 1"
+  location: "Munich, Germany"
+  year: 2023
+  month: "May"
+  type: "keynote"
+
+- title: "Robotics in surgery"
+  event: "MHH Abschiedssymposium Prof. Dr. Dr. h.c. Axel Haverich"
+  location: "Hannover, Germany"
+  year: 2023
+  month: "Mar"
+  type: "invited talk"
+
+- title: "Human-Centered Robots"
+  event: "Jugend Forscht Award Ceremony"
+  location: "Munich, Germany"
+  year: 2023
+  month: "Mar"
+  type: "invited talk"
+
+- title: "Panel discussion with Minister-President Dr. Markus Söder"
+  event: "ai.bay Bavarian International Conference on AI"
+  location: "Munich, Germany"
+  year: 2023
+  month: "Feb"
+  type: "panelist"
+
+- title: "Robots with a sense of touch"
+  event: "AAAI 2023 – 37th AAAI Conference on Artificial Intelligence"
+  location: "Washington, USA"
+  year: 2023
+  month: "Feb"
+  type: "plenary talk"
+
+- title: "Kultur – relevant für die Zukunft unserer Gesellschaft"
+  event: "Initiative Kulturzukunft Bayern"
+  location: "Munich, Germany"
+  year: 2023
+  month: "Jan"
+  type: "panelist"
+
+- title: "Session \"Robotics & the Industrial Metaverse\""
+  event: "Digital Life Design (DLD) Munich 2023"
+  location: "Munich, Germany"
+  year: 2023
+  month: "Jan"
+  type: "panelist"
+
+# 2022
+- title: "From Cobots to the first certified Tactile Robot"
+  event: "Infineon meets University Evening 2022"
+  location: "Neubiberg, Germany"
+  year: 2022
+  month: "Nov"
+  type: "keynote"
+
+- title: "Tactile Robots: Building the Machine and Learning the Self"
+  event: "IEEE International Symposium on Robotic and Sensor Environments (IEEE ROSE)"
+  location: "Abu Dhabi, UAE"
+  year: 2022
+  month: "Nov"
+  type: "keynote"
+
+- title: "From Collaborative Robots to the first certified Tactile Robot"
+  event: "Beyond Safety Forum@SICK"
+  location: "Waldkirch-Buchholz, Germany"
+  year: 2022
+  month: "Oct"
+  type: "keynote"
+
+- title: "Die Hand: von da Vincis anatomischen Studien zum Roboter mit Tastsinn"
+  event: "62. Kongress der Deutschen Gesellschaft für Handchirurgie"
+  location: "Garmisch-Partenkirchen, Germany"
+  year: 2022
+  month: "Oct"
+  type: "invited talk"
+
+- title: "Session Autonomous Robotics"
+  event: "Science and Technology in Society Forum (STS Forum)"
+  location: "Kyoto, Japan"
+  year: 2022
+  month: "Oct"
+  type: "session chair"
+
+- title: "Theory on Collective Learning: From Experimental Observation to Collective Learning Dynamics with Similarity Exploitation"
+  event: "International Symposium on Robotics Research (ISRR) 2022"
+  location: "Geneva, Switzerland"
+  year: 2022
+  month: "Sep"
+  type: "invited talk"
+
+- title: "Robotics and human centered AI: How robotics can meet 5G in telemedicine applications"
+  event: "Bits&Pretzels Verticals Vodafone"
+  location: "Munich, Germany"
+  year: 2022
+  month: "Sep"
+  type: "keynote"
+
+- title: "Schlaue Roboter – Alter und Maschinenintelligenz"
+  event: "Wissenschaftsprogramm ERES Stiftung"
+  location: "Munich, Germany"
+  year: 2022
+  month: "Sep"
+  type: "invited talk"
+
+- title: "Tactile robots: building the machine and learning the self"
+  event: "Visit at Aalto University"
+  location: "Helsinki, Finland"
+  year: 2022
+  month: "Aug"
+  type: "invited talk"
+
+- title: "Zukunft Künstliche Intelligenz und Robotik"
+  event: "Sommerempfang Chiemgau GmbH Wirtschaftsförderung"
+  location: "Chieming, Germany"
+  year: 2022
+  month: "Jul"
+  type: "keynote"
+
+- title: "Panel discussion \"Close to human\" – Die Zukunft der KI"
+  event: "Die Neue Sammlung – The Design Museum & Siemens AG"
+  location: "Munich, Germany"
+  year: 2022
+  month: "Jul"
+  type: "panelist"
+
+- title: "Chair for Keynote lecture Prof. William Moerner"
+  event: "BIOENG 2022, Helmholtz Munich"
+  location: "Munich, Germany"
+  year: 2022
+  month: "Jul"
+  type: "panel chair"
+
+- title: "From Cobots to the first certified Tactile Robot"
+  event: "RSS22 Workshop on Close-Proximity HRC"
+  location: "New York, USA"
+  year: 2022
+  month: "Jul"
+  type: "invited talk"
+
+- title: "Robotik – künstliche, maschinelle und motorische Intelligenz"
+  event: "Delegation aus Quebec im Bayerischen Landtag"
+  location: "Munich, Germany"
+  year: 2022
+  month: "Jun"
+  type: "invited talk"
+
+- title: "Digitalisierung und Vernetzung – wohin geht die Reise"
+  event: "I. Digital Governance Programm der Bayerischen Staatskanzlei"
+  location: "Gmund am Tegernsee, Germany"
+  year: 2022
+  month: "Jun"
+  type: "invited talk"
+
+- title: "The next wave of robotics – from collaborative to tactile robots"
+  event: "automatica Forum, Messe München"
+  location: "Munich, Germany"
+  year: 2022
+  month: "Jun"
+  type: "keynote"
+
+- title: "KI.Rat \"AI4Bavaria – Das Bayerische KI-Netzwerk\""
+  event: "automatica 2022"
+  location: "Munich, Germany"
+  year: 2022
+  month: "Jun"
+  type: "invited talk"
+
+- title: "Opening and Summary munich_ii Hightech Summit"
+  event: "munich_i Hightech Summit"
+  location: "Munich, Germany"
+  year: 2022
+  month: "Jun"
+  type: "panel chair"
+
+- title: "munich_i CEO Round Table \"Seeing and feeling the world: Unlocking perception\""
+  event: "automatica Forum, Messe München"
+  location: "Munich, Germany"
+  year: 2022
+  month: "Jun"
+  type: "panelist"
+
+- title: "The TUM Geriatronics Initiative"
+  event: "Geriatronics Summit 2022"
+  location: "Garmisch-Partenkirchen, Germany"
+  year: 2022
+  month: "Jun"
+  type: "keynote"
+
+- title: "Industrielle (R)evolution – wie verändert sich die industrielle Produktion"
+  event: "Handelsblatt Innovation Summit"
+  location: "Dresden, Germany"
+  year: 2022
+  month: "Jun"
+  type: "panelist"
+
+- title: "Kriegsführung mit Fake News – Wie Gerüchte, Falschmeldungen und gezielte Manipulation Demokratie gefährden"
+  event: "#wissenschafftzukunft – Bürgertalk, Niedersächsisches Ministerium für Wissenschaft und Kultur"
+  location: "Hannover, Germany"
+  year: 2022
+  month: "Jun"
+  type: "panelist"
+
+- title: "Robonatives"
+  event: "\"It's all about Robonatives\" Konferenz"
+  location: "Hannover, Germany"
+  year: 2022
+  month: "May"
+  type: "keynote"
+
+- title: "Intelligent control and learning in prosthetics"
+  event: "OTWorld"
+  location: "Leipzig, Germany"
+  year: 2022
+  month: "May"
+  type: "keynote"
+
+- title: "Zukunft Pflegen – welche Voraussetzungen haben wir, welche brauchen wir?"
+  event: "caritas Altenhilfe Kongress 2022"
+  location: "Regensburg, Germany"
+  year: 2022
+  month: "May"
+  type: "panelist"
+
+- title: "Tactile robots: building the machine and learning the self"
+  event: "Columbia University, Department of Mechanical Engineering"
+  location: "New York, USA"
+  year: 2022
+  month: "Apr"
+  type: "invited talk"
+
+- title: "Tackling Climate Change in the AI Era"
+  event: "CDTM Trend Seminar"
+  location: "Munich, Germany"
+  year: 2022
+  month: "Mar"
+  type: "invited talk"
+
+- title: "Grußwort zur Veranstaltungsreihe \"University Taking Shape\""
+  event: "Technische Universität Nürnberg"
+  location: "Nürnberg, Germany"
+  year: 2022
+  month: "Mar"
+  type: "invited talk"
+
+- title: "The Beauty of Robotics"
+  event: "Jugend Forscht – Regionalwettbewerb MünchenWest"
+  location: "Munich, Germany"
+  year: 2022
+  month: "Feb"
+  type: "invited talk"
+
+- title: "Künstliche Intelligenz und Robotik"
+  event: "Lehrgang für Verwaltungsführung der Staatsregierung"
+  location: "Munich, Germany"
+  year: 2022
+  month: "Feb"
+  type: "invited talk"
+
+- title: "Podiumsdiskussion \"Wer sind wir? – Vom Wandel der Technik und der Zukunft des Menschen\""
+  event: "acatech"
+  location: "Munich, Germany"
+  year: 2022
+  month: "Jan"
+  type: "panelist"
+
+# 2021
+- title: "Podiumsdiskussion \"Next Generation AI\""
+  event: "CAS Schwerpunkt"
+  location: "Munich, Germany"
+  year: 2021
+  month: "Dec"
+  type: "panelist"
+
+- title: "The Robots Are Coming"
+  event: "ETH Global Lecture Series, Berlin Science Week"
+  location: "Berlin, Germany"
+  year: 2021
+  month: "Nov"
+  type: "invited talk"
+
+- title: "Intelligente Roboter in der Medizin und Pflege"
+  event: "Medizin-Roboter-Mensch, Forum Evangelische Akademie Tutzing"
+  location: "Starnberg, Germany"
+  year: 2021
+  month: "Oct"
+  type: "invited talk"
+
+- title: "Breakout Session: Interaktion, Lernen, Sicherheit – Kernfähigkeiten intelligenter Roboter"
+  event: "BMBF Kick-Off #IchZukunftUnd #Robotik"
+  location: "Berlin, Germany"
+  year: 2021
+  month: "Oct"
+  type: "invited talk"
+
+- title: "Breaking the Wall to Collective Learning: How AI and Networked Robotics can Kickstart Machine Evolution"
+  event: "KIT Science Week 2021"
+  location: "Karlsruhe, Germany"
+  year: 2021
+  month: "Oct"
+  type: "keynote"
+
+- title: "Invited Talk"
+  event: "Reha Symposium der BG Kliniken"
+  location: "Frankfurt, Germany"
+  year: 2021
+  month: "Sep"
+  type: "keynote"
+
+- title: "Künstliche Intelligenz – der Bayern-Boost! Mit Vertrauen und Verantwortung"
+  event: "BayFiD KICK-OFF"
+  location: "Munich, Germany"
+  year: 2021
+  month: "Sep"
+  type: "panelist"
+
+- title: "Invited Talk"
+  event: "Dresden Robotics Festival"
+  location: "Dresden, Germany"
+  year: 2021
+  month: "Sep"
+  type: "invited talk"
+
+- title: "Guest Lecture"
+  event: "International Robotics Summer School 2021"
+  location: "Odense, Denmark"
+  year: 2021
+  month: "Aug"
+  type: "keynote"
+
+- title: "KI.ROBOTIK.DESIGN"
+  event: "Eröffnungsveranstaltung Ausstellung KI.Robotik.Design"
+  location: "Munich, Germany"
+  year: 2021
+  month: "Jul"
+  type: "invited talk"
+
+- title: "Avatars for Remote Operation"
+  event: "AIRA (Artificial Intelligence and Robotics for Accelerators) Workshop"
+  location: "digital"
+  year: 2021
+  month: "Jul"
+  type: "invited talk"
+
+- title: "Learning physical interaction and manipulation"
+  event: "ICL Robotics Forum – MSRM Academic Workshop"
+  location: "Munich/London"
+  year: 2021
+  month: "Jun"
+  type: "invited talk"
+
+- title: "Podiumsdiskussion: KI in der Pflege – Akzeptanz von Pflegerobotern"
+  event: "Georg-von-Vollmar Akademie"
+  location: "Kochel am See, Germany"
+  year: 2021
+  month: "Jun"
+  type: "panelist"
+
+# 2021 continued
+- title: "CEO Round Table \"AI – Transformative Power for Industrial Robotics\""
+  event: "munich_i"
+  location: "Munich, Germany"
+  year: 2021
+  month: "Jun"
+  type: "panelist"
+
+- title: "Wo stehen Robotik und KI aktuell und wohin wird die Reise gehen"
+  event: "TUM Presseworkshop: Robotik und KI – von der Vision zur Realität"
+  location: "Munich, Germany"
+  year: 2021
+  month: "Jun"
+  type: "keynote"
+
+- title: "Safe Motion and Interaction in Physical Human-Robot Interaction"
+  event: "3rd Workshop on Long-term Human Motion Prediction, ICRA 2021"
+  location: "Xi'an, China"
+  year: 2021
+  month: "May"
+  type: "invited talk"
+
+- title: "Robots that learn and interact safely in human environments"
+  event: "Zeiss"
+  location: "digital"
+  year: 2021
+  month: "May"
+  type: "invited talk"
+
+- title: "Robotik und Künstliche Intelligenz – Der Mensch ist Mittelpunkt der Technologie"
+  event: "Ringvorlesung Mensch-Maschine, MVHS"
+  location: "Munich, Germany"
+  year: 2021
+  month: "May"
+  type: "invited talk"
+
+- title: "KI in Deutschland – geht es voran?"
+  event: "automatica Talks"
+  location: "Munich, Germany"
+  year: 2021
+  month: "May"
+  type: "invited talk"
+
+- title: "Digitized presence in times of intelligent robot avatars"
+  event: "Big-Data.AI Summit (Bitkom)"
+  location: "Berlin, Germany"
+  year: 2021
+  month: "Apr"
+  type: "keynote"
+
+- title: "Die Zukunft der Robotik: Wie intelligent werden unsere Maschinen?"
+  event: "AI Convention IHK"
+  location: "Augsburg, Germany"
+  year: 2021
+  month: "Mar"
+  type: "keynote"
+
+- title: "Robots that Learn and Interact Safely in Human Environments"
+  event: "IEEE/ISR 2021"
+  location: "Nagoya, Japan"
+  year: 2021
+  month: "Mar"
+  type: "plenary speaker"
+
+- title: "KI als Motor der Digitalisierung: wie sieht die Energiewelt von morgen aus?"
+  event: "5. Regensburger Energiekongress"
+  location: "Regensburg, Germany"
+  year: 2021
+  month: "Mar"
+  type: "invited talk"
+
+- title: "Future of robotics in spine care"
+  event: "ASSICON 2021, Association of Spine Surgeons of India"
+  location: "New Delhi, India"
+  year: 2021
+  month: "Jan"
+  type: "invited talk"
+
+- title: "Vortrag zum Thema Human-Robot-Interaction"
+  event: "Eröffnungsveranstaltung des TUM Institute for LifeLong Learning"
+  location: "Munich, Germany"
+  year: 2021
+  month: "Jan"
+  type: "invited talk"
+
+# 2020
+- title: "Robotik und Künstliche Intelligenz: Der Mensch ist Mittelpunkt der Technologie"
+  event: "Deutsches Museum Vortragsreihe \"Wissenschaft für jedermann\""
+  location: "Munich, Germany"
+  year: 2020
+  month: "Nov"
+  type: "invited talk"
+
+- title: "Robotik und Künstliche Intelligenz: Der Mensch ist Mittelpunkt der Technologie"
+  event: "MINT Akademie \"Wissenschaftsgespräche\""
+  location: "Berchtesgaden, Germany"
+  year: 2020
+  month: "Nov"
+  type: "invited talk"
+
+- title: "Future of robotics and artificial intelligence in spine care"
+  event: "Spine 2020"
+  location: "Riyadh, Saudi Arabia"
+  year: 2020
+  month: "Nov"
+  type: "invited talk"
+
+- title: "Geriatronik: Roboterassistenten für ein selbstbestimmtes Leben im Alter"
+  event: "Körber Demografie-Symposium"
+  location: "Hamburg, Germany"
+  year: 2020
+  month: "Nov"
+  type: "invited talk"
+
+- title: "Exclusive virtual roundtable on \"Industrial AI\""
+  event: "Falling Walls Remote 2020"
+  location: "Berlin, Germany"
+  year: 2020
+  month: "Nov"
+  type: "panelist"
+
+- title: "Robotik und künstliche Intelligenz – Session \"Mensch-Maschine-Interaktion\""
+  event: "Beyondwork – European Conference on Labour Research"
+  location: "digital"
+  year: 2020
+  month: "Oct"
+  type: "invited talk"
+
+- title: "Tactile Robots: safe, sensitive and capable to learn"
+  event: "University of Pennsylvania GRASP Seminar Series"
+  location: "Philadelphia, USA"
+  year: 2020
+  month: "Oct"
+  type: "invited talk"
+
+- title: "Digitalisierung in spannenden Zeiten – Folgen für Gesundheit und Gesellschaft"
+  event: "GPA Kreisverbände München-Land und Dachau/Fürstenfeldbruck"
+  location: "Munich, Germany"
+  year: 2020
+  month: "Oct"
+  type: "invited talk"
+
+- title: "Session 402 \"AI and Society\""
+  event: "STS Forum 2020"
+  location: "Kyoto, Japan"
+  year: 2020
+  month: "Oct"
+  type: "commentator"
+
+- title: "The Gentle Robot"
+  event: "Back to the Future – 50. Jahrestagung der Gesellschaft für Informatik 2020"
+  location: "Karlsruhe, Germany"
+  year: 2020
+  month: "Sep"
+  type: "invited talk"
+
+- title: "Future of Robotics"
+  event: "Bits & Pretzels, Cluster: IoT Hardware"
+  location: "digital"
+  year: 2020
+  month: "Sep"
+  type: "invited talk"
+
+- title: "Tactile Robots: safe, sensitive and capable to learn"
+  event: "IFRR Global Colloquium"
+  location: "digital"
+  year: 2020
+  month: "Sep"
+  type: "keynote"
+
+- title: "Der Mensch und die künstliche Intelligenz: Quo Vadis?"
+  event: "ZEIT Convent – Zeit für Wissen"
+  location: "digital"
+  year: 2020
+  month: "Sep"
+  type: "invited talk"
+
+- title: "Physical Human-Robot Interaction"
+  event: "RO-MAN 2020 – Crowdbots Workshop"
+  location: "Naples, Italy"
+  year: 2020
+  month: "Aug"
+  type: "keynote"
+
+- title: "Geriatronik"
+  event: "Visit Wissenschaftsminister Siebler GAP"
+  location: "Garmisch, Germany"
+  year: 2020
+  month: "Jul"
+  type: "invited talk"
+
+- title: "Künstliche Intelligenz und Robotik im Gesundheitswesen"
+  event: "Wirtschaftsbeirat Bayern – Digitale Veranstaltung \"Digitalisierung: Die Gesundheitsroboter helfen\""
+  location: "Munich, Germany"
+  year: 2020
+  month: "Jun"
+  type: "invited talk"
+
+- title: "AI + Human Robot Interaction"
+  event: "Goethe Institut Couch Lesson"
+  location: "digital"
+  year: 2020
+  month: "Jun"
+  type: "invited talk"
+
+- title: "Geriatronics Campus Garmisch-Partenkirchen"
+  event: "EU Consultation – AI Testing and Experimentation Facilities for Health"
+  location: "digital"
+  year: 2020
+  month: "Jun"
+  type: "invited talk"
+
+- title: "Physical Human-Robot Interaction"
+  event: "ICRA 2020 – Workshop on Multidisciplinary Approaches in Physical Human-Robot Interaction"
+  location: "Paris, France"
+  year: 2020
+  month: "May"
+  type: "invited talk"
+
+- title: "Robotics = Embodied AI"
+  event: "Helmholtz AI Kick-Off Meeting"
+  location: "Munich, Germany"
+  year: 2020
+  month: "Mar"
+  type: "keynote"
+
+- title: "How AI and Networked Robotics can Kickstart Machine Evolution"
+  event: "Internet of Things Conference, SS Media Group"
+  location: "Berlin, Germany"
+  year: 2020
+  month: "Feb"
+  type: "invited talk"
+
+- title: "Robotics = Embodied AI"
+  event: "Kollegentreffen der Fakultäten Maschinenwesen"
+  location: "Munich, Germany"
+  year: 2020
+  month: "Feb"
+  type: "keynote"
+
+- title: "Intelligente Roboter in der Medizin – Zukunft der Patientenversorgung"
+  event: "Eröffnung Klinikum Weilheim-Schongau"
+  location: "Weilheim, Germany"
+  year: 2020
+  month: "Feb"
+  type: "invited talk"
+
+- title: "Gipfelgespräch \"Gemeinsam Bayern voranbringen\""
+  event: "Hightech Summit Bayern, Bayerische Staatsregierung"
+  location: "Munich, Germany"
+  year: 2020
+  month: "Feb"
+  type: "panelist"
+
+- title: "Die Zukunft der Robotik: Wie intelligent werden unsere Maschinen?"
+  event: "Wirtschaftsrat der CDU"
+  location: "Berlin, Germany"
+  year: 2020
+  month: "Jan"
+  type: "invited talk"
+
+- title: "Impuls, Fachkonferenz der SPD Bundestagsfraktion: Schöne neue KI-Welt?"
+  event: "SPD Bundestagsfraktion"
+  location: "Berlin, Germany"
+  year: 2020
+  month: "Jan"
+  type: "keynote"
+
+- title: "KI-Missionen für Bayern: Bayerns Zukunft durch Spitzenforschung und Translation gestalten"
+  event: "CSU-Klausurtagung, Kloster Seeon"
+  location: "Seeon-Seebruck, Germany"
+  year: 2020
+  month: "Jan"
+  type: "keynote"
+
+# 2019
+- title: "Von einer Zukunft der Menschen und ihren Robotern"
+  event: "Weihnachtsvorlesung Leopoldina"
+  location: "Halle, Germany"
+  year: 2019
+  month: "Dec"
+  type: "invited talk"
+
+- title: "Robotik und Künstliche Intelligenz: Anwendung in der Neurochirurgie und Brain-Machine-Interfaces"
+  event: "Deutscher Wirbelsäulenkongress (DWG) 2019"
+  location: "Munich, Germany"
+  year: 2019
+  month: "Nov"
+  type: "invited talk"
+
+- title: "Robotik und Künstliche Intelligenz: Der Mensch ist Mittelpunkt der Technologie"
+  event: "Österreichische Akademie der Wissenschaften (ÖAW) – Viktor Kaplan Lecture"
+  location: "Wien, Austria"
+  year: 2019
+  month: "Nov"
+  type: "invited talk"
+
+- title: "Artificial Intelligence: A Story of Algorithms and Intelligent Machines"
+  event: "FUTURAS IN RES – What's the IQ of AI?, Fraunhofer-Gesellschaft"
+  location: "Berlin, Germany"
+  year: 2019
+  month: "Nov"
+  type: "invited talk"
+
+- title: "Podiumsdiskussion: Chancen und Risiken Künstlicher Intelligenz"
+  event: "4. Fraunhofer-Alumni Summit 2019"
+  location: "Berlin, Germany"
+  year: 2019
+  month: "Nov"
+  type: "panelist"
+
+- title: "Robotics and Artificial Intelligence: A technological basis of our future society"
+  event: "Conference \"AI, Law, and Agency in the Age of Machine Learning\""
+  location: "Tel Aviv, Israel"
+  year: 2019
+  month: "Nov"
+  type: "invited talk"
+
+- title: "Mensch und Roboter"
+  event: "25. Tagung, Viktor von Weizsäcker Gesellschaft"
+  location: "Munich, Germany"
+  year: 2019
+  month: "Nov"
+  type: "invited talk"
+
+- title: "Künstliche Intelligenz"
+  event: "Festsymposium für Prof. Albert Heuberger, Fraunhofer IIS"
+  location: "Erlangen, Germany"
+  year: 2019
+  month: "Nov"
+  type: "invited talk"
+
+- title: "Breaking the wall to collective learning – how AI and network robotics can kickstart machine evolution"
+  event: "Falling Walls 2019"
+  location: "Berlin, Germany"
+  year: 2019
+  month: "Nov"
+  type: "invited talk"
+
+- title: "Shared Intelligence"
+  event: "Microsoft Business Summit 2019"
+  location: "Frankfurt, Germany"
+  year: 2019
+  month: "Oct"
+  type: "invited talk"
+
+- title: "Robotics and artificial intelligence: The human is the center of technology"
+  event: "I-RIM – 1st Italian Conference on Robotics and Intelligent Machines"
+  location: "Rome, Italy"
+  year: 2019
+  month: "Oct"
+  type: "invited talk"
+
+- title: "Increasing the Closed Loop Dynamics of Robotics Research"
+  event: "ISRR 2019 – International Symposium on Robotics Research"
+  location: "Hanoi, Vietnam"
+  year: 2019
+  month: "Oct"
+  type: "invited talk"
+
+- title: "Robots and humans: Learning, interaction and remote operation"
+  event: "MBARI Seminar Series"
+  location: "Santa Cruz, USA"
+  year: 2019
+  month: "Sep"
+  type: "invited talk"
+
+- title: "Die Zukunft der Gesundheit: Robotik und Künstliche Intelligenz"
+  event: "50 Jahre Zentrum für Rückenmarkverletzte, BG Unfallklinik Murnau"
+  location: "Murnau, Germany"
+  year: 2019
+  month: "Sep"
+  type: "invited talk"
+
+- title: "The gentle robot"
+  event: "28th International Conference on Artificial Neural Networks (ICANN) 2019"
+  location: "Munich, Germany"
+  year: 2019
+  month: "Sep"
+  type: "keynote"
+
+- title: "Fundamentals on Human-Centered Robotics"
+  event: "Summer School on TrustRobots, TU Wien"
+  location: "Wien, Austria"
+  year: 2019
+  month: "Sep"
+  type: "invited talk"
+
+- title: "Was Roboter in Medizin und Pflege leisten können"
+  event: "Der Demografiekongress 2019"
+  location: "Berlin, Germany"
+  year: 2019
+  month: "Sep"
+  type: "keynote"
+
+- title: "Actuation, Motor Control and Learning in Robots and Humans"
+  event: "ESAO Congress 2019 – European Society of Artificial Organs"
+  location: "Hannover, Germany"
+  year: 2019
+  month: "Sep"
+  type: "invited talk"
+
+- title: "The gentle robot"
+  event: "Nature Conferences \"AI Robotics\""
+  location: "Shenzhen, China"
+  year: 2019
+  month: "Sep"
+  type: "invited talk"
+
+- title: "Moderiertes Gespräch"
+  event: "Bürgerfest des Bundespräsidenten, Schloss Bellevue"
+  location: "Berlin, Germany"
+  year: 2019
+  month: "Aug"
+  type: "panelist"
+
+- title: "The gentle robot"
+  event: "World Robot Conference 2019 (WRC)"
+  location: "Beijing, China"
+  year: 2019
+  month: "Aug"
+  type: "invited talk"
+
+- title: "Panel Discussion: Robotics Challenges for Emerging Applications in the Real World"
+  event: "World Robot Conference 2019 (WRC)"
+  location: "Beijing, China"
+  year: 2019
+  month: "Aug"
+  type: "panelist"
+
+- title: "Robotik und KI"
+  event: "Kick-Off Frauentalentprogramm BayFiD (StMD)"
+  location: "Munich, Germany"
+  year: 2019
+  month: "Jul"
+  type: "invited talk"
+
+- title: "Impulse und moderiertes Gespräch: Digitalisierung und KI-Potenziale"
+  event: "Acatech Senatssitzung"
+  location: "Munich, Germany"
+  year: 2019
+  month: "Jul"
+  type: "panelist"
+
+- title: "Rede zum Tagungsthema \"digitale gesellschaft. digitale städte\""
+  event: "Verbandstagung Bayerischer Städtetag"
+  location: "Augsburg, Germany"
+  year: 2019
+  month: "Jul"
+  type: "keynote"
+
+- title: "Region München: Die Wiege der modernen Robotik"
+  event: "TQ Systems \"25-Jahr Feier\""
+  location: "Seefeld, Germany"
+  year: 2019
+  month: "Jul"
+  type: "invited talk"
+
+- title: "Robotik und Künstliche Intelligenz: Der Mensch ist Mittelpunkt der Technologie"
+  event: "Sommerfest 2019, Max Weber-Programm Bayern"
+  location: "Augsburg, Germany"
+  year: 2019
+  month: "Jun"
+  type: "keynote"
+
+- title: "The gentle robot"
+  event: "Symposium ETH Zürich"
+  location: "Zurich, Switzerland"
+  year: 2019
+  month: "Jun"
+  type: "invited talk"
+
+- title: "Robotik und Künstliche Intelligenz: Der Mensch ist Mittelpunkt"
+  event: "Jahrestagung des Deutschen Ethikrates"
+  location: "Berlin, Germany"
+  year: 2019
+  month: "Jun"
+  type: "keynote"
+
+- title: "Geriatronik – Praxisparcours Robotik in der Altenpflege"
+  event: "Jahrestagung des Deutschen Ethikrates"
+  location: "Berlin, Germany"
+  year: 2019
+  month: "Jun"
+  type: "invited talk"
+
+- title: "Robotik und Künstliche Intelligenz"
+  event: "50 Jahre universitäre Informatikausbildung in Dresden, TU-Dresden"
+  location: "Dresden, Germany"
+  year: 2019
+  month: "Jun"
+  type: "keynote"
+
+- title: "Podiumsdiskussion \"Herausforderungen der Arbeit der Zukunft\""
+  event: "Jahrestagung des Cusanuswerks 2019"
+  location: "Venlo, Netherlands"
+  year: 2019
+  month: "Jun"
+  type: "panelist"
+
+- title: "Der Mensch ist Mittelpunkt der Technologie: Wer das Werkzeug KI beherrscht, gestaltet unsere Zukunft"
+  event: "4. Zukunftskongress \"Technik zum Menschen bringen\", BMBF"
+  location: "Bonn, Germany"
+  year: 2019
+  month: "May"
+  type: "keynote"
+
+- title: "Machine Intelligence: bridging the gap between robotics and AI"
+  event: "ETH Distinguished Lecture Series on Robotics, Systems and Control"
+  location: "Zurich, Switzerland"
+  year: 2019
+  month: "May"
+  type: "invited talk"
+
+- title: "Bericht aus der EU High-Level Expert Group on Artificial Intelligence"
+  event: "Künstliche Intelligenz und Ethik, Rudolf-von-Bennigsen-Stiftung"
+  location: "Hannover, Germany"
+  year: 2019
+  month: "May"
+  type: "keynote"
+
+- title: "Robotik und Künstliche Intelligenz: Der Mensch ist Mittelpunkt der Technologie"
+  event: "Workshop \"KI für den Mittelstand\", FORTISS, AppliedAI"
+  location: "Munich, Germany"
+  year: 2019
+  month: "May"
+  type: "keynote"
+
+- title: "Robotik in der Pflege – Welche Perspektiven gibt es für Kliniken"
+  event: "Treffen der Pressesprecher der deutschen Uniklinika"
+  location: "Munich, Germany"
+  year: 2019
+  month: "May"
+  type: "invited talk"
+
+- title: "Künstliche Intelligenz: Perspektiven für Wirtschaft und Gesellschaft"
+  event: "Johanna-Quandt-Wirtschaftsstipendium 2019"
+  location: "Bad Homburg, Germany"
+  year: 2019
+  month: "May"
+  type: "invited talk"
+
+- title: "Aktuelle und absehbare Gefahrenpotentiale in Robotik und Künstlicher Intelligenz"
+  event: "5. Baden-Badener Strafrechtsgespräche"
+  location: "Baden-Baden, Germany"
+  year: 2019
+  month: "May"
+  type: "invited talk"
+
+- title: "Closing Remarks"
+  event: "2nd RAILS-Conference"
+  location: "Berlin, Germany"
+  year: 2019
+  month: "Apr"
+  type: "invited talk"
+
+- title: "Zukunft Mensch und Maschine"
+  event: "Jubiläumsevent mgm"
+  location: "Munich, Germany"
+  year: 2019
+  month: "Apr"
+  type: "keynote"
+
+- title: "Robotik und künstliche Intelligenz – Der Mensch als Mittelpunkt der Entwicklung"
+  event: "Eröffnungsveranstaltung neue Erwachsenenbildung, Evangelische Heimvolkshochschule Loccum"
+  location: "Rehburg-Loccum, Germany"
+  year: 2019
+  month: "Apr"
+  type: "keynote"
+
+- title: "Human-machine interaction and impact on production, manufacturing, distribution"
+  event: "Swedish-German Business Summit, Hannover Messe"
+  location: "Hannover, Germany"
+  year: 2019
+  month: "Apr"
+  type: "invited talk"
+
+- title: "Robotik und KI – wie wird zukünftig operiert"
+  event: "136. Kongress Deutsche Gesellschaft für Chirurgie"
+  location: "Munich, Germany"
+  year: 2019
+  month: "Mar"
+  type: "invited talk"
+
+- title: "Chirurg und Roboter – wer wird der bessere Operateur"
+  event: "136. Kongress Deutsche Gesellschaft für Chirurgie"
+  location: "Munich, Germany"
+  year: 2019
+  month: "Mar"
+  type: "invited talk"
+
+- title: "Künstliche Intelligenz"
+  event: "Klausurtagung CDU/CSU Arbeitsgruppe Bildung und Forschung"
+  location: "Potsdam, Germany"
+  year: 2019
+  month: "Mar"
+  type: "invited talk"
+
+- title: "Zukünftige Patientenversorgung durch Robotik und Künstliche Intelligenz"
+  event: "7. Bayerischer Tag der Telemedizin, Bayerische TelemedAllianz"
+  location: "Munich, Germany"
+  year: 2019
+  month: "Mar"
+  type: "keynote"
+
+- title: "KI zum Anfassen – Kollektive Maschinenintelligenz im taktilen Internet"
+  event: "Forschungsgipfel 2019: Künstliche Intelligenz – Innovationstreiber einer neuen Generation"
+  location: "Berlin, Germany"
+  year: 2019
+  month: "Mar"
+  type: "keynote"
+
+- title: "Dankesrede"
+  event: "Leibnizpreis"
+  location: "Berlin, Germany"
+  year: 2019
+  month: "Mar"
+  type: "invited talk"
+
+- title: "Robotik und Künstliche Intelligenz"
+  event: "INTERNET WORLD EXPO 2019"
+  location: "Munich, Germany"
+  year: 2019
+  month: "Mar"
+  type: "invited talk"
+
+- title: "Panel Discussion \"Key Technologies\""
+  event: "Vodafone – Digitising Europe Summit Berlin"
+  location: "Berlin, Germany"
+  year: 2019
+  month: "Feb"
+  type: "invited talk"
+
+- title: "Die Zukunft der Medizin: Maschinelle Intelligenz"
+  event: "BMC Kongress"
+  location: "Berlin, Germany"
+  year: 2019
+  month: "Jan"
+  type: "invited talk"
+
+- title: "Robotik und KI"
+  event: "IHK Hauptversammlung"
+  location: "Hannover, Germany"
+  year: 2019
+  month: "Jan"
+  type: "invited talk"
+
+# 2018
+- title: "Robotik und Künstliche Intelligenz"
+  event: "Bund der Freunde der Technischen Universität München e.V."
+  location: "Munich, Germany"
+  year: 2018
+  month: "Dec"
+  type: "invited talk"
+
+- title: "Zwei Zukunftstechnologien begegnen sich: KI und Robotik"
+  event: "Digital-Gipfel 2018, BMWi"
+  location: "Nürnberg, Germany"
+  year: 2018
+  month: "Dec"
+  type: "invited talk"
+
+- title: "Die Zukunft der Medizin: Maschinelles Lernen und Robotik"
+  event: "Münchner Digital Health Summit, MRI"
+  location: "Munich, Germany"
+  year: 2018
+  month: "Nov"
+  type: "invited talk"
+
+- title: "Förderung freier Forschung in Robotik und Maschineller Intelligenz"
+  event: "Preisträger-Kolloquium 2018, Krupp Stiftung"
+  location: "Essen, Germany"
+  year: 2018
+  month: "Nov"
+  type: "invited talk"
+
+- title: "Smart Robotics in 2020"
+  event: "Münchner Kreis"
+  location: "Munich, Germany"
+  year: 2018
+  month: "Nov"
+  type: "keynote"
+
+- title: "The bridge between natural and artificial intelligence"
+  event: "AI Summit Technology Review"
+  location: "Munich, Germany"
+  year: 2018
+  month: "Nov"
+  type: "invited talk"
+
+- title: "Building the Bridge between Medical and Technical Research"
+  event: "Klausurtagung der Fakultät für Medizin"
+  location: "Bad Wiessee, Germany"
+  year: 2018
+  month: "Nov"
+  type: "invited talk"
+
+- title: "Künstliche Intelligenz und Robotik – Schlüsseltechnologien unseres Jahrhunderts"
+  event: "Jahrestagung der Deutschen Gesellschaft für Recht und Informatik (DGRI)"
+  location: "Munich, Germany"
+  year: 2018
+  month: "Nov"
+  type: "keynote"
+
+- title: "KI und Robotik: Eine Schlüsseltechnologie unseres Jahrhunderts"
+  event: "Jahresfeier für Freunde und Angehörige der Universität Stuttgart"
+  location: "Stuttgart, Germany"
+  year: 2018
+  month: "Nov"
+  type: "invited talk"
+
+- title: "Bridging the Gap between Robotics and AI"
+  event: "2018 World Medical Robotics Conference"
+  location: "Munich, Germany"
+  year: 2018
+  month: "Nov"
+  type: "keynote"
+
+- title: "Wie verändern Künstliche Intelligenz und Roboter unsere Arbeitswelt?"
+  event: "Eröffnungsabend der Münchner Wissenschaftstage 2018"
+  location: "Munich, Germany"
+  year: 2018
+  month: "Nov"
+  type: "invited talk"
+
+- title: "Impuls: Künstliche Intelligenz 2.0: Maschinelle Intelligenz"
+  event: "Kongress der CDU/CSU-Fraktion zum Thema \"Künstliche Intelligenz\""
+  location: "Berlin, Germany"
+  year: 2018
+  month: "Nov"
+  type: "invited talk"
+
+- title: "Roboterassistenten für eine leichtere Zukunft"
+  event: "bayme vbm F+E Kongress"
+  location: "Munich, Germany"
+  year: 2018
+  month: "Nov"
+  type: "keynote"
+
+- title: "Pitch MSRM und Podium"
+  event: "EuroTech High Level Event – 150 Jahre TUM in Brüssel"
+  location: "Brussels, Belgium"
+  year: 2018
+  month: "Nov"
+  type: "invited talk"
+
+- title: "Der Mensch ist der Mittelpunkt der Technik"
+  event: "19. PEG Fachtagung: Gesundheitswirtschaft im Wandel"
+  location: "Munich, Germany"
+  year: 2018
+  month: "Oct"
+  type: "invited talk"
+
+- title: "Robotik und KI"
+  event: "31. Sitzung der TUM Emeriti of Excellence (EoE)"
+  location: "Munich, Germany"
+  year: 2018
+  month: "Oct"
+  type: "invited talk"
+
+- title: "The Art of Manipulation: Learning to Manipulate Blindly"
+  event: "IROS 2018"
+  location: "Madrid, Spain"
+  year: 2018
+  month: "Oct"
+  type: "invited talk"
+
+- title: "Human / Robot in the loop Machine Learning"
+  event: "IROS 2018"
+  location: "Madrid, Spain"
+  year: 2018
+  month: "Oct"
+  type: "invited talk"
+
+- title: "Machine Intelligence: Bridging the Gap between Robotics and AI"
+  event: "KI 2018: 41st German Conference on AI"
+  location: "Berlin, Germany"
+  year: 2018
+  month: "Sep"
+  type: "invited talk"
+
+- title: "Innovationsmanagement zwischen Wissenschaft, Wirtschaft und Politik"
+  event: "Baden-Badener Unternehmergespräche"
+  location: "Baden-Baden, Germany"
+  year: 2018
+  month: "Sep"
+  type: "invited talk"
+
+- title: "Robotik und maschinelle Intelligenz"
+  event: "Leopoldina Jahresversammlung 2018 – Natur, Wissenschaft, Gesellschaft"
+  location: "Halle (Saale), Germany"
+  year: 2018
+  month: "Sep"
+  type: "invited talk"
+
+- title: "Robotics and machine intelligence: potential, current limits and perspectives"
+  event: "Rotary Institut Zukunftsseminar"
+  location: "Nürnberg, Germany"
+  year: 2018
+  month: "Sep"
+  type: "invited talk"
+
+- title: "Robotik und KI"
+  event: "50 Jahre Klinikum Garmisch-Partenkirchen"
+  location: "Garmisch, Germany"
+  year: 2018
+  month: "Sep"
+  type: "invited talk"
+
+- title: "Machine Intelligence: bridging the gap between robotics and AI"
+  event: "GAIN Jahrestagung 2018 – German Academic International Network"
+  location: "Boston, USA"
+  year: 2018
+  month: "Sep"
+  type: "keynote"
+
+- title: "Machine Intelligence: bridging the gap between robotics and AI"
+  event: "French Academy of Science and Leopoldina Symposium – Robotics AI: Data Science versus Motion Intelligence"
+  location: "Paris, France"
+  year: 2018
+  month: "Sep"
+  type: "invited talk"
+
+- title: "Sichere Mensch-Roboter-Interaktion"
+  event: "4. Workshop: Mensch-Roboter-Zusammenarbeit, Bundesanstalt für Arbeitsschutz und Arbeitsmedizin"
+  location: "Dortmund, Germany"
+  year: 2018
+  month: "Sep"
+  type: "keynote"
+
+- title: "Elastic actuation in robotics and control"
+  event: "BioRob 2018 – 7th IEEE RAS/EMBS International Conference on Biomedical Robotics and Biomechatronics"
+  location: "Enschede, Netherlands"
+  year: 2018
+  month: "Aug"
+  type: "invited talk"
+
+- title: "Festvortrag \"Robotik und Medizin: Geriatronik und was noch mehr?\""
+  event: "95. Jahrestagung der Vereinigung der Bayerischen Chirurgen e.V."
+  location: "Garmisch, Germany"
+  year: 2018
+  month: "Jul"
+  type: "invited talk"
+
+- title: "Roboterassistenten mit Maschineller Intelligenz als Kollegen und Helfer des Menschen"
+  event: "Automatica Forum"
+  location: "Munich, Germany"
+  year: 2018
+  month: "Jun"
+  type: "panelist"
+
+- title: "Human Centered Robotics"
+  event: "50. International Symposium on Robotics (automatica/VDE)"
+  location: "Munich, Germany"
+  year: 2018
+  month: "Jun"
+  type: "invited talk"
+
+- title: "Demokratisierung der Robotik"
+  event: "Automobil Produktion Kongress (automatica)"
+  location: "Munich, Germany"
+  year: 2018
+  month: "Jun"
+  type: "keynote"
+
+- title: "From Building Robots to Bridging the Gap between Robotics and AI"
+  event: "ICRA 2018"
+  location: "Brisbane, Australia"
+  year: 2018
+  month: "May"
+  type: "keynote"
+
+- title: "Ergonomic Physical Human-Robot Collaboration"
+  event: "ICRA 2018 Full-day Workshop"
+  location: "Brisbane, Australia"
+  year: 2018
+  month: "May"
+  type: "invited talk"
+
+- title: "Arbeitswelt 4.0 – Von Robotern und Menschen"
+  event: "DialogforDigitalforum, Münchener Rück Stiftung"
+  location: "Munich, Germany"
+  year: 2018
+  month: "May"
+  type: "panelist"
+
+- title: "Deep Learning and Artificial Intelligence"
+  event: "TechDays Munich 2018 – Zentrum Digitalisierung.Bayern"
+  location: "Munich, Germany"
+  year: 2018
+  month: "May"
+  type: "invited talk"
+
+- title: "5G meets AI"
+  event: "Eröffnung Vodafone 5G Lab"
+  location: "Düsseldorf, Germany"
+  year: 2018
+  month: "May"
+  type: "invited talk"
+
+- title: "Robotik und künstliche Intelligenz"
+  event: "Klausurtagung Große Koalition"
+  location: "Murnau, Germany"
+  year: 2018
+  month: "May"
+  type: "invited talk"
+
+- title: "Human-Centered Robotics"
+  event: "Wissenschaftliche Gesellschaft für Montage, Handhabung und Industrierobotik"
+  location: "Aachen, Germany"
+  year: 2018
+  month: "May"
+  type: "invited talk"
+
+- title: "Mittelpunkt Mensch. Maschinenintelligenz für eine leichtere Zukunft"
+  event: "\"Wirtschaft trifft Wissenschaft\" – CAU auf der Hannover Messe"
+  location: "Hannover, Germany"
+  year: 2018
+  month: "Apr"
+  type: "keynote"
+
+- title: "Roboterfabrik: A Pilot to Link and Unify German Robotics Education"
+  event: "9th International Conference on Robotics in Education"
+  location: "Malta"
+  year: 2018
+  month: "Apr"
+  type: "invited talk"
+
+- title: "Das Zeitalter der Robotik und maschinellen Intelligenz"
+  event: "CTO Forum der Rudolf-Diesel-Medaille"
+  location: "Munich, Germany"
+  year: 2018
+  month: "Apr"
+  type: "invited talk"
+
+- title: "Assistenzrobotik für den Verbleib in den eigenen vier Wänden im Alter"
+  event: "4. Fachtagung \"Gestaltung von Digitalisierung und Technik in der Pflege\" (StMGP)"
+  location: "Munich, Germany"
+  year: 2018
+  month: "Apr"
+  type: "invited talk"
+
+- title: "Künstliche Intelligenz und Robotik – Heute und in 10 Jahren"
+  event: "1. RAILS Fachtagung – KI, Robotik und Recht"
+  location: "Hannover, Germany"
+  year: 2018
+  month: "Mar"
+  type: "invited talk"
+
+- title: "Gentle Robots"
+  event: "Schunk 10th International Expert Days on Service Robotics"
+  location: "Lauffen, Germany"
+  year: 2018
+  month: "Feb"
+  type: "keynote"
+
+- title: "Leopoldina Jahreshauptversammlung 2018"
+  event: "Leopoldina – Nationale Akademie der Wissenschaften"
+  location: "Halle (Saale), Germany"
+  year: 2018
+  type: "invited talk"
+
+- title: "Robotik und Maschinelle Intelligenz"
+  event: "Dinner Speech im Rahmen der Dieselmedaillenverleihung 2018"
+  location: "Munich, Germany"
+  year: 2018
+  type: "invited talk"
+
+- title: "Assistenzrobotik für den Verbleib in den eigenen vier Wänden im Alter"
+  event: "Symposium Geriatronik"
+  location: "Garmisch-Partenkirchen, Germany"
+  year: 2018
+  type: "invited talk"
+
+# 2017
+- title: "Industry Panel"
+  event: "International Symposium on Robotics Research (ISRR) 2017"
+  location: "Puerto Varas, Chile"
+  year: 2017
+  type: "panelist"
+
+- title: "The Age of Robots and Machine Intelligence"
+  event: "Übergabe Deutschlandstipendien"
+  location: "Germany"
+  year: 2017
+  type: "keynote"
+
+- title: "Interaction Control and Monitoring in Robotics"
+  event: "Kolloquium Technische Kybernetik, University of Stuttgart"
+  location: "Stuttgart, Germany"
+  year: 2017
+  type: "invited talk"
+
+- title: "Mensch und Roboter in der Digitalen Welt"
+  event: "DIGICON 2017"
+  location: "Munich, Germany"
+  year: 2017
+  type: "keynote"
+
+- title: "Can we build Baymax? Design and Control for Soft Human-Robot Interaction"
+  event: "Humanoids 2017 Workshop"
+  location: "Birmingham, UK"
+  year: 2017
+  type: "invited talk"
+
+- title: "Towards robust grasping and manipulation skills for humanoids"
+  event: "Humanoids 2017 Workshop"
+  location: "Birmingham, UK"
+  year: 2017
+  type: "invited talk"
+
+- title: "Robots and Humans in the Digital World"
+  event: "World Manufacturing Forum 2017"
+  location: "Munich, Germany"
+  year: 2017
+  type: "keynote"
+
+- title: "Panelist"
+  event: "Falling Walls 2017"
+  location: "Berlin, Germany"
+  year: 2017
+  type: "panelist"
+
+- title: "Keynote"
+  event: "VDZ Publisher's Summit 2017"
+  location: "Berlin, Germany"
+  year: 2017
+  type: "keynote"
+
+- title: "Gentle Robots"
+  event: "Max Planck Institute for Intelligent Systems"
+  location: "Stuttgart, Germany"
+  year: 2017
+  type: "invited talk"
+
+- title: "Mittelpunkt Mensch: Roboterassistenten für eine leichtere Zukunft"
+  event: "IG Metall Robotic Conference"
+  location: "Frankfurt, Germany"
+  year: 2017
+  type: "invited talk"
+
+- title: "Next Generation Robots: Interaction, Connectivity & Learning"
+  event: "IEEE 5G Summit"
+  location: "Dresden, Germany"
+  year: 2017
+  type: "keynote"
+
+- title: "Invited Lecture"
+  event: "Summer School on Foundations of Robotics and Autonomous Learning"
+  location: "Berlin, Germany"
+  year: 2017
+  type: "invited talk"
+
+- title: "Dienstleistungsroboter in der Pflege: Was ist in naher Zukunft denkbar?"
+  event: "Demography Congress 2017"
+  location: "Berlin, Germany"
+  year: 2017
+  type: "invited talk"
+
+- title: "Panelist"
+  event: "Alpbacher Technologiegespräche 2017"
+  location: "Alpbach, Austria"
+  year: 2017
+  type: "panelist"
+
+- title: "Panelist"
+  event: "Symphonologie – The Music of Business 2017"
+  location: "Munich, Germany"
+  year: 2017
+  type: "panelist"
+
+- title: "Robots and Humans in the Digital World"
+  event: "MATLAB Expo"
+  location: "Munich, Germany"
+  year: 2017
+  type: "keynote"
+
+- title: "Panelist"
+  event: "UNIDO at the World Summit of the Information Society (WSIS)"
+  location: "Geneva, Switzerland"
+  year: 2017
+  type: "panelist"
+
+- title: "A Framework for Robot Manipulation Skills and Interaction Planning"
+  event: "ICRA 2017 Workshop: AI Planning and Robotics"
+  location: "Singapore"
+  year: 2017
+  type: "invited talk"
+
+- title: "Robot Manipulation Skills and Interaction Control"
+  event: "ICRA 2017 Workshop: Sensor-Based Object Manipulation for Collaborative Assembly"
+  location: "Singapore"
+  year: 2017
+  type: "invited talk"
+
+- title: "Panelist"
+  event: "Vienna Energy Forum"
+  location: "Vienna, Austria"
+  year: 2017
+  type: "panelist"
+
+- title: "Panelist"
+  event: "VDI Deutscher Ingenieurtag 2017"
+  location: "Düsseldorf, Germany"
+  year: 2017
+  type: "panelist"
+
+- title: "Intelligente Robotik und Künstliche Intelligenz: Interaktion, Vernetzung & Lernfähigkeit"
+  event: "Bayern Digital 2017"
+  location: "Munich, Germany"
+  year: 2017
+  type: "invited talk"
+
+- title: "On the Relation between Robotics and Biomechanics"
+  event: "10. Jahrestagung der Deutschen Gesellschaft für Biomechanik (DGfB)"
+  location: "Hanover, Germany"
+  year: 2017
+  type: "keynote"
+
+- title: "Brain-Machine-Interface for Intelligent Prosthesis"
+  event: "Biennial Meeting Intraoperative Imaging Society"
+  location: "Germany"
+  year: 2017
+  type: "keynote"
+
+- title: "Human-Centered Robotics"
+  event: "Tagung Software Engineering der Gesellschaft für Informatik (GI)"
+  location: "Hanover, Germany"
+  year: 2017
+  type: "keynote"
+
+- title: "The Future of Robots: Interaction, Connectivity and Learning"
+  event: "Hannover Messe Preview"
+  location: "Hannover, Germany"
+  year: 2017
+  type: "keynote"
+
+# 2016
+- title: "Preparing for the Age of Robots"
+  event: "Digital Life Design 2016 (DLD 2016)"
+  location: "Munich, Germany"
+  year: 2016
+  type: "invited talk"
+
+- title: "Roboter und Menschen in der digitalisierten Welt"
+  event: "Mittelstand 4.0-Regionalkonferenz"
+  location: "Hannover, Germany"
+  year: 2016
+  type: "keynote"
+
+- title: "FRANKA EMIKA"
+  event: "United Nations Development Organization"
+  location: "Vienna, Austria"
+  year: 2016
+  type: "invited talk"
+
+- title: "Mensch-Roboter-Kollaboration und Online-Programmierung in der Cloud"
+  event: "VDI Fachkonferenz – Assistenzroboter in der Produktion 2016"
+  location: "Aschheim, Germany"
+  year: 2016
+  type: "invited talk"
+
+- title: "FRANKA EMIKA: Robotics has Arrived"
+  event: "Bitkom Hub"
+  location: "Berlin, Germany"
+  year: 2016
+  type: "invited talk"
+
+- title: "Online-Roboterprogrammierung in der Cloud für Jedermann"
+  event: "Fachkonferenz: Roboter in der Automobilindustrie"
+  location: "Ingolstadt, Germany"
+  year: 2016
+  type: "invited talk"
+
+- title: "FRANKA EMIKA: Towards the Professional Robot for Everyone"
+  event: "Singapore International Robo Expo (SIRE)"
+  location: "Singapore"
+  year: 2016
+  type: "keynote"
+
+- title: "Robots of the Digital Era"
+  event: "Japanese-German Symposium Industry 4.0, DWIH Tokyo & TU9"
+  location: "Tokyo, Japan"
+  year: 2016
+  type: "keynote"
+
+- title: "From Soft Robotics to Soft Prosthetics"
+  event: "Alfried Krupp Wissenschaftskolleg"
+  location: "Greifswald, Germany"
+  year: 2016
+  type: "keynote"
+
+- title: "Mensch und Maschine: In bester Gesellschaft?"
+  event: "Acatech Festveranstaltung 2016"
+  location: "Germany"
+  year: 2016
+  type: "panelist"
+
+- title: "Technikforum \"MRK: soziale und menschliche Aspekte\""
+  event: "Technikforum Roboterinnovation"
+  location: "Augsburg, Germany"
+  year: 2016
+  type: "invited talk"
+
+- title: "Human-Centered Robotics"
+  event: "2016 Brazilian-German Frontiers of Science and Technology Symposia (BRAGFOST 2016)"
+  location: "Campinas, Brazil"
+  year: 2016
+  type: "keynote"
+
+- title: "Die nächste Robotergeneration – mehr als Automatisierung und Industrie 4.0"
+  event: "IHK-Tagung: Ausschuss für Innovation und Forschung"
+  location: "Hanover, Germany"
+  year: 2016
+  type: "invited talk"
+
+- title: "Human-Centered Robotics"
+  event: "MIT Seminar"
+  location: "Boston, USA"
+  year: 2016
+  type: "invited talk"
+
+- title: "Human-Centered Robotics: Die Revolution der Industrierobotik als Enabler der Smart Factory"
+  event: "Automatica Forum 2016"
+  location: "Munich, Germany"
+  year: 2016
+  type: "keynote"
+
+- title: "Startups: Technologiebeschleuniger Risikokapital"
+  event: "Automatica Forum 2016"
+  location: "Munich, Germany"
+  year: 2016
+  type: "panelist"
+
+- title: "A Human-Robot Interaction-Planning Framework for Task Allocation in Collaborative Industrial Assembly"
+  event: "ICAPS 2016 – Planning Safe Interactions Workshop"
+  location: "London, UK"
+  year: 2016
+  type: "invited talk"
+
+- title: "Human-Centered Robotics: Toward the professional robot for everyone"
+  event: "ICRA 2016"
+  location: "Stockholm, Sweden"
+  year: 2016
+  type: "keynote"
+
+- title: "Roboter für den Menschen: Von Asimov hin zur Realität"
+  event: "Workshop Team-Mental-Models in Mensch-Roboter-Teams"
+  location: "Berlin, Germany"
+  year: 2016
+  type: "keynote"
+
+- title: "Von Robotern und Menschen"
+  event: "HERRENHAUSEN LATE – Science, Music, Friends"
+  location: "Hannover, Germany"
+  year: 2016
+  type: "plenary speaker"
+
+- title: "Roboter für den Menschen: Von Asimov hin zur Realität"
+  event: "VDI/VDE Jahrestagung"
+  location: "Hannover, Germany"
+  year: 2016
+  type: "keynote"
+
+- title: "Science Movie Night"
+  event: "Herrenhausen, Hannover"
+  location: "Hannover, Germany"
+  year: 2016
+  type: "panelist"
+
+- title: "Human-Centered Robotics: Die Revolution der Industrierobotik als Enabler der Smart Factory"
+  event: "Hannover Industrial Fair"
+  location: "Hannover, Germany"
+  year: 2016
+  type: "plenary speaker"
+
+- title: "Human-Centered Robotics"
+  event: "Max Planck Institute of Biological Cybernetics"
+  location: "Tübingen, Germany"
+  year: 2016
+  type: "invited talk"
+
+- title: "Modellgestützte Simulationstechnik im Entwurfsprozess kollaborierender Roboter"
+  event: "Workshop \"Simulierte oder gelebte Kollaboration\", Leuphana Universität Lüneburg"
+  location: "Germany"
+  year: 2016
+  type: "keynote"
+
+- title: "Human-Centered Robotics: Die Revolution der Industrierobotik als Enabler der Smart Factory"
+  event: "Texas Instruments InnoPosium 2016"
+  location: "Munich, Germany"
+  year: 2016
+  type: "keynote"
+
+- title: "Intelligent Robotic Systems Forming the Basis for Tomorrow's Neuroprosthetic Devices"
+  event: "Neurobionics Foundation"
+  location: "Germany"
+  year: 2016
+  type: "invited talk"
+
+- title: "Soft-Robotics"
+  event: "Ruhr Universität Bochum"
+  location: "Bochum, Germany"
+  year: 2016
+  type: "invited talk"
+
+- title: "Robots for Humans: From Asimov to Reality"
+  event: "Robotics Seminar, Stanford University"
+  location: "Stanford, USA"
+  year: 2016
+  type: "invited talk"
+
+- title: "Robots for Humans"
+  event: "Robotics Seminar, MIT"
+  location: "Boston, USA"
+  year: 2016
+  type: "invited talk"
+
+# 2015
+- title: "Mensch-Roboter-Kollaboration: Konzepte, Technologien und Potentiale"
+  event: "2015: Das Jahr der MRK, Gottfried Wilhelm Leibniz Universität Hannover"
+  location: "Hannover, Germany"
+  year: 2015
+  type: "invited talk"
+
+- title: "Robots for Humans"
+  event: "CS Colloquium, Yale University"
+  location: "New Haven, USA"
+  year: 2015
+  type: "invited talk"
+
+- title: "Roboter als Helfer im Alltag des Menschen"
+  event: "Citizen Forum at IROS 2015"
+  location: "Hamburg, Germany"
+  year: 2015
+  type: "plenary speaker"
+
+- title: "Interaction as the Key to Next Generation Robotics: Methods, Challenges and Industrial Test Cases"
+  event: "IROS 2015 Workshop"
+  location: "Hamburg, Germany"
+  year: 2015
+  type: "invited talk"
+
+- title: "Safety in Robotics: Safety for Human-Robot Interaction in Industrial Settings"
+  event: "IROS 2015 Workshop"
+  location: "Hamburg, Germany"
+  year: 2015
+  type: "invited talk"
+
+- title: "Robot Reflexes and Soft-Skills for Interaction"
+  event: "IROS 2015 – Physical Human-Robot Collaboration Workshop"
+  location: "Hamburg, Germany"
+  year: 2015
+  type: "invited talk"
+
+- title: "Physical Safety in Robotics"
+  event: "SyDe Summer School on Modeling and Verification of Cyber-Physical Systems"
+  location: "Bremen, Germany"
+  year: 2015
+  type: "invited talk"
+
+- title: "Robots and Humans ..., Finally!"
+  event: "Robotics: Science and Systems 2015 – RSS Early Career Spotlight Talk"
+  location: "Rome, Italy"
+  year: 2015
+  type: "invited talk"
+
+- title: "Neural Learning and Control"
+  event: "International Conference on System Level Approaches to Neural Engineering 2015"
+  location: "Barcelona, Spain"
+  year: 2015
+  type: "invited talk"
+
+- title: "Robot Reflexes and Soft-Skills for Interaction"
+  event: "ICORR 2015 – Workshop on Human-oriented Approaches for Assistive and Rehabilitation Robotics"
+  location: "Singapore"
+  year: 2015
+  type: "invited talk"
+
+- title: "Joint Talk in Sensorimotor exchanges between humans"
+  event: "ICRA 2015 – Workshop on Human Movement Understanding and Neuromechanics"
+  location: "Seattle, USA"
+  year: 2015
+  type: "invited talk"
+
+- title: "Safety in motion in Sensorimotor exchanges between humans"
+  event: "ICRA 2015 – Tutorial on Planning, Control, and Sensing for Safe Human-Robot Interaction"
+  location: "Seattle, USA"
+  year: 2015
+  type: "invited talk"
+
+- title: "Robots for Humans"
+  event: "German American Frontiers of Engineering (GAFOE 2015)"
+  location: "Germany"
+  year: 2015
+  type: "invited talk"
+
+- title: "Robot Reflexes and Soft-Skills for Interaction"
+  event: "NMMI Winter School Closing Workshop, Sapienza Universita di Roma"
+  location: "Rome, Italy"
+  year: 2015
+  type: "keynote"
+
+# 2014
+- title: "Robots for Humans: A Perspective from Safe and Intuitively Programmable Assistance Robots"
+  event: "Imperial College Robotics Seminar"
+  location: "London, UK"
+  year: 2014
+  type: "invited talk"
+
+- title: "Collision Detection and Reflex Reaction in Robots"
+  event: "Workshop on Pain at Imperial College"
+  location: "London, UK"
+  year: 2014
+  type: "invited talk"
+
+- title: "Robots for Humans: A Perspective from Safe and Intuitively Programmable Assistance Robots"
+  event: "Human-Centered Assistive Robotics – Joint Academies' Symposium, Leopoldina & KAST"
+  location: "Munich, Germany"
+  year: 2014
+  type: "invited talk"
+
+# 2014
+- title: "Assistance and Service Robotics in a Human Environment"
+  event: "IROS 2014 Workshop"
+  location: "Chicago, USA"
+  year: 2014
+  type: "keynote"
+
+- title: "Human Injury in Robotics"
+  event: "IROS 2014 – Workshop on Human-Robot Collaboration in Standardization and R&D"
+  location: "Chicago, USA"
+  year: 2014
+  type: "invited talk"
+
+- title: "Humans for Robots"
+  event: "RoboCup 2014 Symposium"
+  location: "Brazil"
+  year: 2014
+  type: "plenary speaker"
+
+- title: "Humans for Robots"
+  event: "2014 Robotics Research Jam Session"
+  location: "Pisa, Italy"
+  year: 2014
+  type: "invited talk"
+
+- title: "Human-Friendly Robotics"
+  event: "1st International Symposium on Soft Robotics in Germany, Fraunhofer IPA"
+  location: "Stuttgart, Germany"
+  year: 2014
+  type: "invited talk"
+
+# 2013
+- title: "Sichere und direkte Interaktion von Mensch und Roboter: Konzepte, Erfahrungen und offene Fragen"
+  event: "Stuttgarter Produktionsakademie, Fraunhofer IPA – Mensch-Roboter Interaktion"
+  location: "Stuttgart, Germany"
+  year: 2013
+  month: "Nov"
+  type: "invited talk"
+
+- title: "Physical Human-Robot Interaction"
+  event: "International Autumn School 2013 on Human-Robot-Interaction, TU Dresden"
+  location: "Dresden, Germany"
+  year: 2013
+  type: "invited talk"
+
+- title: "Robotics Research at DLR: From Space Robots to Human-Centered Robotics"
+  event: "Electrical and Computer Engineering Distinguished Speaker, Western University"
+  location: "London, Canada"
+  year: 2013
+  type: "invited talk"
+
+- title: "Human Injury Analysis in Robotics: An Overview"
+  event: "RAS-IARP Joint Workshop, IROS 2013"
+  location: "Tokyo, Japan"
+  year: 2013
+  type: "keynote"
+
+- title: "Safety in Robotics"
+  event: "Invited Lecture, Korea"
+  location: "Korea"
+  year: 2013
+  type: "invited talk"
+
+- title: "Intrinsically Elastic Actuation: A Novel Paradigm for High-Performance Torque Controlled Robots"
+  event: "Humanoids 2013 – Workshop on Torque-Controlled Humanoids"
+  location: "Atlanta, USA"
+  year: 2013
+  type: "invited talk"
+
+- title: "It is (almost) all about human safety: a novel paradigm for robot design, control, and planning"
+  event: "Humanoids 2013 – Workshop on Humanoid Coworker and Assistant"
+  location: "Atlanta, USA"
+  year: 2013
+  type: "invited talk"
+
+- title: "It is (almost) all about human safety: a novel paradigm for robot design, control, and planning"
+  event: "RoboAssist 2013 at Neurotechnix 2013"
+  location: "Vilamoura, Portugal"
+  year: 2013
+  type: "invited talk"
+
+- title: "It is (almost) all about human safety: a novel paradigm for robot design, control, and planning"
+  event: "SafeComp 2013"
+  location: "Toulouse, France"
+  year: 2013
+  type: "plenary speaker"
+
+- title: "Designing and evaluating comparable human injury analysis experiments"
+  event: "RSS 2013 – Workshop: Experimental Protocols for Robotics Research"
+  location: "Berlin, Germany"
+  year: 2013
+  type: "invited talk"
+
+- title: "Bridging the gap between interaction control and programming models"
+  event: "RSS 2013 – Workshop: Programming with Constraints"
+  location: "Berlin, Germany"
+  year: 2013
+  type: "invited talk"
+
+- title: "Human injury issues in robotics – normative limits to prevent human harm"
+  event: "ISO TC184/SC2/WG7 Workshop on Personal Care Robots"
+  location: "Bristol, UK"
+  year: 2013
+  type: "invited talk"
+
+- title: "Human Injury Biomechanics"
+  event: "ERF 2013 – Workshop on Safety in Human-Robot Collaboration"
+  location: "Lyon, France"
+  year: 2013
+  type: "invited talk"
+
+- title: "Human Injury Biomechanics"
+  event: "ICRA 2013 – Workshop on Human Robot Interaction for Assistance and Industrial Robots"
+  location: "Karlsruhe, Germany"
+  year: 2013
+  type: "invited talk"
+
+# 2012
+- title: "BEASTY – A Control Framework for Human-Robot Interaction"
+  event: "RoboHow Kickoff Meeting, TUM"
+  location: "Munich, Germany"
+  year: 2012
+  type: "invited talk"
+
+- title: "Towards Safe Robots: Approaching Asimov's 1st Law"
+  event: "EuRobotics Forum 2012 – Euron George Giralt PhD Award"
+  location: "Germany"
+  year: 2012
+  type: "invited talk"
+
+- title: "Understanding soft-tissue injury in robotics"
+  event: "EuRobotics Forum 2012 – Workshop Safe Human-Robot Interaction"
+  location: "Germany"
+  year: 2012
+  type: "invited talk"
+
+- title: "Dynamische und sichere Roboter in der Interaktion mit dem Menschen: Analyse, Regelung & Planung"
+  event: "LSR, TUM"
+  location: "Munich, Germany"
+  year: 2012
+  type: "invited talk"
+
+- title: "On the role of real-time in control and motion planning for bringing robots to humans' home"
+  event: "Willow Garage"
+  location: "Menlo Park, USA"
+  year: 2012
+  type: "invited talk"
+
+- title: "Project Overview SAPHARI"
+  event: "ISO SC2 Plenary"
+  location: "Orlando, USA"
+  year: 2012
+  type: "invited talk"
+
+- title: "Embedding Injury Knowledge into Real-time Robot Control"
+  event: "ISO SC2 Meeting WG3"
+  location: "Orlando, USA"
+  year: 2012
+  type: "invited talk"
+
+- title: "Embedding Injury Knowledge into Real-time Robot Control"
+  event: "ISO SC2 Meeting WG7"
+  location: "Orlando, USA"
+  year: 2012
+  type: "invited talk"
+
+# 2011
+- title: "Safe Human-Robot Interaction"
+  event: "IROS 2011 – Workshop on Methods for Safer Medical Procedures"
+  location: "San Francisco, USA"
+  year: 2011
+  type: "invited talk"
+
+- title: "Next Generation Robots: From Robotic Co-Workers to Human-Inspired Robot Design"
+  event: "Hopkins Seminar, Johns Hopkins University"
+  location: "Baltimore, USA"
+  year: 2011
+  type: "invited talk"
+
+- title: "Intrinsically Elastic Robots: Safety, Optimal Control, & Cyclic Motion"
+  event: "Stiff/Viactors Summer-School 2011"
+  location: "Frauenchiemsee, Germany"
+  year: 2011
+  type: "invited talk"
+
+- title: "Next Generation Robots: From Robotic Co-Workers to Human-Inspired Robot Design"
+  event: "Bristol Robotics Lab"
+  location: "Bristol, UK"
+  year: 2011
+  type: "invited talk"
+
+- title: "Physical Human-Robot Interaction: An Overview"
+  event: "ICRA 2011 – Workshop: Towards Autonomous Physical Human-Robot Interaction"
+  location: "Shanghai, China"
+  year: 2011
+  type: "invited talk"
+
+- title: "Next Generation Robots: From Robotic Co-Workers to Human-Inspired Robot Design"
+  event: "Willow Garage"
+  location: "Menlo Park, USA"
+  year: 2011
+  type: "invited talk"
+
+- title: "Next Generation Robots: From Robotic Co-Workers to Human-Inspired Robot Design"
+  event: "Stanford AI Lab Kolloquium, Stanford University"
+  location: "Stanford, USA"
+  year: 2011
+  type: "invited talk"
+
+# 2010
+- title: "Towards Safe Robots: Approaching Asimov's 1st Law"
+  event: "45. Sitzung des FA 4.13 Steuerung und Regelung von Robotern"
+  location: "Augsburg, Germany"
+  year: 2010
+  type: "invited talk"
+
+- title: "Next Generation Robots: From Robotic Co-Workers to Human-Inspired Robot Design"
+  event: "TUM Informatik Kolloquium"
+  location: "Garching, Germany"
+  year: 2010
+  type: "invited talk"
+
+- title: "Next Generation Robots: From Robotic Co-Workers to Intrinsic Compliance"
+  event: "International Schunk Expert Days"
+  location: "Lauffen/Neckar, Germany"
+  year: 2010
+  type: "invited talk"
+
+- title: "Next Generation Robots: From Robotic Co-Workers to Intrinsic Compliance"
+  event: "URAI International Workshop on Robot Integration"
+  location: "Gwangju, Korea"
+  year: 2010
+  type: "invited talk"
+
+- title: "Next Generation Robots: From Robotic Co-Workers to Intrinsic Compliance"
+  event: "Intelligent Robotics Lab, Korea University"
+  location: "Seoul, Korea"
+  year: 2010
+  type: "invited talk"
+
+- title: "Safety in Physical Human-Robot Interaction"
+  event: "DIN Normungssitzung"
+  location: "Stuttgart, Germany"
+  year: 2010
+  type: "invited talk"
+
+- title: "Towards Safe Robots: Approaching Asimov's 1st Law"
+  event: "Robotdalen Day"
+  location: "Västerås, Sweden"
+  year: 2010
+  type: "invited talk"
+
+- title: "Towards Safe Robots: Approaching Asimov's 1st Law"
+  event: "Swedish Workshop on Autonomous Robots"
+  location: "Västerås, Sweden"
+  year: 2010
+  type: "invited talk"
+
+- title: "Sichere Mensch-Roboter Interaktion: Kollisionsuntersuchungen und regelungstechnische Methoden"
+  event: "Fraunhofer IFF-Science Days"
+  location: "Magdeburg, Germany"
+  year: 2010
+  type: "invited talk"
+
+- title: "The DLR Robots: An Overview"
+  event: "KIMM Robotics Seminar"
+  location: "Daejeon, Korea"
+  year: 2010
+  type: "invited talk"
+
+- title: "Approaching Asimov's 1st Law: Safety in Physical Human-Robot Interaction"
+  event: "KIMM Robotics Seminar"
+  location: "Daejeon, Korea"
+  year: 2010
+  type: "invited talk"
+
+- title: "Approaching Asimov's 1st Law: Safety in Physical Human-Robot Interaction"
+  event: "International Workshop for Robot Technology"
+  location: "Gwangju, Korea"
+  year: 2010
+  type: "invited talk"
+
+- title: "Approaching Asimov's 1st Law: Safety in Physical Human-Robot Interaction"
+  event: "KITECH Robotics Seminar"
+  location: "Gwangju, Korea"
+  year: 2010
+  type: "invited talk"
+
+# 2008
+- title: "Evaluation of Collision Detection and Reaction for a Human-Friendly Robot on Biological Tissues"
+  event: "PRE-ICRA 2008 Mini-Symposium on Robot Technologies and Humanoids, Stanford University"
+  location: "Stanford, USA"
+  year: 2008
+  type: "invited talk"
+
+# 2007
+- title: "Safe Physical Human-Robot Interaction: Measurements, Analysis & New Insights"
+  event: "Joint Japanese-French Robotics Laboratory (JRL) Colloquium, AIST"
+  location: "Tsukuba, Japan"
+  year: 2007
+  type: "invited talk"
+
+- title: "Safe Physical Human-Robot Interaction: Measurements, Analysis & New Insights"
+  event: "Nakamura & Yamane Laboratory, University of Tokyo"
+  location: "Tokyo, Japan"
+  year: 2007
+  type: "invited talk"
+
+- title: "Sichere Physikalische Mensch-Roboter Interaktion: Messungen, Analyse & Neue Einblicke"
+  event: "Colloquium, University of Bremen & DFKI"
+  location: "Bremen, Germany"
+  year: 2007
+  type: "invited talk"
+
+- title: "Sichere Mensch-Roboter Interaktion: Eine Evaluierung anhand von Crashtests"
+  event: "40. Sitzung des FA 4.13 Steuerung und Regelung von Robotern"
+  location: "Frankfurt, Germany"
+  year: 2007
+  type: "invited talk"
+
+# 2006
+- title: "Overview of man-made actuators"
+  event: "Neurobotics Summer-School 2006"
+  location: "Umeå, Sweden"
+  year: 2006
+  type: "invited talk"
+
+- title: "Impedance Control: Applications at DLR"
+  event: "Impedance: from control to practice"
+  location: "Pontedera, Italy"
+  year: 2006
+  type: "invited talk"

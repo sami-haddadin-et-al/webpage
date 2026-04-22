@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Kangwagye Samuel, Kevin Haninger, Roberto Oboe, Sami Haddadin, Sehoon Oh
 
+**Published in:** IEEE Robotics Autom. Lett., vol. 9, no. 7 (2024)
+
 **DOI:** [10.1109/LRA.2024.3406055](https://doi.org/10.1109/LRA.2024.3406055)
 <!-- **Code:** No entry in BibTeX-->
 

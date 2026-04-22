@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Lingyun Chen, Haoyu Yu, Abdeldjallil Naceri, Abdalla Swikir, Sami Haddadin
 
+**Published in:** arXiv 2408.16420 (2024)
+
 **DOI:** [10.48550/ARXIV.2408.16420](https://doi.org/10.48550/ARXIV.2408.16420)
 <!-- **Code:** No entry in BibTeX-->
 

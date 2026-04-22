@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Johannes Kuehn, Tingli Hu, Moritz Schappler, Sami Haddadin
 
+**Published in:** 2018 IEEE International Conference on Simulation, Modeling, and Programming for Autonomous Robots, SIMPAR 2018, Brisbane, Australia, May 16-19, 2018
+
 **DOI:** [10.1109/SIMPAR.2018.8376286](https://doi.org/10.1109/SIMPAR.2018.8376286)
 <!-- **Code:** No entry in BibTeX-->
 

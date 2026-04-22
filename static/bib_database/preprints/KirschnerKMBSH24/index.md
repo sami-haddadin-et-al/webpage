@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Robin Jeanne Kirschner, Kübra Karacan, Alessandro Melone, Seongjin Bien, Samuel Schneider, Sami Haddadin
 
+**Published in:** Zenodo (Dataset) (2024)
+
 **DOI:** [10.5281/ZENODO.14517292](https://doi.org/10.5281/ZENODO.14517292)
 <!-- **Code:** No entry in BibTeX-->
 

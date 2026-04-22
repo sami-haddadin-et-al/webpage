@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Elie Aljalbout, Ji Chen, Konstantin Ritt, Maximilian Ulmer, Sami Haddadin
 
+**Published in:** arXiv 2010.16298 (2020)
+
 <!-- **DOI:** DOI missing in BibTeX -->
 <!-- **Code:** No entry in BibTeX-->
 

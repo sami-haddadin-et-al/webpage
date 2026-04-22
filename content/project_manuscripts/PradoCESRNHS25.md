@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Diego Fernandez Prado, Xiao Chen, Jean Elsner, Hamid Sadeghian, Nader Rajaei, Abdeldjallil Naceri, Sami Haddadin, Eckehard G. Steinbach
 
+**Published in:** IEEE/RSJ International Conference on Intelligent Robots and Systems, IROS 2025, Hangzhou, China, October 19-25, 2025
+
 **DOI:** [10.1109/IROS60139.2025.11247675](https://doi.org/10.1109/IROS60139.2025.11247675)
 <!-- **Code:** No entry in BibTeX-->
 

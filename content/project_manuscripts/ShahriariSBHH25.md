@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Erfan Shahriari, Petr Svarný, Seyed Ali Baradaran Birjandi, Matej Hoffmann, Sami Haddadin
 
+**Published in:** IEEE Trans. Robotics, vol. 41 (2025)
+
 **DOI:** [10.1109/TRO.2024.3521861](https://doi.org/10.1109/TRO.2024.3521861)
 <!-- **Code:** No entry in BibTeX-->
 

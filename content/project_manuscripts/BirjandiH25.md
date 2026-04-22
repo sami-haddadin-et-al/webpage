@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Seyed Ali Baradaran Birjandi, Sami Haddadin
 
+**Published in:** The International Journal of Robotics Research, vol. 0, no. 0 (2026)
+
 **DOI:** [10.1177/02783649251401930](https://doi.org/10.1177/02783649251401930)
 <!-- **Code:** No entry in BibTeX-->
 

@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Andreas Frotzscher, Xiao Chen, Duy Lam Tran, Thore Goll, Hamid Sadeghian, Fan Wu, Martin Dehmel, Tommy Wohlfahrt, Matthias Riedl, Sami Haddadin
 
+**Published in:** 19th IEEE International Conference on Automation Science and Engineering, CASE 2023, Auckland, New Zealand, August 26-30, 2023
+
 **DOI:** [10.1109/CASE56687.2023.10260499](https://doi.org/10.1109/CASE56687.2023.10260499)
 <!-- **Code:** No entry in BibTeX-->
 

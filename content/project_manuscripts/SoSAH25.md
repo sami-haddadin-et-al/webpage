@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Peter So, Abdalla Swikir, Fares J. Abu-Dakka, Sami Haddadin
 
+**Published in:** IEEE International Conference on Robotics and Automation, ICRA 2025, Atlanta, GA, USA, May 19-23, 2025
+
 **DOI:** [10.1109/ICRA55743.2025.11128714](https://doi.org/10.1109/ICRA55743.2025.11128714)
 <!-- **Code:** No entry in BibTeX-->
 

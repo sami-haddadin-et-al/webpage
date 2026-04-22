@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Christopher Herneth, Amartya Ganguly, Sami Haddadin
 
+**Published in:** arXiv 2408.14361 (2024)
+
 **DOI:** [10.48550/ARXIV.2408.14361](https://doi.org/10.48550/ARXIV.2408.14361)
 <!-- **Code:** No entry in BibTeX-->
 

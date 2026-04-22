@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Jonas Fuchtmann, Roman Krumpholz, Maximilian Berlet, Daniel Ostler, Hubertus Feussner, Sami Haddadin, Dirk Wilhelm
 
+**Published in:** Int. J. Comput. Assist. Radiol. Surg., vol. 16, no. 8 (2021)
+
 **DOI:** [10.1007/S11548-021-02424-Y](https://doi.org/10.1007/S11548-021-02424-Y)
 <!-- **Code:** No entry in BibTeX-->
 

@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Mario Tröbinger, Christoph Jähne, Zheng Qu, Jean Elsner, Anton Reindl, Sebastian Getz, Thore Goll, Benjamin Loinger, Tamara Loibl, Christoph Kugler, Carles Calafell, Mohamadreza Sabaghian, Tobias Ende, Daniel Wahrmann, Sven Parusel, Simon Haddadin, Sami Haddadin
 
+**Published in:** IEEE Robotics Autom. Lett., vol. 6, no. 3 (2021)
+
 **DOI:** [10.1109/LRA.2021.3082012](https://doi.org/10.1109/LRA.2021.3082012)
 <!-- **Code:** No entry in BibTeX-->
 

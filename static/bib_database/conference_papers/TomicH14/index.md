@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Teodor Tomic, Sami Haddadin
 
+**Published in:** 2014 IEEE/RSJ International Conference on Intelligent Robots and Systems, IROS 2014, Chicago, IL, USA, September 14-18, 2014
+
 **DOI:** [10.1109/IROS.2014.6943154](https://doi.org/10.1109/IROS.2014.6943154)
 <!-- **Code:** No entry in BibTeX-->
 

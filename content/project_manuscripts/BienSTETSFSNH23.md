@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Seongjin Bien, Jon Skerlj, Paul Thiel, Felix Eberle, Mario Tröbinger, Christian Stolle, Luis F. C. Figueredo, Hamid Sadeghian, Abdeldjallil Naceri, Sami Haddadin
 
+**Published in:** 22nd IEEE-RAS International Conference on Humanoid Robots, Humanoids 2023, Austin, TX, USA, December 12-14, 2023
+
 **DOI:** [10.1109/HUMANOIDS57100.2023.10375229](https://doi.org/10.1109/HUMANOIDS57100.2023.10375229)
 <!-- **Code:** No entry in BibTeX-->
 

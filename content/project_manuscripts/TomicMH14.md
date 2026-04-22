@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Teodor Tomic, Moritz Maier, Sami Haddadin
 
+**Published in:** 2014 IEEE International Conference on Robotics and Automation, ICRA 2014, Hong Kong, China, May 31 - June 7, 2014
+
 **DOI:** [10.1109/ICRA.2014.6907087](https://doi.org/10.1109/ICRA.2014.6907087)
 <!-- **Code:** No entry in BibTeX-->
 

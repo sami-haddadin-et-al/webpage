@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Michael G. Adam, Sebastian Eger, Martin Piccolrovazzi, Maged Iskandar, Joern Vogel, Alexander Dietrich, Seongjin Bien, Jon Skerlj, Abdeldjallil Naceri, Eckehard G. Steinbach, Alin Albu-Schäffer, Sami Haddadin, Wolfram Burgard
 
+**Published in:** IEEE International Symposium on Multimedia, ISM 2023, Laguna Hills, CA, USA, December 11-13, 2023
+
 **DOI:** [10.1109/ISM59092.2023.00050](https://doi.org/10.1109/ISM59092.2023.00050)
 <!-- **Code:** No entry in BibTeX-->
 

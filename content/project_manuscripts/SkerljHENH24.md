@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Jon Skerlj, Mazin Hamad, Jean Elsner, Abdeldjallil Naceri, Sami Haddadin
 
+**Published in:** IEEE International Conference on Robotics and Automation, ICRA 2024, Yokohama, Japan, May 13-17, 2024
+
 **DOI:** [10.1109/ICRA57147.2024.10611178](https://doi.org/10.1109/ICRA57147.2024.10611178)
 <!-- **Code:** No entry in BibTeX-->
 

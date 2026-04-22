@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Dennis Ossadnik, Elisabeth Rose Jensen, Sami Haddadin
 
+**Published in:** arXiv 2401.08282 (2024)
+
 **DOI:** [10.48550/ARXIV.2401.08282](https://doi.org/10.48550/ARXIV.2401.08282)
 <!-- **Code:** No entry in BibTeX-->
 

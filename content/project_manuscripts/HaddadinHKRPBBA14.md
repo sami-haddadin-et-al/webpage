@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Sami Haddadin, Simon Haddadin, Augusto Khoury, Tim Rokahr, Sven Parusel, Rainer Burgkart, Antonio Bicchi, Alin Albu-Schäffer
 
+**Published in:** Autom., vol. 62, no. 3 (2014)
+
 **DOI:** [10.1515/AUTO-2012-0236](https://doi.org/10.1515/AUTO-2012-0236)
 <!-- **Code:** No entry in BibTeX-->
 

@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Nico Mansfeld, Fabian Beck, Alexander Dietrich, Sami Haddadin
 
+**Published in:** 2017 IEEE/RSJ International Conference on Intelligent Robots and Systems, IROS 2017, Vancouver, BC, Canada, September 24-28, 2017
+
 **DOI:** [10.1109/IROS.2017.8206432](https://doi.org/10.1109/IROS.2017.8206432)
 <!-- **Code:** No entry in BibTeX-->
 

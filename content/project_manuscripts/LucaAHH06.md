@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Alessandro De Luca, Alin Albu-Schäffer, Sami Haddadin, Gerd Hirzinger
 
+**Published in:** 2006 IEEE/RSJ International Conference on Intelligent Robots and Systems, IROS 2006, October 9-15, 2006, Beijing, China
+
 **DOI:** [10.1109/IROS.2006.282053](https://doi.org/10.1109/IROS.2006.282053)
 <!-- **Code:** No entry in BibTeX-->
 

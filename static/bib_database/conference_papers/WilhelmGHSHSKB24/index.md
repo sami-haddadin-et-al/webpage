@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Nikolas J. Wilhelm, Claudio Glowalla, Sami Haddadin, Julian Schote, Hannes Höppner, Patrick van der Smagt, Maximilian Karl, Rainer Burgkart
 
+**Published in:** IEEE International Conference on Robotics and Automation, ICRA 2024, Yokohama, Japan, May 13-17, 2024
+
 **DOI:** [10.1109/ICRA57147.2024.10610715](https://doi.org/10.1109/ICRA57147.2024.10610715)
 <!-- **Code:** No entry in BibTeX-->
 

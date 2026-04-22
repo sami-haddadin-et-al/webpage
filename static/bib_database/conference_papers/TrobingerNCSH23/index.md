@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Mario Tröbinger, Abdeldjallil Naceri, Xiao Chen, Hamid Sadeghian, Sami Haddadin
 
+**Published in:** IEEE International Conference on Robotics and Automation, ICRA 2023, London, UK, May 29 - June 2, 2023
+
 **DOI:** [10.1109/ICRA48891.2023.10160248](https://doi.org/10.1109/ICRA48891.2023.10160248)
 <!-- **Code:** No entry in BibTeX-->
 

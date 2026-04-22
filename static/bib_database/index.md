@@ -1,6 +1,6 @@
 +++
 title = "List of Publications"
-date = "2026-04-01"
+date = "2026-04-22"
 categories = ["publication"]
 tags = ["publication"]
 draft = false
@@ -101,6 +101,7 @@ draft = false
 - [AminzadehSHL24](static/bib_database/conference_papers/AminzadehSHL24/index.md)
 - [AoWWSH25](static/bib_database/conference_papers/AoWWSH25/index.md)
 - [ArrizabalagaPLL24](static/bib_database/conference_papers/ArrizabalagaPLL24/index.md)
+- [BeckerCHLHM23](static/bib_database/journal_papers/BeckerCHLHM23/index.md)
 - [BeckerCLHM24](static/bib_database/journal_papers/BeckerCLHM24/index.md)
 - [BeckerKHM24](static/bib_database/journal_papers/BeckerKHM24/index.md)
 - [BeckerLMH21](static/bib_database/journal_papers/BeckerLMH21/index.md)
@@ -110,6 +111,7 @@ draft = false
 - [BienSTETSFSNH23](static/bib_database/conference_papers/BienSTETSFSNH23/index.md)
 - [BirjandiDKH22](static/bib_database/conference_papers/BirjandiDKH22/index.md)
 - [BirjandiH20](static/bib_database/journal_papers/BirjandiH20/index.md)
+- [BirjandiH26](static/bib_database/journal_papers/BirjandiH26/index.md)
 - [BirjandiKBH23](static/bib_database/conference_papers/BirjandiKBH23/index.md)
 - [BirjandiKH19](static/bib_database/conference_papers/BirjandiKH19/index.md)
 - [BirjandiKH20](static/bib_database/journal_papers/BirjandiKH20/index.md)
@@ -160,6 +162,7 @@ draft = false
 - [GrebensteinABCEFGHHHHJNNPRSWWWH11](static/bib_database/conference_papers/GrebensteinABCEFGHHHHJNNPRSWWWH11/index.md)
 - [GrebensteinCFHWHS12](static/bib_database/journal_papers/GrebensteinCFHWHS12/index.md)
 - [GrischkeJEH19](static/bib_database/conference_papers/GrischkeJEH19/index.md)
+- [grosscfkrgh25](static/bib_database/journal_papers/grosscfkrgh25/index.md)
 - [GrossHBSGNH23](static/bib_database/conference_papers/GrossHBSGNH23/index.md)
 - [GrossRWHCFGSH24](static/bib_database/conference_papers/GrossRWHCFGSH24/index.md)
 - [Haddadin14](static/bib_database/books/Haddadin14/index.md)
@@ -172,12 +175,15 @@ draft = false
 - [HaddadinAFRH09](static/bib_database/conference_papers/HaddadinAFRH09/index.md)
 - [HaddadinAFRH09a](static/bib_database/conference_papers/HaddadinAFRH09a/index.md)
 - [HaddadinAH07](static/bib_database/conference_papers/HaddadinAH07/index.md)
+- [HaddadinAH07b](static/bib_database/conference_papers/HaddadinAH07b/index.md)
 - [HaddadinAH08](static/bib_database/conference_papers/HaddadinAH08/index.md)
 - [HaddadinAH09](static/bib_database/journal_papers/HaddadinAH09/index.md)
 - [HaddadinAH10](static/bib_database/conference_papers/HaddadinAH10/index.md)
 - [HaddadinAH10](static/bib_database/journal_papers/HaddadinAH10/index.md)
+- [HaddadinAH10b](static/bib_database/conference_papers/HaddadinAH10b/index.md)
 - [HaddadinALH08](static/bib_database/conference_papers/HaddadinALH08/index.md)
 - [HaddadinASFH08](static/bib_database/conference_papers/HaddadinASFH08/index.md)
+- [HaddadinBA11](static/bib_database/journal_papers/HaddadinBA11/index.md)
 - [HaddadinC16](static/bib_database/book_chapters/HaddadinC16/index.md)
 - [HaddadinGP12](static/bib_database/journal_papers/HaddadinGP12/index.md)
 - [HaddadinHA12](static/bib_database/conference_papers/HaddadinHA12/index.md)
@@ -206,6 +212,8 @@ draft = false
 - [HaddadinSFBAH10](static/bib_database/journal_papers/HaddadinSFBAH10/index.md)
 - [HaddadinUPBRAH10](static/bib_database/conference_papers/HaddadinUPBRAH10/index.md)
 - [HaddadinWHOMA13](static/bib_database/conference_papers/HaddadinWHOMA13/index.md)
+- [HaddadinWWA11](static/bib_database/journal_papers/HaddadinWWA11/index.md)
+- [HamadGKMASBH23](static/bib_database/journal_papers/HamadGKMASBH23/index.md)
 - [HamadKAH21](static/bib_database/conference_papers/HamadKAH21/index.md)
 - [HamadKAH21a](static/bib_database/conference_papers/HamadKAH21a/index.md)
 - [HamadKMAH23](static/bib_database/journal_papers/HamadKMAH23/index.md)
@@ -229,7 +237,9 @@ draft = false
 - [JohannsmeierGH19](static/bib_database/conference_papers/JohannsmeierGH19/index.md)
 - [JohannsmeierH17](static/bib_database/journal_papers/JohannsmeierH17/index.md)
 - [JohannsmeierH22](static/bib_database/conference_papers/JohannsmeierH22/index.md)
+- [JohannsmeierSLBH25](static/bib_database/journal_papers/JohannsmeierSLBH25/index.md)
 - [KaldestadHBHA14](static/bib_database/conference_papers/KaldestadHBHA14/index.md)
+- [KaracanGSWH23](static/bib_database/journal_papers/KaracanGSWH23/index.md)
 - [KaracanKSWH23](static/bib_database/conference_papers/KaracanKSWH23/index.md)
 - [KaracanKSWH24](static/bib_database/conference_papers/KaracanKSWH24/index.md)
 - [KaracanSKH22](static/bib_database/conference_papers/KaracanSKH22/index.md)
@@ -296,6 +306,7 @@ draft = false
 - [NertingerKANH23](static/bib_database/conference_papers/NertingerKANH23/index.md)
 - [NertingerKNH24](static/bib_database/journal_papers/NertingerKNH24/index.md)
 - [NertingerNH23](static/bib_database/conference_papers/NertingerNH23/index.md)
+- [OssadnikH23](static/bib_database/journal_papers/OssadnikH23/index.md)
 - [OssadnikJH21](static/bib_database/conference_papers/OssadnikJH21/index.md)
 - [OssadnikJH21a](static/bib_database/conference_papers/OssadnikJH21a/index.md)
 - [OssadnikRYFKSH24](static/bib_database/conference_papers/OssadnikRYFKSH24/index.md)
@@ -416,3 +427,4 @@ draft = false
 - [ZhaoVAWZHHB0KHV24](static/bib_database/conference_papers/ZhaoVAWZHHB0KHV24/index.md)
 - [ZwirnmannEKFGH25](static/bib_database/conference_papers/ZwirnmannEKFGH25/index.md)
 - [ZwirnmannKCH23](static/bib_database/conference_papers/ZwirnmannKCH23/index.md)
+- [ZwirnmannKH23](static/bib_database/journal_papers/ZwirnmannKH23/index.md)

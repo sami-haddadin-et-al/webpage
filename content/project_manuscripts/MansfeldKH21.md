@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Nico Mansfeld, Manuel Keppler, Sami Haddadin
 
+**Published in:** IEEE Robotics Autom. Lett., vol. 6, no. 3 (2021)
+
 **DOI:** [10.1109/LRA.2021.3068698](https://doi.org/10.1109/LRA.2021.3068698)
 <!-- **Code:** No entry in BibTeX-->
 

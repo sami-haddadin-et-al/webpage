@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Mehmet Can Yildirim, Mohamadreza Sabaghian, Thore Goll, Clemens Kössler, Christoph Jähne, Abdalla Swikir, Andriy Sarabakha, Sami Haddadin
 
+**Published in:** 2022 International Conference on Robotics and Automation, ICRA 2022, Philadelphia, PA, USA, May 23-27, 2022
+
 **DOI:** [10.1109/ICRA46639.2022.9812006](https://doi.org/10.1109/ICRA46639.2022.9812006)
 <!-- **Code:** No entry in BibTeX-->
 

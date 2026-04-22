@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Mazin Hamad, Alexander Kurdas, Nico Mansfeld, Saeed Abdolshah, Sami Haddadin
 
+**Published in:** IEEE Trans. Robotics, vol. 39, no. 4 (2023)
+
 **DOI:** [10.1109/TRO.2023.3257515](https://doi.org/10.1109/TRO.2023.3257515)
 <!-- **Code:** No entry in BibTeX-->
 

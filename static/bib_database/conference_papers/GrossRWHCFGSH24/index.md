@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Sonja Groß, Michael Ratzel, Edgar Welte, Diego Hidalgo-Carvajal, Lingyun Chen, Edmundo Pozo Fortunic, Amartya Ganguly, Abdalla Swikir, Sami Haddadin
 
+**Published in:** IEEE/RSJ International Conference on Intelligent Robots and Systems, IROS 2024, Abu Dhabi, United Arab Emirates, October 14-18, 2024
+
 **DOI:** [10.1109/IROS58592.2024.10801426](https://doi.org/10.1109/IROS58592.2024.10801426)
 <!-- **Code:** No entry in BibTeX-->
 

@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Rafael I. Cabral Muchacho, Riddhiman Laha, Luis F. C. Figueredo, Sami Haddadin
 
+**Published in:** arXiv 2210.12614 (2022)
+
 **DOI:** [10.48550/ARXIV.2210.12614](https://doi.org/10.48550/ARXIV.2210.12614)
 <!-- **Code:** No entry in BibTeX-->
 

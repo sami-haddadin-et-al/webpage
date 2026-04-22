@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Johannes Ringwald, Samuel Schneider, Lingyun Chen, Dennis Knobbe, Lars Johannsmeier, Abdalla Swikir, Sami Haddadin
 
+**Published in:** arXiv 2210.10015 (2022)
+
 **DOI:** [10.48550/ARXIV.2210.10015](https://doi.org/10.48550/ARXIV.2210.10015)
 <!-- **Code:** No entry in BibTeX-->
 

@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Anna Reithmeir, Luis F. C. Figueredo, Sami Haddadin
 
+**Published in:** arXiv 2208.07588 (2022)
+
 **DOI:** [10.48550/ARXIV.2208.07588](https://doi.org/10.48550/ARXIV.2208.07588)
 <!-- **Code:** No entry in BibTeX-->
 

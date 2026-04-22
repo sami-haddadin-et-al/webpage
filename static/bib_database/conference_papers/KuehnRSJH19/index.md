@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Johannes Kuehn, Johannes Ringwald, Moritz Schappler, Lars Johannsmeier, Sami Haddadin
 
+**Published in:** International Conference on Robotics and Automation, ICRA 2019, Montreal, QC, Canada, May 20-24, 2019
+
 **DOI:** [10.1109/ICRA.2019.8794332](https://doi.org/10.1109/ICRA.2019.8794332)
 <!-- **Code:** No entry in BibTeX-->
 

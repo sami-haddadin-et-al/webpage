@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Sami Haddadin, Michael Suppa, Stefan Fuchs, Tim Bodenmüller, Alin Albu-Schäffer, Gerd Hirzinger
 
+**Published in:** Robotics Research - The 14th International Symposium, ISRR 2009, August 31 - September 3, 2009, Lucerne, Switzerland
+
 **DOI:** [10.1007/978-3-642-19457-3\_16](https://doi.org/10.1007/978-3-642-19457-3\_16)
 <!-- **Code:** No entry in BibTeX-->
 

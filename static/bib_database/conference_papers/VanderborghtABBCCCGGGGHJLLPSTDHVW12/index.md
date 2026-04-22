@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Bram Vanderborght, Alin Albu-Schäffer, Antonio Bicchi, Etienne Burdet, Darwin G. Caldwell, Raffaella Carloni, Manuel G. Catalano, Ganesh Gowrishankar, Manolo Garabini, Markus Grebenstein, Giorgio Grioli, Sami Haddadin, Amir Jafari, Matteo Laffranchi, Dirk Lefeber, Florian Petit, Stefano Stramigioli, Nikolaos G. Tsagarakis, Michaël Van Damme, Ronald Van Ham, Ludo C. Visser, Sebastian Wolf
 
+**Published in:** 2012 IEEE/RSJ International Conference on Intelligent Robots and Systems, IROS 2012, Vilamoura, Algarve, Portugal, October 7-12, 2012
+
 **DOI:** [10.1109/IROS.2012.6385433](https://doi.org/10.1109/IROS.2012.6385433)
 <!-- **Code:** No entry in BibTeX-->
 

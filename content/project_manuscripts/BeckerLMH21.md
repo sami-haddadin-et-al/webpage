@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Marvin Becker, Torsten Lilge, Matthias A. Müller, Sami Haddadin
 
+**Published in:** IEEE Robotics Autom. Lett., vol. 6, no. 2 (2021)
+
 **DOI:** [10.1109/LRA.2021.3061997](https://doi.org/10.1109/LRA.2021.3061997)
 <!-- **Code:** No entry in BibTeX-->
 

@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Vasilije Rakcevic, Dennis Ossadnik, Edmundo Pozo Fortunic, Mehmet Can Yildirim, Valentin Le Mesle, Sami Haddadin
 
+**Published in:** IEEE/RSJ International Conference on Intelligent Robots and Systems, IROS 2025, Hangzhou, China, October 19-25, 2025
+
 **DOI:** [10.1109/IROS60139.2025.11246742](https://doi.org/10.1109/IROS60139.2025.11246742)
 <!-- **Code:** No entry in BibTeX-->
 

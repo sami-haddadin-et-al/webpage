@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Kejia Chen, Zhenshan Bing, Fan Wu, Yuan Meng, André Kraft, Sami Haddadin, Alois Knoll
 
+**Published in:** arXiv 2307.10153 (2023)
+
 **DOI:** [10.48550/ARXIV.2307.10153](https://doi.org/10.48550/ARXIV.2307.10153)
 <!-- **Code:** No entry in BibTeX-->
 

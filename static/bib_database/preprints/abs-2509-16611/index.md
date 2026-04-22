@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Xiwei Zhao, Yiwei Wang, Yansong Wu, Fan Wu, Teng Sun, Zhonghua Miao, Sami Haddadin, Alois Knoll
 
+**Published in:** arXiv 2509.16611 (2025)
+
 **DOI:** [10.48550/ARXIV.2509.16611](https://doi.org/10.48550/ARXIV.2509.16611)
 <!-- **Code:** No entry in BibTeX-->
 

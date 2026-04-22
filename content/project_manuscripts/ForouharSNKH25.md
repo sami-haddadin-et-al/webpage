@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Moein Forouhar, Hamid Sadeghian, Abdeldjallil Naceri, Alexander König, Sami Haddadin
 
+**Published in:** IEEE/RSJ International Conference on Intelligent Robots and Systems, IROS 2025, Hangzhou, China, October 19-25, 2025
+
 **DOI:** [10.1109/IROS60139.2025.11246161](https://doi.org/10.1109/IROS60139.2025.11246161)
 <!-- **Code:** No entry in BibTeX-->
 

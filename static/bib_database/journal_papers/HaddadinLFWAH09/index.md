@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Sami Haddadin, Tim Laue, Udo Frese, Sebastian Wolf, Alin Albu-Schäffer, Gerd Hirzinger
 
+**Published in:** Robotics Auton. Syst., vol. 57, no. 8 (2009)
+
 **DOI:** [10.1016/J.ROBOT.2009.03.004](https://doi.org/10.1016/J.ROBOT.2009.03.004)
 <!-- **Code:** No entry in BibTeX-->
 

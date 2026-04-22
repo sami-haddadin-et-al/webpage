@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Junnan Li, Lingyun Chen, Johannes Ringwald, Edmundo Pozo Fortunic, Amartya Ganguly, Sami Haddadin
 
+**Published in:** arXiv 2408.13044 (2024)
+
 **DOI:** [10.48550/ARXIV.2408.13044](https://doi.org/10.48550/ARXIV.2408.13044)
 <!-- **Code:** No entry in BibTeX-->
 

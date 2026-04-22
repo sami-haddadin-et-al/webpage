@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Chavdar Papazov, Sami Haddadin, Sven Parusel, Kai Krieger, Darius Burschka
 
+**Published in:** Int. J. Robotics Res., vol. 31, no. 4 (2012)
+
 **DOI:** [10.1177/0278364911436019](https://doi.org/10.1177/0278364911436019)
 <!-- **Code:** No entry in BibTeX-->
 

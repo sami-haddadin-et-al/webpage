@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Philipp Wicke, Lütfi Kerem Senel, Shengqiang Zhang, Luis F. C. Figueredo, Abdeldjallil Naceri, Sami Haddadin, Hinrich Schütze
 
+**Published in:** arXiv 2306.14830 (2023)
+
 **DOI:** [10.48550/ARXIV.2306.14830](https://doi.org/10.48550/ARXIV.2306.14830)
 <!-- **Code:** No entry in BibTeX-->
 

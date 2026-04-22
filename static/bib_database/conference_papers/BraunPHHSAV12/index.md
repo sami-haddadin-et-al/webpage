@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** David J. Braun, Florian Petit, Felix Huber, Sami Haddadin, Patrick van der Smagt, Alin Albu-Schäffer, Sethu Vijayakumar
 
+**Published in:** 2012 IEEE/RSJ International Conference on Intelligent Robots and Systems, IROS 2012, Vilamoura, Algarve, Portugal, October 7-12, 2012
+
 **DOI:** [10.1109/IROS.2012.6385991](https://doi.org/10.1109/IROS.2012.6385991)
 <!-- **Code:** No entry in BibTeX-->
 

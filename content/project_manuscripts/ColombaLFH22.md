@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Rachele Nebbia Colomba, Riddhiman Laha, Luis F. C. Figueredo, Sami Haddadin
 
+**Published in:** 61st IEEE Conference on Decision and Control, CDC 2022, Cancun, Mexico, December 6-9, 2022
+
 **DOI:** [10.1109/CDC51059.2022.9992402](https://doi.org/10.1109/CDC51059.2022.9992402)
 <!-- **Code:** No entry in BibTeX-->
 

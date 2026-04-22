@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Axel Sauer, Elie Aljalbout, Sami Haddadin
 
+**Published in:** 30th British Machine Vision Conference 2019, BMVC 2019, Cardiff, UK, September 9-12, 2019
+
 <!-- **DOI:** DOI missing in BibTeX -->
 <!-- **Code:** No entry in BibTeX-->
 

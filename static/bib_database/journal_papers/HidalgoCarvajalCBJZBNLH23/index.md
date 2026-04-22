@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Diego Hidalgo-Carvajal, Hanzhi Chen, Gemma Carolina Bettelani, Jaesug Jung, Melissa Zavaglia, Laura Busse, Abdeldjallil Naceri, Stefan Leutenegger, Sami Haddadin
 
+**Published in:** IEEE Robotics Autom. Lett., vol. 8, no. 12 (2023)
+
 **DOI:** [10.1109/LRA.2023.3322086](https://doi.org/10.1109/LRA.2023.3322086)
 <!-- **Code:** No entry in BibTeX-->
 

@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Alexander Toedtheide, Johannes Kühn, Edmundo Pozo Fortunic, Sami Haddadin
 
+**Published in:** 20th IEEE-RAS International Conference on Humanoid Robots, Humanoids 2021, Munich, Germany, July 19-21, 2021
+
 **DOI:** [10.1109/HUMANOIDS47582.2021.9555777](https://doi.org/10.1109/HUMANOIDS47582.2021.9555777)
 <!-- **Code:** No entry in BibTeX-->
 

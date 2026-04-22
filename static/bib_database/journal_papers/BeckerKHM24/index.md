@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Marvin Becker, Johannes Köhler, Sami Haddadin, Matthias Albrecht Müller
 
+**Published in:** IEEE Trans. Autom. Control., vol. 69, no. 3 (2024)
+
 **DOI:** [10.1109/TAC.2023.3303168](https://doi.org/10.1109/TAC.2023.3303168)
 <!-- **Code:** No entry in BibTeX-->
 

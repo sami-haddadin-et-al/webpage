@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Teodor Tomic, Korbinian Schmid, Philipp Lutz, Andrew Mathers, Sami Haddadin
 
+**Published in:** 2016 IEEE/RSJ International Conference on Intelligent Robots and Systems, IROS 2016, Daejeon, South Korea, October 9-14, 2016
+
 **DOI:** [10.1109/IROS.2016.7759264](https://doi.org/10.1109/IROS.2016.7759264)
 <!-- **Code:** No entry in BibTeX-->
 

@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Martin Schonger, Hugo T. M. Kussaba, Lingyun Chen, Luis F. C. Figueredo, Abdalla Swikir, Aude Billard, Sami Haddadin
 
+**Published in:** arXiv 2403.08178 (2024)
+
 **DOI:** [10.48550/ARXIV.2403.08178](https://doi.org/10.48550/ARXIV.2403.08178)
 <!-- **Code:** No entry in BibTeX-->
 

@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Reinhard Grassmann, Lars Johannsmeier, Sami Haddadin
 
+**Published in:** 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems, IROS 2018, Madrid, Spain, October 1-5, 2018
+
 **DOI:** [10.1109/IROS.2018.8594339](https://doi.org/10.1109/IROS.2018.8594339)
 <!-- **Code:** No entry in BibTeX-->
 

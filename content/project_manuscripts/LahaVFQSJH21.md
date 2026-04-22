@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Riddhiman Laha, Jonathan Vorndamme, Luis F. C. Figueredo, Zheng Qu, Abdalla Swikir, Christoph Jähne, Sami Haddadin
 
+**Published in:** IEEE/RSJ International Conference on Intelligent Robots and Systems, IROS 2021, Prague, Czech Republic, September 27 - Oct. 1, 2021
+
 **DOI:** [10.1109/IROS51168.2021.9636652](https://doi.org/10.1109/IROS51168.2021.9636652)
 <!-- **Code:** No entry in BibTeX-->
 

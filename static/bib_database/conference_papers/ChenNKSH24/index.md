@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Xiao Chen, Tianle Ni, Kübra Karacan, Hamid Sadeghian, Sami Haddadin
 
+**Published in:** Conference on Robot Learning, 6-9 November 2024, Munich, Germany
+
 <!-- **DOI:** DOI missing in BibTeX -->
 <!-- **Code:** No entry in BibTeX-->
 

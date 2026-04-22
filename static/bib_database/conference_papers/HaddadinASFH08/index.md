@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Sami Haddadin, Alin Albu-Schäffer, Michael Strohmayr, Mirko Frommberger, Gerd Hirzinger
 
+**Published in:** 2008 IEEE International Conference on Robotics and Automation, ICRA 2008, May 19-23, 2008, Pasadena, California, USA
+
 **DOI:** [10.1109/ROBOT.2008.4543534](https://doi.org/10.1109/ROBOT.2008.4543534)
 <!-- **Code:** No entry in BibTeX-->
 

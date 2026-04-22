@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Lars Johannsmeier, Malkin Gerchow, Sami Haddadin
 
+**Published in:** International Conference on Robotics and Automation, ICRA 2019, Montreal, QC, Canada, May 20-24, 2019
+
 **DOI:** [10.1109/ICRA.2019.8793542](https://doi.org/10.1109/ICRA.2019.8793542)
 <!-- **Code:** No entry in BibTeX-->
 

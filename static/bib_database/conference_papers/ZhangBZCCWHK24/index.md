@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Liding Zhang, Zhenshan Bing, Yu Zhang, Kuanqi Cai, Lingyun Chen, Fan Wu, Sami Haddadin, Alois Knoll
 
+**Published in:** IEEE/RSJ International Conference on Intelligent Robots and Systems, IROS 2024, Abu Dhabi, United Arab Emirates, October 14-18, 2024
+
 **DOI:** [10.1109/IROS58592.2024.10802280](https://doi.org/10.1109/IROS58592.2024.10802280)
 <!-- **Code:** No entry in BibTeX-->
 

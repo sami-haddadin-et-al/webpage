@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Sami Haddadin, Sven Parusel, Rico Belder, Joern Vogel, Tim Rokahr, Alin Albu-Schäffer, Gerd Hirzinger
 
+**Published in:** 2010 IEEE/RSJ International Conference on Intelligent Robots and Systems, October 18-22, 2010, Taipei, Taiwan
+
 **DOI:** [10.1109/IROS.2010.5650636](https://doi.org/10.1109/IROS.2010.5650636)
 <!-- **Code:** No entry in BibTeX-->
 

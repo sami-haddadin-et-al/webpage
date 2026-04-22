@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Jonathan Vorndamme, Alessandro Melone, Robin Jeanne Kirschner, Luis F. C. Figueredo, Sami Haddadin
 
+**Published in:** IEEE Trans. Robotics, vol. 41 (2025)
+
 **DOI:** [10.1109/TRO.2024.3519421](https://doi.org/10.1109/TRO.2024.3519421)
 <!-- **Code:** No entry in BibTeX-->
 

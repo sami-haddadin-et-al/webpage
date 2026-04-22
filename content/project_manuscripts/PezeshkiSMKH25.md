@@ -13,6 +13,8 @@ gen_lock = false
 
 **Authors:** Leilaalsadat Pezeshki, Hamid Sadeghian, Abolfazl Mohebbi, Mehdi Keshmiri, Sami Haddadin
 
+**Published in:** IEEE Trans Autom. Sci. Eng., vol. 22 (2025)
+
 **DOI:** [10.1109/TASE.2025.3552446](https://doi.org/10.1109/TASE.2025.3552446)
 <!-- **Code:** No entry in BibTeX-->
 

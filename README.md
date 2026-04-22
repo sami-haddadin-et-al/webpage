@@ -272,3 +272,10 @@ The following scripts are found in scripts/
 python3 scripts/sync_bib_folders.py
 python3 scripts/generate_publication_project_pages.py
 ````
+
+You can also run the following scripts
+````
+python3 scripts/generate_publication_project_pages.py
+python3 scripts/copy_publication_pages_to_content.py
+python3 scripts/generate_bibliography_page.py
+````

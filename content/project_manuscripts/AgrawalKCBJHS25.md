@@ -13,7 +13,7 @@ gen_lock = false
 
 **Authors:** Shreenabh Agrawal, Hugo T. M. Kussaba, Lingyun Chen, Allen Emmanuel Binny, Pushpak Jagtap, Sami Haddadin, Abdalla Swikir
 
-**Published in:** IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025), Hangzhou, China, October 19-25, 2025
+**Published in:** IEEE/RSJ International Conference on Intelligent Robots and Systems, IROS 2025, Hangzhou, China, October 19-25, 2025
 
 **DOI:** [10.1109/IROS60139.2025.11247176](https://doi.org/10.1109/IROS60139.2025.11247176)
 <!-- **Code:** No entry in BibTeX-->

@@ -1,21 +1,21 @@
 +++
-title = "ECDP: Energy Consumption Disaggregation Pipeline for Energy Optimization in Lightweight Robots"
+title = "Labelling Lightweight Robot Energy Consumption: A Mechatronics-Based Benchmarking Metric Set"
 date = "2023-01-01"
-categories = ["publication", "article"]
-tags = ["publication", "article"]
+categories = ["publication", "inproceedings"]
+tags = ["publication", "inproceedings"]
 author = ["Juan Heredia", "Robin Jeanne Kirschner", "Christian Schlette", "Saeed Abdolshah", "Sami Haddadin", "Mikkel Baun Kjærgaard"]
 keywords = []
 draft = false
 gen_lock = false
 +++
 
-# ECDP: Energy Consumption Disaggregation Pipeline for Energy Optimization in Lightweight Robots
+# Labelling Lightweight Robot Energy Consumption: A Mechatronics-Based Benchmarking Metric Set
 
 **Authors:** Juan Heredia, Robin Jeanne Kirschner, Christian Schlette, Saeed Abdolshah, Sami Haddadin, Mikkel Baun Kjærgaard
 
-**Published in:** IEEE Robotics Autom. Lett., vol. 8, no. 10 (2023)
+**Published in:** IROS (2023)
 
-**DOI:** [10.1109/LRA.2023.3301311](https://doi.org/10.1109/LRA.2023.3301311)
+**DOI:** [10.1109/IROS55552.2023.10341484](https://doi.org/10.1109/IROS55552.2023.10341484)
 <!-- **Code:** No entry in BibTeX-->
 
 _No images available._
@@ -35,24 +35,22 @@ _No additional files._
 ## BibTeX
 If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
-@article{DBLP:journals/ral/HerediaKSAHK23,
+@inproceedings{DBLP:conf/iros/HerediaKSAHK23,
   author       = {Juan Heredia and
                   Robin Jeanne Kirschner and
                   Christian Schlette and
                   Saeed Abdolshah and
                   Sami Haddadin and
                   Mikkel Baun Kj{\ae}rgaard},
-  title        = {{ECDP:} Energy Consumption Disaggregation Pipeline for Energy Optimization
-                  in Lightweight Robots},
-  journal      = {{IEEE} Robotics Autom. Lett.},
-  volume       = {8},
-  number       = {10},
-  pages        = {6107--6114},
+  title        = {Labelling Lightweight Robot Energy Consumption: {A} Mechatronics-Based
+                  Benchmarking Metric Set},
+  booktitle    = {{IROS}},
+  pages        = {1789--1796},
   year         = {2023},
-  url          = {https://doi.org/10.1109/LRA.2023.3301311},
-  doi          = {10.1109/LRA.2023.3301311},
-  timestamp    = {Fri, 23 Feb 2024 00:00:00 +0100},
-  biburl       = {https://dblp.org/rec/journals/ral/HerediaKSAHK23.bib},
+  url          = {https://doi.org/10.1109/IROS55552.2023.10341484},
+  doi          = {10.1109/IROS55552.2023.10341484},
+  timestamp    = {Thu, 25 Dec 2025 00:00:00 +0100},
+  biburl       = {https://dblp.org/rec/conf/iros/HerediaKSAHK23.bib},
   bibsource    = {dblp computer science bibliography, https://dblp.org}
 }
 ```

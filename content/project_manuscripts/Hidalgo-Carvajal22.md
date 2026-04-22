@@ -1,21 +1,21 @@
 +++
-title = "End-to-End From Human Hand Synergies to Robot Hand Tendon Routing"
-date = "2022-01-01"
-categories = ["publication", "article"]
-tags = ["publication", "article"]
-author = ["Diego Hidalgo-Carvajal", "Christopher Herneth", "Abdeldjallil Naceri", "Sami Haddadin"]
+title = "Object-Centric Grasping Transferability: Linking Meshes to Postures"
+date = "2022-11-28"
+categories = ["publication", "inproceedings"]
+tags = ["publication", "inproceedings"]
+author = ["Diego Hidalgo-Carvajal", "Carlos Magno C. O. Valle", "Abdeldjallil Naceri", "Sami Haddadin"]
 keywords = []
 draft = false
 gen_lock = false
 +++
 
-# End-to-End From Human Hand Synergies to Robot Hand Tendon Routing
+# Object-Centric Grasping Transferability: Linking Meshes to Postures
 
-**Authors:** Diego Hidalgo-Carvajal, Christopher Herneth, Abdeldjallil Naceri, Sami Haddadin
+**Authors:** Diego Hidalgo-Carvajal, Carlos Magno C. O. Valle, Abdeldjallil Naceri, Sami Haddadin
 
-**Published in:** IEEE Robotics Autom. Lett., vol. 7, no. 4 (2022)
+**Published in:** 21st IEEE-RAS International Conference on Humanoid Robots, Humanoids 2022, Ginowan, Japan, November 28-30, 2022
 
-**DOI:** [10.1109/LRA.2022.3192649](https://doi.org/10.1109/LRA.2022.3192649)
+**DOI:** [10.1109/HUMANOIDS53995.2022.10000192](https://doi.org/10.1109/HUMANOIDS53995.2022.10000192)
 <!-- **Code:** No entry in BibTeX-->
 
 _No images available._
@@ -35,21 +35,21 @@ _No additional files._
 ## BibTeX
 If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
-@article{DBLP:journals/ral/Hidalgo-Carvajal22,
+@inproceedings{DBLP:conf/humanoids/Hidalgo-Carvajal22,
   author       = {Diego Hidalgo{-}Carvajal and
-                  Christopher Herneth and
+                  Carlos Magno C. O. Valle and
                   Abdeldjallil Naceri and
                   Sami Haddadin},
-  title        = {End-to-End From Human Hand Synergies to Robot Hand Tendon Routing},
-  journal      = {{IEEE} Robotics Autom. Lett.},
-  volume       = {7},
-  number       = {4},
-  pages        = {10057--10064},
+  title        = {Object-Centric Grasping Transferability: Linking Meshes to Postures},
+  booktitle    = {21st {IEEE-RAS} International Conference on Humanoid Robots, Humanoids
+                  2022, Ginowan, Japan, November 28-30, 2022},
+  pages        = {659--666},
+  publisher    = {{IEEE}},
   year         = {2022},
-  url          = {https://doi.org/10.1109/LRA.2022.3192649},
-  doi          = {10.1109/LRA.2022.3192649},
-  timestamp    = {Mon, 05 Dec 2022 00:00:00 +0100},
-  biburl       = {https://dblp.org/rec/journals/ral/Hidalgo-Carvajal22.bib},
+  url          = {https://doi.org/10.1109/Humanoids53995.2022.10000192},
+  doi          = {10.1109/HUMANOIDS53995.2022.10000192},
+  timestamp    = {Sat, 30 Sep 2023 01:00:00 +0200},
+  biburl       = {https://dblp.org/rec/conf/humanoids/Hidalgo-Carvajal22.bib},
   bibsource    = {dblp computer science bibliography, https://dblp.org}
 }
 ```

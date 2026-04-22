@@ -1,6 +1,6 @@
 +++
 title = "Safety Evaluation of Physical Human-Robot Interaction via Crash-Testing"
-date = "2007-11-26"
+date = "2007-06-27"
 categories = ["publication", "inproceedings"]
 tags = ["publication", "inproceedings"]
 author = ["Sami Haddadin", "Alin Albu-Schäffer", "Gerd Hirzinger"]

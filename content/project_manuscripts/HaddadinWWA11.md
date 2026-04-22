@@ -1,9 +1,9 @@
 +++
 title = "Optimal Control for Maximizing Link Velocity of Robotic Variable Stiffness Joints"
 date = "2011-01-01"
-categories = ["publication", "inproceedings"]
-tags = ["publication", "inproceedings"]
-author = ["Sami Haddadin", "Michael Weis", "Sebastian Wolf", "Alin Albu-Schäffer"]
+categories = ["publication", "article"]
+tags = ["publication", "article"]
+author = ["Sami Haddadin", "Michael Weis", "Sebastian Wolf", "Alin Albu-Sch√§ffer"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,12 +11,11 @@ gen_lock = false
 
 # Optimal Control for Maximizing Link Velocity of Robotic Variable Stiffness Joints
 
-**Authors:** Sami Haddadin, Michael Weis, Sebastian Wolf, Alin Albu-Schäffer
-
+**Authors:** Sami Haddadin, Michael Weis, Sebastian Wolf, Alin Albu-Sch√§ffer
 
 **Published in:** IFAC Proceedings Volumes, vol. 44, no. 1 (2011)
 
-**DOI:** [10.3182/20110828-6-IT-1002.01686](https://doi.org/10.3182/20110828-6-IT-1002.01686)
+**DOI:** [https://doi.org/10.3182/20110828-6-IT-1002.01686](https://doi.org/https://doi.org/10.3182/20110828-6-IT-1002.01686)
 <!-- **Code:** No entry in BibTeX-->
 
 _No images available._

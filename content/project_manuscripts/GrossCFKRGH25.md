@@ -4,18 +4,19 @@ date = "2025-01-01"
 categories = ["publication", "article"]
 tags = ["publication", "article"]
 author = ["Sonja Groß", "Lingyun Chen", "Edmundo Pozo Fortunić", "Manuel Krummschmidt", "Johannes Ringwald", "Amartya Ganguly", "Sami Haddadin"]
-keywords = ["Sensors", "Robots", "Magnetic sensors", "Force", "Three-dimensional printing", "Prototypes", "Tactile sensors", "Temperature sensors", "Sensor fusion", "Integrated circuits", "Barometer", "comparison", "magnetic", "piezoelectric", "piezoresistive", "robotic grasping", "sensor fusion", "tactile sensors"]
+keywords = []
 draft = false
 gen_lock = false
 +++
 
 # Tactile Sensor Elements Based on Commercial Components: An Experimental Comparison
 
-**Authors:** Sonja Groß, Lingyun Chen, Edmundo Pozo Fortunić, Manuel Krummschmidt, Johannes Ringwald, Amartya Ganguly, and Sami Haddadin
+**Authors:** Sonja Groß, Lingyun Chen, Edmundo Pozo Fortunić, Manuel Krummschmidt, Johannes Ringwald, Amartya Ganguly, Sami Haddadin
 
 **Published in:** IEEE Sensors Journal, vol. 25, no. 20 (2025)
 
 **DOI:** [10.1109/JSEN.2025.3606565](https://doi.org/10.1109/JSEN.2025.3606565)
+<!-- **Code:** No entry in BibTeX-->
 
 _No images available._
 
@@ -23,7 +24,7 @@ _No images available._
 _No abstract available._
 
 ## Tags
-Sensors, Robots, Magnetic sensors, Force, Three-dimensional printing, Prototypes, Tactile sensors, Temperature sensors, Sensor fusion, Integrated circuits, Barometer, comparison, magnetic, piezoelectric, piezoresistive, robotic grasping, sensor fusion, tactile sensors
+_No tag(s) or keyword(s) available._
 
 ## Videos
 _No video(s) available._
@@ -34,7 +35,7 @@ _No additional files._
 ## BibTeX
 If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
-@ARTICLE{GrossCFKRGH25,
+@ARTICLE{DBLP:journals/JSEN/grosscfkrgh25,
   author={Groß, Sonja and Chen, Lingyun and Pozo Fortunić, Edmundo and Krummschmidt, Manuel and Ringwald, Johannes and Ganguly, Amartya and Haddadin, Sami},
   journal={IEEE Sensors Journal}, 
   title={Tactile Sensor Elements Based on Commercial Components: An Experimental Comparison}, 
@@ -43,5 +44,5 @@ If you want to cite this work, you can use the following BibTeX file:
   number={20},
   pages={37802-37809},
   keywords={Sensors;Robots;Magnetic sensors;Force;Three-dimensional printing;Prototypes;Tactile sensors;Temperature sensors;Sensor fusion;Integrated circuits;Barometer;comparison;magnetic;piezoelectric;piezoresistive;robotic grasping;sensor fusion;tactile sensors},
-  doi={10.1109/JSEN.2025.3606565}
-}```
+  doi={10.1109/JSEN.2025.3606565}}
+```

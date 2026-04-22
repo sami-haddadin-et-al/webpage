@@ -6,6 +6,7 @@ date = "2026-04-22"
 ---
 
 ## Theses
+
 **2011**
 - Sami Haddadin, *Towards Safe Robots: Approaching Asimov's 1st Law*, Ph.D. thesis, RWTH Aachen University, 2011. [PDF](https://publications.rwth-aachen.de/record/52869/files/3826.pdf)
 

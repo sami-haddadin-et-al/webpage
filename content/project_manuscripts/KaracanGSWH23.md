@@ -1,9 +1,9 @@
 +++
 title = "Tactile Exploration Using Unified Force-Impedance Control"
-date = "2024-10-14"
-categories = ["publication", "inproceedings"]
-tags = ["publication", "inproceedings"]
-author = ["Kübra Karacan", "Divij Grover", "Hamid Sadeghian", "Fan Wu", "Sami Haddadin"]
+date = "2023-01-01"
+categories = ["publication", "article"]
+tags = ["publication", "article"]
+author = ["K√ºbra Karacan", "Divij Grover", "Hamid Sadeghian", "Fan Wu", "Sami Haddadin"]
 keywords = []
 draft = false
 gen_lock = false
@@ -11,11 +11,11 @@ gen_lock = false
 
 # Tactile Exploration Using Unified Force-Impedance Control
 
-**Authors:** Kübra Karacan, Divij Grover, Hamid Sadeghian, Fan Wu, Sami Haddadin
+**Authors:** K√ºbra Karacan, Divij Grover, Hamid Sadeghian, Fan Wu, Sami Haddadin
 
 **Published in:** IFAC-PapersOnLine, vol. 56, no. 2 (2023)
 
-**DOI:** [10.1016/j.ifacol.2023.10.1279](https://doi.org/10.1016/j.ifacol.2023.10.1279)
+**DOI:** [https://doi.org/10.1016/j.ifacol.2023.10.1279](https://doi.org/https://doi.org/10.1016/j.ifacol.2023.10.1279)
 <!-- **Code:** No entry in BibTeX-->
 
 _No images available._

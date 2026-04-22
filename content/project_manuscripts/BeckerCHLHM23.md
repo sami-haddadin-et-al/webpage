@@ -3,19 +3,19 @@ title = "Informed Circular Fields for Global Reactive Obstacle Avoidance of Robo
 date = "2023-01-01"
 categories = ["publication", "article"]
 tags = ["publication", "article"]
-author = ["Marvin Becker", "Philipp Caspers", "Tom Hattendorf", "Torsten Lilge", "Sami Haddadin", "Matthias Albrecht Müller"]
+author = ["Marvin Becker", "Philipp Caspers", "Tom Hattendorf", "Torsten Lilge", "Sami Haddadin", "Matthias A. M√ºller"]
 keywords = []
 draft = false
 gen_lock = false
 +++
 
-# Informed circular fields: a global reactive obstacle avoidance framework for robotic manipulators
+# Informed Circular Fields for Global Reactive Obstacle Avoidance of Robotic Manipulators
 
-**Authors:** Marvin Becker, Philipp Caspers, Tom Hattendorf, Torsten Lilge, Sami Haddadin, Matthias Albrecht Müller
+**Authors:** Marvin Becker, Philipp Caspers, Tom Hattendorf, Torsten Lilge, Sami Haddadin, Matthias A. M√ºller
 
 **Published in:** IFAC-PapersOnLine, vol. 56, no. 2 (2023)
 
-**DOI:** [10.1016/j.ifacol.2023.10.1698](https://doi.org/10.1016/j.ifacol.2023.10.1698)
+**DOI:** [https://doi.org/10.1016/j.ifacol.2023.10.1698](https://doi.org/https://doi.org/10.1016/j.ifacol.2023.10.1698)
 <!-- **Code:** No entry in BibTeX-->
 
 _No images available._

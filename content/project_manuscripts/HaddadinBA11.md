@@ -1,21 +1,21 @@
 +++
-title = "Dynamic Motion Planning for Robots in Partially Unknown Environments"
+title = "Dynamic Motion Planning for Robots in Partially Unknown Environments*"
 date = "2011-01-01"
-categories = ["publication", "inproceedings"]
-tags = ["publication", "inproceedings"]
-author = ["Sami Haddadin", "Rico Belder", "Alin Albu-Schäffer"]
+categories = ["publication", "article"]
+tags = ["publication", "article"]
+author = ["Sami Haddadin", "Rico Belder", "Alin Albu-Sch√§ffer"]
 keywords = []
 draft = false
 gen_lock = false
 +++
 
-# Dynamic Motion Planning for Robots in Partially Unknown Environments
+# Dynamic Motion Planning for Robots in Partially Unknown Environments*
 
-**Authors:** Sami Haddadin, Rico Belder, Alin Albu-Schäffer
+**Authors:** Sami Haddadin, Rico Belder, Alin Albu-Sch√§ffer
 
 **Published in:** IFAC Proceedings Volumes, vol. 44, no. 1 (2011)
 
-**DOI:** [10.3182/20110828-6-IT-1002.02500](https://doi.org/10.3182/20110828-6-IT-1002.02500)
+**DOI:** [https://doi.org/10.3182/20110828-6-IT-1002.02500](https://doi.org/https://doi.org/10.3182/20110828-6-IT-1002.02500)
 <!-- **Code:** No entry in BibTeX-->
 
 _No images available._

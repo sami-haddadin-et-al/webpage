@@ -1,6 +1,6 @@
 +++
-title = "Soft-Tissue Injury in Robotics"
-date = "2010-01-01"
+title = "Soft-tissue injury in robotics"
+date = "2010-05-01"
 categories = ["publication", "inproceedings"]
 tags = ["publication", "inproceedings"]
 author = ["Sami Haddadin", "Alin Albu-Schäffer", "Gerd Hirzinger"]
@@ -9,11 +9,11 @@ draft = false
 gen_lock = false
 +++
 
-# Soft-Tissue Injury in Robotics
+# Soft-tissue injury in robotics
 
 **Authors:** Sami Haddadin, Alin Albu-Schäffer, Gerd Hirzinger
 
-**Published in:** 2010 IEEE International Conference on Robotics and Automation
+**Published in:** IEEE International Conference on Robotics and Automation, ICRA 2010, Anchorage, Alaska, USA, 3-7 May 2010
 
 **DOI:** [10.1109/ROBOT.2010.5509854](https://doi.org/10.1109/ROBOT.2010.5509854)
 <!-- **Code:** No entry in BibTeX-->
@@ -35,15 +35,20 @@ _No additional files._
 ## BibTeX
 If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
-@INPROCEEDINGS{HaddadinAH10b,
-  author={Haddadin, Sami and Albu-Schäffer, Alin and Hirzinger, Gerd},
-  booktitle={2010 IEEE International Conference on Robotics and Automation}, 
-  title={Soft-tissue injury in robotics}, 
-  year={2010},
-  volume={},
-  number={},
-  pages={3426-3433},
-  keywords={Injuries;Robots;Humans;Robotics and automation;Wounds;Road safety;Biological tissues;Materials testing;Domestic safety;USA Councils},
-  doi={10.1109/ROBOT.2010.5509854}
+@inproceedings{DBLP:conf/icra/HaddadinAH10b,
+  author       = {Sami Haddadin and
+                  Alin Albu{-}Sch{\"{a}}ffer and
+                  Gerd Hirzinger},
+  title        = {Soft-tissue injury in robotics},
+  booktitle    = {{IEEE} International Conference on Robotics and Automation, {ICRA}
+                  2010, Anchorage, Alaska, USA, 3-7 May 2010},
+  pages        = {3426--3433},
+  publisher    = {{IEEE}},
+  year         = {2010},
+  url          = {https://doi.org/10.1109/ROBOT.2010.5509854},
+  doi          = {10.1109/ROBOT.2010.5509854},
+  timestamp    = {Sat, 30 Sep 2023 01:00:00 +0200},
+  biburl       = {https://dblp.org/rec/conf/icra/HaddadinAH10.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
 }
 ```

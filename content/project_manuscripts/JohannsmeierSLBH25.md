@@ -1,6 +1,6 @@
 +++
 title = "A process-centric manipulation taxonomy for the organization, classification and synthesis of tactile robot skills"
-date = "2010-05-01"
+date = "2025-06-01"
 categories = ["publication", "article"]
 tags = ["publication", "article"]
 author = ["Lars Johannsmeier", "Samuel Schneider", "Yanan Li", "Etienne Burdet", "Sami Haddadin"]
@@ -11,7 +11,7 @@ gen_lock = false
 
 # A process-centric manipulation taxonomy for the organization, classification and synthesis of tactile robot skills
 
-**Authors:** Lars Johannsmeier, Samuel Schneider, Yanan Li, Etienne Burdet, and Sami Haddadin
+**Authors:** Lars Johannsmeier, Samuel Schneider, Yanan Li, Etienne Burdet, Sami Haddadin
 
 **Published in:** Nature Machine Intelligence, vol. 7 (2025)
 
@@ -36,13 +36,13 @@ _No additional files._
 If you want to cite this work, you can use the following BibTeX file:
 ```bibtex
 @article{DBLP:journals/nmi/JohannsmeierSLBH25,
-author = {Johannsmeier, Lars and Schneider, Samuel and Li, Yanan and Burdet, Etienne and Haddadin, Sami},
-year = {2025},
-month = {06},
-pages = {916-927},
-title = {A process-centric manipulation taxonomy for the organization, classification and synthesis of tactile robot skills},
-volume = {7},
-journal = {Nature Machine Intelligence},
-doi = {10.1038/s42256-025-01045-3}
+  author = {Johannsmeier, Lars and Schneider, Samuel and Li, Yanan and Burdet, Etienne and Haddadin, Sami},
+  year = {2025},
+  month = {06},
+  pages = {916-927},
+  title = {A process-centric manipulation taxonomy for the organization, classification and synthesis of tactile robot skills},
+  volume = {7},
+  journal = {Nature Machine Intelligence},
+  doi = {10.1038/s42256-025-01045-3}
 }
 ```

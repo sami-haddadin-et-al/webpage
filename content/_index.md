@@ -1,24 +1,9 @@
 ## Principal Investigator
 
-{{ with site.GetPage "team/SamiHaddadin" }}
-<div class="pi-home">
-  {{ with .Params.image }}
-    <img src="{{ . }}" alt="{{ $.Title }}" class="pi-avatar">
-  {{ end }}
-
-  <div class="pi-text">
-    <strong><a href="{{ .RelPermalink }}">{{ .Title }}</a></strong><br/>
-
-    {{ with .Params.role_first_line }}
-      <span class="pi-role">{{ . }}</span><br/>
-    {{ end }}
-
-    {{ with .Params.role_second_line }}
-      <span class="pi-role-second">{{ . }}</span>
-    {{ end }}
-  </div>
-</div>
-{{ end }}
+<p style="text-align:center; margin: 1.5rem 0;">
+  <img src="/images/team/SamiHaddadin.jpg"
+       style="width:160px; height:160px; border-radius:50%; object-fit:cover;" />
+</p>
 
 ## Intelligent Machines: New Frontiers for our Society
 

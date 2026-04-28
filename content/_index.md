@@ -1,5 +1,3 @@
-## Principal Investigator
-
 <p style="text-align:center; margin: 1.5rem 0;">
   <img src="/images/team/SamiHaddadin.jpg"
        style="width:160px; height:160px; border-radius:50%; object-fit:cover;" />
